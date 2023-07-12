@@ -1,0 +1,49 @@
+﻿MaterialSetter={
+	Samples={
+		Sample={
+			Name="Sample from 935, 2916"
+			Materials={
+				Material={
+					MaterialId="permafrost_01"
+					Value=255
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 3543, 1712"
+			Materials={
+				Material={
+					MaterialId="cliff_granite_01"
+					Value=255
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 3947, 2133"
+			Materials={
+				Material={
+					MaterialId="grasslands_07"
+					Value=255
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 3519, 2054"
+			Materials={
+				Material={
+					MaterialId="devastation_mud_01"
+					Value=255
+				}
+
+			}
+		}
+
+	}
+}
+

@@ -1,0 +1,178 @@
+﻿#JavaScript for generating states from list of sea provinces.
+#const test = () => {
+#    let string = "";
+#
+#    let tiles = ["x012136" ,"x03290C" ,"x05093E" ,"x050B18" ,"x051A24" ,"x060E21" ,"x06123B" ,"x074D01" ,"x080B3C" ,"x083505" ,"x084D0A" ,"x091809" ,"x0A1205" ,"x0A3F09" ,"x0D2132" ,"x0F2F1D" ,"x10011E" ,"x101D05" ,"x113813" ,"x130416" ,"x133003" ,"x133411" ,"x19080A" ,"x1A0D0B" ,"x1A4405" ,"x1C3E07" ,"x1D0734" ,"x1D092E" ,"x1E0C07" ,"x1E3406" ,"x1F2E07" ,"x211403" ,"x21220C" ,"x220F09" ,"x232906" ,"x28052C" ,"x2A0D0D" ,"x32021B" ,"x331517" ,"x480612" ,"x4A0C00"]
+#    
+#    for (let i = 0; i < tiles.length; i++) {
+#  string += "STATE_" + i + "_SEA = {\nid = "+ (3000+i+1)+"\nprovinces = { " + tiles[i] +" }\n}\n" ;
+#}
+#    return string
+#}
+
+
+
+STATE_1_SEA = {
+    id = 3001
+    provinces = { x012136 }
+}
+STATE_2_SEA = {
+    id = 3002
+    provinces = { x03290C }
+}
+STATE_3_SEA = {
+    id = 3003
+    provinces = { x05093E }
+}
+STATE_4_SEA = {
+    id = 3004
+    provinces = { x050B18 }
+}
+STATE_5_SEA = {
+    id = 3005
+    provinces = { x051A24 }
+}
+STATE_6_SEA = {
+    id = 3006
+    provinces = { x060E21 }
+}
+STATE_7_SEA = {
+    id = 3007
+    provinces = { x06123B }
+}
+STATE_8_SEA = {
+    id = 3008
+    provinces = { x074D01 }
+}
+STATE_9_SEA = {
+    id = 3009
+    provinces = { x080B3C }
+}
+STATE_10_SEA = {
+    id = 3010
+    provinces = { x083505 }
+}
+STATE_11_SEA = {
+    id = 3011
+    provinces = { x084D0A }
+}
+STATE_12_SEA = {
+    id = 3012
+    provinces = { x091809 }
+}
+STATE_13_SEA = {
+    id = 3013
+    provinces = { x0A1205 }
+}
+STATE_14_SEA = {
+    id = 3014
+    provinces = { x0A3F09 }
+}
+STATE_15_SEA = {
+    id = 3015
+    provinces = { x0D2132 }
+}
+STATE_16_SEA = {
+    id = 3016
+    provinces = { x0F2F1D }
+}
+STATE_17_SEA = {
+    id = 3017
+    provinces = { x10011E }
+}
+STATE_18_SEA = {
+    id = 3018
+    provinces = { x101D05 }
+}
+STATE_19_SEA = {
+    id = 3019
+    provinces = { x113813 }
+}
+STATE_20_SEA = {
+    id = 3020
+    provinces = { x130416 }
+}
+STATE_21_SEA = {
+    id = 3021
+    provinces = { x133003 }
+}
+STATE_22_SEA = {
+    id = 3022
+    provinces = { x133411 }
+}
+STATE_23_SEA = {
+    id = 3023
+    provinces = { x19080A }
+}
+STATE_24_SEA = {
+    id = 3024
+    provinces = { x1A0D0B }
+}
+STATE_25_SEA = {
+    id = 3025
+    provinces = { x1A4405 }
+}
+STATE_26_SEA = {
+    id = 3026
+    provinces = { x1C3E07 }
+}
+STATE_27_SEA = {
+    id = 3027
+    provinces = { x1D0734 }
+}
+STATE_28_SEA = {
+    id = 3028
+    provinces = { x1D092E }
+}
+STATE_29_SEA = {
+    id = 3029
+    provinces = { x1E0C07 }
+}
+STATE_30_SEA = {
+    id = 3030
+    provinces = { x1E3406 }
+}
+STATE_31_SEA = {
+    id = 3031
+    provinces = { x1F2E07 }
+}
+STATE_32_SEA = {
+    id = 3032
+    provinces = { x211403 }
+}
+STATE_33_SEA = {
+    id = 3033
+    provinces = { x21220C }
+}
+STATE_34_SEA = {
+    id = 3034
+    provinces = { x220F09 }
+}
+STATE_35_SEA = {
+    id = 3035
+    provinces = { x232906 }
+}
+STATE_36_SEA = {
+    id = 3036
+    provinces = { x28052C }
+}
+STATE_37_SEA = {
+    id = 3037
+    provinces = { x2A0D0D }
+}
+STATE_38_SEA = {
+    id = 3038
+    provinces = { x32021B }
+}
+STATE_39_SEA = {
+    id = 3039
+    provinces = { x331517 }
+}
+STATE_40_SEA = {
+    id = 3040
+    provinces = { x480612 }
+}
+STATE_41_SEA = {
+    id = 3041
+    provinces = { x4A0C00 }
+}

@@ -1,0 +1,9 @@
+﻿###### EXAMPLE ######
+
+region_example_strategic_region = { #This name will be used in-game until localisation is provided.
+	capital_province = xD08471  #Hex code of a capital province within the strategic region.
+	map_color = rgb{ 255 255 255 } #Colour of the strategic region shows when in strategic region lens.
+	states = { STATE_EXAMPLE } #All the states you want within the region.
+}
+
+#####################

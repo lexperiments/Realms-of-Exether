@@ -1,0 +1,34 @@
+
+mom1.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+20000000 <start>:
+@
+@		mom1.asm
+@
+
+start:  LDR	R0,=0x55555555
+20000000:	4803      	ldr	r0, [pc, #12]	; (20000010 <main+0x6>)
+	LDR	R1,=0x40020C00 @ konfig port D
+20000002:	4904      	ldr	r1, [pc, #16]	; (20000014 <main+0xa>)
+	STR	R0,[R1]
+20000004:	6008      	str	r0, [r1, #0]
+
+	LDR	R1,=0x40020C14 @ utport GPIO D
+20000006:	4904      	ldr	r1, [pc, #16]	; (20000018 <main+0xe>)
+	LDR	R2,=0x40021010 @ inport GPIO E
+20000008:	4a04      	ldr	r2, [pc, #16]	; (2000001c <main+0x12>)
+
+2000000a <main>:
+
+main:	LDR	R0,[R2]
+2000000a:	6810      	ldr	r0, [r2, #0]
+	STR	R0,[R1]
+2000000c:	6008      	str	r0, [r1, #0]
+2000000e:	e7fc      	b.n	2000000a <main>
+20000010:	55555555 	.word	0x55555555
+20000014:	40020c00 	.word	0x40020c00
+20000018:	40020c14 	.word	0x40020c14
+2000001c:	40021010 	.word	0x40021010

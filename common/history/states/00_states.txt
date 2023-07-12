@@ -1,0 +1,30 @@
+﻿###### EXAMPLE ######
+
+#STATES = {
+#	s:STATE_EXAMPLE = {
+#		create_state = { #To create a split state add another one of these entries with different IDs
+#			country = c:EXA #The tag for the country which controls these provinces within this state.
+#			owned_provinces = { "x000000" "x562129" "xAF3D4E" } #The provinces within this state.
+#		}
+#		create_state = { #This is now a split state with TES controlling these provinces.
+#			country = c:TES 
+#			owned_provinces = { "x548751" "x9A5DA8" "x42B0F5" } #Different provinces..
+#		}
+#		
+#		add_homeland = examplish #Sets the state to be a homeland for whatever culture you put here.
+#		add_homeland = testish #You can set multiple.
+#	}
+#}
+
+#####################
+
+
+STATES = {
+	s:STATE_CROWNPEAK = {
+		create_state = { 
+			country = c:DUM
+			owned_provinces = { "xA9E39B"  } #The provinces within this state.
+		}
+		add_homeland = dumonian #Sets the state to be a homeland for whatever culture you put here.
+	}
+}

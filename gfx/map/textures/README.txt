@@ -1,0 +1,1 @@
+In order for the paperview to load properly and not just be blank white you also need to have all sea provinces defined as sea_starts in map_data\default.map.

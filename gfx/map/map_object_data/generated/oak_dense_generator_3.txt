@@ -1,0 +1,45 @@
+﻿object={
+	name="oak_dense_generator_3_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="oak_tree_01_mesh"
+	count=0
+}
+object={
+	name="oak_dense_generator_3_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="oak_tree_02_mesh"
+	count=0
+}
+object={
+	name="oak_dense_generator_3_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="oak_tree_03_mesh"
+	count=0
+}
+object={
+	name="oak_dense_generator_3_3"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="oak_tree_04_mesh"
+	count=0
+}
+object={
+	name="oak_dense_generator_3_4"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="semidynamic_high"
+	pdxmesh="oak_tree_dense_01_mesh"
+	count=0
+}

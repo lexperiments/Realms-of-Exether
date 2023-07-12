@@ -1,0 +1,38 @@
+{
+  "name": "Realms of Exether",
+  "id": "",
+  "version": "1.0",
+  "supported_game_version": "1.*.*",
+  "short_description": "A near blank slate for modders seeking to create a Total Conversion mod.",
+  "tags": [],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true,
+    "replace_paths": [
+      "common/character_templates",
+      "common/coat_of_arms/coat_of_arms",
+      "common/country_creation",
+      "common/country_definitions",
+      "common/country_formation",
+      "common/cultures",
+      "common/customizable_localization",
+      "common/decisions",
+      "common/journal_entries",
+      "common/history",
+      "common/history/buildings",
+      "common/history/characters",
+      "common/history/countries",
+      "common/history/diplomacy",
+      "common/history/diplomatic_plays",
+      "common/history/interests",
+      "common/history/pops",
+      "common/history/population",
+      "common/history/states",
+      "common/history/trade_routes",
+      "common/strategic_regions",
+      "events",
+      "events/american_civil_war",
+      "map_data/state_regions"
+    ]
+  }
+}

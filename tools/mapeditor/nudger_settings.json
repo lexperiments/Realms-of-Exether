@@ -1,0 +1,4236 @@
+﻿{
+	"metadata":	[{
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_farmland_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_farmland_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_farmland_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_farmland_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_farmland_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_4"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_forestry_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_forestry_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_forestry_objects_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_forestry_objects_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_mining_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_mining_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_mining_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_mining_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_mining_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"african_dynamic_mining_objects_generator_1_5"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_farmland_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_farmland_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_farmland_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_farmland_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"arabic_dynamic_farmland_objects_generator_1_3"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_forestry_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_forestry_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_forestry_objects_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"arabic_dynamic_forestry_objects_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_mining_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_mining_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_mining_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_mining_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_mining_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"arabic_dynamic_mining_objects_generator_1_5"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_farmland_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"asian_dynamic_farmland_objects_generator_1_4"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_forestry_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_forestry_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_forestry_objects_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"asian_dynamic_forestry_objects_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_mining_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_mining_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_mining_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_mining_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_mining_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"asian_dynamic_mining_objects_generator_1_5"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"baobab_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bottom_extension"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_01_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_01_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_01_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_01_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_02_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_02_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_02_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_02_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_dry_02_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_dry_02_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_dry_02_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"bush_dry_02_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_02"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_03"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_04"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_05"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_06"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_07"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_08"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_09"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_10"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_11"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_12"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_13"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_14"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_15"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"canyon_16"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_dense_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_dense_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_dense_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_dense_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_dense_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_dense_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_dense_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_dense_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_dense_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_dense_generator_1_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_dense_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_dense_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_dense_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_dense_generator_2_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_dense_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_dense_generator_3_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_dense_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_dense_generator_3_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_sparse_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_sparse_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_sparse_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_sparse_generator_1_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_sparse_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_sparse_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_sparse_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_sparse_generator_2_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_sparse_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_sparse_generator_3_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"cypress_mediterranean_sparse_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"cypress_mediterranean_sparse_generator_3_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"edgeofworld_papermap"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_farmland_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_farmland_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_farmland_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_farmland_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_farmland_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"european_dynamic_farmland_objects_generator_1_4"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_forestry_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_forestry_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_forestry_objects_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"european_dynamic_forestry_objects_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_mining_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_mining_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_mining_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_mining_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_mining_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"european_dynamic_mining_objects_generator_1_5"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_farmland_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_farmland_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_farmland_objects_generator_1_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_farmland_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_farmland_objects_generator_1_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_forestry_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_forestry_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_forestry_objects_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_forestry_objects_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_mining_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_mining_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_mining_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_mining_objects_generator_1_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"french_dynamic_mining_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"french_dynamic_mining_objects_generator_1_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"iceberg_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"iceberg_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"iceberg_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_farmland_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_farmland_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_farmland_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_farmland_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_forestry_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_forestry_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_forestry_objects_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"latin_dynamic_forestry_objects_generator_2_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_mining_objects_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_mining_objects_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_mining_objects_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_mining_objects_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_mining_objects_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"latin_dynamic_mining_objects_generator_1_5"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_2_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_dense_generator_3_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_2_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"oak_generator_3_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"palm_dense_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"paper_map_cigarbox_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"paper_map_object_compass"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"paper_map_object_divider"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"paper_map_table_bottom"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"paper_map_table_top"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"papermap_endofworld"
+			},
+			"entry_state":	{
+				"locked":	true,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}, {
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_2_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_dense_generator_3_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_2_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"pine_sparse_generator_3_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_2_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_generator_3_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_1_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_2_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_2_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_2_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_2_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_2_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_3_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_3_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_3_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_3_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rainforest_sparse_generator_3_4"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_armed_forces_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_armed_forces_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_armed_forces_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_armed_forces_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_armed_forces_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_armed_forces_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_devout_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_devout_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_devout_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_devout_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_devout_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_devout_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_industrialists_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_industrialists_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_industrialists_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_industrialists_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_industrialists_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_industrialists_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_intelligentsia_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_intelligentsia_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_intelligentsia_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_intelligentsia_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_intelligentsia_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_intelligentsia_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_landowners_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_landowners_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_landowners_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_landowners_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_landowners_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_landowners_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_petty_bourgeoisie_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_petty_bourgeoisie_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_petty_bourgeoisie_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_petty_bourgeoisie_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_petty_bourgeoisie_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_petty_bourgeoisie_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_rural_folk_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_rural_folk_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_rural_folk_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_rural_folk_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_rural_folk_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_rural_folk_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_trade_unions_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_trade_unions_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_trade_unions_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_trade_unions_1"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"revolution_mapobject_generator_trade_unions_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"revolution_mapobject_generator_trade_unions_2"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_granite_03"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_granite_04"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_granite_05"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_granite_06"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_sandstone_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_sandstone_03"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rockformation_sandstone_06"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"rubber_lodge_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"rubber_lodge_01"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"savanna_tree_generator_1_0"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"savanna_tree_generator_1_1"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"savanna_tree_generator_1_2"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"savanna_tree_generator_1_3"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"mesh",
+				"key":	"top_extension"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"mesh",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"african_lighthouse_01"
+			},
+			"entry_state":	{
+				"locked":	true,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"arabic_lighthouse_01"
+			},
+			"entry_state":	{
+				"locked":	true,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"asian_lighthouse_01"
+			},
+			"entry_state":	{
+				"locked":	true,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"bird_duck_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"bird_eagle_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"bird_vulture_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_geyser_large_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_geyser_medium_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_geyser_small_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_godrays"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_jungle_mist_l"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_jungle_mist_s"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_rolling_clouds"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_rolling_fog_mountain"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_rough_water"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_sandstorm_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_sandstorm_small"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_snow_01_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_snow_02_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_snow_fall"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_snow_fall_small"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_swamp_fog"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_tropical_rain"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_tropical_rain_dense"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_volcano_idle_obj"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_waterfall_bottom"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"env_waterfall_top"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"european_lighthouse_01"
+			},
+			"entry_state":	{
+				"locked":	true,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"latin_lighthouse_01"
+			},
+			"entry_state":	{
+				"locked":	true,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"african_dynamic_farmland_objects_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"rock_granite_river_01_entity"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"seagull_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sfx_rain_emitter"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sfx_sandstorm_emitter"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"sfx_snowstorm_emitter"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"smoke_chimney_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"whale_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"entity",
+				"key":	"whale_white_01"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"entity",
+					"key":	"baobab_generator_1_0"
+				}
+			},
+			"instances":	[]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"city"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"city"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"farm"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"farm"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"mine"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"mine"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"port"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"port"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}, {
+			"object_ref":	{
+				"type":	"locator",
+				"key":	"wood"
+			},
+			"entry_state":	{
+				"locked":	false,
+				"base_type":	{
+					"type":	"locator",
+					"key":	"wood"
+				}
+			},
+			"instances":	[{
+					"locked":	false
+				}]
+		}]
+}

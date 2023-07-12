@@ -1,0 +1,6 @@
+﻿###### EXAMPLE ######
+
+#sorvanophone = { #This creates a trait using this name until localisation is provided.
+#}
+
+#####################

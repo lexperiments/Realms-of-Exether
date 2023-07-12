@@ -1,0 +1,7 @@
+﻿###### EXAMPLE ######
+
+human_heritage = {
+	heritage = yes
+}
+
+#####################

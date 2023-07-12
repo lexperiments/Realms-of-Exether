@@ -1,0 +1,21 @@
+﻿# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+###### EXAMPLE ######
+
+#examplian = {
+#	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+#	traits = {
+#		christian
+#	}
+#	color = { 0.8 0.6 0.4 }
+#}
+
+#####################
+
+church_of_man = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = {
+		human
+	}
+	color = { 0.8 0.6 0.4 }
+}
