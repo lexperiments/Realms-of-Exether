@@ -1,0 +1,15 @@
+﻿sg_start_game = {
+	category = sgcat_exether
+	is_repeatable = no
+	
+	trigger = {
+	}
+	
+	on_start = {
+		add_journal_entry = {
+			type = je_exether_start
+			objective_subgoal = sg_start_game
+		}
+	}
+}
+

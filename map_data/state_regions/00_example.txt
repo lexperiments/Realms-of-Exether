@@ -1,5 +1,0 @@
-﻿
-STATE_CROWNPEAK = {
-    id = 1
-    provinces = { "x41C5FD" "x91B3B1" "xABE279" "xD8EA93" "xD9B0B2" "xF4B6B2" "xFADD57" "xFAE3EE" "xFDB84F" }
-}

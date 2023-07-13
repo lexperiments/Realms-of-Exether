@@ -1,1 +1,73 @@
-﻿
+﻿objective_birth_of_artifice = {
+	background = "gfx/interface/icons/objectives/birth_of_artifice_illu.dds"
+	icon = "gfx/interface/icons/objectives/economic_dominance.dds"
+	
+	recommended_tags = { DUM }	
+
+	objective_subgoals = {
+		sg_start_game
+	}
+	
+	final_subgoal = sg_start_game
+	
+	on_start = {
+		start_tutorial_lesson = { tutorial_lesson = exether_lesson }
+	}
+
+}
+
+objective_race_for_locari = {
+	background = "gfx/interface/icons/objectives/race_for_locari_illu.dds"
+	icon = "gfx/interface/icons/objectives/hegemon.dds"
+	
+	recommended_tags = { DUM }	
+
+	objective_subgoals = {
+		sg_start_game
+	}
+	
+	final_subgoal = sg_start_game
+	
+	on_start = {
+		start_tutorial_lesson = { tutorial_lesson = exether_lesson }
+	}
+	
+}
+
+objective_ravik_undead = {
+	background = "gfx/interface/icons/objectives/undead_illu.dds"
+	icon = "gfx/interface/icons/objectives/egalitarian_society.dds"
+	
+	recommended_tags = { DUM }	
+
+	objective_subgoals = {
+		sg_start_game
+	}
+	
+	final_subgoal = sg_start_game
+	
+	on_start = {
+		start_tutorial_lesson = { tutorial_lesson = exether_lesson }
+	}
+
+}
+
+objective_ravik_undea2d = {
+	background = "gfx/interface/icons/objectives/undead_illu.dds"
+	icon = "gfx/interface/icons/objectives/egalitarian_society.dds"
+	
+	recommended_tags = { DUM }	
+
+	objective_subgoals = {
+		sg_start_game
+	}
+	
+	final_subgoal = sg_start_game
+	
+	on_start = {
+		start_tutorial_lesson = { tutorial_lesson = exether_lesson }
+	}
+
+}
+	
+	

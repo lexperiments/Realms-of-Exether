@@ -1,0 +1,14 @@
+﻿hegemon_complete = { 
+	start_automatically = no
+	chain = lesson_chain_journal_guides
+	
+	hegemon_complete = {
+		text = "exether_complete_desc"
+
+		gui_transition = {
+			button_id = "next"
+			button_text = "tutorial_lesson_button_complete"
+			target = lesson_finish
+		}
+	}
+}

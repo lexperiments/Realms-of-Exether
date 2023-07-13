@@ -23,7 +23,7 @@ STATES = {
 	s:STATE_CROWNPEAK = {
 		create_state = { 
 			country = c:DUM
-			owned_provinces = { "xA9E39B"  } #The provinces within this state.
+			owned_provinces = {  "x41C5FD" "x91B3B1" "xABE279" "xD8EA93" "xD9B0B2" "xF4B6B2" "xFADD57" "xFAE3EE" "xFDB84F"  } #The provinces within this state.
 		}
 		add_homeland = dumonian #Sets the state to be a homeland for whatever culture you put here.
 	}

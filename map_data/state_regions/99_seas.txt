@@ -1,5 +1,5 @@
 ﻿#JavaScript for generating states from list of sea provinces.
-#const test = () => {
+#const generate = () => {
 #    let string = "";
 #
 #    let tiles = ["x012136" ,"x03290C" ,"x05093E" ,"x050B18" ,"x051A24" ,"x060E21" ,"x06123B" ,"x074D01" ,"x080B3C" ,"x083505" ,"x084D0A" ,"x091809" ,"x0A1205" ,"x0A3F09" ,"x0D2132" ,"x0F2F1D" ,"x10011E" ,"x101D05" ,"x113813" ,"x130416" ,"x133003" ,"x133411" ,"x19080A" ,"x1A0D0B" ,"x1A4405" ,"x1C3E07" ,"x1D0734" ,"x1D092E" ,"x1E0C07" ,"x1E3406" ,"x1F2E07" ,"x211403" ,"x21220C" ,"x220F09" ,"x232906" ,"x28052C" ,"x2A0D0D" ,"x32021B" ,"x331517" ,"x480612" ,"x4A0C00"]

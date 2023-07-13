@@ -1,0 +1,4 @@
+﻿sgcat_exether = {
+	is_exclusive = no
+	is_repeatable = no
+}
