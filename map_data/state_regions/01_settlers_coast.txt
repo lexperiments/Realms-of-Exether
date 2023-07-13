@@ -11,103 +11,133 @@
 #    return string
 #}
 
-STATE_AUVILLE = {
+STATE_SHARINDLARS_NEEDLE = {
     id = 136
-    provinces = {}
+    provinces = { "x57DEF9" "x65B3F5" "x67BBED" "x85D898" "x98A8DB" "x9990CE" "xA0FECA" "xB6CDCC" "xCD41FE" "xD48AEB" "xD5A78B" "xD6C967" "xD78D96" "xDB80A3" "xDEB4C5" "xDFF34D" "xE3E093" "xF4D1DE" "xF6B684" "xF7AB9E" }
 }
-STATE_MONTVALLEE = {
+#
+
+STATE_CHANTSIRENE = {
     id = 137
-    provinces = {}
+    provinces = { "x3FE3F3" "x5CFDD0" "x90E0AB" "x9DEBA6" "xA8DBDE" "xADD8DB" "xAFD584" "xB5FBEE" "xB878E8" "xB8FAF0" "xC8BB85" "xCF9EC1" "xCFF82E" "xE38DA2" "xE791B2" "xEBD1FE" "xF5D4B8" "xFB68F7" }
 }
-STATE_ROCHEGRIS = {
+#
+
+STATE_MERACIEL_AUBELAC = {
     id = 138
-    provinces = {}
+    provinces = { "x5CC5F8" "x77EFF7" "x8AD7AB" "x9D8CD7" "xB8E0CF" "xBABEC4" "xBEC9D2" "xBFD6A2" "xC664E6" "xC9F0DD" "xDF4AF6" "xDFDBC3" "xE047D9" "xE1A9D4" "xE5BE90" "xEECDF9" "xF385AE" "xFB9E73" }
 }
-STATE_VERDECLAT = {
+#
+
+STATE_ABAISSE_DE_MARBRUN = {
     id = 139
-    provinces = {}
+    provinces = { "x67EAF7" "x709AF7" "x93AEB7" "x9BFAE7" "xA1ABD6" "xA2D6BF" "xA6BBD8" "xB0D4E8" "xB5A5CB" "xB978FD" "xBAB2A3" "xD1ACA4" "xD25EF9" "xDCFE6B" "xDFAAAD" "xE6F533" "xEACDEA" "xEBAAE2" "xECF4D1" "xEDBBAF" "xEF6ABA" "xF4CCFE" "xF69DC1" "xF7FA4A" "xFBD46B" "xFCA686" }
 }
-STATE_BELLEBRUME = {
+# lit. Sänkta Mar(marchés, marknader)-brun
+
+STATE_VALSANG = {
     id = 140
-    provinces = {}
+    provinces = { "x80AFEC" "x8990F6" "x8DD0E3" "xABB29C" "xABE0C8" "xB96CE8" "xC3E16D" "xC4A7DF" "xC983F4" "xD2B678" "xD2B772" "xD48AC1" "xD89BD3" "xDDA478" "xE0FE1B" "xE3D5A1" "xE5EC8E" "xEDB26D" "xEF68EB" "xF054E8" "xF89E71" "xFB3AF6" "xFE75E5" }
 }
-STATE_VALROUGE = {
+# lit. Val(valeur, värde)-blod
+
+STATE_AZURSOL = {
     id = 141
-    provinces = {}
+    provinces = { "x49F6C1" "x77BBE3" "x7AC6BF" "x7CFD81" "x94DEF9" "x9AAAFB" "x9AF6C4" "xA0E98C" "xA2B8E3" "xA5D1E2" "xACD1D6" "xB2E571" "xC482E0" "xCBD85E" "xCCF633" "xD968E5" "xE23CFE" "xE260DB" "xE3FB7C" "xE6DCC0" "xE891F0" "xE92BFE" "xEDBCAC" "xEDC5BE" "xEDDFFD" "xF3E786" "xF89081" "xF9B2B8" "xFAE075" }
 }
-STATE_CLAIRRIVIERE = {
+# lit. blå-mark
+
+STATE_SETTLERA = {
     id = 142
     provinces = {}
 }
-STATE_MARSOLEIL = {
+
+STATE_SETTLERB = {
     id = 143
     provinces = {}
 }
-STATE_CHATEAUMOR = {
+
+STATE_SETTLERC = {
     id = 144
     provinces = {}
 }
-STATE_LYSAUBE = {
+
+STATE_SETTLERD = {
     id = 145
     provinces = {}
 }
-STATE_AUBELAC = {
+
+STATE_SETTLERE = {
     id = 146
     provinces = {}
 }
-STATE_CASTELMISTRAL = {
+
+STATE_SETTLERF = {
     id = 147
     provinces = {}
 }
-STATE_ORNECLUSE = {
+
+STATE_SETTLERG = {
     id = 148
     provinces = {}
 }
-STATE_CELESTRADE = {
+
+STATE_SETTLERH = {
     id = 149
     provinces = {}
 }
-STATE_MIREBOIS = {
+
+STATE_SETTLERI = {
     id = 150
     provinces = {}
 }
-STATE_CHARMILLES = {
+
+STATE_SETTLERJ = {
     id = 151
     provinces = {}
 }
-STATE_AZURSOL = {
+
+STATE_SETTLERK = {
     id = 152
     provinces = {}
 }
-STATE_BELLECOMBE = {
+
+STATE_SETTLERL = {
     id = 153
     provinces = {}
 }
-STATE_FEUILLANGE = {
+
+STATE_SETTLERM = {
     id = 154
     provinces = {}
 }
-STATE_GRISEMONT = {
+
+STATE_SETTLERN = {
     id = 155
     provinces = {}
 }
-STATE_VALSANG = {
+
+STATE_SETTLERO = {
     id = 156
     provinces = {}
 }
-STATE_MONTCLAIR = {
+
+STATE_SETTLERP = {
     id = 157
     provinces = {}
 }
-STATE_ROCHEFLEUR = {
+
+STATE_SETTLERQ = {
     id = 158
     provinces = {}
 }
-STATE_VERDRACINE = {
+
+STATE_SETTLERR = {
     id = 159
     provinces = {}
 }
-STATE_MARBRUN = {
+
+STATE_SETTLERS = {
     id = 160
     provinces = {}
 }
