@@ -1,0 +1,113 @@
+﻿#const generate = () => {
+#    let string = "";
+#
+#    let tiles = ["Nordfjall", "Hraunlund", "Isengardr", "Hrafnsdalr", "Víkingrheimr", "Jotunheimr", "Bjarnstadir", "Yggdrasillr", "Helsvellir", "Mjolnirborg", "Skjaldborg", "Huginnsvale", "Midgardr", "Haldorheimr", "Valkyrjadalr", "Hrafnheimr", "Hlidskjalf", "Valaskjalf", "Fjallheimr", "Ginnungagap", "Niflheimr", "Muspellheimr", "Óðinnstungl", "Ragnaroekr", "Fimbulvetr", "Gullinbursti", "Brisingamen", "Hlidskjalf", "Vígaheimr", "Þórrheimr", "Baldrheimr", "Sólheimr", "Fenrisulfr", "Friggasveit", "Hervík", "Einherjarholt", "Njordvík", "Ragnarstadir", "Eirikshof", "Sigurdshaugr", "Thorshavn", "Ynglingstad", "Valhalstead", "Hodrsborg", "Lofnstad", "Freyrsfjordr", "Idunsholm", "Skadihavn", "Sifsker", "Njordvik", "Ullrsheimr"]
+#
+#    tiles = tiles.map(tile => tile.replaceAll(' ', '_').toUpperCase())
+#    
+#    for (let i = 0; i < tiles.length; i++) {
+#  string += "STATE_"+ tiles[i] + "= {\nid = "+ (i+85)+"\nprovinces = { }\n}\n" ;
+#}
+#    return string
+#}
+
+STATE_AUVILLE = {
+    id = 136
+    provinces = {}
+}
+STATE_MONTVALLEE = {
+    id = 137
+    provinces = {}
+}
+STATE_ROCHEGRIS = {
+    id = 138
+    provinces = {}
+}
+STATE_VERDECLAT = {
+    id = 139
+    provinces = {}
+}
+STATE_BELLEBRUME = {
+    id = 140
+    provinces = {}
+}
+STATE_VALROUGE = {
+    id = 141
+    provinces = {}
+}
+STATE_CLAIRRIVIERE = {
+    id = 142
+    provinces = {}
+}
+STATE_MARSOLEIL = {
+    id = 143
+    provinces = {}
+}
+STATE_CHATEAUMOR = {
+    id = 144
+    provinces = {}
+}
+STATE_LYSAUBE = {
+    id = 145
+    provinces = {}
+}
+STATE_AUBELAC = {
+    id = 146
+    provinces = {}
+}
+STATE_CASTELMISTRAL = {
+    id = 147
+    provinces = {}
+}
+STATE_ORNECLUSE = {
+    id = 148
+    provinces = {}
+}
+STATE_CELESTRADE = {
+    id = 149
+    provinces = {}
+}
+STATE_MIREBOIS = {
+    id = 150
+    provinces = {}
+}
+STATE_CHARMILLES = {
+    id = 151
+    provinces = {}
+}
+STATE_AZURSOL = {
+    id = 152
+    provinces = {}
+}
+STATE_BELLECOMBE = {
+    id = 153
+    provinces = {}
+}
+STATE_FEUILLANGE = {
+    id = 154
+    provinces = {}
+}
+STATE_GRISEMONT = {
+    id = 155
+    provinces = {}
+}
+STATE_VALSANG = {
+    id = 156
+    provinces = {}
+}
+STATE_MONTCLAIR = {
+    id = 157
+    provinces = {}
+}
+STATE_ROCHEFLEUR = {
+    id = 158
+    provinces = {}
+}
+STATE_VERDRACINE = {
+    id = 159
+    provinces = {}
+}
+STATE_MARBRUN = {
+    id = 160
+    provinces = {}
+}

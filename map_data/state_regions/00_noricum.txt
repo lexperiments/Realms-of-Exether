@@ -635,7 +635,7 @@ STATE_SIFSKER = {
 }
 STATE_GRYTINGARIK = {
     id = 134
-    provinces = {}
+    provinces = { "x8695EB" "x87BBE9" "xA6C7DA" "xC4B5CE" "xD8D75D" "xE884A5" }
 }
 STATE_ULLRSHEIMR = {
     id = 135
