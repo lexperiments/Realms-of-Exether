@@ -1,4 +1,18 @@
-﻿STATE_CROWNPEAK = {
+﻿#const generate = () => {
+#    let string = "";
+#
+#    let tiles = ["Nordfjall", "Hraunlund", "Isengardr", "Hrafnsdalr", "Víkingrheimr", "Jotunheimr", "Bjarnstadir", "Yggdrasillr", "Helsvellir", "Mjolnirborg", "Skjaldborg", "Huginnsvale", "Midgardr", "Haldorheimr", "Valkyrjadalr", "Hrafnheimr", "Hlidskjalf", "Valaskjalf", "Fjallheimr", "Ginnungagap", "Niflheimr", "Muspellheimr", "Óðinnstungl", "Ragnaroekr", "Fimbulvetr", "Gullinbursti", "Brisingamen", "Hlidskjalf", "Vígaheimr", "Þórrheimr", "Baldrheimr", "Sólheimr", "Fenrisulfr", "Friggasveit", "Hervík", "Einherjarholt", "Njordvík", "Ragnarstadir", "Eirikshof", "Sigurdshaugr", "Thorshavn", "Ynglingstad", "Valhalstead", "Hodrsborg", "Lofnstad", "Freyrsfjordr", "Idunsholm", "Skadihavn", "Sifsker", "Njordvik", "Ullrsheimr"]
+#
+#    tiles = tiles.map(tile => tile.replaceAll(' ', '_').toUpperCase())
+#    
+#    for (let i = 0; i < tiles.length; i++) {
+#  string += "STATE_"+ tiles[i] + "= {\nid = "+ (i+85)+"\nprovinces = { }\n}\n" ;
+#}
+#    return string
+#}
+
+
+STATE_CROWNPEAK = {
     id = 1
     provinces = { "x41C5FD" "x91B3B1" "xABE279" "xD8EA93" "xD9B0B2" "xDAE643" "xEEDD37" "xF4B6B2" "xFADD57" "xFAE3EE" "xFDB84F" }
 }
@@ -65,7 +79,7 @@ STATE_WEST_YANGER_STEPPE = {
 
 STATE_EAST_YANGER_STEPPE = {
     id = 13
-    provinces = { "x11ECFD" "x41D4FA" "x5CF4AD" "x6BF2E1" "x6CD7D5" "x7AEEA1" "x84D8FD" "x89CCF8" "x8CFB75" "x8FCFC1" "x95A3D6" "x9BD7F7" "xA1E5C6" "xA4CB9F" "xA5AFED" "xAE7EEB" "xB1DABB" "xB8F1AE" "xBCFEC0" "xBEEEE7" "xBFC19E" "xC4AFF5" "xC58CBF" "xCEA08C" "xCED58E" "xD0C4A5" "xD0F25F" "xD3C9C4" "xD8CC9F" "xDB4BE5" "xDCD167" "xDDA8DF" "xE2DBCE" "xE5C07A" "xECDD34" "xED87AA" "xF355AD" "xF718F2" "xF73FE9" "xF77F96" "xF876D9" "xF9A195" "xF9BFE0" "xF9D9EE" "xFAFEEB" "xFBB9D1" "xFBF2B5" "xFD85DF" "xFDBC44" "xFDC073" "xFEA183" "xFEDDB6" }
+    provinces = { "x11ECFD" "x41D4FA" "x5CF4AD" "x6BF2E1" "x6CD7D5" "x74E4D8" "x7AEEA1" "x84D8FD" "x89CCF8" "x8CFB75" "x8FCFC1" "x95A3D6" "x9BD7F7" "xA1E5C6" "xA4CB9F" "xA5AFED" "xAE7EEB" "xB1DABB" "xB7EA5A" "xB8F1AE" "xBCFEC0" "xBEEEE7" "xBFC19E" "xC4AFF5" "xC58CBF" "xCADDF9" "xCEA08C" "xCED58E" "xD0C4A5" "xD0D0BC" "xD0F25F" "xD3C9C4" "xD8CC9F" "xDB4BE5" "xDCC1CA" "xDCD167" "xDDA8DF" "xE2DBCE" "xE5C07A" "xECDD34" "xED87AA" "xF355AD" "xF718F2" "xF73FE9" "xF77F96" "xF876D9" "xF9A195" "xF9BFE0" "xF9D9EE" "xFAFEEB" "xFBB9D1" "xFBF2B5" "xFD85DF" "xFDBC44" "xFDC073" "xFEA183" "xFEDDB6" }
 }
 
 STATE_RIDERS_MOOT = {
@@ -175,7 +189,7 @@ STATE_ARDSHIEL = {
 
 STATE_DRUMAGAR = {
     id = 35
-    provinces = { "x7CACDD" "x8497FD" "x8EE089" "x96CDB7" "xCAC1C2" "xD063D7" "xE2A4AF" "xEB909E" "xEFB25C" }
+    provinces = { "x7CACDD" "x8497FD" "x89F6F8" "x8EE089" "x96CDB7" "xCAC1C2" "xD063D7" "xE2A4AF" "xE2D77E" "xE5C3D0" "xEB909E" "xEFB25C" }
 }
 
 STATE_LOCHTYRE = {
@@ -295,7 +309,7 @@ STATE_COLESSIE = {
 
 STATE_TOLFAR = {
     id = 59
-    provinces = { "x919AD6" "xB8F5BF" "xC1BEDC" "xC3DDF6" "xC9C4FC" "xDB66BE" "xDB7FA9" "xDBD0EB" "xDC93C9" "xE0D990" "xECA975" }
+    provinces = { "x69FCA8" "x919AD6" "xB8F5BF" "xC1BEDC" "xC3DDF6" "xC9C4FC" "xD7C98E" "xDB66BE" "xDB7FA9" "xDBD0EB" "xDC93C9" "xE0D990" "xECA975" }
 }
 
 STATE_KENLYNE = {
@@ -340,12 +354,12 @@ STATE_YSTRAD = {
 
 STATE_GLYNFFORDD = {
     id = 68
-    provinces = { "x74BDF1" "x76EB97" "x7DFBAF" "x84D2F9" "x96EDD2" "xADADDB" "xAE72DB" "xBB7EC5" "xD8A2C9" "xDE9DA9" "xF9DDAC" "xF9E8BA" }
+    provinces = { "x6DEDAD" "x74BDF1" "x76EB97" "x7DFBAF" "x84D2F9" "x96EDD2" "xADADDB" "xAE72DB" "xBB7EC5" "xD8A2C9" "xDE9DA9" "xF9DDAC" "xF9E8BA" }
 }
 
 STATE_PANTMARK = {
     id = 69
-    provinces = { "x81BBCF" "x99E7BD" "xACF66B" "xDDE46F" "xF2DFD1" }
+    provinces = { "x4CB4F9" "x81BBCF" "x99E7BD" "xACF66B" "xDDE46F" "xF2DFD1" }
 }
 
 STATE_ALLTGLAS = {
@@ -358,3 +372,272 @@ STATE_HAFODFAN = {
     provinces = { "x7E86F4" "xCEC69F" "xD0C994" "xD262ED" }
 }
 
+STATE_GWYNWEN = {
+    id = 72
+    provinces = { "x73C7C2" "x80EC8F" "x8CBBE0" "xC87BEF" "xD1ACEB" "xD45EEA" "xEB1BF0" "xEB9F7A" "xF197CD" "xFAFCBB" "xFDE17F" }
+}
+
+STATE_CASTELL_DRYSGOLMARK = {
+    id = 73
+    provinces = { "xA7EAD4" "xB7C490" "xBDCCFD" "xC1E9F1" "xD4B3E7" "xEAFB93" "xEFF09C" "xF8B14E" "xFBB480" }
+}
+
+STATE_CARREGRICE = {
+    id = 74
+    provinces = { "x6ED6F4" "x7AE8BC" "x98D8CB" "x9FE986" "xC94FFE" "xD8DAB9" "xF076B9" "xF9D527" "xFBFA52" }
+}
+
+STATE_TALNANT = {
+    id = 75
+    provinces = { "x5BEDFC" "x7DF396" "xBADB7D" "xC37AD4" "xCEE45A" "xD069DA" "xF05EC4" "xF1B264" "xF86BB8" "xFB79B6" }
+}
+
+STATE_BLACKDON = {
+    id = 76
+    provinces = { "x7CF5D3" "xA072EC" "xA1EE8B" "xB78EB2" "xB7BBAE" "xC0D5F5" "xD292EF" "xD3CBE4" "xDBD3A6" "xF6E630" "xF8DFB3" "xFDFB14" }
+}
+
+STATE_KIRDON = {
+    id = 77
+    provinces = { "x3CBFFD" "x7DE8D9" "x80DAF2" "x92F7B5" "xA7AEB7" "xBFE0F1" "xCBB5F7" "xD378BF" "xD7C1C8" "xD99D8E" "xDFACE9" "xE1F9FE" "xE2BBC6" "xE8937A" "xF188C7" "xF6EE4C" }
+}
+
+STATE_HARTHALGH = {
+    id = 78
+    provinces = { "x60F0F4" "xB99DCD" "xD2D2D2" "xDCF684" "xDEF5BB" "xE09C91" "xE13FEE" "xEC66E5" "xF5C486" "xFC8CB2" }
+}
+
+STATE_INCHMARA = {
+    id = 79
+    provinces = { "x8AFC81" "xA1EE7F" "xA284F5" "xA872DC" "xC2AE90" "xCBEB90" "xCCF5AE" "xD8D49C" "xDAE36D" "xF0BF92" }
+}
+
+STATE_GLASINBLAIR = {
+    id = 80
+    provinces = { "x98DFA5" "xAAC5FB" "xAF7EF5" "xAFDDAE" "xC19FBF" "xC1BB83" "xC24CF3" "xCCF45C" "xDADCE3" "xFDA0AF" }
+}
+
+STATE_FALMAKELD = {
+    id = 81
+    provinces = { "x78D1D5" "xD2F671" "xE3EC4B" "xEBD2A7" }
+}
+
+STATE_MALDARBLANE = {
+    id = 82
+    provinces = { "x2DF1DC" "x80D5F0" "x8DC8AD" "xA68BD1" "xA7B8B0" "xA8C0CC" "xAAC8AA" "xB87FC2" "xC3B3C4" "xDEEBD6" "xE18BAE" "xF47BA2" }
+}
+
+STATE_TYMANS_FOLLY = {
+    id = 83
+    provinces = { "x46EAC7" "x65B2EC" "x7FF6EC" "xAA9BF5" "xBAF5CA" "xCBF4BA" "xCCF048" "xD1A7CF" "xDD2CFB" "xDFF9CD" "xE0E357" "xE540FA" "xECBBAC" }
+}
+
+STATE_HJELTIAS_GLACIER = {
+    id = 84
+    provinces = { "x5FB0F5" "x87B4FA" "x87E5DC" "x91F57B" "xA0BBCE" "xAE81F7" "xBEDBC1" "xC5A9AC" "xD2AD96" "xE998C3" "xEBBE92" "xEFEFE7" "xF447D2" }
+}
+
+STATE_NORDFJALL = {
+    id = 85
+    provinces = { "x41F9DD" "x4CE9F6" "x53EDEC" "x5ED9F2" "x69E7DE" "x72D4E3" "x75E1F3" "x9087EE" "x90E884" "x9A91EE" "xA0A2CF" "xA4CABF" "xA5C9B7" "xA8E3BE" "xB273DE" "xB2C7D5" "xBBB3D2" "xC0B0DD" "xC68CF2" "xD27AD2" "xD39ACE" "xE1A77F" "xE5ADEC" "xE5E7F8" "xE995CC" "xEAFD36" "xEEDDB4" "xF3E95B" "xF4CEC3" "xF4F8F1" "xF55CDC" "xF6F5B0" }
+}
+STATE_HRAUNLUND = {
+    id = 86
+    provinces = { "x69D1D1" "x70CDE2" "x83DBF4" "x9B9EDD" "xABC1BF" "xB0C7CC" "xB5FBC5" "xCDC9C7" "xD557D2" "xD8DDA0" "xD9EE5F" "xEF7DFD" "xF278CE" "xFE9690" }
+}
+STATE_ISVAGG = {
+    id = 87
+    provinces = { "x3EDED9" "x96F482" "xB4BFEA" "xB5C88B" "xB6B3E5" "xC5FE4D" "xD6B0EA" "xD7C9CC" "xDC5BE4" "xDEC559" }
+}
+STATE_HRAFNSDALR = {
+    id = 88
+    provinces = { "x93C8AC" "xAE9DD8" "xB7F1F6" "xBDD0C6" "xC6E2CC" "xCFED64" "xF5D89D" }
+}
+STATE_KALDHEIMR = {
+    id = 89
+    provinces = { "x6FBDF0" "xC8D899" "xCBEFE2" "xE0AFF6" "xE7A6F5" "xEBF8D5" "xF25ECE" }
+}
+STATE_GRAKOPING = {
+    id = 90
+    provinces = { "x35F7EF" "x55F5C7" "x8F8BE3" "xB5AEBE" "xBA4FF9" "xC4E9BD" "xD48BA9" }
+}
+STATE_BJARNSTADIR = {
+    id = 91
+    provinces = { "x44EFFA" "x9DF9BC" "x9EDBA2" "xC2CFEC" "xCF50FD" "xE4D05D" "xEBC8DF" }
+}
+STATE_YGGHAMN = {
+    id = 92
+    provinces = { "x85BEB4" "x9FD089" "xA0F2B2" "xBD7CC6" "xC6BCFD" "xE5A1FC" "xE8C588" "xFCED6E" }
+}
+STATE_HELSVELLIR = {
+    id = 93
+    provinces = { "x83B5F2" "xBCDEC1" "xE0949D" "xEDA59E" "xF2E0C3" "xF88AA0" "xF99C7B" "xFBC8BE" }
+}
+STATE_MJOLNBORG = {
+    id = 94
+    provinces = { "x78ECC6" "xBCF86B" "xCBC58D" "xD65FD3" "xE9EF4E" "xF0FC62" "xF5AEE2" }
+}
+STATE_SKJALDBORG = {
+    id = 95
+    provinces = { "x59EBEF" "x65D5EB" "x8FC0B7" "xEECF97" "xF338F9" }
+}
+STATE_HUGINNSVALE = {
+    id = 96
+    provinces = { "x96DE91" "xA6CAC2" "xBA7BC6" "xBBDF65" "xBDF14E" "xC6B4E9" "xF0AE6B" "xF2D1F1" }
+}
+STATE_MIDGARDR = {
+    id = 97
+    provinces = { "x38F4CE" "x39F3FA" "x6AF4B1" "xCBF1E5" "xE273EA" "xF265EF" "xF639D8" }
+}
+STATE_HALDORHEIMR = {
+    id = 98
+    provinces = { "x2BFEE5" "x7FE8D8" "x88F2A0" "x99EDF7" "x9FE5DD" "xAFE7BF" "xCDF172" "xDCEECF" "xE9B4EE" "xFAF023" }
+}
+STATE_VALKYRJADALR = {
+    id = 99
+    provinces = { "x6FCDFB" "xA8C6E5" "xBEDAB3" "xBFEE91" "xC0F5EF" "xD173EC" "xD8E43B" "xDCDAA2" "xE29687" "xE7BFC6" "xEAC5E5" }
+}
+STATE_HRAFNHEIMR = {
+    id = 100
+    provinces = { "x6CEBAA" "x9B81E8" "x9DFEFC" "xA09DED" "xB1C4A8" "xB8CAD4" "xBD9DF0" "xD39BD0" "xF0FB5E" "xFC68D5" }
+}
+STATE_HLIDSKJALF = {
+    id = 101
+    provinces = { "x68C3E7" "xA3EEC4" "xD075B7" "xD835FA" "xDFA695" "xF0EA26" "xF0F491" }
+}
+STATE_VALASKJALF = {
+    id = 102
+    provinces = { "x85CBB9" "x93D6A4" "xCD62F3" "xD6B2E2" "xDBEA88" "xDCA6E0" "xE9F3EC" "xF1F2CA" "xF83FF2" }
+}
+STATE_FJALLHEIMR = {
+    id = 103
+    provinces = { "x9BDBF1" "xBBA79A" "xCA92BB" "xCAFCF7" "xDCC86B" "xFD28FB" }
+}
+STATE_GINNUNGAGAP = {
+    id = 104
+    provinces = { "x92D9D9" "x96F094" "xDAED51" "xDCBF62" "xDE86BC" "xF0F6EC" "xFC29D9" }
+}
+STATE_FRIGGNAS = {
+    id = 105
+    provinces = { "x57DCC9" "xA196F9" "xB0A6A5" "xB0C1B4" "xCBA9BE" "xD078B2" "xE9FC2F" "xFCB375" }
+}
+STATE_ANGERTORP = {
+    id = 106
+    provinces = { "x85D1A0" "xD1DB4C" "xD2EBBF" "xF07BCD" "xF9C486" "xFCA0C2" }
+}
+STATE_ORMSTUNGL = {
+    id = 107
+    provinces = { "x61F4C4" "xB5AEDE" "xBF74E3" "xE582E2" "xF0D4DF" "xFDFABE" }
+}
+STATE_RAGNARKULL = {
+    id = 108
+    provinces = { "xBEADE2" "xC2BEE3" "xDBA4F6" "xE2ECF3" "xEBAA9F" "xF0CA81" "xFED353" }
+}
+STATE_FIMBULVETR = {
+    id = 109
+    provinces = { "x3CCCEF" "x4FD3EA" "x51E7CD" "x54D2E4" "x61EEE4" "x66FBC7" "x7CB8E2" "xA4A6CD" "xE4CC78" "xFDEB48" }
+}
+STATE_GULLINBURSTI = {
+    id = 110
+    provinces = { "x57EFE7" "x7AFCE2" "x95B1F9" "x9CE2ED" "xBDA0E7" "xBEC682" "xC896D9" "xE7F427" "xF0C06E" }
+}
+STATE_BRISINGAMEN = {
+    id = 111
+    provinces = { "x91E6C6" "x98BBFB" "xA3A0E1" "xADE8C7" "xCCF88E" "xF57692" }
+}
+STATE_HLIDSKJALF = {
+    id = 112
+    provinces = {}
+}
+STATE_VIGAKULL = {
+    id = 113
+    provinces = { "x9AC7BA" "xABD495" "xAEA8C0" "xD1D9EC" "xD6D4C1" }
+}
+STATE_FORRTORP = {
+    id = 114
+    provinces = { "x43DAF0" "x85FCB3" "x8BF7D7" "xA5C09B" "xA65DF8" "xAABC8F" }
+}
+STATE_BALDRHEIMR = {
+    id = 115
+    provinces = { "x51CDE0" "x90E79F" "x9EC6AA" "xB0ECF0" "xD0D9A8" "xDDC972" "xE16FED" }
+}
+STATE_SOLVIK = {
+    id = 116
+    provinces = { "xB083D5" "xCB84C6" "xD497CA" "xD8E894" "xF472FC" "xF78AD8" "xF7F38A" "xFAFA7F" "xFB69DC" }
+}
+STATE_FENRISULFR = {
+    id = 117
+    provinces = { "x969BF8" "xBFFEAA" "xC3AF88" "xD2D164" "xD6B885" "xD787B4" "xDCDE7B" "xE0F5A5" "xE79C8A" }
+}
+STATE_FRIGGASVEIT = {
+    id = 118
+    provinces = { "x71A1EF" "x94BED9" "xA6F267" "xDDF2E6" "xE08DC6" "xF86DB9" "xFC8F97" }
+}
+STATE_HERVIK = {
+    id = 119
+    provinces = { "x7BEFD7" "xB0F950" "xE652D5" "xE8D870" "xECFCB2" "xF51AFB" }
+}
+STATE_EINHERJARHOLT = {
+    id = 120
+    provinces = { "x62AEE9" "x92C5B0" "xBAF0D6" "xC6FC7D" "xCCBCC8" "xDCAE8A" "xF35FFA" "xFCC6CC" }
+}
+STATE_NJORDVIK = {
+    id = 121
+    provinces = { "x5BD0CB" "xAEF6B3" "xB9F2FE" "xD568D9" "xE16DD3" "xE3EFC7" "xFBE8B0" }
+}
+STATE_RAGNARSTADIR = {
+    id = 122
+    provinces = { "x97CFBF" "xBFADA9" "xD0C7A7" "xDC73B6" "xDC75F1" "xE1D87F" "xEDEDA0" "xF2FB13" }
+}
+STATE_EIRIKSHOF = {
+    id = 123
+    provinces = { "xBCE3FA" "xD2D794" "xDCCA72" "xE0FA5B" "xEB71EF" "xECA88B" "xF0E2E8" "xF72BD3" }
+}
+STATE_SIGURDSHAUGR = {
+    id = 124
+    provinces = { "x6CD5EE" "x77FAA8" "x84B8C9" "xDE2FEF" "xEDFA7B" "xFBF095" }
+}
+STATE_FRIGSHAVN = {
+    id = 125
+    provinces = { "x72F8F7" "x79FEB4" "x9EFA5F" "xB0AEA5" "xC4D0E3" "xC7F491" "xE4C1A4" "xECCC83" "xF9DF27" "xFBACC8" }
+}
+STATE_YNGLINGSTAD = {
+    id = 126
+    provinces = { "x63B4F7" "x9CF6BA" "x9EEBB2" "xB2F063" "xBA8AEF" "xC2F155" "xCFDFBE" "xDEEC59" "xEF5EB5" "xF4C7D5" "xF8E977" }
+}
+STATE_HALSTEAD = {
+    id = 127
+    provinces = { "xAEBD92" "xB4F56F" "xD7BC76" "xD93FFD" "xDE93D2" "xFC9992" }
+}
+STATE_HODRSBORG = {
+    id = 128
+    provinces = { "x8CB1ED" "xDBD593" "xDC76EA" "xE879C0" "xE9A0BC" }
+}
+STATE_LOFNSTAD = {
+    id = 129
+    provinces = { "x8FEE81" "xAC87E1" "xB8F36B" "xD9DBAA" "xDFC969" }
+}
+STATE_FREYRSFJORDR = {
+    id = 130
+    provinces = { "x75C3D8" "x97F8B1" "xE7BDD2" "xF247D3" "xF9D0A7" "xFEE942" }
+}
+STATE_IDUNSHOLM = {
+    id = 131
+    provinces = { "x92F4FA" "xA9B8C4" "xE2A080" "xEBA2E8" "xEBFE0C" }
+}
+STATE_SKADIHAVN = {
+    id = 132
+    provinces = { "x79F3ED" "x7AD7B3" "xA7D2FE" "xDBB193" "xF8FBCC" }
+}
+STATE_SIFSKER = {
+    id = 133
+    provinces = { "x89D8B6" "x8F9CF1" "xBC99B8" "xDFF38A" "xE3C873" "xFE5EE1" }
+}
+STATE_GRYTINGARIK = {
+    id = 134
+    provinces = {}
+}
+STATE_ULLRSHEIMR = {
+    id = 135
+    provinces = { "xAF8ED0" "xEB2CF6" "xEEB079" "xF540C0" }
+}
