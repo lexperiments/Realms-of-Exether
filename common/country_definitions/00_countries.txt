@@ -24,3 +24,14 @@ DUM = {
 	cultures = { dumonian } #What are their primary culture/s - you can set multiple.
 	capital = STATE_CROWNPEAK #Which state holds this nation's default capital
 }
+
+AUM = {
+	color = rgb{ 200  100  0 } 
+
+	country_type = recognized 
+
+	tier = empire 
+
+	cultures = { dumonian } 
+	capital = STATE_TEMPLE_HILL 
+}
