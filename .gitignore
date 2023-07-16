@@ -4,3 +4,4 @@ gfx/map/terrain/detail_index.tga
 gfx/map/terrain/detail_intensity.tga
 tools/mapeditor/map_editor_status.txt
 tools/mapeditor/mix_brush.txt
+*.psd
