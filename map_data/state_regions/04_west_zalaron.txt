@@ -354,3 +354,339 @@ STATE_THAGHIZHI = {
     id = 529
     provinces = { "x1BF2F0" "x4BBCF1" "x8CC6BA" "x8E8BDD" "xB083F9" "xBEF3AA" "xCEC1DA" "xD38FBE" "xDA64E1" "xDAEF92" "xF192FA" "xF691C9" "xFA8BC7" }
 }
+STATE_KLINGELMEER = {
+    id = 738
+    provinces = { "x31FBD2" "x7ED1EF" "xA7FE68" "xACFE9E" "xBFE3A0" "xD176CD" "xEEEEC0" "xEFBDC8" "xF48978" "xFEC293" "xFED295" }
+}
+STATE_TINKELHOVEN = {
+    id = 739
+    provinces = { "x90AAD7" "xB1FD51" "xBC9BEC" "xC096C2" "xD297CF" "xD9F2C3" "xE6AAE9" "xEEE43C" }
+}
+STATE_RATELBERG = {
+    id = 740
+    provinces = { "x60E3B7" "x7DF2C2" "xA9C3D4" "xBCA794" "xCD9EBC" "xD6E148" "xDCF6AF" "xFADB38" "xFBC041" }
+}
+STATE_PIEPERDORP = {
+    id = 741
+    provinces = { "x4EBCFD" "x67BCD9" "xDAE745" "xE271EE" "xE8FAC6" "xE9B29A" "xEE7F8A" "xFD84D3" }
+}
+STATE_RIJMVALLEI = {
+    id = 742
+    provinces = { "x4DC7FD" "x66DFDF" "x6BE2FC" "x7DCDAB" "xADB2FD" "xB0A8B6" "xBEE566" "xCBFE96" "xCCC5A8" "xD0CD70" "xD3E75A" "xD9AADC" "xDACF8B" "xDED8C8" "xEED589" "xF5CDCC" }
+}
+STATE_FLUITBOS = {
+    id = 743
+    provinces = { "x76F6E0" "xA7A9BC" "xB3FE86" "xDDD8F2" "xDECD4E" "xE0E964" "xE2D9C7" "xF164AA" "xF6AEE6" }
+}
+STATE_SMIDSHOEK = {
+    id = 744
+    provinces = { "x77E3B9" "xBBB6E4" "xBF98B4" "xD88EC4" "xDCA8A9" "xDF42EE" "xE1DED6" "xE7E56E" "xF2CB73" }
+}
+STATE_TIKKERHAVEN = {
+    id = 745
+    provinces = { "x7AF5F0" "x9AF2EF" "x9DF16E" "xAAFE51" "xB6AFAF" "xBBB4AE" "xD6B4EB" "xEEF9F4" }
+}
+STATE_MOLENWOUD = {
+    id = 746
+    provinces = { "x8BDACB" "xA6A7BE" "xAECFBC" "xC2E550" "xCAC174" "xCC5FF6" "xD1CCFB" "xDBDA7D" "xEF7FFD" }
+}
+STATE_BELLENBERG = {
+    id = 747
+    provinces = { "x4EB1FC" "x5AF9B8" "x8E9FCE" "x94B4B5" "xAADEBC" "xB1DBF7" "xB490C3" "xDF63DF" "xDF8AE6" "xE36CB4" "xEED3B1" "xF7A8D3" "xF9F70D" }
+}
+STATE_KLINGELBERG = {
+    id = 748
+    provinces = { "x5BDAF7" "x6CF1D7" "x79DBA5" "x94BCB7" "xA07AE8" "xA4D4A2" "xC7C2D1" "xDD8BD9" "xDEAC83" "xE5CFBB" "xE7F3F5" "xEA59FB" "xEFC0C1" }
+}
+STATE_VONKPLEIN = {
+    id = 749
+    provinces = { "xD192CB" "xD376D4" "xE5EF9D" "xECB45D" "xEDE2E8" "xEE6D9E" }
+}
+STATE_GNURKENRADE = {
+    id = 750
+    provinces = { "x80FBAD" "x96CECC" "x9FBCF2" "x9FE9EA" "xC87DB5" "xCAF9F9" "xD0F087" "xD3EDD2" "xD4F975" "xDEEF4B" "xE6EC31" "xECD1DC" "xF4B3D1" "xFE9FDB" }
+}
+STATE_KLOMPWIJK = {
+    id = 751
+    provinces = { "x82C4D2" "x93EDBC" "xB5B1DD" "xDF57FA" "xE38295" "xEEA7C8" "xF1D759" "xF8ECDA" }
+}
+STATE_TROMMELKUST = {
+    id = 752
+    provinces = { "x80C1CD" "xA2A4E1" "xB078FA" "xC5F2DD" "xC96BF7" "xCA85CE" "xD68BE8" "xD7E997" "xDC71D0" "xE3A3A6" "xE7D1B7" "xECF82C" "xF43EC8" "xFA82B0" }
+}
+STATE_SMEERGOED = {
+    id = 753
+    provinces = { "x5DCDDE" "x5FE7C0" "xDD43FE" "xE3BF6B" "xEC62B7" "xEC9D9D" "xF7B462" "xFBBEDC" }
+}
+STATE_KWETTERDIJK = {
+    id = 754
+    provinces = { "x71F2F4" "xB3E5BD" "xC1C477" "xC7EFCA" "xD255E0" "xD8BAD5" "xF06ABB" }
+}
+STATE_FLUITERHEIDE = {
+    id = 755
+    provinces = { "x56D1F8" "x99C6B8" "xC3C6DC" "xC6F77D" "xC875C0" "xC9C1D8" "xD684B9" "xEB54BF" "xFEE2A6" }
+}
+STATE_TIMMERSTEEN = {
+    id = 756
+    provinces = { "x30EBDF" "xA7C2D8" "xBFB7EE" "xC4FD6C" "xCBAB80" "xD1ADC6" "xD757D3" "xDCF881" "xDF61BF" "xE1B5BC" "xF73BF5" }
+}
+STATE_VUURHOEK = {
+    id = 757
+    provinces = { "x4CBFEE" "xB5EE9D" "xBDF0B0" "xC3B9F5" "xD73EFB" "xE5F9C3" "xF0D9D4" "xF3BAF2" }
+}
+STATE_DRAAIVELD = {
+    id = 758
+    provinces = { "x3BE3FD" "x4EF4FB" "xA0BEA3" "xB5EBEE" "xB9DBCA" "xC1EA5D" "xCB95B4" "xD3D561" "xD8B8D2" "xDAC5C1" "xDE8DEC" "xE3CBC6" "xECE53E" "xF1A0E5" "xF4E066" "xF5EC6D" "xF88E91" }
+}
+STATE_GLIMMERDAM = {
+    id = 759
+    provinces = { "x36EADC" "x87E593" "xACEDD0" "xAFFCBC" "xC4F8C6" "xDAE3B0" "xE4E3EE" "xE9FE3B" "xEAB568" "xEEBEE0" "xFD17F6" }
+}
+STATE_KRULWILGEN = {
+    id = 760
+    provinces = { "x4CD2DC" "x5EDFFE" "xA7F4C2" "xCAC58F" "xD5A97B" "xE4B6A6" "xEC47FB" "xF379B7" }
+}
+STATE_KLINGELWEIDE = {
+    id = 761
+    provinces = { "xA6CEC1" "xCE8DEA" "xD259EB" "xE8AEDE" "xE979A0" "xF679FB" "xF92CD1" }
+}
+STATE_SMIDSGROEN = {
+    id = 762
+    provinces = { "x4DD8DE" "x6CE6F5" "x9190E9" "x91E587" "xAFB1BB" "xAFB6C3" "xB973D2" "xBEFEFB" "xF8B665" }
+}
+STATE_SNAARGRACHT = {
+    id = 763
+    provinces = { "x4CC7ED" "x5ABFF2" "x60DCFB" "x72E6B0" "x7FB0F7" "x86DAB1" "x8DD2CD" "x92DBC4" "xB79FEF" "xD5E3F1" "xDD63B9" "xF9F640" }
+}
+STATE_BELLENBOS = {
+    id = 764
+    provinces = { "x14FBE8" "x67F0E2" "x6FDBE8" "x90EF8E" "xB483C4" "xBA7FCD" "xBAACF8" "xC65AFA" "xC6DF60" "xD034F2" "xD2D1A3" "xDCEAA1" "xEDB38C" }
+}
+STATE_RATELHOUT = {
+    id = 765
+    provinces = { "x50EFFD" "x6DAEF3" "xA6DFDD" "xB2BDCE" "xBFDFC3" "xC9B0DE" "xC9F4CE" "xCBC19F" "xD0F4A8" "xD19AFE" "xE88DED" }
+}
+STATE_RATELKUST = {
+    id = 766
+    provinces = { "x4BDDE7" "x87FDD1" "x8DDBD0" "xA9C4DE" "xB8FA5B" "xBC9EA3" "xBEA6B2" "xC2EE7F" "xC4DECF" "xCBC49D" "xD9ED9A" "xDEE673" "xE1BEDA" "xE53CDB" "xF0CC5B" "xF6DD95" }
+}
+STATE_VONKENDAM = {
+    id = 767
+    provinces = { "x61E3E8" "xB18EE2" "xC1C7B6" "xC39BEE" "xC6AEC8" "xCC89CB" "xE6D0D0" "xFBEEB6" "xFD2DCC" }
+}
+STATE_GNURKENSTAD = {
+    id = 768
+    provinces = { "x90D394" "x95F3CB" "xA86FF3" "xB190BD" "xE230E4" "xE9F387" "xEE63B5" "xF4DEE0" }
+}
+STATE_PIEPERHAVEN = {
+    id = 769
+    provinces = { "x6AE8B0" "x98B7C1" "xA2FE95" "xB8F260" "xC9EAD0" "xD571B0" "xD6E044" "xDDA1CE" "xEAB3B0" "xF477D0" "xF8CD3F" }
+}
+STATE_SPRANKELMEER = {
+    id = 770
+    provinces = { "x8EAEFE" "xB2D1C6" "xC1DBC7" "xD2E85F" "xDC59FE" "xE6E829" "xF6BF67" "xFD5DE2" }
+}
+STATE_VUURVALLEI = {
+    id = 771
+    provinces = { "x34FAEE" "x36F6D9" "x7EDAEB" "x989FD0" "xB0F856" "xB2DD7E" "xC9F862" "xE422F2" "xEA7A9D" }
+}
+STATE_FLUITVELD = {
+    id = 772
+    provinces = { "x8FE4DC" "x9B9BD9" "xA2FBE3" "xB8F57E" "xD4F848" "xE3FD50" "xF1EF85" "xF717EF" "xF84EFA" "xF9FAD1" "xFB46D9" "xFCD957" }
+}
+STATE_TIMMERHAVEN = {
+    id = 773
+    provinces = { "x3AF9F7" "x52D7D4" "x7FBFB8" "x8AE2A1" "xD3DCFB" "xE0FEB4" "xEE38E0" "xF0F8CB" "xFC55B6" "xFCCE87" }
+}
+STATE_KRULHOVEN = {
+    id = 774
+    provinces = { "x55AAFC" "x81F5CA" "xB2A4FC" "xC0EF46" "xCDE594" "xCEFD58" "xD6FAEF" "xD738F6" "xDC69C2" "xF8B0DE" "xFC23E2" }
+}
+STATE_KLOMPPLEIN = {
+    id = 775
+    provinces = { "x2CF9E7" "x5BDDDC" "x69AAFD" "x82FBDD" "x96FCED" "xA8FCBD" "xB4D385" "xC36CEF" "xC5A3F0" "xC682D3" "xE29F9E" "xF244E3" "xF939CC" "xFDCD32" "xFEE77E" }
+}
+STATE_SNAARBERG = {
+    id = 776
+    provinces = { "x3CE0FE" "x7ED6D3" "x85E5FE" "x91B8AC" "x91B8E2" "xA8B1F6" "xBE8AF4" "xC34EF3" "xC8BD7A" "xF597D7" "xF9E815" "xFB4CCF" }
+}
+STATE_SPRONKERGROEN = {
+    id = 777
+    provinces = { "xC3E64E" "xC7ACCE" "xD0EA71" "xD799D9" "xDCDD49" "xDFC37E" "xE4CAE3" "xE9DCA1" "xF5BB97" }
+}
+STATE_DRAAIKUST = {
+    id = 778
+    provinces = { "x82DE9A" "x88E8A3" "x9AE8C5" "x9E62F8" "xA2B8A0" "xA2F065" "xAAE2B3" "xB6BECD" "xBB9CDE" "xBDE1FE" "xC2C178" "xC387AE" "xC3F84A" "xC8E9C9" "xCB7FAB" "xCFE2C5" "xD6AAEE" "xD960C8" "xE38DE1" "xE764CA" "xF31BEA" "xF7A7D4" "xF7B9ED" }
+}
+STATE_GLIMMERWOUD = {
+    id = 779
+    provinces = { "x9891DC" "xB363E3" "xB4FE4E" "xCC98B5" "xD2B7EA" "xD9DB5C" "xE0AF98" "xE7F6D9" "xF1D5D1" "xF66DC4" "xF940CC" "xF948ED" }
+}
+STATE_KLINGELMEER = {
+    id = 765
+    provinces = {}
+}
+STATE_TINKELHOVEN = {
+    id = 766
+    provinces = {}
+}
+STATE_RATELBERG = {
+    id = 767
+    provinces = {}
+}
+STATE_PIEPERDORP = {
+    id = 768
+    provinces = {}
+}
+STATE_RIJMVALLEI = {
+    id = 769
+    provinces = {}
+}
+STATE_FLUITBOS = {
+    id = 770
+    provinces = {}
+}
+STATE_SMIDSHOEK = {
+    id = 771
+    provinces = {}
+}
+STATE_TIKKERHAVEN = {
+    id = 772
+    provinces = {}
+}
+STATE_MOLENWOUD = {
+    id = 773
+    provinces = {}
+}
+STATE_BELLENBERG = {
+    id = 774
+    provinces = {}
+}
+STATE_KLINGELBERG = {
+    id = 775
+    provinces = {}
+}
+STATE_VONKPLEIN = {
+    id = 776
+    provinces = {}
+}
+STATE_GNURKENRADE = {
+    id = 777
+    provinces = {}
+}
+STATE_KLOMPWIJK = {
+    id = 778
+    provinces = {}
+}
+STATE_TROMMELKUST = {
+    id = 779
+    provinces = {}
+}
+STATE_SMEERGOED = {
+    id = 780
+    provinces = {}
+}
+STATE_KWETTERDIJK = {
+    id = 781
+    provinces = {}
+}
+STATE_FLUITERHEIDE = {
+    id = 782
+    provinces = {}
+}
+STATE_TIMMERSTEEN = {
+    id = 783
+    provinces = {}
+}
+STATE_VUURHOEK = {
+    id = 784
+    provinces = {}
+}
+STATE_DRAAIVELD = {
+    id = 785
+    provinces = {}
+}
+STATE_GLIMMERDAM = {
+    id = 786
+    provinces = {}
+}
+STATE_KRULWILGEN = {
+    id = 787
+    provinces = {}
+}
+STATE_KLINGELWEIDE = {
+    id = 788
+    provinces = {}
+}
+STATE_SMIDSGROEN = {
+    id = 789
+    provinces = {}
+}
+STATE_SNAARGRACHT = {
+    id = 790
+    provinces = {}
+}
+STATE_BELLENBOS = {
+    id = 791
+    provinces = {}
+}
+STATE_RATELHOUT = {
+    id = 792
+    provinces = {}
+}
+STATE_RATELKUST = {
+    id = 793
+    provinces = {}
+}
+STATE_VONKENDAM = {
+    id = 794
+    provinces = {}
+}
+STATE_GNURKENSTAD = {
+    id = 795
+    provinces = {}
+}
+STATE_PIEPERHAVEN = {
+    id = 796
+    provinces = {}
+}
+STATE_SPRANKELMEER = {
+    id = 797
+    provinces = {}
+}
+STATE_VUURVALLEI = {
+    id = 798
+    provinces = {}
+}
+STATE_FLUITVELD = {
+    id = 799
+    provinces = {}
+}
+STATE_TIMMERHAVEN = {
+    id = 800
+    provinces = {}
+}
+STATE_KRULHOVEN = {
+    id = 801
+    provinces = {}
+}
+STATE_KLOMPPLEIN = {
+    id = 802
+    provinces = {}
+}
+STATE_SNAARBERG = {
+    id = 803
+    provinces = {}
+}
+STATE_SPRONKERGROEN = {
+    id = 804
+    provinces = {}
+}
+STATE_DRAAIKUST = {
+    id = 805
+    provinces = {}
+}
+STATE_GLIMMERWOUD = {
+    id = 806
+    provinces = {}
+}
