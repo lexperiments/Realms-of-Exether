@@ -1,1 +1,192 @@
-﻿
+﻿STATE_CARTHI = {
+    id = 691
+    provinces = { "x95D2CB" "x99DCF0" "xABB0CC" "xABC1B5" "xAFB3EA" "xBBF553" "xC3F188" "xDFEEB8" "xE989BD" "xF2EAB7" "xF416F7" }
+}
+STATE_ZYRAS = {
+    id = 692
+    provinces = { "x64C8F2" "x7BC0CB" "xA0DCB9" "xBB70F3" "xC866E7" "xCAE893" "xCDBAF8" "xCE9CCA" "xD964E1" "xEB67F1" "xF9B68D" "xFA6E9C" }
+}
+STATE_HADRA = {
+    id = 693
+    provinces = { "x4AD7DB" "x74C9C7" "x7983FC" "x81EEAC" "x88FBDE" "xCC83E3" "xCD65F8" "xD59CA5" "xDCF6C7" "xE5E93C" "xE9AEA3" "xF166CA" "xF5CA42" }
+}
+STATE_BYRTHAS = {
+    id = 694
+    provinces = { "x84A7FC" "x8DD2E4" "x92F4BD" "xB0F8B4" "xCC75FB" "xCEA3A1" "xD15CE3" "xD88CAE" "xDAA3C9" "xDFEC52" "xF3A8CA" "xF469A4" "xF7F7CD" }
+}
+STATE_LEPTHAR = {
+    id = 695
+    provinces = { "x26E7EB" "x59EDD3" "x6EF1CF" "x7CBCC4" "x93CB9F" "xA7C9E4" "xB2E1EC" "xCEBB93" "xE8AA78" "xFA98E8" }
+}
+STATE_THASPYR = {
+    id = 696
+    provinces = { "x6AF1B9" "x98F082" "xA6D0A1" "xA7AFC7" }
+}
+STATE_SABRYA = {
+    id = 697
+    provinces = { "x22F8EC" "x75F3BD" "xBA97D6" "xBDA0B8" "xE7739D" "xF9EE5B" "xFDE6C6" }
+}
+STATE_LEPTISCA = {
+    id = 698
+    provinces = { "x5BCBD2" "x6DBAFE" "x8AB7C4" "xA9BE9F" "xB1A1BA" "xD9BD70" "xDCD350" "xDCE770" "xE09995" "xE783AD" "xEBDCED" "xF5B37F" }
+}
+STATE_OYRSA = {
+    id = 699
+    provinces = { "x83CAEC" "xB786E8" "xCDB5BE" "xCED3E3" "xD09CFC" "xD486A6" "xEAD5A4" "xEDDDD1" "xF9E664" "xFC51AE" }
+}
+STATE_THAPSARIS = {
+    id = 700
+    provinces = { "x61D7E3" "x6EEFC0" "x7AF2A5" "x88EFE3" "x99C0AA" "xD9F94F" "xDDB79B" "xE1AE66" "xEFEC26" "xF7C3CA" "xF7D6D3" }
+}
+STATE_HADRUMEA = {
+    id = 701
+    provinces = { "x7CEDDF" "x90B8E6" "xB0C2DF" "xD5C8E4" "xDC8AD7" "xEBAFC7" "xED3CD2" "xEFC2F4" "xF86FCE" }
+}
+STATE_CARTHALIA = {
+    id = 702
+    provinces = { "x83F2B6" "x8ADFD2" "x91ECB1" "x97BBAF" "xD9A3C2" "xDCC8ED" "xE4F72A" "xF062E2" "xFB48D8" "xFE72E1" }
+}
+STATE_SABRATHOS = {
+    id = 703
+    provinces = { "x4CE6D3" "x72B6F5" "x8ADEB4" "x8EC8C8" "x96EBD2" "xA1EBEB" "xA3E776" "xE127FC" "xE4DBFE" "xE6858B" "xEA9088" "xEAE270" "xEEF360" }
+}
+STATE_MALYBA = {
+    id = 704
+    provinces = { "x44BDF9" "x5AFABA" "x7E99F9" "xA4BDBA" "xADFEDD" "xB2CCED" "xBDF184" "xC7CAEA" "xDAA092" "xDCC7DD" "xE3F882" "xF218EB" }
+}
+STATE_ZAMARA = {
+    id = 705
+    provinces = { "x71A7E9" "x79D5B1" "x80FDB4" "xDB7AB2" "xDEBD5B" "xEDFBBF" "xF0F8A3" "xFC6BAC" }
+}
+STATE_LEPTORIA = {
+    id = 706
+    provinces = { "x36F1F0" "xABC5EF" "xB3E793" "xD6F886" "xD8D2A0" "xDBA2B9" "xE2C0EC" "xE59D9A" "xEC9CA4" "xF967CF" "xFC6EEE" }
+}
+STATE_GADYRUS = {
+    id = 707
+    provinces = { "x8AC9DC" "x9ACEC1" "xC3E6A4" "xD39D96" "xD6B385" "xDDE4B1" "xEBA1FB" "xF9926E" "xFAED1B" "xFBB5B5" }
+}
+STATE_EBYSS = {
+    id = 708
+    provinces = { "xAAC8F3" "xBA9DA3" "xCAE28A" "xCEE5E5" "xCFD18F" "xEB98CB" "xEE86BD" "xF9CE97" }
+}
+STATE_SIGARA = {
+    id = 709
+    provinces = { "x2BE7E9" "x64F3D1" "x69CAD1" "x73BAF4" "x949AF1" "xABF06B" "xB2DBEA" "xC1A4D3" "xC6A4A2" "xDFEC71" "xEACCF3" "xEBB0DA" "xEC97C9" }
+}
+STATE_MOTHYA = {
+    id = 710
+    provinces = { "x65FBBD" "xAACE90" "xBF89D3" "xDBB1FE" "xE19BB9" "xE9BFD5" "xEED85D" "xEFBC61" }
+}
+STATE_LILYBAEUM = {
+    id = 711
+    provinces = { "x8BB1C6" "xA4D3D2" "xA8C9CB" "xB3E193" "xC376FC" "xCEA1A5" }
+}
+STATE_CLYPYA = {
+    id = 712
+    provinces = { "xA6B8F8" "xC365DE" "xCD89B9" "xCFAB8B" "xD0FA73" "xDF72F9" "xF1F5F7" "xF5FC7A" }
+}
+STATE_RUSARYA = {
+    id = 713
+    provinces = { "x27F5F5" "x66EFA5" "x71DEE9" "x88EF9D" "x8EDDF8" "x9FEB86" "xB7DAAF" "xB99EB2" "xC5BEE4" "xD26BBC" "xD8ACC5" "xF29F7B" "xF77EDC" "xF8B9C9" "xFEEFDC" }
+}
+STATE_EBRUS = {
+    id = 714
+    provinces = { "x7EC0E9" "xD344EF" "xDA5DEC" "xE1F662" "xE8F4B9" "xEEC6C9" "xEFC69B" "xF79DC9" "xF7ABF7" }
+}
+STATE_ACRAS = {
+    id = 715
+    provinces = { "x3DE6F8" "x51FAE2" "x56E0D5" "xB096B6" "xCAD1B7" "xE4CCFE" }
+}
+STATE_BYSSYRA = {
+    id = 716
+    provinces = { "xA0DBAC" "xA8DD95" "xAFC3BB" "xB5A7C7" "xC7BBC0" "xC8CCE7" "xCFBAA3" "xD0B5BB" "xF0DD67" "xF5F0C4" "xF6FEBB" "xFA936B" }
+}
+STATE_CARTHAROS = {
+    id = 717
+    provinces = { "x3BDEFE" "x5DB4FB" "x63F89E" "x8ABED4" "xA391F0" "xBDC2EA" "xC1D5A2" "xC5F67E" "xC9DB90" "xD157E2" "xDEA1E6" "xECC7FD" "xF2FC97" "xFB6EB1" "xFD35E5" }
+}
+STATE_THASPIA = {
+    id = 718
+    provinces = { "x53D9F0" "x7DD7DC" "x818FE5" "x93F49C" "xB05BF8" "xB9BFCE" "xD0A5B7" "xF2C5DF" "xF4D438" }
+}
+STATE_GADIRIS = {
+    id = 719
+    provinces = { "x72D8F1" "x80F6C2" "x8F7EEB" "xABB5B3" "xB8A0AF" "xB8FC8A" "xCABEC8" "xCBEA6C" "xD164E3" "xD29DEC" "xDA51D8" "xE5D4C5" "xF7FEB6" }
+}
+STATE_LEPTARIA = {
+    id = 720
+    provinces = { "x8E8EF7" "x8FB6FE" "x95E1DF" "xA9D4BB" "xAEC4BB" "xE4E249" "xF0B29B" }
+}
+STATE_OYSSARA = {
+    id = 721
+    provinces = { "x47DDE3" "x7ADADD" "x9390F6" "x9AB8D4" "xABFDE3" "xC78CDB" "xDBDECA" "xE5DFB9" }
+}
+STATE_ZUCARA = {
+    id = 722
+    provinces = { "x46FCBC" "x7ADCD8" "xADECA9" "xCCD983" "xD4FD45" "xDD8DC7" "xDDDE50" "xF977F5" }
+}
+STATE_SABRATHUSA = {
+    id = 723
+    provinces = { "x52FBCC" "x75EBC7" "x7BFDE4" "xAD94BF" "xE2F1BE" }
+}
+STATE_CERNIA = {
+    id = 724
+    provinces = { "x5FEDDB" "xA78EC7" "xD6D5D6" "xD8B29B" "xD9C2DA" "xF064B1" "xF0C687" "xF7AFC6" }
+}
+STATE_NEOSCARPIA = {
+    id = 725
+    provinces = { "x62EAD2" "xA365ED" "xC25DF4" "xC37FB7" "xE289C5" "xEA58B4" }
+}
+STATE_KURTHARA = {
+    id = 726
+    provinces = { "x90F077" "x94CFB4" "xAFB8B9" "xD39EC8" "xD4E35E" "xDD9A81" "xDDCDB0" "xE7DC7D" "xE99195" "xECB25A" "xF7BADA" "xFB86BB" }
+}
+STATE_EBYSUS = {
+    id = 727
+    provinces = { "x29FBFB" "x55FAE5" "x66B5F1" "x7A94FD" "x7AE2F8" "x9AC5D0" "xA86FF5" "xD0E154" "xDEF5E8" "xE0CBBE" "xF8B3E7" }
+}
+STATE_KLYPYRA = {
+    id = 728
+    provinces = { "x8DDF89" "x95ACEB" "xA2D9B2" "xB9B8A1" "xBDDFA0" "xC4F349" "xCCEA5F" "xD280B3" "xE5D1DD" "xE9D1DF" "xF2DA4B" }
+}
+STATE_ZAMARIS = {
+    id = 729
+    provinces = { "x5DC3EE" "x8AC0BB" "xA1B4E7" "xBFCCFE" "xC769CF" "xC9A89F" "xE69BF8" "xF947CB" }
+}
+STATE_LEPIDRA = {
+    id = 730
+    provinces = { "x58C1F0" "x81EDC4" "xA67BD5" "xB5DCC3" "xC6E69C" "xC8F388" "xD958CE" "xDF8BDA" "xE39A8F" }
+}
+STATE_HADRIA = {
+    id = 731
+    provinces = { "x61D8BD" "x9A9ADB" "x9EF2DB" "xAFE4F8" "xB9FDEB" "xCBCCF5" "xCCA6B8" "xE742D9" "xE9F5F1" "xF9AEE6" }
+}
+STATE_ZARTHOS = {
+    id = 731
+    provinces = { "x4DDFF6" "x54C0F3" "x91D2E3" "xACE1CE" "xBEAD9C" "xBECEF1" "xDD91E0" "xE2D4FD" "xE68CCA" "xE6EABD" "xE72FF7" }
+}
+STATE_MYSARA = {
+    id = 732
+    provinces = { "x81E4D2" "x97B5B9" "x9B80F1" "xCADE81" "xD0BEE9" "xD348E3" "xD9F13B" "xDBEE6D" "xE0D9EB" }
+}
+STATE_CYRRA = {
+    id = 733
+    provinces = { "x56F9CA" "x5FC4D2" "xA0AECC" "xA892F0" "xA981FD" "xB3C5F6" "xBDC7DD" "xC9D5CD" "xCCEF4C" "xD953E3" "xE560FB" "xF8F2BE" "xFEA38A" }
+}
+STATE_BYSARIS = {
+    id = 734
+    provinces = { "xBFCAAC" "xE662BE" "xF3DEE2" }
+}
+STATE_CALTHA = {
+    id = 735
+    provinces = { "x26E1F6" "x57E7FA" "x92A6F2" "xA5CAE9" "xB594DA" "xBCE9A5" "xBDB09B" "xDABE85" "xE3AEB7" "xE540F8" "xFAE47E" }
+}
+STATE_THYRIS = {
+    id = 736
+    provinces = { "x7EB0F9" "xA3F0E2" "xA8A0B7" "xAA86C7" "xAC90EC" "xB4A0E5" "xB75DE1" "xC2CFE5" "xDA91E4" "xE233E3" "xF3F5FA" "xF8D18D" "xFC94EB" }
+}
+STATE_ZABARA = {
+    id = 737
+    provinces = { "x35F8E9" "x3DC8F8" "x72DEC9" "xB2B6B7" "xB8A9B7" "xB9F666" "xD577BD" "xDADAAB" "xEF77CA" "xF1B1C3" "xF57591" }
+}
