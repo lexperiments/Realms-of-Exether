@@ -354,7 +354,3 @@ STATE_THAGHIZHI = {
     id = 529
     provinces = { "x1BF2F0" "x4BBCF1" "x8CC6BA" "x8E8BDD" "xB083F9" "xBEF3AA" "xCEC1DA" "xD38FBE" "xDA64E1" "xDAEF92" "xF192FA" "xF691C9" "xFA8BC7" }
 }
-STATE_KEENAVOK = {
-    id = 530
-    provinces = {}
-}
