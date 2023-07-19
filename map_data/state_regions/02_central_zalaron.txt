@@ -55,7 +55,7 @@ STATE_AUBERN_FLOW = {
 
 STATE_IRONWOOD_PENINSULA = {
     id = 231
-    provinces = { "x40DCF8" "x64CAD6" "x6BF1F4" "x73DFB2" "x7FE6BE" "x95F59D" "xA2ED69" "xA6CFF3" "xBACCEE" "xC2C9DA" "xCF919A" "xD3B185" "xE7E04C" "xF39FE6" }
+    provinces = { "x3CE6DF" "x40DCF8" "x64CAD6" "x6BF1F4" "x73DFB2" "x7FE6BE" "x95F59D" "xA2ED69" "xA6CFF3" "xBACCEE" "xC256E5" "xC2C9DA" "xCC9FE9" "xCF919A" "xD3B185" "xE7E04C" "xF39FE6" "xF99CC6" }
 }
 
 STATE_OLD_AUBERN = {
@@ -125,7 +125,7 @@ STATE_NEW_LAND = {
 
 STATE_WILLOWLAND = {
     id = 245
-    provinces = { "x3BEAE4" "x53F4C4" "x68EEED" "x8889F5" "xB5C0E8" "xB5E37E" "xE6CCF2" "xF98AA5" }
+    provinces = { "x3BEAE4" "x53F4C4" "x68EEED" "x6FD7D4" "x7BB6E9" "x8889F5" "xB5C0E8" "xB5E37E" "xBA68D6" "xE5D939" "xE6CCF2" "xF98AA5" }
 }
 
 STATE_EIREKS_WASH = {
@@ -135,7 +135,7 @@ STATE_EIREKS_WASH = {
 
 STATE_NOMANS_SOUND = {
     id = 247
-    provinces = { "x3CE6DF" "x6FD7D4" "x7BB6E9" "xBA68D6" "xC256E5" "xCC9FE9" "xE5D939" "xF99CC6" }
+    provinces = { "x51FCAD" "x57DEC7" "x8D92DE" "x9FE8FB" "xB0DBF3" "xB9B88B" "xBE78D6" "xD2AEDA" "xD54CDA" "xE57BE3" "xF5D196" "xFBC393" "xFCEF0F" }
 }
 
 STATE_CANDLEMIRE = {
@@ -176,4 +176,204 @@ STATE_GLADEMIRE = {
 STATE_THE_CRIMSON_MORASS = {
     id = 255
     provinces = { "x988DE4" "x9B8DF0" "xB056FA" "xD888DD" "xDDE553" "xE2EFB4" "xE4FBFE" "xE6E0FE" "xE8B671" "xFBFAE5" }
+}
+
+STATE_CZ1 = {
+    id = 256
+    provinces = { "x61D3FA" "x70ACEA" "x89C7DD" "x8AD3CE" "x94C7DD" "xA8F7AE" "xACE6BE" "xADA4DD" "xC1C4EE" "xC7CEA1" "xCDA8DD" "xD2DA9A" "xDAE69D" "xF7E22E" "xF8E443" "xFDDDA3" }
+}
+
+STATE_CZ2 = {
+    id = 257
+    provinces = { "x4AE0DD" "x7DE1B8" "x84AFCA" "x93F4DE" "xC4B0F5" "xC6CE6D" "xCABFBD" "xCBE7EA" "xD765D4" "xDEFEEB" "xF18186" "xF3A3B6" "xFC96EC" "xFCFEB3" }
+}
+
+STATE_CZ3 = {
+    id = 258
+    provinces = { "x34F6EC" "x5EE0C8" "x71E7B5" "x77F99F" "x7CE79E" "x87E4F6" "x97C5C6" "xAEACCD" "xAF85E4" "xB7C0DB" "xBFECDB" "xC5F44C" "xCAEEDB" "xCD5BEE" "xEDDE7B" }
+}
+
+STATE_CZ4 = {
+    id = 259
+    provinces = { "x52CBF7" "x6AD8D2" "x79EAE1" "xAAEFD1" "xB2B9F2" "xB6C77F" "xBBDDC1" "xBCF65D" "xC3EA94" "xC75CE3" "xCB76C5" "xCBA2AB" "xE174E5" "xE9B0DC" "xEAB073" "xFBB06F" }
+}
+
+STATE_CZ5 = {
+    id = 260
+    provinces = { "x6EFDCF" "x6FF6DA" "x8FF4D7" "xB1CEA9" "xB5A5DC" "xB6A5F7" "xCBECAD" "xD185E2" "xD770E3" "xDC73D4" "xDD65E5" "xE760D3" "xED8A91" "xEEB2EE" "xF2B5CE" "xF796C2" "xFB73D4" "xFCBA6F" }
+}
+
+STATE_CZ6 = {
+    id = 261
+    provinces = { "x5ADEE5" "x6CFEF2" "x82DCBD" "x8B7EF9" "xAD96B3" "xB05BF3" "xB6A3D5" "xB8C7D7" "xBBD8EA" "xC4A3BA" "xC4DDD7" "xCFA8C0" "xD043E4" "xD48BE7" "xDDCD4C" "xE8BAF3" "xEA78E4" "xEAB7FA" "xF4E061" "xF5D442" "xFB3AEE" "xFBFC21" }
+}
+
+STATE_CZ7 = {
+    id = 262
+    provinces = { "x4BF5DC" "x4FFBCB" "x5DFCF9" "x5FA3FD" "xB9DAF5" "xC8F1D9" "xD156FA" "xE49AD1" "xE583C7" "xE5F37D" "xEA69C5" "xEBE24A" }
+}
+
+STATE_CZ8 = {
+    id = 263
+    provinces = { "x5EF4EB" "x69DBBA" "x81EDDE" "x95D0E1" "xA4EE72" "xBD91DB" "xC262F7" "xC6AADD" "xCE7CCE" "xD3C5FB" "xDAEED4" "xE78399" "xECBA81" "xEEB275" "xFBC0FD" }
+}
+
+STATE_CZ9 = {
+    id = 264
+    provinces = { "x5DD8FC" "x91F2E5" "x97EDE6" "x98C6B2" "xB695AA" "xC7A8BF" "xD8F8C1" "xE263F8" "xE2ECF1" "xE9B164" "xE9DFEB" "xF5928E" "xF8A956" "xFD50D1" "xFD61F3" }
+}
+
+STATE_CZ10 = {
+    id = 265
+    provinces = {}
+}
+
+STATE_CZ11 = {
+    id = 266
+    provinces = {}
+}
+
+STATE_CZ12 = {
+    id = 267
+    provinces = {}
+}
+
+STATE_CZ13 = {
+    id = 268
+    provinces = {}
+}
+
+STATE_CZ14 = {
+    id = 269
+    provinces = {}
+}
+
+STATE_CZ15 = {
+    id = 270
+    provinces = {}
+}
+
+STATE_CZ16 = {
+    id = 271
+    provinces = {}
+}
+
+STATE_CZ17 = {
+    id = 272
+    provinces = {}
+}
+
+STATE_CZ18 = {
+    id = 273
+    provinces = {}
+}
+
+STATE_CZ19 = {
+    id = 274
+    provinces = {}
+}
+
+STATE_CZ20 = {
+    id = 275
+    provinces = {}
+}
+
+STATE_CZ21 = {
+    id = 276
+    provinces = {}
+}
+
+STATE_CZ22 = {
+    id = 277
+    provinces = {}
+}
+
+STATE_CZ23 = {
+    id = 278
+    provinces = {}
+}
+
+STATE_CZ24 = {
+    id = 279
+    provinces = {}
+}
+
+STATE_CZ25 = {
+    id = 280
+    provinces = {}
+}
+
+STATE_CZ26 = {
+    id = 281
+    provinces = {}
+}
+
+STATE_CZ27 = {
+    id = 282
+    provinces = {}
+}
+
+STATE_CZ28 = {
+    id = 283
+    provinces = {}
+}
+
+STATE_CZ29 = {
+    id = 284
+    provinces = {}
+}
+
+STATE_CZ30 = {
+    id = 285
+    provinces = {}
+}
+
+STATE_CZ31 = {
+    id = 286
+    provinces = {}
+}
+
+STATE_CZ32 = {
+    id = 287
+    provinces = {}
+}
+
+STATE_CZ33 = {
+    id = 288
+    provinces = {}
+}
+
+STATE_CZ34 = {
+    id = 289
+    provinces = {}
+}
+
+STATE_CZ35 = {
+    id = 290
+    provinces = {}
+}
+
+STATE_CZ36 = {
+    id = 291
+    provinces = {}
+}
+
+STATE_CZ37 = {
+    id = 292
+    provinces = {}
+}
+
+STATE_CZ38 = {
+    id = 293
+    provinces = {}
+}
+
+STATE_CZ39 = {
+    id = 294
+    provinces = {}
+}
+
+STATE_CZ40 = {
+    id = 295
+    provinces = {}
 }
