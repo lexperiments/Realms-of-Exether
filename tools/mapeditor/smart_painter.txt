@@ -1,10 +1,54 @@
 ﻿SmartPainter={
 	PresetManager={
 		Presets={
+			Preset={
+				name="Test"
+				HeightRange={
+					Range={
+						name="Cliffside Trees"
+						pattern=2
+						curve=0
+						angle_l=60.000000
+						angle_r=87.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 0.594146 0.557561 1.000000 0.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="woodlands_03"
+									Value=200
+								}
+
+								Material={
+									MaterialId="cliff_granite_06"
+									Value=55
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
+				}
+			}
+
 		}
 	}
 
-	CurrentPreset=-1
-	Autosave=no
+	CurrentPreset=0
+	Autosave=yes
 }
 

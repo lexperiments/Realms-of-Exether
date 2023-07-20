@@ -1,0 +1,244 @@
+﻿STATE_MALANDA = {
+    id = 939
+    provinces = { "x1AE4FD" "x44CEFE" "x60FD9A" "x64C1FD" "x7C9EFD" "xB6ACF3" "xBDC6A6" "xC2F871" "xC990A9" "xCFBDCD" "xD2D4EE" "xD5C296" "xDFD67A" "xE5B1D0" "xE68D86" "xE8ACF1" "xEBF184" "xECF723" "xF2D541" "xF2E1FB" "xF2EA67" "xF3BD8C" "xF9B948" "xFB0BEF" }
+}
+STATE_GONJOLA = {
+    id = 940
+    provinces = { "x44F5E8" "x54C7FB" "x5DF1F5" "x70B4E6" "x8797D7" "x87CEA6" "x90EA89" "x95FD67" "xC0A2A6" "xCCAEF1" "xCF80B4" "xD0BD99" "xD334F0" "xD5FD40" "xD767E8" "xDDFA8F" "xE3F99C" "xF89E97" "xF9CF74" "xFCED30" }
+}
+STATE_BEXAMBA = {
+    id = 941
+    provinces = { "x6FC8C6" "x8FB1D4" "xBED3E8" "xBFDDD3" "xC048FB" "xC6EF97" "xCA96CB" "xCDFEA8" "xD565E1" "xEBA2CB" "xEC77FE" "xFE6C90" }
+}
+STATE_LEMBONA = {
+    id = 942
+    provinces = { "x77F2DF" "xAEABDD" "xB162E7" "xB6D46D" "xB8CAAE" "xD3D6ED" "xD4E465" "xE4D18C" "xEE6CF3" "xF7CC84" "xFBA079" }
+}
+STATE_XABELO = {
+    id = 943
+    provinces = { "x44E9D6" "x7CCFF7" "x82F8A5" "x8487F2" "x9EFC5C" "xA1D8F0" "xA6D2C3" "xA8D1C3" "xBA80D7" "xBBB0D7" "xC5B0F8" "xC7D66B" "xD96EF6" "xE1EEA2" "xE3A6DB" "xE7D4AE" "xEA57D7" "xEB3FF5" "xF895DE" "xFC66E4" "xFCBCE3" "xFEF388" }
+}
+STATE_MAZALINO = {
+    id = 944
+    provinces = { "x88DA9D" "x9DC7B4" "xAAA9AA" "xB68EF8" "xC6F0F3" "xD3F1C6" "xE2E593" "xEFB9C7" "xF2F697" "xFCC139" "xFED654" }
+}
+STATE_GONDEVA = {
+    id = 945
+    provinces = { "x88C1F7" "xD0A4AB" "xE1C776" "xE5F31E" "xE81CF5" "xEEF348" "xFAC8CF" "xFD19E3" "xFD1DED" }
+}
+STATE_LUMBELO = {
+    id = 946
+    provinces = { "x94EECD" "x9AB9DC" "xA6ADCA" "xCA6BD5" "xD8AA9B" "xEBF571" "xFD8ACD" }
+}
+STATE_MAXANGA = {
+    id = 947
+    provinces = { "x84E6E0" "xAC98D3" "xBCAADE" "xBFF5B2" "xC1F979" "xC4E594" "xCFD68E" "xEAFC8F" "xFEAA80" }
+}
+STATE_BEMVULA = {
+    id = 948
+    provinces = { "x5CEDF6" "x75FDDF" "x7F89F7" "xA48DE9" "xBDCAE6" "xDD75AB" "xEC41F1" "xF685FD" "xF98E9D" }
+}
+STATE_BELOZA = {
+    id = 949
+    provinces = { "x6EF1FC" "x9975F4" "x9FF2FD" "xB8AD95" "xC683B9" "xD2ECEA" "xD6DB8E" "xE6AFD7" "xE6B0C7" "xEAF1A6" "xED98E2" }
+}
+STATE_JOVEXA = {
+    id = 950
+    provinces = { "x7DBCD2" "x8C93E3" "x94E8DC" "x96E5F4" "x98B8A8" "xA8E2D7" "xC2CB9C" "xD6C2C1" "xDB8FFE" "xE774FC" "xE9909D" }
+}
+STATE_AMALUMA = {
+    id = 951
+    provinces = { "x19F3F2" "x4DD3DD" "x89BFE1" "x8CBCE3" "xA06BEF" "xB0DBFC" "xB4BBF5" "xBDB88E" "xDFD0C5" "xF4B74C" "xF7B39B" }
+}
+STATE_MABRAGA = {
+    id = 952
+    provinces = { "x51ECBE" "x8D93FC" "xA2F784" "xCC71D9" "xDBEFEC" "xDCED9F" "xDE7FBD" "xE6C0DF" "xF5DD2A" }
+}
+STATE_UMAGAMA = {
+    id = 953
+    provinces = { "x53FDED" "x75FCF7" "x7DEBDC" "x8BF6B4" "xA2C3D7" "xA9D6BE" "xB797AA" "xB85DFB" "xBAC7DE" "xBD54EC" "xCC9F8A" "xCED3BE" "xCFFB35" "xD36BC4" "xD4C57D" "xD4D8A9" "xE19CB6" "xE3C267" "xE4ED50" "xE4EF7E" "xE5B68A" "xE659C9" "xECFA11" "xEE50E7" "xF7F2F6" "xFB70C6" "xFD76F1" "xFDC3A1" "xFE47BD" }
+}
+STATE_ALMADOURO = {
+    id = 954
+    provinces = { "x8CF5D1" "x8FE3EA" "x93F7FA" "x9BF8FB" "xA3D9F0" "xB8D86C" "xDEEC77" "xDF64F9" "xE65FD7" "xEABBD5" "xFAAF5E" }
+}
+STATE_CIDADOURO = {
+    id = 955
+    provinces = { "x42DFDD" "x5AEEB8" "x90A7CE" "xA8D3CF" "xC1EB80" "xD7C975" "xE47FC8" "xEAAF90" "xEF61F6" "xFE4FDD" "xFE9EAB" }
+}
+STATE_MOZAGAL = {
+    id = 956
+    provinces = { "x9DAFD3" "xA86CFA" "xAE86CA" "xB897E9" "xC78BAA" "xCBBBD6" "xD37CAB" "xD4F7DA" "xDE96CA" "xECBD95" }
+}
+STATE_ALENMAR = {
+    id = 957
+    provinces = { "x6FF2E7" "x75B2F2" "x7FFCC0" "x82F88A" "x94F0E4" "x95CF92" "x96E7EF" "x9AC6A4" "xA5C2B8" "xACBFB2" "xB2DCB4" "xBD57F6" "xCBB8AA" "xCBEFC4" "xDC8FBF" "xE53FE2" "xF4DA32" "xFD5EF5" }
+}
+STATE_TERRABELA = {
+    id = 958
+    provinces = { "x82ABC9" "x8DEFD4" "xBDCF6F" "xBFF55A" "xD0D3F4" "xD69ECC" "xDB69EA" "xDCE8F3" "xDE99D6" "xE793CD" "xE87EE2" "xFCF6A0" }
+}
+STATE_MALANJAPORT = {
+    id = 959
+    provinces = { "x61DCFA" "xB5DE64" "xB8CAAD" "xC8D06C" "xCF77CE" "xE1B5CE" }
+}
+STATE_KASAMANCA = {
+    id = 960
+    provinces = { "x83A6FB" "x9AB3B1" "x9CC99C" "xC2E567" "xCA83A9" "xE9B192" }
+}
+STATE_MAPACHECO = {
+    id = 961
+    provinces = { "x36FCD4" "x51D4D5" "x6898FC" "xC6F16C" "xCFB3FC" "xD0C5DA" "xDD9E7E" "xFEE29B" }
+}
+STATE_LESORICO = {
+    id = 962
+    provinces = { "x7EB8FD" "xDFF56A" "xE09DAC" "xE1E999" "xEE4CD8" "xFEC3B0" }
+}
+STATE_APAFONTE = {
+    id = 963
+    provinces = { "x3BF9E4" "x49F4D4" "x76B0DE" "x7BB5D0" "x83A3F5" "x8E95E8" "xA0BFAA" "xB1EC62" "xCAD3CA" "xCF66E7" }
+}
+STATE_PORTANGA = {
+    id = 964
+    provinces = { "x8EC7DD" "xAC9CD7" "xBFC9CD" "xE27BCA" "xE6D370" "xE9A693" "xF031E9" "xF2D888" "xF4F445" "xF9EE78" }
+}
+STATE_LISAZISA = {
+    id = 965
+    provinces = { "x4CE8E7" "x5BB7FD" "x7DD0F4" "xD07AE4" "xDECC5F" "xF2D3A8" "xF8F85F" "xFD5AE6" "xFE5AC3" }
+}
+STATE_XHOZITHOBE = {
+    id = 966
+    provinces = { "xA691CA" "xB4C4AF" "xC296CA" "xD4E1F2" "xDDEFDC" "xF53BFB" }
+}
+STATE_BELENDLE = {
+    id = 967
+    provinces = { "x45DDFE" "x8EE2D1" "x9E9DE6" "xC4A3F5" "xC6D063" "xC761CD" "xD6C89C" "xD89EE7" "xE8D990" "xF855F2" }
+}
+STATE_QONDWENI = {
+    id = 968
+    provinces = { "x4BC0F6" "x5DF0A8" "x97EBCB" "x9CFA9C" "xA4C4DD" "xC999B7" "xCD8AE9" "xCFBC82" "xDB82EB" "xE1F9B3" "xECAC98" "xED9AF6" "xEDAC80" }
+}
+STATE_ALAHAZOTRA = {
+    id = 969
+    provinces = { "x6FA5E7" "x98E9CC" "xD4CED6" "xE8F09D" }
+}
+STATE_IVONDRO = {
+    id = 970
+    provinces = { "x73E9E2" "x86FCDC" "xAECCEA" "xBCA8FE" "xC3F6DC" "xE298E6" "xE7C1BF" "xE9E6EB" "xEC6CD7" "xFD54A7" }
+}
+STATE_MAHALATSAKA = {
+    id = 971
+    provinces = { "x7B99FC" "xA4F974" "xB4DEDA" "xBBCAA8" "xCECB7A" "xCECEA5" "xDABACB" "xDE6ADC" "xE737F3" "xE8D86F" "xF2B89B" }
+}
+STATE_FIANARIVO = {
+    id = 972
+    provinces = { "x101D05" "x57FEC0" "x5FF1F5" "xA1F995" "xB057F4" "xB786EE" "xC957DC" "xCCDCB6" "xD7EDB8" "xDF72CA" "xEAD796" }
+}
+STATE_VAROTSOA = {
+    id = 973
+    provinces = { "x43E3E9" "x54FDEC" "x6EE1BC" "x81DEBA" "x9DE1C4" "xA09AE5" "xBBABD3" "xC489EC" "xC6A7B0" "xDD8BBC" "xDDF7B7" "xE7E2F5" "xF3EAD0" "xF5959C" }
+}
+STATE_TSIMIHAVANA = {
+    id = 974
+    provinces = { "x89A0F8" "x8BFAF2" "xB4E176" "xCCF491" "xCFEFA2" "xD183E2" "xD45CCC" "xD5D7AD" "xDB45E8" "xDB56F9" "xDDC754" "xE3C088" "xE7B5DA" "xED42D2" "xF0D040" "xF1D9AA" }
+}
+STATE_SAHONDRA = {
+    id = 975
+    provinces = { "xCFF6C0" "xDDEFDE" "xEA7BA4" "xF56EDA" }
+}
+STATE_MAROMITA = {
+    id = 976
+    provinces = { "x94DADB" "xE1F7B2" "xEAABA6" "xED68AE" "xF47B97" }
+}
+STATE_TOMBONT = {
+    id = 977
+    provinces = { "x45F8CC" "x8DD4D6" "xA172E5" "xB6C797" "xC8E97D" "xF3EFB4" "xF9FD1D" "xFDF243" }
+}
+STATE_ANKAZOBE = {
+    id = 978
+    provinces = { "x6FA3EA" "xA6F0C2" "xB1BC8A" "xCAB39D" "xD960E5" "xEDDF49" "xFA5CB4" }
+}
+STATE_IVOLOINA = {
+    id = 979
+    provinces = { "x9AD398" "x9E98F4" "xCFB7CD" "xE0DD76" "xF0A4A1" }
+}
+STATE_TAITSIKA = {
+    id = 980
+    provinces = { "xA0EAF0" "xB59DE3" "xEBE4DE" }
+}
+STATE_MARITIMLIS = {
+    id = 981
+    provinces = { "x58C7E6" "x9FD093" "xAA8EE8" "xACB7EB" "xBAB6C4" "xBCB896" "xC181D0" "xCDE0ED" "xD65AE0" "xE7A3B3" "xEE9FDB" "xF054C2" "xF0D04C" "xFAF248" "xFE75E2" }
+}
+STATE_APLUKACAL = {
+    id = 982
+    provinces = { "x21DDFE" "x9ACD9D" "xB1BDE1" "xC3B4B4" "xCDF03B" "xF4EBFD" "xF78A8F" }
+}
+STATE_BALTIJOSCAT = {
+    id = 983
+    provinces = { "x7CCCFA" "x8BC3C2" "xBA8EF4" "xBADEAB" "xBCC4DE" "xC49FAB" "xD841E4" "xDF87BB" "xE24DEB" "xE491A8" "xFDC4C1" }
+}
+STATE_JURUTILVA = {
+    id = 984
+    provinces = { "x6AD7CB" "xAAB0C0" "xC3D2F9" "xD7E67F" "xEAC1C1" "xFB88C1" }
+}
+STATE_LAIVINMAR = {
+    id = 985
+    provinces = { "x3CE5DF" "x82AEC5" "xA89BD9" "xB5A2B3" "xB8D976" "xBDC6C2" "xC09E9F" "xCEE2FD" "xF3E02A" "xFC769A" }
+}
+STATE_VANDECATAL = {
+    id = 986
+    provinces = { "x51FCC2" "x7ACEE9" "x85F6D3" "x8CC9E7" "x93CDCE" "xB3FDB4" "xD8CDE5" "xD9BDC1" "xECA27A" "xFAB5F0" }
+}
+STATE_ZVEJYCATIA = {
+    id = 987
+    provinces = { "x68D4D5" "x7DE499" "xA4FAE8" "xB7D6A7" "xBED6A8" "xD2EAF1" "xD5B881" "xDAFCE7" "xDD97A2" "xE5AA80" "xE7F0DE" "xEAA08B" }
+}
+STATE_PLACIUKATAL = {
+    id = 988
+    provinces = { "x5BF5F9" "xCADBCE" "xCAEEF4" "xD4A589" "xD552FC" "xF94FBA" }
+}
+STATE_BANGALINIS = {
+    id = 989
+    provinces = { "x4ACAF6" "x5CCBDE" "xAAB6F7" "xD9E088" "xE762CA" "xFBA881" }
+}
+STATE_LIUTUKATAL = {
+    id = 990
+    provinces = { "x81FDCF" "x8D82FD" "xA1D3BF" "xC1FE3B" "xD49AF8" "xE0C8D7" "xF0CCDE" }
+}
+STATE_UPESTARR = {
+    id = 991
+    provinces = { "x54E3F2" "xC870FE" "xCFD9E5" "xDAF6C2" "xDF55EB" "xE2F03E" "xF0C6E5" "xF59E9C" }
+}
+STATE_SALASLITVA = {
+    id = 992
+    provinces = { "x73A6E0" "xADEB6C" "xADFDEB" "xC5C18D" "xC9D1E7" "xCA82EB" "xE949EE" "xEBF744" "xEEF01F" }
+}
+STATE_PAPLUDIMIS = {
+    id = 993
+    provinces = { "x84E7E8" "xB59AB2" "xD2DADE" "xEDBBC7" "xF19C90" "xF277C9" }
+}
+STATE_KRIOKLYKATAL = {
+    id = 994
+    provinces = { "x9FFDED" "xBE77D6" "xBFA1D7" "xD44EE1" "xD4C3DD" "xE1BF9F" "xEE5AC0" "xEEA0C2" "xEFE5AE" "xF6A7AB" "xFECAB0" }
+}
+STATE_BANGALITVA = {
+    id = 995
+    provinces = { "x78DEB7" "xA7C4C0" "xADA2C4" "xB395EA" "xE1C6B6" "xF7EF5A" "xFC878B" }
+}
+STATE_SMILTYNECAT = {
+    id = 996
+    provinces = { "x86B0C7" "xA4B9CB" "xB7CDF1" "xC1B284" "xC2BFC9" "xD4FDAD" "xDBD059" "xE21FFD" "xE35BFB" "xED4CCD" }
+}
+STATE_UOSTOCATAL = {
+    id = 997
+    provinces = { "x82D7ED" "xABC4C4" "xAFFBA8" "xB2BEBA" "xC74EF1" "xD8F7C3" "xD975D5" "xDFCBAB" "xEB7FA0" }
+}
+STATE_AKVALITVA = {
+    id = 998
+    provinces = { "x9CE5CF" "xD16EBC" "xDEB3B8" "xE742F8" "xEFA8AE" "xF7C351" "xFAE15D" "xFBD4EC" }
+}
+STATE_RAMUMARI = {
+    id = 999
+    provinces = { "x9DB5B6" "xA5C7CE" "xA9C5F7" "xB5C0B7" "xB5CAEA" "xB6DADF" "xEDE072" "xF1CA56" "xF76F91" }
+}
