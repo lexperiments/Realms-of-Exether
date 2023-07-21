@@ -5129,7 +5129,7 @@
  OBLIGATIONS_OWED_FROM:1 "Owes Obligations From"
  OBLIGATIONS_OWED_TO:1 "Owes Obligations To"
  INTEREST_MARKERS:0 "#title [Concept('concept_interest', '$concept_interests$')]#!"
- OH_DEER:0 ""#italic Oh deer, we have#! #bold [ErrorDeer.NumberOrErrors|v]#! #italic error(s)!#!""
+ OH_DEER:0 "#italic 'Sup Doc, we have#! #bold [ErrorDeer.NumberOrErrors|v]#! #italic error(s)!#!"
  ERROR_DEER_SLOW_TICK_OPERATIONS:0 "#header Slow Tick Operations#!"
  NOT_AVAILABLE:0 "N/A"
  SOL_SHORT:2 "[Concept('concept_sol', '$SOL_SHORT_TEXT$')]"
