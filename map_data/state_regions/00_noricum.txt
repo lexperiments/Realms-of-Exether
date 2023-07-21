@@ -637,7 +637,3 @@ STATE_GRYTINGARIK = {
     id = 134
     provinces = { "x8695EB" "x87BBE9" "xA6C7DA" "xC4B5CE" "xD8D75D" "xE884A5" }
 }
-STATE_PLACEHOLDER_EMPTY_11 = {
-    id = 135
-    provinces = {}
-}

@@ -1030,7 +1030,7 @@
 		}
 		add_homeland = dumonian #Sets the state to be a homeland for whatever culture you put here.
 	}
-	s:STATE_PLACEHOLDER_EMPTY_11 = {
+	s:STATE_IRON_HALLS = {
 		create_state = {
 		country = c:DUM
 		owned_provinces = {}
