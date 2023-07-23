@@ -46,16 +46,3 @@ DUM = {
 		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
 	}
 }
-
-CRG = {
-	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
-	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
-    color2 = "grey"
-    color3 = "blue_light"
-
-    colored_emblem = {
-        texture = "ce_tricolor_horizontal.dds"
-        color1 = color2
-        color2 = color3
-    }
-}

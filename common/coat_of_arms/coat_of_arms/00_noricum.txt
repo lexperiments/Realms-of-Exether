@@ -1,0 +1,86 @@
+﻿###### EXAMPLE ######
+
+#EXA = {
+#	color = { 39 84 135 } #The colour of this country on the map.
+#
+#	country_type = recognized #See common\country_types
+#
+#	tier = kingdom #See common\country_ranks
+#
+#	cultures = { examplish } #What are their primary culture/s - you can set multiple.
+#	capital = STATE_EXAMPLE #Which state holds this nation's default capital
+#}
+
+#####################
+
+#Dumonia
+DUM = {
+	color = rgb{ 195  0  0 } #The colour of this country on the map.
+
+	country_type = recognized #See common\country_types
+
+	tier = empire #See common\country_ranks
+
+	cultures = { dumonian } #What are their primary culture/s - you can set multiple.
+	capital = STATE_CROWNPEAK #Which state holds this nation's default capital
+}
+
+#Cult of Aumaunator
+AUM = {
+	color = rgb{ 200  100  0 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_TEMPLE_HILL 
+}
+
+#Yanger Horde
+YAN = {
+	color = rgb{ 100  200  0 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_RIDERS_MOOT
+}
+
+#Ravencliff
+RVC = {
+	color = rgb{ 70  0  80 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_RAVENCLIFF
+}
+
+#Hag Marshes
+HAG = {
+	color = rgb{ 50  100  70 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_HAG_MARSHES
+}
+
+#Icewind, change name
+ICE = {
+	color = rgb{ 200  200  255 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ICEWIND
+}
