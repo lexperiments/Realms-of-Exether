@@ -202,3 +202,26 @@ ASW  = {
 	capital = STATE_ASHWICK
 }
 
+#Thurgatan's Land
+TLD = {
+	color = rgb{ 20  40  60 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_VOZMEAD_BORDERLANDS
+}
+
+#Serbinelle
+SEB = {
+	color = rgb{ 30  60  90 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_VOZMEAD_BORDERLANDS
+}
