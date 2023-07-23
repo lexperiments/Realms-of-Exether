@@ -25,7 +25,7 @@ VAI = {
 
 #Teferet
 TEF = {
-	color = rgb{ 50  200  200 } 
+	color = hsv360{ 38  97  83 }
 
 	country_type = recognized 
 
@@ -38,7 +38,7 @@ TEF = {
 
 #Thiral
 THI = {
-	color = rgb{ 100  250  100 } 
+	color = hsv360{ 143  75  61 }
 
 	country_type = recognized 
 
