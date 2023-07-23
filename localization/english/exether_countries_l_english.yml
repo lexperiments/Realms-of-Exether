@@ -39,6 +39,12 @@
   SLB_ADJ: "Saltboot"
   DRO: "Yavira"
   DRO_ADJ: "Yaviran"
+  WHI: "Whisker Fields"
+  WHI_ADJ: "Whisker"
+  VHT: "Secretkeepers"
+  VHT_ADJ: "Secretkeeper"
+  ASW: "Ashwall"
+  ASW_ADJ: "Ashwall"
   #Central Zalaron
   TEF: "Teferet"
   TEF_ADJ: "Tefereti"
@@ -70,6 +76,8 @@
   #Southern Seas
   DEV: "Devil's Exile"
   DEV_ADJ: "Exile"
+  SSC: "South Seas Company"
+  SSC_ADJ: "South Seas Company"
   #Aritzakarri
   TEF: "Teferet"
   TEF_ADJ: "Tefereti"

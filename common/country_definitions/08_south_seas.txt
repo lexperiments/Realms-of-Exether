@@ -1,4 +1,4 @@
-﻿#Evil's Exile
+﻿#Devil's Exile
 DEV = {
 	color = rgb{ 70 0 0 } 
 
@@ -8,4 +8,16 @@ DEV = {
 
 	cultures = { dumonian } 
 	capital = STATE_VAROTSOA
+}
+
+#South Seas Company
+SSC = {
+	color = rgb{ 75 200 110 } 
+
+	country_type = colonial
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_GANDNI
 }

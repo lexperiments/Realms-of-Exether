@@ -22,3 +22,16 @@ SNB = {
 	cultures = { dumonian } 
 	capital = STATE_KILIMAMAI
 }
+
+#Galdoria
+GLD = {
+	color = rgb{ 100  160  50 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_WINDSPEAR
+}
+
