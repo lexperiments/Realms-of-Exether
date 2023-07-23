@@ -82,7 +82,7 @@ STATE_17_SEA = {
 }
 STATE_18_SEA = {
     id = 3018
-    provinces = {}
+    provinces = { "x101D05" }
 }
 STATE_19_SEA = {
     id = 3019

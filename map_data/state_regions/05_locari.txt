@@ -128,7 +128,7 @@ STATE_KULUWANDU = {
 }
 STATE_BUDAMURAYIRI = {
     id = 866
-    provinces = { "x72B3F8" "x84A8D0" "xACEBBB" "xD5E8D7" "xE6F195" "xF7B6C0" }
+    provinces = { "x72B3F8" "x7FF88F" "x84A8D0" "xACEBBB" "xD5E8D7" "xE6F195" "xF7B6C0" }
 }
 STATE_MARLIYAGIRRA = {
     id = 867

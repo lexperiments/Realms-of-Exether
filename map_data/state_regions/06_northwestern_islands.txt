@@ -302,3 +302,63 @@ STATE_RÁHKIS = {
     id = 765
     provinces = { "x49DDF1" "x69D5C3" "x75EDA5" "xA7CDB3" "xCAC283" "xEDC2A4" "xEFE06D" }
 }
+STATE_WHIRINAKI = {
+    id = 381
+    provinces = { "x53B0F6" "x62BADF" "x83FCE8" "x86E2EA" "xB7DE78" "xBEC67E" "xCD9ECC" "xCE54EA" "xCFE758" "xD4B58D" "xDCE897" "xEBEFCC" "xEEFE4A" "xEFC6B0" "xF8A276" "xFB719F" }
+}
+STATE_RUMATARI = {
+    id = 382
+    provinces = { "x39F5D9" "x5FF1E3" "x76E7C4" "x83EDE2" "xA4EEAD" "xACF45A" "xB49BAB" "xCFB8F2" "xF2D0EF" "xF78AC9" }
+}
+STATE_TARAMOA = {
+    id = 383
+    provinces = { "x3CF3F7" "x6BF7DC" "x75C5F0" "x7CA4DF" "x8FA9CA" "x9AB6CB" "xADED62" "xBFA8F2" "xC366E2" "xC3A0ED" "xCAEBDE" "xCBA492" "xD1CFE7" "xDAB3B4" "xE2DAC1" "xE4E72F" "xF9ACE6" "xFCAA99" }
+}
+STATE_POUNAMOA = {
+    id = 384
+    provinces = { "x32CBF9" "x77EDEA" "xB6C1B7" "xDA8BBC" "xDBD753" "xDFABAE" }
+}
+STATE_RONGOMARA = {
+    id = 385
+    provinces = { "x7BD5F7" "x85E690" "x8F95E6" "xA2F87F" "xA5A1DE" "xB7C89A" "xC2E769" "xC3E0CB" "xC893C1" "xE1B7A7" "xF08E97" }
+}
+STATE_GARPATIA = {
+    id = 386
+    provinces = { "x5DE7DB" "x72E7C7" "x8DE2E3" "x92C6A0" "x99B7B0" "x9AC4FD" "x9AF76B" "xACBEC6" "xAD9EDB" "xC1CDA1" "xC2BADB" "xCAA4DE" "xCFCC7B" "xD26DFE" "xE18CEC" "xE1A8E8" "xE3FD6C" "xE8BCBD" "xEAE777" "xEE808C" "xF08A99" "xF4919D" "xF64CCD" "xF6C365" "xFC48EE" "xFC5AB0" "xFC9AB4" }
+}
+STATE_WHAKARAROA = {
+    id = 387
+    provinces = { "x7C9FF3" "x9ECAD3" "xA278FE" "xADEFE2" "xB287CF" "xC7E896" "xE461BB" "xEFE05C" }
+}
+STATE_MARAMAROA = {
+    id = 388
+    provinces = { "x4CD6EA" "x93BCD0" "x9E99F1" "x9FCCA9" "xA9DAA7" "xACDF98" "xBCE766" "xBEFC7F" "xC0A8F7" "xCE88D8" "xE4B6FE" "xF869FB" "xFB5DCA" }
+}
+STATE_PUCOVATU = {
+    id = 389
+    provinces = { "x68A2ED" "x82D2DB" "x8CF6EE" "xADC3CE" "xC87BD3" "xCDE598" "xE9C397" "xE9E44C" "xEAD09F" "xEBDF56" "xF5E4BC" "xF6AA82" }
+}
+STATE_TURAKINA = {
+    id = 390
+    provinces = { "x7B95FE" "x85D4E8" "x8AE5FB" "x8FE9A6" "x90E1FD" "xAFAFF4" "xC282C7" "xC863EE" "xD3AE93" "xE7A4D0" "xF1A07E" "xFC9AF0" "xFEE3F0" }
+}
+STATE_RAROMARA = {
+    id = 391
+    provinces = { "x94ED9A" "xB7CCF9" "xC1D388" "xC6F3BA" "xCCCBF8" "xD4D686" "xD5AD81" "xDBCABA" "xDFD553" "xE3C6D4" "xE3D267" "xE6AEE9" "xE7C55E" "xE8F584" "xE9E2A4" "xF3996E" }
+}
+STATE_LUNARATA = {
+    id = 392
+    provinces = { "x29FCED" "x3DD3F8" "xBCE9B4" "xD4BB91" "xD674B4" "xE38DF8" "xE6C5DA" "xE7E574" "xF8B07E" "xFD89F1" "xFDC9F8" }
+}
+STATE_TAUMAROI = {
+    id = 393
+    provinces = { "x4EECC1" "x59B3F0" "x60D9F1" "x63FDE9" "x83E29C" "xD2DF7A" "xD59696" "xDDEDEC" "xEEF580" "xF3ADAC" "xF843DE" }
+}
+STATE_PATARENI = {
+    id = 394
+    provinces = { "x9885E2" "xC8A5A2" "xC969EC" "xD5A7B1" "xD643E7" "xDC87D0" "xE14FDF" "xE570ED" "xEB62FD" "xF164DB" "xF4EE58" "xFCFC7F" "xFEBC56" }
+}
+STATE_WHANAKOA = {
+    id = 395
+    provinces = { "x6CD9F0" "x73D8E6" "x82F285" "x9EE6E3" "xA164F7" "xBFD965" "xC7C4D6" "xE2B18D" "xEBA999" "xF2D167" }
+}
