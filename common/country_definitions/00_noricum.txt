@@ -13,7 +13,7 @@
 
 #####################
 
-
+#Dumonia
 DUM = {
 	color = rgb{ 195  0  0 } #The colour of this country on the map.
 
@@ -25,6 +25,7 @@ DUM = {
 	capital = STATE_CROWNPEAK #Which state holds this nation's default capital
 }
 
+#Cult of Aumaunator
 AUM = {
 	color = rgb{ 200  100  0 } 
 
@@ -36,28 +37,31 @@ AUM = {
 	capital = STATE_TEMPLE_HILL 
 }
 
-RAV = {
-	color = rgb{ 70  10  70 } 
+#Yanger Horde
+YAN = {
+	color = rgb{ 100  200  0 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_RIDERS_MOOT
+}
+
+#Ravencliff
+RVC = {
+	color = rgb{ 70  0  80 } 
 
 	country_type = recognized
 
 	tier = principality
 
 	cultures = { dumonian } 
-	capital = STATE_HAG_MARSHES
+	capital = STATE_RAVENCLIFF
 }
 
-RAV = {
-	color = rgb{ 70  10  70 } 
-
-	country_type = recognized
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_HAG_MARSHES
-}
-
+#Hag Marshes
 HAG = {
 	color = rgb{ 50  100  70 } 
 
@@ -67,4 +71,16 @@ HAG = {
 
 	cultures = { dumonian } 
 	capital = STATE_HAG_MARSHES
+}
+
+#Icewind, change name
+ICE = {
+	color = rgb{ 200  200  255 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ICEWIND
 }

@@ -1,0 +1,168 @@
+﻿#Achon
+AHO = {
+	color = rgb{ 150  0  150 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_RUNEPORT_GALESTRUM
+}
+
+#Arrador
+ARR = {
+	color = rgb{ 0 0 100 } 
+
+	country_type = recognized 
+
+	tier = empire
+
+	cultures = { dumonian } 
+	capital = STATE_VICEROYS_PEARL
+}
+
+#Anwarth
+ANW = {
+	color = rgb{ 0 26 100 } 
+
+	country_type = recognized 
+
+	tier = grand_principality
+
+	cultures = { dumonian } 
+	capital = s:STATE_EXETHERS_CRADLE
+}
+
+#Emerald League
+EME = {
+	color = rgb{ 100  255  100 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_MERACIEL_AUBELAC
+}
+
+#Ceraun
+CER = {
+	color = rgb{ 200  100  100 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_LANDING_AT_SEA
+}
+
+#Clearbough Estates
+CLR = {
+	color = rgb{ 0  100  100 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_CLEARBOUGH_ESTATES
+}
+
+#Vozmead
+VOZ = {
+	color = rgb{ 200  100  150 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_SKYPIERCER_PEAK
+}
+
+#Dark Elf
+DRO = {
+	color = rgb{ 200  200  150 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ELF2
+}
+
+#Whisker Fields
+WHI = {
+	color = rgb{ 0  200  150 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ELF2
+}
+
+#Alchemist's Refuse
+ALC = {
+	color = rgb{ 0  70  0 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_VIRULENT_EGRESS
+}
+
+#Moorweald Wilds
+MOO = {
+	color = rgb{ 0  90  0 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_INNER_MOORWEALD
+}
+
+#Braisebranch
+BRB = {
+	color = rgb{ 0  90  200 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_OVERBURROW
+}
+
+#Saltboot Borough
+SLB = {
+	color = rgb{ 100  90  200 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_FIRST_BOROUGH
+}
+
+#Mimic Demesne
+MMD = {
+	color = rgb{ 100  0  100 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_SHIFTING_SCAR
+}
+

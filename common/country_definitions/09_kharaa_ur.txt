@@ -1,0 +1,11 @@
+﻿#Yulug Dynasty
+YUL = {
+	color = rgb{ 75 75 75 } 
+
+	country_type = unrecognized 
+
+	tier = empire
+
+	cultures = { dumonian } 
+	capital = STATE_GURBA
+}

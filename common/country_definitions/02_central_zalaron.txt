@@ -1,0 +1,97 @@
+﻿
+#Mag Ciuin
+CLL = {
+	color = rgb{ 0  160  150 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_CAM_CALLAIRD
+}
+
+#Vairia
+VAI = {
+	color = rgb{ 0  50  150 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_VENTAFALCO
+}
+
+#Teferet
+TEF = {
+	color = rgb{ 50  200  200 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_BRIGHTWATER
+}
+
+
+#Thiral
+THI = {
+	color = rgb{ 100  250  100 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_MONSVERDE
+}
+
+#Lisinia
+LIS = {
+	color = rgb{ 120  200  100 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_MONSVERDE
+}
+
+#Tisenaria
+TIS= {
+	color = rgb{ 180  250  100 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ALJUMARO
+}
+
+#Oazojaro
+OAZ= {
+	color = rgb{ 180  50  100 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ALJUMARO
+}
+
+#Verkisirio
+VER= {
+	color = rgb{ 180  50  100 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ALJUMARO
+}

@@ -1,0 +1,11 @@
+﻿#Dragon Isles
+DIS = {
+	color = rgb{ 200 100 150 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { dumonian } 
+	capital = STATE_CARTHAROS
+}
