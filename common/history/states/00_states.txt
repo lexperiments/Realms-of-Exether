@@ -6639,7 +6639,7 @@ s:STATE_ERDIGARA = {
 
 s:STATE_ARTEAGA = {
     		create_state = {
-				country = c:DUM
+				country = c:CRG
 				owned_provinces = { "x62E0DB" "x6BE4D7" "xA2A0CB" "xA6EACE" "xABFCB3" "xACF864" "xADE2B7" "xC2ECA1" "xCCFBCA" "xE4FD17" "xED20EA" "xF1BBC5" }
 		}
 		add_homeland = dumonian
@@ -6663,7 +6663,7 @@ s:STATE_KHANOR = {
 
 s:STATE_KASKOGARA = {
     		create_state = {
-				country = c:DUM
+				country = c:CRG
 				owned_provinces = { "x62F1B4" "x64D9EF" "x7DD7AA" "x81FE82" "x92CDB8" "x9EC2CB" "xA5F6BB" "xA8C2E7" "xB2FCA4" "xBCA0B6" "xC2D3F7" "xC7F95D" "xD7BC8A" "xD7C3F2" "xE4B4CC" "xE6E98B" "xE89D9B" "xE8F632" "xEC68C7" "xF7C93B" "xFADD87" }
 		}
 		add_homeland = dumonian
@@ -6671,7 +6671,7 @@ s:STATE_KASKOGARA = {
 
 s:STATE_URDIN = {
     		create_state = {
-				country = c:DUM
+				country = c:CRG
 				owned_provinces = { "x50E5F5" "x60DAFC" "x8EFDDE" "x9BEDD1" "xA4BAB1" "xB6E7B8" "xB9B0C2" "xBDCC89" "xF464D4" }
 		}
 		add_homeland = dumonian

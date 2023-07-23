@@ -1,1 +1,11 @@
-﻿
+﻿#Crag Eagles
+CRG = {
+	color = rgb{ 100 100 100 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_ARTEAGA
+}
