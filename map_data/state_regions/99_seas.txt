@@ -10,169 +10,240 @@
 #    return string
 #}
 
-
-
-STATE_1_SEA = {
+STATE_SHIPSHATTER_REEF = {
     id = 3001
     provinces = { x012136 }
 }
-STATE_2_SEA = {
+STATE_REMNANT_WAVES = {
     id = 3002
     provinces = { x03290C }
 }
-STATE_3_SEA = {
+STATE_2_SEA = {
     id = 3003
     provinces = { x05093E }
 }
-STATE_4_SEA = {
+STATE_3_SEA = {
     id = 3004
     provinces = { x050B18 }
 }
-STATE_5_SEA = {
+STATE_4_SEA = {
     id = 3005
     provinces = { x051A24 }
 }
-STATE_6_SEA = {
+STATE_ICY_EXPANSE = {
     id = 3006
     provinces = { x060E21 }
+    impassable = { x060E21 }
 }
-STATE_7_SEA = {
+STATE_GULF_OF_DUMONIA = {
     id = 3007
     provinces = { x06123B }
 }
-STATE_8_SEA = {
+STATE_7_SEA = {
     id = 3008
     provinces = { x074D01 }
 }
-STATE_9_SEA = {
+STATE_THE_SCALETIDES = {
     id = 3009
     provinces = { x080B3C }
 }
-STATE_10_SEA = {
+STATE_SANGUINE_OCEAN_01 = {
     id = 3010
     provinces = { x083505 }
+    impassable = { x083505 }
 }
-STATE_11_SEA = {
+STATE_ERBENS_SEA = {
     id = 3011
     provinces = { x084D0A }
 }
-STATE_12_SEA = {
+STATE_TREACHEROUS_ABYSS = {
     id = 3012
     provinces = { x091809 }
 }
-STATE_13_SEA = {
+STATE_AMETHYST_SEA = {
     id = 3013
     provinces = { x0A1205 }
 }
-STATE_14_SEA = {
+STATE_EMPERORS_MARBLES = {
     id = 3014
     provinces = { x0A3F09 }
 }
-STATE_15_SEA = {
+STATE_14_SEA = {
     id = 3015
     provinces = { x0D2132 }
 }
-STATE_16_SEA = {
+STATE_LEVIATHAN_DEEP = {
     id = 3016
     provinces = { x0F2F1D }
+    impassable = { x0F2F1D }
 }
-STATE_17_SEA = {
+STATE_16_SEA = {
     id = 3017
     provinces = { x10011E }
 }
-STATE_18_SEA = {
+STATE_17_SEA = {
     id = 3018
-    provinces = { "x101D05" }
+    provinces = { x101D05 }
 }
-STATE_19_SEA = {
+STATE_NORTH_PERILOUS_SEA = {
     id = 3019
     provinces = { x113813 }
+    impassable = { x113813 }
 }
-STATE_20_SEA = {
+STATE_BUCCANEER_SEA = {
     id = 3020
     provinces = { x130416 }
 }
-STATE_21_SEA = {
+STATE_20_SEA = {
     id = 3021
     provinces = { x133003 }
 }
-STATE_22_SEA = {
+STATE_FROSTBITE_DEPTHS = {
     id = 3022
     provinces = { x133411 }
 }
-STATE_23_SEA = {
+STATE_22_SEA = {
     id = 3023
     provinces = { x19080A }
 }
-STATE_24_SEA = {
+STATE_HUNDIRS_BANE = {
     id = 3024
     provinces = { x1A0D0B }
 }
-STATE_25_SEA = {
+STATE_24_SEA = {
     id = 3025
     provinces = { x1A4405 }
 }
-STATE_26_SEA = {
+STATE_25_SEA = {
     id = 3026
     provinces = { x1C3E07 }
 }
-STATE_27_SEA = {
+STATE_26_SEA = {
     id = 3027
     provinces = { x1D0734 }
 }
-STATE_28_SEA = {
+STATE_CITRUS_CURRENTS = {
     id = 3028
     provinces = { x1D092E }
 }
-STATE_29_SEA = {
+STATE_RESTLESS_SEA = {
     id = 3029
     provinces = { x1E0C07 }
 }
-STATE_30_SEA = {
+STATE_URIKS_PASSAGE = {
     id = 3030
     provinces = { x1E3406 }
 }
-STATE_31_SEA = {
+STATE_30_SEA = {
     id = 3031
     provinces = { x1F2E07 }
 }
-STATE_32_SEA = {
+STATE_VALKURIAN_OCEAN_01 = {
     id = 3032
     provinces = { x211403 }
+    impassable = { x211403 }
 }
-STATE_33_SEA = {
+STATE_32_SEA = {
     id = 3033
     provinces = { x21220C }
 }
-STATE_34_SEA = {
+STATE_33_SEA = {
     id = 3034
     provinces = { x220F09 }
 }
-STATE_35_SEA = {
+STATE_SIRENS_LAGOON = {
     id = 3035
     provinces = { x232906 }
 }
-STATE_36_SEA = {
+STATE_ARVAN_SEA = {
     id = 3036
     provinces = { x28052C }
 }
-STATE_37_SEA = {
+STATE_SOUTH_SANGUINE_OCEAN_01 = {
     id = 3037
+    provinces = { x2863CB }
+    impassable = { x2863CB }
+}
+STATE_SETTLER_COAST = {
+    id = 3038
     provinces = { x2A0D0D }
 }
 STATE_38_SEA = {
-    id = 3038
-    provinces = { x32021B }
-}
-STATE_39_SEA = {
     id = 3039
-    provinces = { x331517 }
+    provinces = { x2B5CB8 }
+}
+STATE_HAZEAR_SEA = {
+    id = 3040
+    provinces = { x316868 }
 }
 STATE_40_SEA = {
-    id = 3040
-    provinces = { x480612 }
+    id = 3041
+    provinces = { x32021B }
 }
 STATE_41_SEA = {
-    id = 3041
+    id = 3042
+    provinces = { x331517 }
+}
+STATE_FRIGID_SEA = {
+    id = 3043
+    provinces = { x405B94 }
+    impassable = { x405B94 }
+}
+STATE_SANGUINE_OCEAN_02 = {
+    id = 3044
+    provinces = { x445572 }
+    impassable = { x445572 }
+}
+STATE_44_SEA = {
+    id = 3045
+    provinces = { x480612 }
+}
+STATE_45_SEA = {
+    id = 3046
+    provinces = { x49C9C9 }
+}
+STATE_46_SEA = {
+    id = 3047
     provinces = { x4A0C00 }
+}
+STATE_EQUINE_SEA = {
+    id = 3048
+    provinces = { x6640E1 }
+}
+STATE_SOUTH_SANGUINE_OCEAN_02 = {
+    id = 3049
+    provinces = { x6643E1 }
+    impassable = { x6643E1 }
+}
+STATE_49_SEA = {
+    id = 3050
+    provinces = { x6644E1 }
+}
+STATE_BAY_OF_NEW_FORTUNE = {
+    id = 3051
+    provinces = { x6F4CE0 }
+}
+STATE_WYRMMAW_SEA = {
+    id = 3052
+    provinces = { x6FB3DE }
+}
+STATE_52_SEA = {
+    id = 3053
+    provinces = { x807D97 }
+}
+STATE_53_SEA = {
+    id = 3054
+    provinces = { x81A0D2 }
+}
+STATE_54_SEA = {
+    id = 3055
+    provinces = { x837BBA }
+}
+STATE_55_SEA = {
+    id = 3056
+    provinces = { x91FFFF }
+}
+STATE_56_SEA = {
+    id = 3057
+    provinces = { xA729A6 }
 }
