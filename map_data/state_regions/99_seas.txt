@@ -114,7 +114,7 @@ STATE_BLACKFEATHER_COAST = {
     id = 3025
     provinces = { x1A4405 }
 }
-STATE_AZURETHORN = {
+STATE_AZURETHORN_SEA = {
     id = 3026
     provinces = { x1C3E07 }
 }
@@ -246,4 +246,8 @@ STATE_SANGUINE_OCEAN_04 = {
 STATE_ICY_EXPANSE_02 = {
     id = 3057
     provinces = { xA729A6 }
+}
+STATE_OPHIDIAN_SHORE = {
+    id = 3058
+    provinces = { "x807D98" }
 }
