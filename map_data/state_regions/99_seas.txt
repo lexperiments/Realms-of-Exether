@@ -251,3 +251,7 @@ STATE_OPHIDIAN_SHORE = {
     id = 3058
     provinces = { "x807D98" }
 }
+STATE_WESTERN_SCALETIDES = {
+    id = 3059
+    provinces = { "x0ECACA" }
+}
