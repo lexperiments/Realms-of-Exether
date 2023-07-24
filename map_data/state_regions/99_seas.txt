@@ -18,15 +18,15 @@ STATE_REMNANT_WAVES = {
     id = 3002
     provinces = { x03290C }
 }
-STATE_2_SEA = {
+STATE_SEIFU_SEA = {
     id = 3003
     provinces = { x05093E }
 }
-STATE_3_SEA = {
+STATE_LONELY_WAVES = {
     id = 3004
     provinces = { x050B18 }
 }
-STATE_4_SEA = {
+STATE_STEEPCLIFF_COAST = {
     id = 3005
     provinces = { x051A24 }
 }
@@ -39,7 +39,7 @@ STATE_GULF_OF_DUMONIA = {
     id = 3007
     provinces = { x06123B }
 }
-STATE_7_SEA = {
+STATE_BLACK_CHANNEL = {
     id = 3008
     provinces = { x074D01 }
 }
@@ -68,7 +68,7 @@ STATE_EMPERORS_MARBLES = {
     id = 3014
     provinces = { x0A3F09 }
 }
-STATE_14_SEA = {
+STATE_LOTUS_ISLES = {
     id = 3015
     provinces = { x0D2132 }
 }
@@ -77,15 +77,15 @@ STATE_LEVIATHAN_DEEP = {
     provinces = { x0F2F1D }
     impassable = { x0F2F1D }
 }
-STATE_16_SEA = {
+STATE_FRIGID_SEA_02 = {
     id = 3017
     provinces = { x10011E }
 }
-STATE_17_SEA = {
+STATE_NORTH_PERILOUS_OCEAN_02 = {
     id = 3018
     provinces = { x101D05 }
 }
-STATE_NORTH_PERILOUS_SEA = {
+STATE_NORTH_PERILOUS_OCEAN_01 = {
     id = 3019
     provinces = { x113813 }
     impassable = { x113813 }
@@ -94,7 +94,7 @@ STATE_BUCCANEER_SEA = {
     id = 3020
     provinces = { x130416 }
 }
-STATE_20_SEA = {
+STATE_THE_FARTHEST_TIDES = {
     id = 3021
     provinces = { x133003 }
 }
@@ -102,7 +102,7 @@ STATE_FROSTBITE_DEPTHS = {
     id = 3022
     provinces = { x133411 }
 }
-STATE_22_SEA = {
+STATE_TIDESHIELD = {
     id = 3023
     provinces = { x19080A }
 }
@@ -110,15 +110,15 @@ STATE_HUNDIRS_BANE = {
     id = 3024
     provinces = { x1A0D0B }
 }
-STATE_24_SEA = {
+STATE_BLACKFEATHER_COAST = {
     id = 3025
     provinces = { x1A4405 }
 }
-STATE_25_SEA = {
+STATE_AZURETHORN = {
     id = 3026
     provinces = { x1C3E07 }
 }
-STATE_26_SEA = {
+STATE_SEA_OF_EYES = {
     id = 3027
     provinces = { x1D0734 }
 }
@@ -134,7 +134,7 @@ STATE_URIKS_PASSAGE = {
     id = 3030
     provinces = { x1E3406 }
 }
-STATE_30_SEA = {
+STATE_VALKURIAN_OCEAN_02 = {
     id = 3031
     provinces = { x1F2E07 }
 }
@@ -143,11 +143,11 @@ STATE_VALKURIAN_OCEAN_01 = {
     provinces = { x211403 }
     impassable = { x211403 }
 }
-STATE_32_SEA = {
+STATE_OISIALKS_HORIZON = {
     id = 3033
     provinces = { x21220C }
 }
-STATE_33_SEA = {
+STATE_EVERFROST_COAST = {
     id = 3034
     provinces = { x220F09 }
 }
@@ -168,7 +168,7 @@ STATE_SETTLER_COAST = {
     id = 3038
     provinces = { x2A0D0D }
 }
-STATE_38_SEA = {
+STATE_GIANTS_POND = {
     id = 3039
     provinces = { x2B5CB8 }
 }
@@ -176,11 +176,11 @@ STATE_HAZEAR_SEA = {
     id = 3040
     provinces = { x316868 }
 }
-STATE_40_SEA = {
+STATE_BLESSED_SHALLOWS = {
     id = 3041
     provinces = { x32021B }
 }
-STATE_41_SEA = {
+STATE_SOUTH_SANGUINE_OCEAN_04 = {
     id = 3042
     provinces = { x331517 }
 }
@@ -194,15 +194,15 @@ STATE_SANGUINE_OCEAN_02 = {
     provinces = { x445572 }
     impassable = { x445572 }
 }
-STATE_44_SEA = {
+STATE_SERPENTS_EYE = {
     id = 3045
     provinces = { x480612 }
 }
-STATE_45_SEA = {
+STATE_TAR_COAST = {
     id = 3046
     provinces = { x49C9C9 }
 }
-STATE_46_SEA = {
+STATE_SOUTH_LEVIATHAN_DEEP = {
     id = 3047
     provinces = { x4A0C00 }
 }
@@ -215,7 +215,7 @@ STATE_SOUTH_SANGUINE_OCEAN_02 = {
     provinces = { x6643E1 }
     impassable = { x6643E1 }
 }
-STATE_49_SEA = {
+STATE_SANGUINE_OCEAN_03 = {
     id = 3050
     provinces = { x6644E1 }
 }
@@ -227,23 +227,23 @@ STATE_WYRMMAW_SEA = {
     id = 3052
     provinces = { x6FB3DE }
 }
-STATE_52_SEA = {
+STATE_SOUTH_SANGUINE_OCEAN_03 = {
     id = 3053
     provinces = { x807D97 }
 }
-STATE_53_SEA = {
+STATE_SANGUINE_OCEAN_05 = {
     id = 3054
     provinces = { x81A0D2 }
 }
-STATE_54_SEA = {
+STATE_PLEASANT_WAVES = {
     id = 3055
     provinces = { x837BBA }
 }
-STATE_55_SEA = {
+STATE_SANGUINE_OCEAN_04 = {
     id = 3056
     provinces = { x91FFFF }
 }
-STATE_56_SEA = {
+STATE_ICY_EXPANSE_02 = {
     id = 3057
     provinces = { xA729A6 }
 }

@@ -66,7 +66,7 @@ add_homeland = dumonian
 s:STATE_PLAGUES_END = {
     create_state = {
         country = c:DUM
-        owned_provinces = { "x45C7ED" "x89F7B7" "x9FF187" "xA397DE" "xA5A8BA" "xB0F580" "xB3AF94" "xB69ED7" "xBBE0B8" "xBCEBCC" "xBFA88F" "xC78FEA" "xCD929F" "xE1B2A1" "xE2F5B4" "xE5BA96" "xE6C063" "xE866BC" "xEB9581" "xEE9BD7" "xF98E6F" }
+        owned_provinces = { "x45C7ED" "x71A4FE" "x7EDFB6" "x89F7B7" "x9FF187" "xA397DE" "xA4C9A3" "xA5A8BA" "xB0F580" "xB3AF94" "xB69ED7" "xBBE0B8" "xBCEBCC" "xBFA88F" "xC78FEA" "xCD929F" "xE1B2A1" "xE2F5B4" "xE5BA96" "xE6C063" "xE866BC" "xEB9581" "xEE9BD7" "xF98E6F" }
 }
 add_homeland = dumonian
 }
