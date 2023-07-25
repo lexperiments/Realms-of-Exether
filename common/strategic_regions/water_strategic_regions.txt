@@ -5,3 +5,239 @@
 #}
 
 #####################
+
+region_shipshatter_reef = {
+	states = { STATE_SHIPSHATTER_REEF }
+}
+
+	region_remnant_waves = {
+	states = { STATE_REMNANT_WAVES }
+}
+
+	region_seifu_sea = {
+	states = { STATE_SEIFU_SEA }
+}
+
+	region_lonely_waves = {
+	states = { STATE_LONELY_WAVES }
+}
+
+	region_steepcliff_coast = {
+	states = { STATE_STEEPCLIFF_COAST }
+}
+
+	region_icy_expanse = {
+	states = { STATE_ICY_EXPANSE }
+}
+
+	region_gulf_of_dumonia = {
+	states = { STATE_GULF_OF_DUMONIA }
+}
+
+	region_black_channel = {
+	states = { STATE_BLACK_CHANNEL }
+}
+
+	region_the_scaletides = {
+	states = { STATE_THE_SCALETIDES }
+}
+
+	region_sanguine_ocean_01 = {
+	states = { STATE_SANGUINE_OCEAN_01 }
+}
+
+	region_erbens_sea = {
+	states = { STATE_ERBENS_SEA }
+}
+
+	region_treacherous_abyss = {
+	states = { STATE_TREACHEROUS_ABYSS }
+}
+
+	region_amethyst_sea = {
+	states = { STATE_AMETHYST_SEA }
+}
+
+	region_emperors_marbles = {
+	states = { STATE_EMPERORS_MARBLES }
+}
+
+	region_lotus_isles = {
+	states = { STATE_LOTUS_ISLES }
+}
+
+	region_leviathan_deep = {
+	states = { STATE_LEVIATHAN_DEEP }
+}
+
+	region_frigid_sea_02 = {
+	states = { STATE_FRIGID_SEA_02 }
+}
+
+	region_north_perilous_ocean_02 = {
+	states = { STATE_NORTH_PERILOUS_OCEAN_02 }
+}
+
+	region_north_perilous_ocean_01 = {
+	states = { STATE_NORTH_PERILOUS_OCEAN_01 }
+}
+
+	region_buccaneer_sea = {
+	states = { STATE_BUCCANEER_SEA }
+}
+
+	region_the_farthest_tides = {
+	states = { STATE_THE_FARTHEST_TIDES }
+}
+
+	region_frostbite_depths = {
+	states = { STATE_FROSTBITE_DEPTHS }
+}
+
+	region_tideshield = {
+	states = { STATE_TIDESHIELD }
+}
+
+	region_hundirs_bane = {
+	states = { STATE_HUNDIRS_BANE }
+}
+
+	region_blackfeather_coast = {
+	states = { STATE_BLACKFEATHER_COAST }
+}
+
+	region_azurethorn_sea = {
+	states = { STATE_AZURETHORN_SEA }
+}
+
+	region_sea_of_eyes = {
+	states = { STATE_SEA_OF_EYES }
+}
+
+	region_citrus_currents = {
+	states = { STATE_CITRUS_CURRENTS }
+}
+
+	region_restless_sea = {
+	states = { STATE_RESTLESS_SEA }
+}
+
+	region_uriks_passage = {
+	states = { STATE_URIKS_PASSAGE }
+}
+
+	region_valkurian_ocean_02 = {
+	states = { STATE_VALKURIAN_OCEAN_02 }
+}
+
+	region_valkurian_ocean_01 = {
+	states = { STATE_VALKURIAN_OCEAN_01 }
+}
+
+	region_oisialks_horizon = {
+	states = { STATE_OISIALKS_HORIZON }
+}
+
+	region_everfrost_coast = {
+	states = { STATE_EVERFROST_COAST }
+}
+
+	region_sirens_lagoon = {
+	states = { STATE_SIRENS_LAGOON }
+}
+
+	region_arvan_sea = {
+	states = { STATE_ARVAN_SEA }
+}
+
+	region_south_sanguine_ocean_01 = {
+	states = { STATE_SOUTH_SANGUINE_OCEAN_01 }
+}
+
+	region_settler_coast = {
+	states = { STATE_SETTLER_COAST }
+}
+
+	region_giants_pond = {
+	states = { STATE_GIANTS_POND }
+}
+
+	region_hazear_sea = {
+	states = { STATE_HAZEAR_SEA }
+}
+
+	region_blessed_shallows = {
+	states = { STATE_BLESSED_SHALLOWS }
+}
+
+	region_south_sanguine_ocean_04 = {
+	states = { STATE_SOUTH_SANGUINE_OCEAN_04 }
+}
+
+	region_frigid_sea = {
+	states = { STATE_FRIGID_SEA }
+}
+
+	region_sanguine_ocean_02 = {
+	states = { STATE_SANGUINE_OCEAN_02 }
+}
+
+	region_serpents_eye = {
+	states = { STATE_SERPENTS_EYE }
+}
+
+	region_tar_coast = {
+	states = { STATE_TAR_COAST }
+}
+
+	region_south_leviathan_deep = {
+	states = { STATE_SOUTH_LEVIATHAN_DEEP }
+}
+
+	region_equine_sea = {
+	states = { STATE_EQUINE_SEA }
+}
+
+	region_south_sanguine_ocean_02 = {
+	states = { STATE_SOUTH_SANGUINE_OCEAN_02 }
+}
+
+	region_sanguine_ocean_03 = {
+	states = { STATE_SANGUINE_OCEAN_03 }
+}
+
+	region_bay_of_new_fortune = {
+	states = { STATE_BAY_OF_NEW_FORTUNE }
+}
+
+	region_wyrmmaw_sea = {
+	states = { STATE_WYRMMAW_SEA }
+}
+
+	region_south_sanguine_ocean_03 = {
+	states = { STATE_SOUTH_SANGUINE_OCEAN_03 }
+}
+
+	region_sanguine_ocean_05 = {
+	states = { STATE_SANGUINE_OCEAN_05 }
+}
+
+	region_pleasant_waves = {
+	states = { STATE_PLEASANT_WAVES }
+}
+
+	region_sanguine_ocean_04 = {
+	states = { STATE_SANGUINE_OCEAN_04 }
+}
+
+	region_icy_expanse_02 = {
+	states = { STATE_ICY_EXPANSE_02 }
+}
+
+	region_ophidian_shore = {
+	states = { STATE_OPHIDIAN_SHORE }
+}
+
+	region_western_scaletides = {
+	states = { STATE_WESTERN_SCALETIDES }
+}
