@@ -237,3 +237,63 @@ SEB = {
 	cultures = { dumonian } 
 	capital = STATE_VOZMEAD_BORDERLANDS
 }
+
+#Rotdrinker
+RTD = {
+	color = rgb{ 10  10  180 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_EASTERN_PLAGUEWOOD
+}
+
+#Bloodbound
+BDB = {
+	color = rgb{ 10  10  160 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_FORESTS_HEART
+}
+
+#Barkscratcher
+BRC = {
+	color = rgb{ 10  10  140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_PLAGUEWOOD_HINTERLANDS
+}
+
+#Cliffdweller
+CLD = {
+	color = rgb{ 10  10  120 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_PLAGUES_END
+}
+
+#Rivercrosser
+RCR = {
+	color = rgb{ 10  10  140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_DILAFSHAN
+}
