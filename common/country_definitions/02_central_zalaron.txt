@@ -95,3 +95,51 @@ VER= {
 	cultures = { dumonian } 
 	capital = STATE_ALJUMARO
 }
+
+#Dushambay
+DSB = {
+	color = rgb{ 140  80  60 }
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_DUSHAMBAY
+}
+
+#Farrider
+FAR = {
+	color = rgb{ 150  80  150 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_BARIKHARGUL
+}
+
+#Orccrusher
+OCR = {
+	color = rgb{ 150  45  150 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_KESHARQAN
+}
+
+#Redmane
+RDM = {
+	color = rgb{ 150  10  150 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_WESTERN_EQUINE_PLAIN
+}
