@@ -202,6 +202,18 @@ ASW  = {
 	capital = STATE_ASHWICK
 }
 
+#Craggedwyn
+CDW = {
+	color = rgb{ 10  20  30 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { dumonian } 
+	capital = STATE_VOZMEAD_BORDERLANDS
+}
+
 #Thurgatan's Land
 TLD = {
 	color = rgb{ 20  40  60 } 
