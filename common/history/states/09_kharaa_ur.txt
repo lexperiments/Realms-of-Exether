@@ -699,7 +699,7 @@ add_homeland = dumonian
 s:STATE_KIYOMATSUE = {
 	create_state = {
 		country = c:DUM
-		owned_provinces = { "x72EEF9" "x78BAD0" "x87BCCF" "x94E6B3" "x96E2A2" "x9DDBB8" "xC7DAFB" "xC8E351" "xD1F275" "xDB978B" "xE582F5" }
+		owned_provinces = { "x72EEF9" "x78BAD0" "x87BCCF" "x94E6B3" "x96E2A2" "x9DDBB8" "xBAA1E5" "xC7DAFB" "xC8E351" "xD1F275" "xDB978B" "xE582F5" }
 }
 add_homeland = dumonian
 }
