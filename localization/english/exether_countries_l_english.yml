@@ -8,8 +8,8 @@
   AUM_ADJ: "Crusader"
   YAN: "Yanger Nomads"
   YAN_ADJ: "Yanger"
-  ICE: "Frostreach Valley"
-  ICE_ADJ: "Frostreach"
+  ICE: "Coldreach Valley"
+  ICE_ADJ: "Coldreach"
   HAG: "Hag Marshes"
   HAG_ADJ: "Hag"
   #Setler Coast
@@ -44,9 +44,9 @@
   VHT: "Secretkeepers"
   VHT_ADJ: "Secretkeeper"
   ASW: "Ashwall"
-  ASW_ADJ: "Ashwall" 
+  ASW_ADJ: "Ashwall"
   CDW: "Craggedwyn"
-  CDW_ADJ: "Craggwynni" 
+  CDW_ADJ: "Craggwynni"
   TLD: "Thurgatan's Land"
   TLD_ADJ: "Thurgatani"
   SEB: "Serbinelle"
@@ -95,4 +95,3 @@
   #Aritzakarri
   CRG: "Crag Eagles"
   CRG_ADJ: "Crag Eagle"
-
