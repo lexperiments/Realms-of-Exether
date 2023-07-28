@@ -219,7 +219,7 @@ add_homeland = dumonian
 s:STATE_KRUSHEVA = {
 	create_state = {
 		country = c:DUM
-		owned_provinces = { "x3AD6F2" "x3AE0DD" "x7EF6AC" "xADCCEB" "xB7DF99" "xBFB797" "xC0B7EB" "xC9FDBD" "xFE98CB" }
+		owned_provinces = { "x3AD6F2" "x3AE0DD" "x59E9FA" "x64B7E5" "x7EF6AC" "xAB8CE6" "xADCCEB" "xB0B2C8" "xB7DF99" "xBFB797" "xC0B7EB" "xC9FDBD" "xCADCE4" "xCBB59F" "xE9BD62" "xFE98CB" }
 }
 add_homeland = dumonian
 }
@@ -267,7 +267,7 @@ add_homeland = dumonian
 s:STATE_ERSEKERA = {
 	create_state = {
 		country = c:DUM
-		owned_provinces = { "x3FFEE4" "x59E9FA" "x64B7E5" "x76BACB" "x8CE1D2" "x928FE5" "xAB8CE6" "xB0B2C8" "xCADCE4" "xCBB59F" "xD1B29F" "xD6D4C6" "xE2B7FA" "xE679F4" "xE9BD62" "xF4A95F" "xFAEDA0" }
+		owned_provinces = { "x3FFEE4" "x76BACB" "x8CE1D2" "x928FE5" "xD1B29F" "xD6D4C6" "xE2B7FA" "xE679F4" "xF4A95F" "xFAEDA0" }
 }
 add_homeland = dumonian
 }
