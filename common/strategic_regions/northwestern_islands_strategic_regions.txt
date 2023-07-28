@@ -15,7 +15,7 @@ region_razorwind = {
 region_south_toftir = {
 	graphical_culture = "latin"
 	capital_province = x8FEC96
-	map_color = { 0.137 0.627 0.725 }
+	map_color = { 0.237 0.627 0.825 }
 	states = { STATE_ELVERLEAF STATE_AURORIL STATE_NUORAID STATE_RAVGA STATE_ELVENSHROUD STATE_ELVERWISP STATE_AJA STATE_MARKAN STATE_ELVERA  }
 }
 

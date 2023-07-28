@@ -62,8 +62,8 @@ region_shipshatter_reef = {
 	states = { STATE_EMPERORS_MARBLES }
 }
 
-	region_lotus_isles = {
-	states = { STATE_LOTUS_ISLES }
+	region_petal_sea = {
+	states = { STATE_PETAL_SEA }
 }
 
 	region_leviathan_deep = {
