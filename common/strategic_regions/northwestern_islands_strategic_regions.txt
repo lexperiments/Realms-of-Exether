@@ -1,1 +1,20 @@
-﻿
+﻿region_exiles_burden = {
+	graphical_culture = "african"
+	capital_province = xECB7DF
+	map_color = { 0.25 1 1 }
+	states = { STATE_SYLVARIN STATE_AIGAI STATE_LUMINEVRA STATE_GUHKESLUOKTA STATE_SAMIEL STATE_SILENTWISP STATE_AIRU STATE_RAHKIS STATE_AKNU}
+}
+
+region_razorwind = {
+	graphical_culture = "african"
+	capital_province = xD67BEB
+	map_color = { 0.137 0.627 0.725 }
+	states = { STATE_GIELAS STATE_ARVEDELL STATE_DUODJI STATE_SYLVASKA STATE_GAVCCI STATE_GAISI STATE_SILVERSONG STATE_AHKKU STATE_ELDORIA STATE_FROSTWYN }
+}
+
+region_south_toftir = {
+	graphical_culture = "latin"
+	capital_province = xD67BEB
+	map_color = { 0.137 0.627 0.725 }
+	states = { STATE_ELVERLEAF STATE_AURORIL STATE_NUORAID STATE_RAVGA STATE_ELVENSHROUD STATE_ELVERWISP STATE_AJA STATE_MARKAN STATE_ELVERA  }
+}

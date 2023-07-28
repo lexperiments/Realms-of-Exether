@@ -51,7 +51,7 @@ region_khantar = {
 	graphical_culture = "asian"
 	capital_province = xC8FD53
 	map_color = { 0.35 0.35 0.7 }
-	states = { STATE_KHAIRI STATE_CHADBA STATE_KHAULAN STATE_KHANGAWA STATE_ORONAKA STATE_HIRAMACHI } 
+	states = { STATE_KHAIRI STATE_CHADBA STATE_KHAULAN STATE_KHANGAWA STATE_ORONAKA STATE_HIRAMACHI STATE_GROMMOK STATE_DROKYN STATE_KAZTHYR STATE_KYRGRIM STATE_URTHOR } 
 }
 
 region_ongoryu = {
@@ -65,5 +65,26 @@ region_strait_of_aranmendi = {
 	graphical_culture = "asian"
 	capital_province = xD64FE0
 	map_color = { 0.9 0.7 0.4 }
-	states = { STATE_ERDENEA STATE_URRATEGI STATE_NISHIGARRA STATE_KHANZULO STATE_HIRUMENDI STATE_IHARKHAN STATE_GORRIMU STATE_GARAIHANA  } 
+	states = { STATE_ERDENEA STATE_URRATEGI STATE_NISHIGARRA STATE_KHANZULO STATE_HIRUMENDI STATE_IHARKHAN STATE_GORRIMU STATE_GARAIHANA STATE_MUGARA  } 
+}
+
+region_tundgara = {
+	graphical_culture = "asian"
+	capital_province = xC7FEBF
+	map_color = { 0.75 0.24 0.4 }
+	states = { STATE_KYRTHOR STATE_KRAGKYL STATE_DRUKYN STATE_GOLMOK STATE_ERKBALB STATE_ZURKYL } 
+}
+
+region_shkumbdash = {
+	graphical_culture = "asian"
+	capital_province = xD8F477
+	map_color = { 0.25 0.54 0.4 }
+	states = { STATE_TAKAYAMAAN STATE_GROMKYL STATE_KYRTHAL STATE_KAZTHOK STATE_BURZOK STATE_DALSHTOK STATE_RAZOK } 
+}
+
+region_zurkhurrins_bridge = {
+	graphical_culture = "asian"
+	capital_province = xEEF83D
+	map_color = { 0.5 0.5 0.42 }
+	states = { STATE_BAIZOR STATE_DORAZ STATE_BALDBAN STATE_BAZKYL STATE_KYRGRUK STATE_KRAKYR STATE_GNAKYR STATE_KYRKAZ STATE_THARKYR STATE_GULTHYR STATE_ALBAIN } 
 }

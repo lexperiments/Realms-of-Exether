@@ -190,7 +190,7 @@ STATE_ZABARA = {
     id = 737
     provinces = { "x35F8E9" "x3DC8F8" "x72DEC9" "xB2B6B7" "xB8A9B7" "xB9F666" "xD577BD" "xDADAAB" "xEF77CA" "xF1B1C3" "xF57591" }
 }
-STATE_ÁIRU = {
+STATE_AIRU = {
     id = 738
     provinces = { "x35EFE0" "x46F3DA" "x6DCAD7" "x97E095" "xB2A1F9" "xD963D4" "xFA82C7" "xFCF53C" "xFEF304" }
 }
@@ -198,7 +198,7 @@ STATE_ELVERA = {
     id = 739
     provinces = { "x6BE6A9" "x6DFAB1" "x84DEE1" "xBBE5C5" "xBCE6EC" "xD788DB" "xE85ADD" "xEFF6BD" }
 }
-STATE_RÁVGA = {
+STATE_RAVGA = {
     id = 740
     provinces = { "x65D9BD" "x81AEDC" "x91E2E6" "x94B3EC" "x95E5E1" "xA6BF90" "xC162F0" "xCA81F3" "xD6C6C9" "xD9FCE6" "xDCCFF0" "xE79EE2" "xE7EB34" "xEBBF70" "xF1DAA2" "xF7F528" "xFB70A8" "xFBF30C" "xFC45DF" "xFDF4E8" }
 }
@@ -206,7 +206,7 @@ STATE_ELDORIA = {
     id = 741
     provinces = { "x4AF1F4" "x4DFBF3" "x9ED1D2" "xA0C2A0" "xACB0BA" "xBA7EFC" "xBBE48E" "xC7CBFC" "xD1B4AD" "xD7A9C3" "xD9AF8C" "xDEFA6F" "xEEF3F3" "xF175CE" "xF1AD6B" "xFB9681" "xFBF3D6" }
 }
-STATE_ÁJA = {
+STATE_AJA = {
     id = 742
     provinces = { "x53C6F6" "x7589FA" "x83EEBA" "x84B8DD" "xAFCDA7" "xC672E5" "xC689E3" "xCCFDA3" "xD5DF43" "xF8CDF8" }
 }
@@ -230,7 +230,7 @@ STATE_ARVEDELL = {
     id = 747
     provinces = { "x60C2E9" "x71D3DE" "x75E6B1" "x81E4CD" "x9EC3EA" "xB3D8EB" "xBCC79F" "xCDFCDB" "xD3C6CD" "xD5DB59" "xDB79B9" "xDD5FE0" "xDD7FB9" "xE269F9" "xE8B184" "xF0E0CE" "xF2CD3E" "xF2F9D6" }
 }
-STATE_ÁHKKU = {
+STATE_AHKKU = {
     id = 748
     provinces = { "x63F8FD" "x68E9E1" "x90EC7E" "xA1DEF3" "xA48FFC" "xC3E97D" "xCA97D9" "xE16EF9" "xEBB2DB" "xEBC6D0" "xF0C185" }
 }
@@ -246,7 +246,7 @@ STATE_GIELAS = {
     id = 751
     provinces = { "x42EFFC" "x6BF6F6" "x70C9FC" "x82C3D7" "xA0E88B" "xA4BCC0" "xACB993" "xBFFCAB" "xC494FD" "xCFF258" "xD8A8AD" "xDBD07B" "xEDD385" "xF251DB" "xF2BEF8" "xF869DA" "xFB8C81" "xFD42EA" }
 }
-STATE_ÁKŊU = {
+STATE_AKNU = {
     id = 752
     provinces = { "x4FCDED" "x5EEEDF" "x83F2A2" "x8AFCE9" "x997BFC" "xAFB0F2" "xB283D4" "xBAC5D0" "xBD8BED" "xC76DD8" "xE1BFE1" "xE279FA" "xE5BFDA" "xF22FD4" "xF5CB4A" }
 }
@@ -254,11 +254,11 @@ STATE_SYLVASKA = {
     id = 753
     provinces = { "x52FBAC" "x76DBED" "x85FA86" "xAEED8A" "xB0A1E6" "xB1ED64" "xC1E752" "xD7E23E" "xDD2CF6" "xDE6EAD" "xE485AB" "xEE85C2" "xF26BFD" "xF84EEE" "xFADB61" }
 }
-STATE_GÁVCCI = {
+STATE_GAVCCI = {
     id = 754
     provinces = { "x62FCD9" "x81A2E3" "xB08AE9" "xC141F7" "xE27CFA" "xE3EA6F" "xE6C2B4" "xE6D999" "xF372B5" }
 }
-STATE_MÁRKAN = {
+STATE_MARKAN = {
     id = 755
     provinces = { "x52DFCA" "x65DCE1" "x7CA1E0" "x88A4FB" "xA2D7F8" "xAACBF6" "xBA65E6" "xBBAEB6" "xBCF4A9" "xBEC775" "xBECBD3" "xC798F8" "xCCDED4" "xCDFD62" "xDEB77B" "xE79895" "xE7EE70" "xF5AD5B" "xF86AB8" "xFE9664" }
 }
@@ -266,7 +266,7 @@ STATE_ELVENSHROUD = {
     id = 756
     provinces = { "x72E9DE" "x88E4F0" "x9DE8EC" "xA3B0BE" "xA3C59A" "xC3EAD0" "xD455F7" "xDC60D0" "xE3D4CC" "xE5D0D6" "xEF6DF3" "xF23AFA" }
 }
-STATE_GÁISI = {
+STATE_GAISI = {
     id = 757
     provinces = { "x49F4EA" "x67C1E5" "x7AB4DB" "x90EF92" "x93B2C8" "xA8C4FE" "xBF7EF2" "xC6FC7E" "xC838F9" "xCBB7EC" "xD0C19B" "xD0F442" "xD67BEB" "xD985E0" "xDC71E1" "xDCBBF9" "xDCBE5E" "xDCCF4A" "xE152CD" "xF0FC37" "xF2DA5F" "xF3F50E" "xF4EA5C" "xF6FAC1" "xF98DEA" }
 }
@@ -278,11 +278,11 @@ STATE_ELVERLEAF = {
     id = 759
     provinces = { "x4ED3DC" "x8F81EE" "x90E6CB" "xB661E9" "xBB61E6" "xC99EAC" "xD3D198" "xD8E7A7" "xD9E279" "xE9F1DA" "xF9E1D5" }
 }
-STATE_ÁIGÁI = {
+STATE_AIGAI = {
     id = 760
     provinces = { "x36EFFA" "x75F2D8" "x7BC4B9" "xA2E7A4" "xB4BDB3" "xCDCAF9" "xD2E8AC" "xD38CBC" "xD8ECBA" "xDBABD7" "xDBFADA" "xECB7DF" "xF0EBD7" "xF48F7D" }
 }
-STATE_SÁMIEL = {
+STATE_SAMIEL = {
     id = 761
     provinces = { "x40F2DC" "x70FD92" "x92C4CD" "xA9DFE8" "xAEFEE3" "xB1DEA3" "xDAB185" "xE2BA98" "xE452EB" "xE6EF8C" }
 }
@@ -298,7 +298,7 @@ STATE_SILENTWISP = {
     id = 764
     provinces = { "x4CFECB" "x61B2F1" "x9187FD" "xBCC6BB" "xBDA79B" "xC4F6E6" "xDE44F4" "xDFF441" "xEB70B7" "xF76BD0" }
 }
-STATE_RÁHKIS = {
+STATE_RAHKIS = {
     id = 765
     provinces = { "x49DDF1" "x69D5C3" "x75EDA5" "xA7CDB3" "xCAC283" "xEDC2A4" "xEFE06D" }
 }
