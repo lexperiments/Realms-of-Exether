@@ -575,7 +575,7 @@ s:STATE_NEYRISHANAR = {
 add_homeland = dumonian
 }
 
-s:STATE_BRIGHTWATER = {
+s:STATE_MARZEHZARIN = {
     create_state = {
         country = c:TEF
         owned_provinces = { "x20EBF4" "x4AECD2" "x63F0A9" "x6DCAF9" "x99D489" "xD9D0E3" "xF0CF8A" "xF367C7" }
@@ -666,7 +666,7 @@ add_homeland = dumonian
 s:STATE_ASARSHIR = {
     create_state = {
         country = c:TEF
-        owned_provinces = { "x66ADE3" "x75DDE6" "x84E5B0" "xA58DC6" "xC398F5" "xC6EC58" "xC994A9" "xCA88EE" "xDF76E5" "xE19FD0" "xE9D070" "xEA93F1" "xF1D23B" "xFD8F7F" "xFDDDE3" }
+        owned_provinces = { "x66ADE3" "x75DDE6" "x84E5B0" "xA58DC6" "xC398F5" "xC6EC58" "xC994A9" "xC9FA4E" "xCA88EE" "xDF76E5" "xE19FD0" "xE9D070" "xEA93F1" "xF1D23B" "xFD8F7F" "xFDDDE3" }
 }
 add_homeland = dumonian
 }
