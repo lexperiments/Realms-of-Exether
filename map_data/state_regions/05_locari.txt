@@ -108,7 +108,7 @@ STATE_GASHAWARRA = {
 }
 STATE_YARRAGANBALA = {
     id = 861
-    provinces = { "xB6DD76" "xCBADE3" "xE76CB4" }
+    provinces = { "xB6DD76" "xCBADE3" "xE1AAAB" "xE76CB4" }
 }
 STATE_WADAWURRUM = {
     id = 862
@@ -361,10 +361,6 @@ STATE_BALKHSK = {
 STATE_KUNDUZOV = {
     id = 924
     provinces = { "x43FDD3" "x4DD7E6" "x57D7F2" "x93B5C8" "x9BE08C" "xA8C9D0" "xAFDCB4" "xE061D3" "xE3B0D1" "xEF42ED" "xF29BAD" }
-}
-STATE_KIKYNDSK = {
-    id = 925
-    provinces = { "xE1AAAB" }
 }
 STATE_PULIKOTSK = {
     id = 926

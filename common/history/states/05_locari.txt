@@ -227,7 +227,7 @@ add_homeland = dumonian
 s:STATE_YARRAGANBALA = {
 	create_state = {
 		country = c:DUM
-		owned_provinces = { "xB6DD76" "xCBADE3" "xE76CB4" }
+		owned_provinces = { "xB6DD76" "xCBADE3" "xE76CB4"  "xE1AAAB" }
 }
 add_homeland = dumonian
 }
@@ -732,14 +732,6 @@ s:STATE_KUNDUZOV = {
 	create_state = {
 		country = c:DUM
 		owned_provinces = { "x43FDD3" "x4DD7E6" "x57D7F2" "x93B5C8" "x9BE08C" "xA8C9D0" "xAFDCB4" "xE061D3" "xE3B0D1" "xEF42ED" "xF29BAD" }
-}
-add_homeland = dumonian
-}
-
-s:STATE_KIKYNDSK = {
-	create_state = {
-		country = c:DUM
-		owned_provinces = { "xE1AAAB" }
 }
 add_homeland = dumonian
 }
