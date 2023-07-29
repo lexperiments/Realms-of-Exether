@@ -68,7 +68,7 @@ STATE_EMPERORS_MARBLES = {
     id = 3014
     provinces = { x0A3F09 }
 }
-STATE_PETAL_SEA= {
+STATE_PETAL_SEA = {
     id = 3015
     provinces = { x0D2132 }
 }
@@ -249,7 +249,7 @@ STATE_ICY_EXPANSE_02 = {
 }
 STATE_OPHIDIAN_SHORE = {
     id = 3058
-    provinces = { "x807D98" }
+    provinces = { "x3DCACA" }
 }
 STATE_WESTERN_SCALETIDES = {
     id = 3059

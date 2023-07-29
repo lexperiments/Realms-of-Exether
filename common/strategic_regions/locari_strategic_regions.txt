@@ -1,1 +1,20 @@
-﻿
+﻿region_east_mindrend_sands = {
+	graphical_culture = "arabic"
+	capital_province = xABA5D8
+	map_color = { 197 92 106 }
+	states = { STATE_RUKHAM STATE_FARGHANOV STATE_NEFUDISTAN STATE_KARAKAR }
+}
+
+region_west_mindrend_sands = {
+	graphical_culture = "arabic"
+	capital_province = xE5F2B7
+	map_color = { 20 112 22 }
+	states = { STATE_KHUBEK STATE_HARQOM STATE_WUTAK STATE_TABLAG }
+}
+
+region_scalethane_realms = {
+	graphical_culture = "arabic"
+	capital_province = xCB89CB
+	map_color = { 80 220 220 }
+	states = { STATE_ELENIKAR STATE_GREOS STATE_ARTAXIAHAN STATE_HALLEOS STATE_HERMENIA STATE_HELLENOVA STATE_DILMELIA STATE_ARIMOS STATE_KOTAYNOS STATE_GREGAN STATE_MYTHOS }
+}
