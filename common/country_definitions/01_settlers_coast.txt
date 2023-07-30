@@ -42,7 +42,7 @@ EME = {
 
 	tier = kingdom
 
-	cultures = { dumonian } 
+	cultures = { ocelian } 
 	capital = STATE_MERACIEL_AUBELAC
 }
 

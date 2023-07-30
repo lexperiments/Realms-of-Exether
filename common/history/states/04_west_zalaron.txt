@@ -42,7 +42,7 @@ add_homeland = dumonian
 
 s:STATE_VLORIANA = {
 	create_state = {
-		country = c:DUM
+		country = c:LGZ
 		owned_provinces = { "x2AF5D6" "x5EB8E7" "xACFDE2" "xB1C0B0" "xC3EC7D" "xD284DD" "xE29AD1" "xF1F8AE" "xF69AEC" }
 }
 add_homeland = dumonian
@@ -50,7 +50,7 @@ add_homeland = dumonian
 
 s:STATE_GJAKOVA = {
 	create_state = {
-		country = c:DUM
+		country = c:LGZ
 		owned_provinces = { "x35F2EA" "x86BCF2" "xAF80ED" "xB885FA" "xBBCEFA" "xC0D86B" "xCC64C8" "xE8B4BC" }
 }
 add_homeland = dumonian
@@ -58,7 +58,7 @@ add_homeland = dumonian
 
 s:STATE_LEZHANIA = {
 	create_state = {
-		country = c:DUM
+		country = c:REM
 		owned_provinces = { "x96D3FD" "xA39DF3" "xB1FE59" "xC099B3" "xD572D7" "xE885ED" "xEDF425" "xF4A0EA" "xFBE126" "xFD1CF2" }
 }
 add_homeland = dumonian
@@ -66,7 +66,7 @@ add_homeland = dumonian
 
 s:STATE_KRUJANA = {
 	create_state = {
-		country = c:DUM
+		country = c:REM
 		owned_provinces = { "x8FF09E" "x93F899" "xA7D09D" "xB29AAE" "xB3F7BC" "xBF5FEB" "xC580B7" "xC8AF96" "xCAB9E3" "xE6F51F" }
 }
 add_homeland = dumonian
@@ -90,7 +90,7 @@ add_homeland = dumonian
 
 s:STATE_GJILANIJA = {
 	create_state = {
-		country = c:DUM
+		country = c:REM
 		owned_provinces = { "x3AE5E3" "x3EE4F0" "xAAF781" "xACEC97" "xC9E5E6" "xC9F3F6" "xD6AA96" "xDFFBD3" "xE09AC0" "xEEFE11" "xF3897D" "xFDF9C1" }
 }
 add_homeland = dumonian
@@ -106,7 +106,7 @@ add_homeland = dumonian
 
 s:STATE_KURBULL = {
 	create_state = {
-		country = c:DUM
+		country = c:LGZ
 		owned_provinces = { "x5BD5D0" "x69E6C4" "x77EBD6" "x93BEBD" "xCF8AD7" "xD2D064" "xDA5DC3" "xE28C89" "xE8799D" "xEAA7DC" "xF992CB" "xFCE271" }
 }
 add_homeland = dumonian
@@ -114,7 +114,7 @@ add_homeland = dumonian
 
 s:STATE_PESHKOPINA = {
 	create_state = {
-		country = c:DUM
+		country = c:LGZ
 		owned_provinces = { "x60E5BB" "x6CDAE6" "x9CE0CB" "xA0EAB7" "xCFEFB0" "xD77AA8" "xDDF6E2" "xE9CA43" "xEBC1B7" }
 }
 add_homeland = dumonian
@@ -130,7 +130,7 @@ add_homeland = dumonian
 
 s:STATE_VOSKOPOJANA = {
 	create_state = {
-		country = c:DUM
+		country = c:LGZ
 		owned_provinces = { "x4DDEFD" "xABADF6" "xAF68E4" "xCED2FC" "xCEE4F0" "xDFCCCF" "xE5DCDA" "xEF84E1" "xF8EC94" }
 }
 add_homeland = dumonian
@@ -186,7 +186,7 @@ add_homeland = dumonian
 
 s:STATE_DIBRA = {
 	create_state = {
-		country = c:DUM
+		country = c:REM
 		owned_provinces = { "x3AF3F2" "x6CD0FD" "x9291EC" "x977DF0" "xACB5F7" "xD0BD68" "xF456E9" }
 }
 add_homeland = dumonian
@@ -370,7 +370,7 @@ add_homeland = dumonian
 
 s:STATE_VITHKUQJA = {
 	create_state = {
-		country = c:DUM
+		country = c:VLT
 		owned_provinces = { "x87C4E5" "x8B8CFE" "x8BD0A1" "xAAD58A" "xC090AD" "xD8EFD8" "xDEEFBA" "xEAD3F3" "xF68EE3" "xFCA8F4" }
 }
 add_homeland = dumonian
@@ -394,7 +394,7 @@ add_homeland = dumonian
 
 s:STATE_LATORIIVE = {
 	create_state = {
-		country = c:DUM
+		country = c:VLT
 		owned_provinces = { "x73E1B2" "x7BD4FC" "x99B6C5" "x9AF590" "xA2A5DD" "xB3F35D" "xB49CA9" "xCC46EF" "xEC9FE1" }
 }
 add_homeland = dumonian

@@ -19,3 +19,155 @@ church_of_man = {
 	}
 	color = { 0.8 0.6 0.4 }
 }
+
+creed_of_hasal = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = {
+		christian
+	}
+	color = { 0.2 0.3 0.55 }
+}
+
+
+old_faith = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = {
+		human
+	}
+	color = { 0.6 0.7 0.55 }
+}
+
+cult_of_the_sun = {
+	texture = "gfx/interface/icons/religion_icons/orthodox.dds"
+	traits = {
+		christian
+	}
+	color = { 0.62 0.64 0.6 }
+}
+
+house_of_fate = {
+	texture = "gfx/interface/icons/religion_icons/coptic.dds"
+	traits = {
+		christian
+	}
+	color = { 0.1 0.5 0.6 }
+}
+
+druidic = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = {
+		muslim
+	}
+	color = { 0.1 0.5 0.3 }
+	
+	taboos = {
+		liquor wine
+	} 
+}
+
+astral_path = {
+	texture = "gfx/interface/icons/religion_icons/shiite.dds"
+	traits = {
+		human
+	}
+	color = { 0.4 0.7 0.3 }
+	
+	taboos = {
+		liquor wine
+	}
+}
+
+dwarf_pantheon = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = {
+		jewish
+	}
+	color = { 0.5 0.5 0.2 }
+}	
+
+elf_magic = {
+	texture = "gfx/interface/icons/religion_icons/mahayana.dds"
+	traits = {
+		buddhist
+		eastern
+	}
+	color = { 0.7 0.35 0.1 }
+}
+
+elf_nature = {
+	texture = "gfx/interface/icons/religion_icons/gelugpa.dds"
+	traits = {
+		buddhist
+		eastern
+	}
+	color = { 0.1 0.4 0.9 }
+}
+
+elf_southern = {
+	texture = "gfx/interface/icons/religion_icons/theravada.dds"
+	traits = {
+		buddhist
+		eastern
+	}
+	color = { 0.7 0.4 0.6 }
+}
+
+lords_of_avarice = {
+	texture = "gfx/interface/icons/religion_icons/hindu.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.7 0.4 0.3 }
+	taboos = {
+		meat
+	}
+}
+
+hobgoblin_pantheon = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.4 0.1 0.2 }
+}
+
+goblin_pantheon = {
+	texture = "gfx/interface/icons/religion_icons/sikh.dds"
+	traits = {
+		eastern
+	}
+	color = { 1 1 0.1 }
+}
+
+orc_father = {
+	texture = "gfx/interface/icons/religion_icons/sikh.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.5 1 0.1 }
+}
+
+orc_mother = {
+	texture = "gfx/interface/icons/religion_icons/sikh.dds"
+	traits = {
+		eastern
+	}
+	color = { 1 0.5 0.1 }
+}
+
+animist = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		animist
+	}
+	color = { 0.6 0.3 0.2 }
+}
+
+mountain_worship = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = {
+		animist
+	}
+	color = { 0.2 0.3 0.2 }
+}
+

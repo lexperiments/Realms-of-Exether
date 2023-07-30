@@ -1,0 +1,249 @@
+﻿tefereti = {
+	color= hsv{ 0.1 0.43 0.56 }
+	religion = elf_magic
+	traits = { iranian_turanian_culture_group middle_eastern_heritage }
+	male_common_first_names={
+		Abbas Abdolazim Abdolhossein Abdolsamad Abolghasem Ahmad Ali 
+		Bahram 
+		Ebrahim Esmail 
+		Fath_Ali Fazlollah
+		Hamzeh Hasan Hossein
+		Kamran Karim
+		Lotf_Ali
+		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		Naser_ed-Din Nosret
+		Reza
+		Sadegh
+	}
+	female_common_first_names = {
+		Asieh
+		Bibi_Khatoom
+		Ghazaleh
+		Marjane Marsha Maryam
+		Sedigheh
+	}	
+	noble_last_names = {
+		al-Saltaneh Alamir Astarabadi Ashtiani
+		Bakhtiari
+		Farmanfarma
+		Hakimi Hedayat
+		Khalatbari 
+		Pirnia
+		Qajar
+	}
+	common_last_names={
+		Airom Ansari Ayrum
+		Buzarjomehri
+		Davallu
+		Esfahani
+		Farhani
+		Jahanbani Jamshidian
+		Kashani Khan Khuzai
+		Meshhedi
+		Nakhchevani
+		Pesyan
+		Rokni
+		Sadegh Shafaei Shahbakhti Shirazi
+		Tabrizi Tahmasebi
+		Zahedi
+	}
+	male_regal_first_names = {
+		Ahmad
+		Fath_Ali Fereydoun
+		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		Naser_ed-Din
+		Sultan_Hamid
+	}
+	ethnicities = {
+		1 = arab
+	}
+	graphics = mideast_indian
+}
+
+#Volapuk language
+glabrekthorn = {
+	color= hsv{ 0.1 0.43 0.56 }
+	religion = elf_nature
+	traits = { iranian_turanian_culture_group middle_eastern_heritage }
+	male_common_first_names={
+		Abbas Abdolazim Abdolhossein Abdolsamad Abolghasem Ahmad Ali 
+		Bahram 
+		Ebrahim Esmail 
+		Fath_Ali Fazlollah
+		Hamzeh Hasan Hossein
+		Kamran Karim
+		Lotf_Ali
+		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		Naser_ed-Din Nosret
+		Reza
+		Sadegh
+	}
+	female_common_first_names = {
+		Asieh
+		Bibi_Khatoom
+		Ghazaleh
+		Marjane Marsha Maryam
+		Sedigheh
+	}	
+	noble_last_names = {
+		al-Saltaneh Alamir Astarabadi Ashtiani
+		Bakhtiari
+		Farmanfarma
+		Hakimi Hedayat
+		Khalatbari 
+		Pirnia
+		Qajar
+	}
+	common_last_names={
+		Airom Ansari Ayrum
+		Buzarjomehri
+		Davallu
+		Esfahani
+		Farhani
+		Jahanbani Jamshidian
+		Kashani Khan Khuzai
+		Meshhedi
+		Nakhchevani
+		Pesyan
+		Rokni
+		Sadegh Shafaei Shahbakhti Shirazi
+		Tabrizi Tahmasebi
+		Zahedi
+	}
+	male_regal_first_names = {
+		Ahmad
+		Fath_Ali Fereydoun
+		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		Naser_ed-Din
+		Sultan_Hamid
+	}
+	ethnicities = {
+		1 = arab
+	}
+	graphics = mideast_indian
+}
+
+lumvareth = {
+	color= hsv{ 0.1 0.43 0.56 }
+	religion = elf_nature
+	traits = { iranian_turanian_culture_group middle_eastern_heritage }
+	male_common_first_names={
+		Abbas Abdolazim Abdolhossein Abdolsamad Abolghasem Ahmad Ali 
+		Bahram 
+		Ebrahim Esmail 
+		Fath_Ali Fazlollah
+		Hamzeh Hasan Hossein
+		Kamran Karim
+		Lotf_Ali
+		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		Naser_ed-Din Nosret
+		Reza
+		Sadegh
+	}
+	female_common_first_names = {
+		Asieh
+		Bibi_Khatoom
+		Ghazaleh
+		Marjane Marsha Maryam
+		Sedigheh
+	}	
+	noble_last_names = {
+		al-Saltaneh Alamir Astarabadi Ashtiani
+		Bakhtiari
+		Farmanfarma
+		Hakimi Hedayat
+		Khalatbari 
+		Pirnia
+		Qajar
+	}
+	common_last_names={
+		Airom Ansari Ayrum
+		Buzarjomehri
+		Davallu
+		Esfahani
+		Farhani
+		Jahanbani Jamshidian
+		Kashani Khan Khuzai
+		Meshhedi
+		Nakhchevani
+		Pesyan
+		Rokni
+		Sadegh Shafaei Shahbakhti Shirazi
+		Tabrizi Tahmasebi
+		Zahedi
+	}
+	male_regal_first_names = {
+		Ahmad
+		Fath_Ali Fereydoun
+		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		Naser_ed-Din
+		Sultan_Hamid
+	}
+	ethnicities = {
+		1 = arab
+	}
+	graphics = mideast_indian
+}
+
+#Drow
+aridrun = {
+	color= hsv{ 0.1 0.43 0.56 }
+	religion = elf_southern
+	traits = { iranian_turanian_culture_group middle_eastern_heritage }
+	male_common_first_names={
+		Abbas Abdolazim Abdolhossein Abdolsamad Abolghasem Ahmad Ali 
+		Bahram 
+		Ebrahim Esmail 
+		Fath_Ali Fazlollah
+		Hamzeh Hasan Hossein
+		Kamran Karim
+		Lotf_Ali
+		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		Naser_ed-Din Nosret
+		Reza
+		Sadegh
+	}
+	female_common_first_names = {
+		Asieh
+		Bibi_Khatoom
+		Ghazaleh
+		Marjane Marsha Maryam
+		Sedigheh
+	}	
+	noble_last_names = {
+		al-Saltaneh Alamir Astarabadi Ashtiani
+		Bakhtiari
+		Farmanfarma
+		Hakimi Hedayat
+		Khalatbari 
+		Pirnia
+		Qajar
+	}
+	common_last_names={
+		Airom Ansari Ayrum
+		Buzarjomehri
+		Davallu
+		Esfahani
+		Farhani
+		Jahanbani Jamshidian
+		Kashani Khan Khuzai
+		Meshhedi
+		Nakhchevani
+		Pesyan
+		Rokni
+		Sadegh Shafaei Shahbakhti Shirazi
+		Tabrizi Tahmasebi
+		Zahedi
+	}
+	male_regal_first_names = {
+		Ahmad
+		Fath_Ali Fereydoun
+		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		Naser_ed-Din
+		Sultan_Hamid
+	}
+	ethnicities = {
+		1 = arab
+	}
+	graphics = mideast_indian
+}
