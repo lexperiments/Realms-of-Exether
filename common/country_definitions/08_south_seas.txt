@@ -6,7 +6,7 @@ DEV = {
 
 	tier = grand_principality
 
-	cultures = { dumonian } 
+	cultures = { jazamandroso } 
 	capital = STATE_VAROTSOA
 }
 

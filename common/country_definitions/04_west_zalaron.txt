@@ -7,7 +7,7 @@ RAV = {
 
 	tier = empire
 
-	cultures = { dumonian } 
+	cultures = { ravikian } 
 	capital = STATE_TINKELHOVEN
 }
 
@@ -27,7 +27,7 @@ SNB = {
 GRA = {
 	color = rgb{ 100  160  50 } 
 
-	country_type = unrecognized 
+	country_type = recognized
 
 	tier = kingdom
 

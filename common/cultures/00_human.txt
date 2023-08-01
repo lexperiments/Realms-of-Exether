@@ -438,7 +438,7 @@ vairian = {
 west_thalorian={
 	color= hsv{ 0.40 0.03 0.58 }
 	religion = old_faith
-	traits = { italophone european_heritage }
+	traits = { thalorian_culture_group human_heritage }
 	male_common_first_names={
 		Alessandru
 		Beru
@@ -519,7 +519,7 @@ west_thalorian={
 lake_thalorian = {
 	color= hsv{ 0.12 0.41 0.54 }
 	religion = orthodox
-	traits = { romanian_culture_group european_heritage }
+	traits = { thalorian_culture_group human_heritage }
 	male_common_first_names={
 		Adrian
 		Alexandru
@@ -668,7 +668,7 @@ lake_thalorian = {
 }
 
 #Emerald league
-ocelian ={
+ocelian = {
 	color= rgb{ 164 193 223 }
 	religion = church_of_man
 	traits = { francophone european_heritage }
@@ -735,4 +735,226 @@ ocelian ={
 	ethnicities = {
 		1 = caucasian
 	}
+}
+
+#New Khus
+azmaraan={
+	color={ 62 73 41 }
+	religion = marktarian
+	traits = { new_khussite_culture_group human_heritage }
+
+	# Magic addiction, reflavor opium
+	obsessions = {
+		opium
+	}
+
+	male_common_first_names={
+		Askar
+		Bayymbet
+		Chingiz
+		Ishim
+		Izzat
+		Jangir
+		Kasim
+		Kurman
+		Murat
+		Nasiridin
+		Sadyk
+		Toktogul
+		Torokul
+		Turdakun
+		Vali
+		Zhurahon 
+	}
+	female_common_first_names = {
+		Asylgul 
+		Kuluypa
+		Roza
+		Sabira
+		Tattybubu
+		Toktayum 
+		Zamira
+	}	
+	noble_last_names = {
+		Madali
+		Beg
+		Khan
+	}
+	common_last_names={
+		Boryak
+		Ibraimov
+		Kutebar
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
+}
+
+qinnaat={
+	color={ 83 102 46 }
+	religion = marktarian
+	traits = { new_khussite_culture_group human_heritage }
+	male_common_first_names={
+		Ablai
+		Abu_al-Khayr
+		Aryn
+		Baitursyn
+		Bukei
+		Chokan
+		Dulat
+		Ibirai
+		Isatai
+		Ishim
+		Jangir
+		Kenisary
+		Mashur
+		Murat
+		Nur_Ali
+		Qayip
+		Sadyk
+		Sarzhan
+		Sirim
+		Tenek
+		Tolshan
+		Vali
+	}
+	female_common_first_names = {
+		Aisha
+		Balzhan
+		Bayan
+		Demesh
+		Gulshat
+		Samal
+	}	
+	noble_last_names = {
+		Bukeikhanov
+		Beg
+		Khan
+	}
+	common_last_names={
+		Baitursynov
+		Dulatuli
+		Konanbai_uli
+		Kutebar_uli
+		Muhammad_uli
+		Qasim_uli
+		Shoshak-ula
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
+}
+
+nightwalker = {
+	color={ 30 30 40 }
+	religion = marktarian
+	traits = { khussite_culture_group monstrous_heritage }
+	male_common_first_names={
+		Ablai
+		Abu_al-Khayr
+		Aryn
+		Baitursyn
+		Bukei
+		Chokan
+		Dulat
+		Ibirai
+		Isatai
+		Ishim
+		Jangir
+		Kenisary
+		Mashur
+		Murat
+		Nur_Ali
+		Qayip
+		Sadyk
+		Sarzhan
+		Sirim
+		Tenek
+		Tolshan
+		Vali
+	}
+	female_common_first_names = {
+		Aisha
+		Balzhan
+		Bayan
+		Demesh
+		Gulshat
+		Samal
+	}	
+	noble_last_names = {
+		Bukeikhanov
+		Beg
+		Khan
+	}
+	common_last_names={
+		Baitursynov
+		Dulatuli
+		Konanbai_uli
+		Kutebar_uli
+		Muhammad_uli
+		Qasim_uli
+		Shoshak-ula
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
+}
+
+wastecrawler = {
+	color={ 80 70 40 }
+	religion = marktarian
+	traits = { khussite_culture_group monstrous_heritage }
+	male_common_first_names={
+		Ablai
+		Abu_al-Khayr
+		Aryn
+		Baitursyn
+		Bukei
+		Chokan
+		Dulat
+		Ibirai
+		Isatai
+		Ishim
+		Jangir
+		Kenisary
+		Mashur
+		Murat
+		Nur_Ali
+		Qayip
+		Sadyk
+		Sarzhan
+		Sirim
+		Tenek
+		Tolshan
+		Vali
+	}
+	female_common_first_names = {
+		Aisha
+		Balzhan
+		Bayan
+		Demesh
+		Gulshat
+		Samal
+	}	
+	noble_last_names = {
+		Bukeikhanov
+		Beg
+		Khan
+	}
+	common_last_names={
+		Baitursynov
+		Dulatuli
+		Konanbai_uli
+		Kutebar_uli
+		Muhammad_uli
+		Qasim_uli
+		Shoshak-ula
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
 }

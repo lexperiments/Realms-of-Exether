@@ -1,1 +1,46 @@
-﻿
+﻿jazamandroso = {
+	color= hsv{ 0.35 0.26 0.64 }
+	religion = animist
+	traits = { malagasy_language hellborn_heritage }
+	male_common_first_names={
+		Andriamanely
+		Andriantsirotso
+		Lamboina
+		Ndriantompoinairivo
+		Rabiby
+		Radama
+		Rainilaiarivony
+		Ramasoandro
+		Ratsimivila
+		Tonanahary
+		Tsialana
+		Tsimiharo
+		Zafimamy
+	}
+	female_common_first_names = {
+		Binao
+		Ramasindrazana
+		Rasendranoro
+		Raketaka
+		Razafinandriamanitra
+		Ranavalona
+		Tahina
+	}	
+	noble_last_names = {
+		Bemihisatra
+		Ramavo
+		Hova
+	}
+	common_last_names={
+		Andriamahazo
+		Ramanantsoa
+		Ratsimandrava
+		Ratsiraka
+		Tsiranana
+		Razafindramary
+	}
+	ethnicities = {
+		1 = polynesian
+	}
+	graphics = generic
+}

@@ -4,3 +4,21 @@
 #}
 
 #####################
+
+new_khussite_culture_group={
+}
+
+settler_coast_culture_group={
+}
+
+dumonian_culture_group={
+}
+
+gavkhani_culture_group={
+}
+
+thalorian_culture_group={
+}
+
+khussite_culture_group={
+}
