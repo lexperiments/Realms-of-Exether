@@ -1,7 +1,7 @@
-﻿eagle ={
+﻿whitefeather = {
 	color= hsv{ 0.12 0.56 0.86 }
 	religion = mountain_worship
-	traits = { iberian_culture_group european_heritage }
+	traits = { east_aritzakarri_culture_group bird_heritage }
 	male_common_first_names={
 		Agustin
 		Aitor
@@ -113,4 +113,551 @@
 	ethnicities = {
 		1 = caucasian
 	}
+}
+
+plumesong = {
+	color= hsv{ 0.07 0.56 0.86 }
+	religion = mountain_worship
+	traits = { iberian_culture_group bird_heritage }
+	male_common_first_names={
+		Albert
+		Alexandre
+		Alfons
+		Alfonso
+		Andreu
+		Andres
+		Antoni
+		Arcadi
+		Carles
+		Cassia
+		Dalmau
+		David
+		Eduard
+		Enric
+		Enrique
+		Federico
+		Felip
+		Fernando
+		Ferran
+		Francesc
+		Gaspar
+		Gerard
+		Isaac
+		Jacint
+		Jaume
+		Joan
+		Jordi
+		Josep
+		Jose
+		Juan
+		Llorenc
+		Lluis
+		Manel
+		Manuel
+		Marc
+		Melchor
+		Miquel
+		Narcis
+		Pasqual
+		Pau
+		Pedro
+		Pere
+		Pompeu
+		Rafael_2
+		Rafel
+		Ramon_2
+		Ricardo
+		Salvador
+		Sergi
+		Valnti
+		Victor
+		Xavier
+	}
+	female_common_first_names = {
+		Ana
+		Assumpcio
+		Carolina
+		Carme
+		Dolores
+		Ester
+		Josefina
+		Isabel
+		Lluisa
+		Maria
+		Rosa
+		Susana
+	}	
+	noble_last_names = {
+		d_Areny-Plandolit
+		de_Llauder_i_Dalmases
+		de_Mas_i_Nadal
+		de_Suelves_i_de_Montagut
+		Ferrer
+		Folc_de_Cardona
+		Guell
+		Janer
+		Junyent
+		Lopez_i_Bru
+		Milans_del_Bosch
+	}
+	common_last_names={
+		Albeniz
+		Alier
+		Almirall
+		Bacardi
+		Batet
+		Berenguer
+		Bonaplanta
+		Borrell
+		Borras
+		Cadafall
+		Carner
+		Casals
+		Casanova
+		Castello
+		Claramunt
+		Cucala
+		Cugat
+		Dalmau
+		Despujol
+		Domenech
+		Escotet
+		Escoda
+		Fabra
+		Fages
+		Gumera
+		Irla
+		Jevelli
+		Llauder
+		Macia
+		Maragall
+		Margall
+		Miro
+		Mompou
+		Montaner
+		Moragues
+		Moret
+		Nebot
+		Nin
+		Oller
+		Prat
+		Prim
+		Puig
+		Riba
+		Roig
+		Sala
+		Saliquet
+		Savalls
+		Serra
+		Sor
+		Tristany
+		Verdaguer
+		Vidal
+		Virigili
+		Vives
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
+cliffpercher = {
+	color= hsv{ 0.52 0.51 0.75 }
+	religion = mountain_worship
+	traits = { iberian_culture_group lusophone bird_heritage }
+	male_common_first_names={
+		Abel
+		Adriano
+		Afonso
+		Alberto
+		Alexandre
+		Alfredo
+		Andre
+		Antonio_2
+		Aquilino
+		Artur
+		Augusto
+		Bartolomeu
+		Bernardo
+		Bruno
+		Caetano
+		Carlos
+		Christovao
+		Claudio_2
+		Candido
+		Damiao
+		Daniel
+		David
+		Dinis
+		Diogo
+		Duarte
+		Ernesto
+		Estevao
+		Eugenio
+		Fernando
+		Filipe
+		Francisco
+		Francisco_Xavier
+		Gastao
+		Hermenegildo
+		Ignacio_2
+		Jeronimo
+		Joaquim
+		Jorge
+		Jose
+		Joao
+		Julio_2
+		Leopoldo
+		Luis_2
+		Manuel
+		Miguel
+		Mario_2
+		Nicolau
+		Nuno
+		Orlando
+		Pascoal
+		Paulo
+		Pedro
+		Rafael_2
+		Raul
+		Roberto
+		Rodrigo
+		Rui
+		Santiago
+		Sebastiao
+		Teodoro
+		Teofilo
+		Tiago
+		Tome
+		Urbano
+		Vasco
+		Vicente
+		Vitorino
+		Vitorio
+		Alvaro
+		Oscar_2
+	}
+	female_common_first_names = {
+		Adelgundes
+		Ana
+		Antonia_2
+		Avelina
+		Benedita
+		Bernardina
+		Carlota
+		Eulalia_2
+		Francisca
+		Gabriela
+		Isabel
+		Joana
+		Joaquina
+		Josefa
+		Leopoldina
+		Maria
+		Micaela
+		Rafaela
+		Rita
+		Rosa
+		Rosalia
+		Sofia
+		Teresa
+	}	
+	noble_last_names = {
+		Correia_de_Sa
+		Costa
+		da_Cunna
+		da_Silva_Pereira
+		de_Almada
+		de_Braganza
+		de_Braganca-Coburgo
+		Carballo
+		de_Caula
+		de_Oliveira
+		de_Queiros
+		de_Sousa
+		de_Sousa_Coutinno
+		de_Vasconcelos
+		dos_Anxos
+		Rangel
+		Rebelo
+		Vilela
+	}
+	common_last_names={
+		Amaral
+		Barreto
+		Bleck
+		Braga
+		Cabral
+		Capelo
+		Carmona
+		Coelho
+		Correia
+		Coutinho
+		Dias
+		Fernandes
+		Ferreira
+		Figueira
+		Freire_de_Andrade
+		Gago
+		Gil
+		Gomes
+		Herculano
+		Ivens
+		Keil
+		Lopes
+		Machado
+		Magalhaes
+		Mendes
+		Moniz
+		Mouzinho
+		Nogueira
+		Nunes
+		Ortigao
+		Pereira
+		Pinheiro
+		Pinto
+		Pires
+		Pomar
+		Pulido
+		Queiroz
+		Quintanilha
+		Ribeiro
+		Rodrigues
+		Salazar
+		Sampaio
+		Silveira
+		Sergio_2
+		Tavares
+		Teixeira
+		Vidigal
+		Vieira
+		da_Silva
+		de_Almeida
+		de_Arriaga
+		de_Castro
+		de_Gusmao
+		de_Lacerda
+		de_Mesquita
+		de_Moura
+		de_Noronha
+		de_Paiva
+		dos_Reis
+		dos_Santos
+	}
+	ethnicities = {
+		1 = caucasian
+	}
+	graphics = european
+}
+
+sandcircler = {
+	color= hsv{ 0.94 0.27 0.87 }
+	religion = animist
+	traits = { indigenous_american_heritage north_american_group }
+	male_common_first_names={
+		Aurelio
+		Camilo
+		Estanislao
+		Kagama
+		Numaga
+		Pahninee
+		Tau-Gu
+		Tenaya
+		Tutsegabit
+		Virgil
+	}
+	female_common_first_names = {
+		Anna
+		Aurelia
+		Candida
+		Cayetana
+		Elena
+		Julia
+		Louisa
+		Mineru
+		Omesia
+		Pamahas
+	}	
+	noble_last_names = {
+		Ahwahne
+		Chochenyo
+		Cucunuchi
+		Gashowu
+		Lakisamni
+		Okwanuchu
+		Tawalimnu
+		Winnemucca
+		Wukchumni
+		Ynitia
+	}
+	common_last_names={
+		Abinanti
+		Aguilar
+		Follis
+		Masten
+		Parker
+		Perez
+		Pico
+		Sandoval
+		Sarris
+		Telles
+		Teyoc
+		Thom
+		Tillohash
+	}
+	ethnicities = {
+		1 = native_american
+	}
+	graphics = generic
+}
+
+
+blacktalon = {
+	color= hsv{ 0.72 0.25 0.28 }
+	religion = death_worship
+	traits = { finnic baltic_culture_group bird_heritage }
+	male_common_first_names={
+		Aadu
+		Alar
+		Aleksander
+		Andrus
+		Artur
+		August
+		Bernard
+		Dmitri
+		Eduard
+		Eerik
+		Elmar
+		Ernst
+		Georg
+		Gustav
+		Haman
+		Harri
+		Heino
+		Hendrik
+		Hjalmar
+		Ivari
+		Jaan
+		Jakob
+		Johannes
+		Joosep
+		Juhan
+		Julius
+		Juri
+		Kaarel
+		Kalev
+		Konstantin
+		Lennart
+		Ludvig
+		Madis
+		Mart
+		Mikhel
+		Nigul
+		Olev
+		Paavo
+		Peeter
+		Pent
+		Ragnar
+		Siiri
+		Sven
+		Tarmo
+		Toomas
+		Tonis
+		Uno
+		Valmar
+		Villwm
+		Voldemar
+	}
+	female_common_first_names = {
+		Aino
+		Anna
+		Astrid
+		Caroline
+		Doris
+		Dorothea
+		Jutta
+		Mari
+		Marta
+	}	
+	noble_last_names = {
+		Angelus
+		Brede
+		Kopp
+		Kukk
+		Leesment
+		Rahamagi
+		von_Ditmar
+		von_Schilling
+		von_Stackelberg
+		von_zur-Muhlen
+	}
+	common_last_names={
+		Aamisepp
+		Aavik
+		Adams
+		Anvel
+		Barbarus
+		Bornhohe
+		Eenpalu
+		Hint
+		Hurt
+		Irv
+		Jaakson
+		Jekelius
+		Jervan
+		Kalm
+		Kangro
+		Kint
+		Klaasen
+		Klumberg
+		Koern
+		Kogerman
+		Kotli
+		Kranig
+		Kumari
+		Kupine
+		Kuulmata
+		Kuusik
+		Koiv
+		Laidoner
+		Laretei
+		Leppik
+		Lipping
+		Lohk
+		Moora
+		Mae
+		Mannil
+		Natus
+		Nurkse
+		Nurmekund
+		Orkivu
+		Perna
+		Piiper
+		Poska
+		Puusepp
+		Pats
+		Poopuu
+		Rei
+		Reinman
+		Rank
+		Siinmaa
+		Sikkar
+		Sirk
+		Strandman
+		Tonisson
+		Uluots
+		Vaga
+		Veske
+		Vilbaste
+		Vilms
+		Warma
+		von_Uexkull
+		Okva
+		Opik
+	}
+	ethnicities = {
+		1 = slavic
+	}
+	graphics = european
 }

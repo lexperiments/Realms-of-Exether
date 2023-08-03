@@ -32,17 +32,3 @@
 
 #####################
 
-DUM = {
-	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
-	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
-	textured_emblem = { #Adds a textured emblem.
-		texture = "te_coa_bahamas.dds" #From gfx\coat_of_arms\textured_emblems
-		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
-	}
-	colored_emblem = { #Adds a colored emblem.
-		texture = "ce_coa_frame_costa_rica.dds" #From gfx\coat_of_arms\textured_emblems
-		color1 = "red"
-		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
-		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
-	}
-}

@@ -22,3 +22,7 @@ thalorian_culture_group={
 
 khussite_culture_group={
 }
+
+east_aritzakarri_culture_group={
+	
+}

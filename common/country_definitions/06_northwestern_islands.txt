@@ -9,3 +9,15 @@ DIS = {
 	cultures = { dumonian } 
 	capital = STATE_CARTHAROS
 }
+
+#Nyctoskyria
+NRA = {
+	color = rgb{ 50 60 50 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { blacktalon } 
+	capital = STATE_SYLVARIN
+}

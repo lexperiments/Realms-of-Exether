@@ -9,3 +9,5 @@ CRG = {
 	cultures = { dumonian } 
 	capital = STATE_ARTEAGA
 }
+
+

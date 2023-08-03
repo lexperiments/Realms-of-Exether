@@ -545,10 +545,10 @@ add_homeland = dumonian
 
 s:STATE_SYLVARIN = {
 	create_state = {
-		country = c:DUM
+		country = c:NRA
 		owned_provinces = { "x57BDE5" "x63F2FE" "x69F9D9" "x6DDEB2" "x87A6EA" "x87D5B0" "x96D2B7" "xA0CEA2" "xB8D4E8" "xC884B3" "xD2D851" "xD5D083" "xDFC9DF" "xE67D9B" "xE78BE1" "xEBCED3" "xEDB477" "xF7ADF4" }
 }
-add_homeland = dumonian
+add_homeland = blacktalon
 }
 
 s:STATE_NUORAID = {
@@ -665,10 +665,10 @@ add_homeland = dumonian
 
 s:STATE_LUMINEVRA = {
 	create_state = {
-		country = c:DUM
+		country = c:NRA
 		owned_provinces = { "x6EDEC8" "x92B8F2" "x9CCAAC" "xA8EA91" "xB366DD" "xB3D9FE" "xB986E2" "xC1E080" "xD0C382" "xD4EC43" "xE394B4" "xECD370" "xF7E5B8" "xFB27DF" }
 }
-add_homeland = dumonian
+add_homeland = blacktalon
 }
 
 s:STATE_ELVERLEAF = {
@@ -681,10 +681,10 @@ add_homeland = dumonian
 
 s:STATE_AIGAI = {
 	create_state = {
-		country = c:DUM
+		country = c:NRA
 		owned_provinces = { "x36EFFA" "x75F2D8" "x7BC4B9" "xA2E7A4" "xB4BDB3" "xCDCAF9" "xD2E8AC" "xD38CBC" "xD8ECBA" "xDBABD7" "xDBFADA" "xECB7DF" "xF0EBD7" "xF48F7D" }
 }
-add_homeland = dumonian
+add_homeland = blacktalon
 }
 
 s:STATE_SAMIEL = {

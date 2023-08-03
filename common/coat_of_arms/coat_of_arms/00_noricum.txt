@@ -15,72 +15,16 @@
 
 #Dumonia
 DUM = {
-	color = rgb{ 195  0  0 } #The colour of this country on the map.
-
-	country_type = recognized #See common\country_types
-
-	tier = empire #See common\country_ranks
-
-	cultures = { dumonian } #What are their primary culture/s - you can set multiple.
-	capital = STATE_CROWNPEAK #Which state holds this nation's default capital
-}
-
-#Cult of Aumaunator
-AUM = {
-	color = rgb{ 200  100  0 } 
-
-	country_type = recognized 
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_TEMPLE_HILL 
-}
-
-#Yanger Horde
-YAN = {
-	color = rgb{ 100  200  0 } 
-
-	country_type = recognized 
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_RIDERS_MOOT
-}
-
-#Ravencliff
-RVC = {
-	color = rgb{ 70  0  80 } 
-
-	country_type = recognized
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_RAVENCLIFF
-}
-
-#Hag Marshes
-HAG = {
-	color = rgb{ 50  100  70 } 
-
-	country_type = monstrous
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_HAG_MARSHES
-}
-
-#Icewind, change name
-ICE = {
-	color = rgb{ 200  200  255 } 
-
-	country_type = recognized
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_ICEWIND
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+	textured_emblem = { #Adds a textured emblem.
+		texture = "te_coa_bahamas.dds" #From gfx\coat_of_arms\textured_emblems
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
+	colored_emblem = { #Adds a colored emblem.
+		texture = "ce_coa_frame_costa_rica.dds" #From gfx\coat_of_arms\textured_emblems
+		color1 = "red"
+		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
+		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+	}
 }

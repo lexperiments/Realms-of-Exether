@@ -30,8 +30,8 @@ ANW = {
 
 	tier = grand_principality
 
-	cultures = { dumonian } 
-	capital = s:STATE_EXETHERS_CRADLE
+	cultures = { anwarthi } 
+	capital = STATE_EXETHERS_CRADLE
 }
 
 #Emerald League

@@ -744,14 +744,6 @@ s:STATE_HAYAKHAMURA = {
 	add_homeland = dumonian
 }
 
-s:STATE_SOLVIK = {
-create_state = {
-country = c:DUM
-owned_provinces = { "x59EBEF" "x65D5EB" "x8FC0B7" "xB083D5" "xCB84C6" "xD497CA" "xD8E894" "xEECF97" "xF338F9" "xF472FC" "xF78AD8" "xF7F38A" "xFAFA7F" "xFB69DC" }
-}
-add_homeland = dumonian
-}
-
 s:STATE_BRISINGAMEN = {
 create_state = {
 country = c:DUM

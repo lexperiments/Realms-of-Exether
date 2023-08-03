@@ -15,7 +15,7 @@
 church_of_man = {
 	texture = "gfx/interface/icons/religion_icons/catholic.dds"
 	traits = {
-		human
+		human uriks_pantheon
 	}
 	color = { 0.8 0.6 0.4 }
 }
@@ -40,7 +40,7 @@ old_faith = {
 cult_of_the_sun = {
 	texture = "gfx/interface/icons/religion_icons/orthodox.dds"
 	traits = {
-		christian
+		uriks_pantheon
 	}
 	color = { 0.62 0.64 0.6 }
 }
@@ -61,7 +61,7 @@ druidic = {
 	color = { 0.1 0.5 0.3 }
 	
 	taboos = {
-		liquor wine
+		meat
 	} 
 }
 
@@ -145,6 +145,10 @@ orc_father = {
 		eastern
 	}
 	color = { 0.5 1 0.1 }
+
+	taboos = {
+		fruit
+	} 
 }
 
 orc_mother = {
@@ -179,3 +183,59 @@ marktarian = {
 	color = { 0.3 0.1 0.2 }
 }
 
+giant_hierarchy = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.3 0.8 0.2 }
+}
+
+mortals_burden = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.9 0.2 0.2 }
+}
+
+
+death_worship = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.9 0.2 0.2 }
+}
+
+dwarven_dark_magic = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.9 0.2 0.2 }
+}
+
+dwarven_dark_magic = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		eastern
+	}
+	color = { 0.9 0.2 0.2 }
+}
+
+cult_of_the_sea = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		uriks_pantheon
+	}
+	color = { 0.9 0.2 0.2 }
+}
+
+cult_of_war = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		uriks_pantheon
+	}
+	color = { 0.9 0.2 0.2 }
+}

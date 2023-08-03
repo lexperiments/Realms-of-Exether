@@ -44,3 +44,53 @@
 	}
 	graphics = generic
 }
+
+#Githzerai
+chumake = {
+	color= rgb{ 132 121 86 }
+	religion = gelugpa
+	
+	obsessions = {
+		tea
+	}
+	
+	traits = { tibetan_language himalayan east_asian_heritage }
+	male_common_first_names={
+		Andruk
+		Chamba
+		Gendun
+		Jamphel
+		Mipham
+		Namgang
+		Norbhu
+		Penor
+		Trimon
+		Tsarong
+		Tsepon
+	}
+	female_common_first_names = {
+		Jamyang
+		Lhakpa
+		Ngawang
+		Phuntsog
+		Tsewang
+	}	
+	noble_last_names = {
+		Lhalu
+		Ngapoi
+	}
+	common_last_names={
+		Chophel
+		Dzasa
+		Lungshar
+		Rinpoche
+		Shakabpa
+		Shatra
+		Tashi
+		Wangyal
+	}
+	ethnicities = {
+		1 = asian
+	}
+	graphics = asian
+}
