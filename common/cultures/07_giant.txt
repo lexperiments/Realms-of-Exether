@@ -71,6 +71,79 @@
 	}
 }
 
+fire_giant ={
+	color= hsv{ 0.74 0.46 0.58 }
+	religion = giant_hierarchy
+	traits = { scandinavian_culture_group giant_heritage }
+	male_common_first_names={
+		Agnar
+		Bjorn_2
+		Eidur
+		Einar
+		Emil
+		Geir
+		Gudmund
+		Gunnar
+		Hannes
+		Hermann
+		J_On
+		Kristjan
+		Magnus_2
+		Petur
+		Sigurdur
+		Stefan_2
+		Sveinn
+		Tryggvi
+		Asgeir
+		Olafur
+		Steingrimur
+		Hallgrimur
+	}
+	female_common_first_names = {
+		Agnes
+		Briet
+		Hansina
+		Regina
+		Rosa
+		Steinunn
+		Thorfhildur
+		Vilhelmina
+	}	
+	noble_last_names = {
+		Hielmstierne
+		Petursson
+		Sveinsson
+		Thorberg
+		Thordersen
+		Vidalin
+	}
+	common_last_names={
+		Arnorsson
+		Benediktsson
+		Bjarnasen
+		Bjornsson
+		Eggers
+		Eldjarn
+		Hafstein
+		Hansen
+		Hermannsson
+		Johanesson
+		Jonsson
+		Magnusson
+		Stefansson
+		Steinthosson
+		Thorlaksson
+		Thurs
+		Thordarson
+		Thorhallson
+		Asgeirsson
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+
 grendleth = {
 	color={ 72 79 127 }
 	religion = giant_hierarchy
@@ -224,4 +297,151 @@ cloud_giant={
 		1 = circumpolar
 	}
 	graphics = asian
+}
+
+wood_giant={
+	color= hsv{ 0 0.51 0.86 }
+	religion = druidic
+	traits = { scandinavian_culture_group giant_heritage }
+	male_common_first_names={
+		Aasmund
+		Aage
+		Adam
+		Alber
+		Anders
+		Axel
+		Carl
+		Christian
+		Edvard
+		Edvin
+		Erik
+		Folke
+		Frederik
+		Georg
+		Hannibal
+		Hans
+		Henrik
+		Herman
+		Hugo
+		Ivar
+		Jacob
+		Johan
+		Julius
+		Knud
+		Ludvig
+		Magnus
+		Michael
+		Niels
+		Olav
+		Otto
+		Peter
+		Poul
+		Sigurd
+		Sven
+		Tage
+		Thomas
+		Thorvald
+		Ukrik
+		Valdemar
+		Vilhelm
+	}
+	female_common_first_names = {
+		Amalie
+		Anna
+		Annestine
+		Caroline
+		Catharine
+		Charlotte
+		Dagmar
+		Dorothea
+		Eleonore
+		Elisabeth
+		Frederikke
+		Irene
+		Louise
+		Regine
+		Thyra
+		Ulrikke
+		Vilhelmine
+	}	
+	noble_last_names = {
+		af_Danneskiold-Samsoe
+		Barnekow
+		Bernstorff
+		de_Neergaard
+		Gyldenstierne 
+		Kaas
+		Reventlow
+		Rosenkrantz
+		Trampe
+		Treschow
+		Trolle
+		Valkendorf
+		von_Baudissin
+		von_Falkenskiold 
+		von_Holstein
+		von_Krogh
+		von_Oldenburg
+		von_Sievers
+		Wichfeld
+		Vogelius
+		Steenstrup
+		Brock
+
+	}
+	common_last_names={
+		Ahlefeldt
+		Asp-Persson
+		Bang
+		Berger
+		Bonde
+		Carlsen
+		Dannemand
+		Danneskjold-Samso
+		Eberlin
+		Falsen
+		Folsach
+		Gyldenfeldt
+		Guntelberg
+		Haack
+		Hambro
+		Haxthausen
+		Juul
+		Klauman
+		Krogh
+		Laessoe
+		Leuenbach
+		Lovenbalk
+		Michaelsen
+		Mylius
+		Neergaard
+		Obelitz
+		Oxholm
+		Schack-Schackenborg
+		Stemman
+		Suenson
+		Thygeson
+		Trampe
+		Urne
+		Wadenstierna
+		Wedel-Heinen
+		Zytphen-Adeler
+		de_Meza
+	}
+	male_regal_first_names = {
+		Christian
+		Frederik
+	}
+	female_regal_first_names = {
+		Alexandrine
+		Amalie
+		Charlotte_Frederica
+		Ingrid
+		Louise
+		Margrethe
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
 }

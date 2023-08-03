@@ -1,4 +1,4 @@
-﻿#Crag Eagles
+﻿#Orrazki
 CRG = {
 	color = rgb{ 100 100 100 } 
 
@@ -6,8 +6,42 @@ CRG = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { cliffpercher } 
 	capital = STATE_ARTEAGA
 }
 
+#Aitzkora
+AIZ = {
+	color = rgb{ 30 20 180 } 
 
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { whitefeather } 
+	capital = STATE_LURRA
+}
+
+#Kolvatch
+KCH = {
+	color = rgb{ 175 175 75 } 
+
+	country_type = unrecognized 
+
+	tier = grand_principality
+
+	cultures = { sandcircler } 
+	capital = STATE_BATOHAIN
+}
+
+#Pomoria
+POA = {
+	color = rgb{ 200 200 150 } 
+
+	country_type = unrecognized 
+
+	tier = grand_principality
+
+	cultures = { sandcircler } 
+	capital = STATE_HIRUMENDI
+}

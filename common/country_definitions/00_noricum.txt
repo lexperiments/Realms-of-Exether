@@ -69,7 +69,7 @@ RVC = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { meriwyn } 
 	capital = STATE_RAVENCLIFF
 }
 
@@ -81,7 +81,7 @@ HAG = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { hag } 
 	capital = STATE_HAG_MARSHES
 }
 
@@ -194,6 +194,65 @@ SJA = {
 	capital = STATE_HALSTEAD
 }
 
+#Frostforge
+FFG = {
+	color = rgb{ 150  150  5 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { fire_giant  } 
+	capital = STATE_VIGAKULL
+}
+
+#Ignisheim
+IGM = {
+	color = rgb{ 150  50  105 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { fire_giant  } 
+	capital = STATE_BRISINGAMEN
+}
+
+#Pyrehold
+PYH = {
+	color = rgb{ 255  10  45 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { fire_giant  } 
+	capital = STATE_FORRTORP
+}
+
+#Scaldria
+SCL = {
+	color = rgb{ 200  120  15 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { fire_giant  } 
+	capital = STATE_RAGNARKULL
+}
+
+#Cryochar
+CRY = {
+	color = rgb{ 250  15  15 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { fire_giant } 
+	capital = STATE_HERVIK
+}
 #Hrafnheim
 HRA = {
 	color = rgb{ 240  150  175 } 
@@ -244,7 +303,7 @@ SRT = {
 
 #Grimhall
 GRL = {
-	color = rgb{ 170  240  175 } 
+	color = rgb{ 170  170  175 } 
 
 	country_type = unrecognized
 
@@ -252,6 +311,42 @@ GRL = {
 
 	cultures = {  frost_giant  } 
 	capital = STATE_HLIDSKJALF
+}
+
+#Eldergirth
+ERT = {
+	color = rgb{ 170  40  175 } 
+ 
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = {  frost_giant  } 
+	capital = STATE_EIRIKSHOF
+}
+
+#Stronghenge
+SGE = {
+	color = rgb{ 200  140  105 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = {  frost_giant  } 
+	capital = STATE_DRAGONBANE_TUNDRA
+}
+
+#Canyonwall Titans
+CTI = {
+	color = rgb{ 230  40  15 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = {  frost_giant  } 
+	capital = STATE_HALDORHEIMR
 }
 
 #Skysplitter
@@ -301,6 +396,42 @@ CAO = {
 
 	cultures = { glethach } 
 	capital = STATE_DRUMAGAR
+}
+
+#Srioman
+SRO = {
+	color = rgb{ 170  10  35 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { glethach } 
+	capital = STATE_ANGERTORP
+}
+
+#Uaine Fuar
+UAR = {
+	color = rgb{ 10  10  235 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { glethach } 
+	capital = STATE_EINHERJARHOLT
+}
+
+#Ard Siorbhan
+ASI = { 
+	color = rgb{ 70  80  135 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { glethach } 
+	capital = STATE_FRIGGASVEIT
 }
 
 #Gaothgath
@@ -361,4 +492,139 @@ BFU = {
 
 	cultures = { glethach } 
 	capital = STATE_BALATHOUL
+}
+
+#Drysgolmark
+DRK = {
+	color = rgb{ 80  50  85 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { meriwyn } 
+	capital = STATE_CASTELL_DRYSGOLMARK
+}
+
+#Jurian's Inquisition
+JUR = {
+	color = rgb{ 180  200  35 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	religion = cult_of_the_sun
+
+	cultures = { dumonian } 
+	capital = STATE_HUNTERS_HILL
+}
+
+#Witchwood
+WIT = {
+	color = rgb{ 180  200  35 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { hag } 
+	capital = STATE_HUNTERS_HILL
+}
+
+#Hexmoor
+HEX = {
+	color = rgb{ 80  2  35 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { hag } 
+	capital = STATE_TOLFAR
+}
+
+#Dovedale
+DOV = {
+	color = rgb{ 200 200  200 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	religion = church_of_man
+	cultures = { meriwyn } 
+	capital = STATE_KIRDON
+}
+
+#Rosecroft
+ROF = {
+	color = rgb{ 200  50  50 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { meriwyn } 
+	capital = STATE_BANCFAN
+}
+
+#Foxworth 
+FOX = {
+	color = rgb{ 250  65  0 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { meriwyn } 
+	capital = STATE_INCHMARA
+}
+
+#Brackenshire
+BIE = {
+	color = rgb{ 75  75  0 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { avalorean } 
+	capital = STATE_KENLYNE
+}
+
+#Mistbourne
+MBR = {
+	color = rgb{ 10  75  150 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { avalorean } 
+	capital = STATE_GLASLIESH
+}
+
+#Everglen
+EVR = {
+	color = rgb{ 10  105  0 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { avalorean } 
+	capital = STATE_KENLYNE
+}
+
+#Pinetender
+PTD = {
+	color = rgb{ 10  125  0 } 
+
+	country_type =decentralized
+
+	tier = principality
+
+	cultures = { wood_giant } 
+	capital = STATE_WHISPERPINE_WOODS
 }

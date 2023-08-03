@@ -1,1 +1,58 @@
-﻿
+﻿hag = { # Ute and Shoshone
+	color= hsv{ 0.06 0.39 0.80 }
+	religion = animist
+	traits = { monstrous_heritage north_american_group }
+	male_common_first_names={
+		Antonga
+		Arapeen
+		Canalla
+		Cameahwait
+		Colorow
+		Guero
+		Ignacio
+		Kanosh
+		Ouray
+		Owitze
+		Paseego
+		Pinquanah
+		Pocatello
+		Posey
+		Sanpitch
+		Sapiah
+		Sapinero
+		Severo
+		Tabby-To-Hwanah
+		Tse-Ne-Gat
+		Walkara
+		Washakie
+		Wirasuap
+	}
+	female_common_first_names = {
+		Chipeta
+		Nanawu
+		Pearl
+		Shawsheen
+		Wenega
+	}	
+	noble_last_names = {
+		House
+		Timbimboo
+		Timpanog
+		Tussawehee
+		Umatilla
+	}
+	common_last_names={
+		Box
+		Daggett
+		Estep
+		Manning
+		Rael
+		Teton
+		Trahant
+		Trudell
+	}
+	ethnicities = {
+		1 = native_american
+	}
+	graphics = generic
+}

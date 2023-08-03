@@ -111,7 +111,7 @@ TUF = {
 
 #Mjekëtor
 MJE = {
-	color = rgb{ 175 15 175 } 
+	color = rgb{ 100 150 75 } 
 
 	country_type = unrecognized 
 
