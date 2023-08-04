@@ -2,11 +2,11 @@
 DIS = {
 	color = rgb{ 200 100 150 } 
 
-	country_type = unrecognized 
+	country_type = recognized 
 
 	tier = kingdom
 
-	cultures = { dumonian } 
+	cultures = { illvasaari } 
 	capital = STATE_CARTHAROS
 }
 
@@ -20,4 +20,112 @@ NRA = {
 
 	cultures = { blacktalon } 
 	capital = STATE_SYLVARIN
+}
+
+#Gurabzemi
+GUR = {
+	color = rgb{ 100 56 100 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_MYSARA
+}
+
+#Ialolaur
+IAL = {
+	color = rgb{ 40 86 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_RUSARYA
+}
+
+#Svandrin
+SRN = {
+	color = rgb{ 0 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_GADYRUS
+}
+
+#Kvavilak
+KVA = {
+	color = rgb{ 100 56 40 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_CYRRA
+}
+
+#Mesksarvi
+MVI = {
+	color = rgb{ 56 56 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_BYSSYRA
+}
+
+#Tushilkor
+TKR = {
+	color = rgb{ 230 56 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_HADRA
+}
+
+#Rkoniqari
+RKO = {
+	color = rgb{ 230 56 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_KURTHARA
+}
+
+#Imerumar
+IMR = {
+	color = rgb{ 230 56 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_ZAMARA
+}
+
+#Megrelfen
+MGR = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { mgzavri } 
+	capital = STATE_BREZHKE
 }

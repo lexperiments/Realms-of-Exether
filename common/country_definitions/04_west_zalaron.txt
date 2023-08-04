@@ -120,3 +120,136 @@ MJE = {
 	cultures = { xhurlob } 
 	capital = STATE_LUMADHIA
 }
+
+#Thracovya
+THY = {
+	color = rgb{ 150 50 75 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { lake_thalorian } 
+	capital = STATE_VONKENDAM
+}
+
+#Dunavara
+DNV = {
+	color = rgb{ 80 120 175 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { lake_thalorian } 
+	capital = STATE_STORMHOLM
+}
+
+#Vranceana
+VRC = {
+	color = rgb{ 100 150 125 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { lake_thalorian } 
+	capital = STATE_BRIGHTWATER
+}
+
+#Oltora
+OLT = {
+	color = rgb{ 100 50 175 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { lake_thalorian } 
+	capital = STATE_STONEHAVEN
+}
+
+#Oltora
+OLT = {
+	color = rgb{ 100 50 175 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { west_thalorian } 
+	capital = STATE_STONEHAVEN
+}
+
+#Ardwen
+ARD = {
+	color = rgb{ 0 100 240 } 
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { west_thalorian } 
+	capital = STATE_AMBERWICK
+}
+
+#Bajdut
+BDT = {
+	color = rgb{ 0 150 105 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { west_thalorian } 
+	capital = STATE_HOLLOWBROOK
+}
+
+
+#Sanbahar
+SBH = {
+	color = rgb{ 100 50 175 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { west_thalorian } 
+	capital = STATE_VALORN
+}
+
+#Kvararag
+KVG = {
+	color = rgb{ 120 70 15 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { rethrashar } 
+	capital = STATE_KERCOVA
+}
+
+#Lazituluk
+LAZ = {
+	color = rgb{ 60 90 195 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { rethrashar } 
+	capital = STATE_GLENWOOD
+}
+
+#Dahra
+DHR = {
+	color = rgb{ 140 70 175 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { west_thalorian } 
+	capital = STATE_WINDMERE
+}

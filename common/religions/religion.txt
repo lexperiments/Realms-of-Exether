@@ -239,3 +239,19 @@ cult_of_war = {
 	}
 	color = { 0.9 0.2 0.2 }
 }
+
+draconic_oath = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		uriks_pantheon
+	}
+	color = { 0.9 0.2 0.2 }
+}
+
+dragonbone_worship = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = {
+		uriks_pantheon
+	}
+	color = { 0.9 0.2 0.2 }
+}

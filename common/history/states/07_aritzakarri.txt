@@ -378,10 +378,10 @@ add_homeland = dumonian
 
 s:STATE_MALKART = {
 	create_state = {
-		country = c:DUM
+		country = c:LAZ
 		owned_provinces = { "x66C4FA" "x67EBCE" "xA6DC73" "xA8DAD7" "xD9E5F5" "xE27AA3" "xEBDDB4" "xEEF1D1" "xF8CED8" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_IRUBIDE = {
@@ -394,10 +394,10 @@ add_homeland = whitefeather
 
 s:STATE_SUTAN = {
 	create_state = {
-		country = c:DUM
+		country = c:LAZ
 		owned_provinces = { "x6CCED3" "x996CF2" "xBF56F3" "xBFFAA8" "xC5ABDD" "xD296A0" "xD4F789" "xD8CFC6" "xDABF82" "xE6C673" "xF3F484" "xF85FCF" "xF89B79" "xF9A7AC" "xFAA58B" "xFAD6F1" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_BIZI = {
@@ -434,18 +434,18 @@ add_homeland = dumonian
 
 s:STATE_KOILARRA = {
 	create_state = {
-		country = c:DUM
+		country = c:LAZ
 		owned_provinces = { "x53F6C1" "x65DBB8" "x77F199" "x8782F2" "x94DCC5" "xB1E677" "xB4EAF4" "xBEB4E0" "xBFE08A" "xCB95CA" "xCD8FD6" "xE6DBA8" "xEAF56B" "xED30E2" "xF2DAF8" "xF8EF5D" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_TXINPART = {
 	create_state = {
-		country = c:DUM
+		country = c:KHE
 		owned_provinces = { "x5DDDC2" "x79BBE9" "x9AC9D3" "xA7E86D" "xB7E0BF" "xBDFBF6" "xC4EBA6" "xC578ED" "xD9E7BE" "xDBB0CE" "xE4E68B" "xEAA1B7" "xEBB662" "xEE21F9" "xF0D780" "xFBD4DD" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_GIPUZK = {
@@ -458,10 +458,10 @@ add_homeland = dumonian
 
 s:STATE_BIHAR = {
 	create_state = {
-		country = c:DUM
+		country = c:KHE
 		owned_provinces = { "x95ABB8" "x9CEF88" "x9DBDEA" "xA7BDB0" "xB6CBBC" "xCDF75E" "xCE90C8" "xCF94F6" "xD1EE7E" "xD9F457" "xFAC94F" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_ARROLA = {
@@ -474,18 +474,18 @@ add_homeland = dumonian
 
 s:STATE_ATSEGIN = {
 	create_state = {
-		country = c:DUM
+		country = c:KHE
 		owned_provinces = { "x84DDB7" "x9CFBF2" "xA0F4A2" "xBCF881" "xCCF0F6" "xCECEFB" "xE66EF1" "xEAFA5D" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_OSTATU = {
 	create_state = {
-		country = c:DUM
+		country = c:KHE
 		owned_provinces = { "x89FDD5" "xA687F9" "xAAD5CF" "xBBABFA" "xCD78D5" "xD0DB7A" "xD6E6C5" }
 }
-add_homeland = dumonian
+add_homeland = kotskarvi
 }
 
 s:STATE_TXORI = {

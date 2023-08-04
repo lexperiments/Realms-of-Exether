@@ -23,6 +23,11 @@ thalorian_culture_group={
 khussite_culture_group={
 }
 
-east_aritzakarri_culture_group={
-	
+east_aritzakarri_culture_group={	
+}
+
+dragonborn_culture_group = {
+}
+
+kobold_culture_group = {
 }

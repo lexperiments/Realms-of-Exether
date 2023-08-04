@@ -610,7 +610,7 @@ west_thalorian={
 
 lake_thalorian = {
 	color= hsv{ 0.12 0.41 0.54 }
-	religion = orthodox
+	religion = old_faith
 	traits = { thalorian_culture_group human_heritage }
 	male_common_first_names={
 		Adrian

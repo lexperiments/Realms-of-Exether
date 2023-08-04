@@ -196,10 +196,10 @@ add_homeland = dumonian
 
 s:STATE_KERCOVA = {
 	create_state = {
-		country = c:DUM
+		country = c:KVG
 		owned_provinces = { "x63DCF5" "x8CEDD6" "x93F0D0" "x9583E0" "x9DBACC" "xA2FCE9" "xA6B49F" "xBFE0CC" "xDBAD8D" "xDD58D8" "xDEC2BE" "xE3A3E0" "xEF939E" "xF712EC" "xF7F610" "xFEC055" }
 }
-add_homeland = dumonian
+add_homeland = rethrashar
 }
 
 s:STATE_STRUGOVA = {
@@ -212,10 +212,10 @@ add_homeland = dumonian
 
 s:STATE_PRESPIA = {
 	create_state = {
-		country = c:DUM
+		country = c:KVG
 		owned_provinces = { "x59BBF9" "x66D8DB" "x77FBBC" "x8FDBF1" "x98D3F4" "xAFB8C2" "xC5C969" "xC9BEEE" "xCEBD77" "xD0AE7A" "xD679E9" "xE87BAD" "xE9A3DF" "xF149F1" "xF4699A" "xFB8379" }
 }
-add_homeland = dumonian
+add_homeland = rethrashar
 }
 
 s:STATE_KRUSHEVA = {
@@ -236,10 +236,10 @@ add_homeland = dumonian
 
 s:STATE_SHKUMBINIA = {
 	create_state = {
-		country = c:DUM
+		country = c:MGR
 		owned_provinces = { "x7FF0EC" "x97E699" "xA5A3D4" "xB0B1AA" "xB0D7C5" "xB1FE57" "xBCAFE1" "xC872C1" "xCD73E6" "xD976BE" "xEEDF73" "xF3B5EB" }
 }
-add_homeland = dumonian
+add_homeland = mgzavri
 }
 
 s:STATE_KUKESPIA = {
@@ -252,10 +252,10 @@ add_homeland = dumonian
 
 s:STATE_NYZHNE_SENIA = {
 	create_state = {
-		country = c:DUM
+		country = c:MGR
 		owned_provinces = { "x1FF7F2" "x5DCEF1" "x68F3B0" "x70F1A3" "x9DBFA3" "xB7EEF6" "xC1C4EC" "xC6E056" "xCFAD91" "xE428F4" "xEDAC86" }
 }
-add_homeland = dumonian
+add_homeland = mgzavri
 }
 
 s:STATE_SHPYNTESI = {
@@ -276,50 +276,50 @@ add_homeland = xhurlob
 
 s:STATE_ZATYRE = {
 	create_state = {
-		country = c:DUM
+		country = c:KVG
 		owned_provinces = { "x3DD3F2" "x62BCF1" "x679EF9" "x839FDC" "xA3D29F" "xCDB6A6" "xCEC3E0" "xE1C782" "xE8D44E" "xF0D297" "xFED99E" }
 }
-add_homeland = dumonian
+add_homeland = rethrashar
 }
 
 s:STATE_BREZHKE = {
 	create_state = {
-		country = c:DUM
+		country = c:MGR
 		owned_provinces = { "x33F9D8" "x44EBE5" "xA7DFAA" "xB7F1ED" "xB9C9BC" "xBEBDB2" "xCCC090" "xD2F8F9" "xD38DEA" "xD3BAC6" "xD869BD" "xE053F3" "xE2E373" "xE8ECFD" "xEEE29A" "xF3B699" }
 }
-add_homeland = dumonian
+add_homeland = mgzavri
 }
 
 s:STATE_USTRIZHYVKA = {
 	create_state = {
-		country = c:DUM
+		country = c:KVG
 		owned_provinces = { "x33FBF0" "x38E1E5" "x4AB4F8" "x71D3B7" "x7695F7" "x89E2AC" "x95A4D0" "xBDC38F" "xC8EDA4" "xCD88F8" "xD3B184" "xD3D784" "xD3F43B" "xD5F894" "xE4AE7E" "xF2C3D3" "xFBDA39" "xFDE0EA" "xFDEC4B" }
 }
-add_homeland = dumonian
+add_homeland = rethrashar
 }
 
 s:STATE_TROPOJA = {
 	create_state = {
-		country = c:DUM
+		country = c:MGR
 		owned_provinces = { "x29EBF4" "x84EB89" "xA6DAC9" "xA78DCE" "xB7E37B" "xB8A69F" "xBB6BED" "xBEC1F7" "xC3D472" "xC5A7D7" "xD8C5B3" "xDDEBD0" "xF6B455" "xFEE3ED" }
 }
-add_homeland = dumonian
+add_homeland = mgzavri
 }
 
 s:STATE_HUTSULANE = {
 	create_state = {
-		country = c:DUM
+		country = c:MGR
 		owned_provinces = { "x3FC3F8" "x7E96F0" "xA2ED9A" "xB176EE" "xB95DE3" "xCA7BEA" "xCCF54E" "xE29BD3" "xEAAAC7" "xFBA3AF" "xFEF6CC" }
 }
-add_homeland = dumonian
+add_homeland = mgzavri
 }
 
 s:STATE_TEPELENA = {
 	create_state = {
-		country = c:DUM
+		country = c:ARD
 		owned_provinces = { "x4AE7CE" "x64FBCE" "xABBE90" "xBB6AE5" "xC5BAC4" "xCF91EB" "xD189B7" "xE7BC89" "xF4C0B0" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_BELSHIA = {
@@ -719,7 +719,7 @@ s:STATE_KLINGELMEER = {
 		country = c:RAV
 		owned_provinces = { "x31FBD2" "x7ED1EF" "xA7FE68" "xACFE9E" "xBFE3A0" "xD176CD" "xEEEEC0" "xEFBDC8" "xF48978" "xFEC293" "xFED295" }
 }
-add_homeland = dumonian
+add_homeland = ravikian
 }
 
 s:STATE_TINKELHOVEN = {
@@ -788,10 +788,10 @@ add_homeland = dumonian
 
 s:STATE_BELLENBERG = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x4EB1FC" "x5AF9B8" "x8E9FCE" "x94B4B5" "xAADEBC" "xB1DBF7" "xB490C3" "xDF63DF" "xDF8AE6" "xE36CB4" "xEED3B1" "xF7A8D3" "xF9F70D" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_KLINGELBERG = {
@@ -884,26 +884,26 @@ add_homeland = dumonian
 
 s:STATE_GLIMMERDAM = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x36EADC" "x87E593" "xACEDD0" "xAFFCBC" "xC4F8C6" "xDAE3B0" "xE4E3EE" "xE9FE3B" "xEAB568" "xEEBEE0" "xFD17F6" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_KRULWILGEN = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x4CD2DC" "x5EDFFE" "xA7F4C2" "xCAC58F" "xD5A97B" "xE4B6A6" "xEC47FB" "xF379B7" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_KLINGELWEIDE = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "xA6CEC1" "xCE8DEA" "xD259EB" "xE8AEDE" "xE979A0" "xF679FB" "xF92CD1" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_SMIDSGROEN = {
@@ -916,10 +916,10 @@ add_homeland = dumonian
 
 s:STATE_SNAARGRACHT = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x4CC7ED" "x5ABFF2" "x60DCFB" "x72E6B0" "x7FB0F7" "x86DAB1" "x8DD2CD" "x92DBC4" "xB79FEF" "xD5E3F1" "xDD63B9" "xF9F640" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_BELLENBOS = {
@@ -932,10 +932,10 @@ add_homeland = dumonian
 
 s:STATE_RATELHOUT = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x50EFFD" "x6DAEF3" "xA6DFDD" "xB2BDCE" "xBFDFC3" "xC9B0DE" "xC9F4CE" "xCBC19F" "xD0F4A8" "xD19AFE" "xE88DED" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_RATELKUST = {
@@ -948,10 +948,10 @@ add_homeland = dumonian
 
 s:STATE_VONKENDAM = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x61E3E8" "xB18EE2" "xC1C7B6" "xC39BEE" "xC6AEC8" "xCC89CB" "xE6D0D0" "xFBEEB6" "xFD2DCC" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_GNURKENSTAD = {
@@ -1020,18 +1020,18 @@ add_homeland = dumonian
 
 s:STATE_SNAARBERG = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "x3CE0FE" "x7ED6D3" "x85E5FE" "x91B8AC" "x91B8E2" "xA8B1F6" "xBE8AF4" "xC34EF3" "xC8BD7A" "xF597D7" "xF9E815" "xFB4CCF" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_SPRONKERGROEN = {
 	create_state = {
-		country = c:RAV
+		country = c:THY
 		owned_provinces = { "xC3E64E" "xC7ACCE" "xD0EA71" "xD799D9" "xDCDD49" "xDFC37E" "xE4CAE3" "xE9DCA1" "xF5BB97" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_DRAAIKUST = {
@@ -1052,10 +1052,10 @@ add_homeland = dumonian
 
 s:STATE_VALORN = {
 	create_state = {
-		country = c:DUM
+		country = c:SBH
 		owned_provinces = { "x60E2F4" "x7EADD0" "x89E8D5" "xA1EA86" "xB7CCBB" "xC4E3C2" "xE6ADE4" "xFDBBD6" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_EVERLUND = {
@@ -1100,10 +1100,10 @@ add_homeland = dumonian
 
 s:STATE_STORMHOLM = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "x5BB3F0" "x97FD6D" "xA4DEEE" "xB3F4CB" "xCF58F2" "xD6B3E9" "xDB7CB0" "xE6D78A" "xEBF814" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_RAVENHOLME = {
@@ -1116,10 +1116,10 @@ add_homeland = dumonian
 
 s:STATE_THORNFIELD = {
 	create_state = {
-		country = c:DUM
+		country = c:OLT
 		owned_provinces = { "x67CFE7" "xBCF6CC" "xC4CC79" "xCCF4DF" "xD0F869" "xD5E8F7" "xE7A4CA" "xEAB582" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_FARREACH = {
@@ -1164,82 +1164,84 @@ add_homeland = west_thalorian
 
 s:STATE_GLENWOOD = {
 	create_state = {
-		country = c:DUM
+		country = c:LAZ
 		owned_provinces = { "x6EFEF1" "x8698E1" "x9AE387" "xA4FAD2" "xA574F7" "xBCFAE7" "xCCA1E0" "xDCD5DD" "xFBF88B" }
 }
-add_homeland = dumonian
+add_homeland = rethrashar
+add_homeland = west_thalorian
 }
 
 s:STATE_BRIGHTWATER = {
 	create_state = {
-		country = c:DUM
+		country = c:VRC
 		owned_provinces = { "x6FEDE7" "x7EE19E" "x8ECAEB" "x9FDEEC" "xA5F36E" "xBCD2B6" "xCADAC8" "xDBEAE3" "xE662D4" "xE7F45A" "xF2B9FE" "xF8F5A9" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_DAWNRIDGE = {
 	create_state = {
-		country = c:DUM
+		country = c:LAZ
 		owned_provinces = { "x7FD3FD" "xAFADB9" "xB8FEE4" "xC0A7D3" "xE1AD82" "xEBD454" "xF7EFBB" }
 }
-add_homeland = dumonian
+add_homeland = rethrashar
+add_homeland = west_thalorian
 }
 
 s:STATE_SUNDALE = {
 	create_state = {
-		country = c:DUM
+		country = c:VRC
 		owned_provinces = { "x38CEFB" "xAB81EC" "xB699D3" "xC674D2" "xC78BF3" "xCDE080" "xDB96A6" "xEEC6B3" "xF513FA" "xFCE8B8" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_WHITESTONE = {
 	create_state = {
-		country = c:DUM
+		country = c:VRC
 		owned_provinces = { "x83FEC4" "x91C3D8" "xB3FB76" "xB6C3F2" "xBDD46A" "xC288AF" "xC4FAFA" "xD5CF77" "xE5CE50" "xF39ECB" "xF8FEE4" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_RIVERTIDE = {
 	create_state = {
-		country = c:DUM
+		country = c:ARD
 		owned_provinces = { "x42E5FA" "x5BDFFC" "x9EDCDD" "xB7A1C5" "xBBC8C1" "xD8C26C" "xD8E763" "xE29F8C" "xEB898E" "xF0EBF7" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_LIONS_ROOST = {
 	create_state = {
-		country = c:DUM
+		country = c:ARD
 		owned_provinces = { "x87D6AC" "x92D5F5" "x97EE9F" "xA2CEC6" "xB9E89F" "xBAD4E3" "xE7F93D" "xEBC2BF" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_WINDMERE = {
 	create_state = {
-		country = c:DUM
+		country = c:DHR
 		owned_provinces = { "x94C2D0" "xC7F784" "xD8CD75" "xDFBAE5" "xEEEE89" "xF61CF2" "xFD1BF0" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_HOLLOWBROOK = {
 	create_state = {
-		country = c:DUM
+		country = c:BDT
 		owned_provinces = { "x64DCD4" "xA18BCD" "xB6F54E" "xD749FD" "xDCB8DE" "xDDBCA7" "xDFF1F4" "xE35DC7" "xE49CDD" "xE9A5A8" "xFD20F7" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_SHADOWFEN = {
 	create_state = {
-		country = c:DUM
+		country = c:BDT
 		owned_provinces = { "x6FDEDF" "x8AE89B" "xAF99CD" "xC085BD" "xEEDDA9" "xF2F3CC" "xF4FC1F" "xFACC4B" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_SUNDERPORT = {
@@ -1252,18 +1254,18 @@ add_homeland = west_thalorian
 
 s:STATE_AMBERWICK = {
 	create_state = {
-		country = c:DUM
+		country = c:ARD
 		owned_provinces = { "x7BCDBE" "x92BFF4" "x9FB3F0" "xABF79D" "xADEDC7" "xBFF94F" "xD4F25D" "xE4AAB5" "xF771FC" "xF7EFE8" "xFC81D7" "xFD99FC" "xFEFB5D" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_STONEHAVEN = {
 	create_state = {
-		country = c:DUM
+		country = c:OLT
 		owned_provinces = { "x44E3DF" "x4DDCE5" "x5EFDAF" "xC2C8B4" "xF0F025" "xF3E545" "xF477FE" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_GOLDENGROVE = {
@@ -1276,10 +1278,10 @@ add_homeland = dumonian
 
 s:STATE_WINDSONG = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "xB1E8EF" "xBCD8F6" "xC29AE3" "xC8DD7D" "xD5BED5" "xD861E8" "xDFF547" "xE7E67F" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_WINDSPEAR = {
@@ -1292,10 +1294,10 @@ add_homeland = west_thalorian
 
 s:STATE_MISTVALE = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "x59E1C1" "x78F3F9" "x88E69B" "x93E8AB" "xA6C4A9" "xA7EB7C" "xB27AFC" "xC7E8B4" "xF4C9F3" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_SILVERCREST = {

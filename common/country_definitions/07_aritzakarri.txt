@@ -45,3 +45,28 @@ POA = {
 	cultures = { sandcircler } 
 	capital = STATE_HIRUMENDI
 }
+
+#Kheviwilt
+KHE = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_OSTATU
+}
+
+#Lazituluk
+LAZ = {
+	color = rgb{ 60 156 40 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_SUTAN
+}
+
