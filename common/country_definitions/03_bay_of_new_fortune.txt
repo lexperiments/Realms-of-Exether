@@ -1,1 +1,83 @@
-﻿
+﻿#Yuyaychay
+YUY = {
+	color = rgb{ 100 0 50 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { kusichaki } 
+	capital = STATE_INTIWINA
+}
+
+#K'anchayani
+KAN = {
+	color = rgb{ 255 50 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { kusichaki } 
+	capital = STATE_LLANKAYUQ
+}
+
+#Taytacha
+TAY = {
+	color = rgb{ 200 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { kusichaki } 
+	capital = STATE_CHAKAPAMPA
+}
+
+#Warminpacha
+WAR = {
+	color = rgb{ 100 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { kusichaki } 
+	capital = STATE_PISQUPATA
+}
+
+#Kawsaypacha
+KAW = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { kusichaki } 
+	capital = STATE_MIKHUYUQ
+}
+
+#Wayrachakana
+WAY = {
+	color = rgb{ 100 80 10 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { kusichaki } 
+	capital = STATE_PUKARAQOCHA
+}
+
+#Goldpass Keepers
+GPK = {
+	color = rgb{ 250 150 0 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { mgzavri } 
+	capital = STATE_SUYANAKU
+}

@@ -260,7 +260,7 @@ add_claim = c:DIS
 
 s:STATE_GADYRUS = {
 	create_state = {
-		country = c:SRN
+		country = c:SVN
 		owned_provinces = { "x8AC9DC" "x9ACEC1" "xC3E6A4" "xD39D96" "xD6B385" "xDDE4B1" "xEBA1FB" "xF9926E" "xFAED1B" "xFBB5B5" }
 }
 add_homeland = kotskarvi
@@ -270,7 +270,7 @@ add_claim = c:DIS
 
 s:STATE_EBYSS = {
 	create_state = {
-		country = c:SRN
+		country = c:SVN
 		owned_provinces = { "xAAC8F3" "xBA9DA3" "xCAE28A" "xCEE5E5" "xCFD18F" "xEB98CB" "xEE86BD" "xF9CE97" }
 }
 add_homeland = kotskarvi

@@ -1,1 +1,11 @@
-﻿
+﻿#Paylaz
+PAY = {
+	color = rgb{ 100 0 100 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { lusakaran } 
+	capital = STATE_HERMENIA
+}

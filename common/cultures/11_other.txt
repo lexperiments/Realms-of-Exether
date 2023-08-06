@@ -94,3 +94,4 @@ chumake = {
 	}
 	graphics = asian
 }
+

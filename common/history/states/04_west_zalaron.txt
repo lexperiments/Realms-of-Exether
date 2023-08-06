@@ -244,10 +244,10 @@ add_homeland = mgzavri
 
 s:STATE_KUKESPIA = {
 	create_state = {
-		country = c:DUM
+		country = c:DKO
 		owned_provinces = { "x21DCFE" "x33EFF2" "x5BFAC3" "x7FF2EC" "x9CEEC5" "xA393E6" "xABCEF5" "xACC2F6" "xB5A0C5" "xB5E3A5" "xBA73F4" "xBFABCD" "xC3F080" "xED85A0" "xEDAABD" "xFEB9D7" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_NYZHNE_SENIA = {
@@ -260,10 +260,10 @@ add_homeland = mgzavri
 
 s:STATE_SHPYNTESI = {
 	create_state = {
-		country = c:DUM
+		country = c:DKO
 		owned_provinces = { "x40F7D3" "x81F1E6" "x82FB88" "xAA91CF" "xB6C7AE" "xB7BE90" "xCED48E" "xDBEB54" "xDC98D8" "xE1E2BC" "xE3B4EE" "xF537EA" "xFEBDD8" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_ERSEKERA = {
@@ -324,18 +324,18 @@ add_homeland = west_thalorian
 
 s:STATE_BELSHIA = {
 	create_state = {
-		country = c:DUM
+		country = c:DKO
 		owned_provinces = { "x6BF3D0" "x8FFAD8" "x9ED58F" "xA7ECA9" "xBDACF4" "xC9F041" "xCEE9E6" "xD454D5" "xD4D277" "xDDDDFE" "xEF76C3" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_CERRIKUA = {
 	create_state = {
-		country = c:DUM
+		country = c:DKO
 		owned_provinces = { "x6FBBEA" "x7ABFC6" "x93ADD8" "x978CD8" "xA7EC8E" "xA8CAD1" "xB4A0DA" "xCCE35B" "xD2E84D" "xE180C4" "xE3E73C" "xE8D170" "xF2D349" "xF8FDF8" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_KLOSI = {
@@ -564,23 +564,24 @@ add_homeland = dumonian
 
 s:STATE_NAVAKAI = {
 	create_state = {
-		country = c:DUM
+		country = c:GPK
 		owned_provinces = { "x41C8FA" "x60EFE4" "x62ECF0" "x9FA3E4" "x9FCDF0" "xC4EFD1" "xC6C6D9" "xCA9BE1" "xCFD2BA" "xD9B9A4" "xDA7CFB" "xE968DB" "xFBF408" "xFE0AF1" }
 }
-add_homeland = dumonian
+add_homeland = mgzavri
+add_homeland = kusichaki
 }
 
 s:STATE_SHANAKONG = {
 	create_state = {
-		country = c:DUM
+		country = c:THK
 		owned_provinces = { "x71D6E4" "x71D9ED" "x77E6A1" "x7DB3EA" "x8ECAB8" "x9DCCA3" "xA9D39B" "xBAACB7" "xCC77D2" "xD1C2C1" "xD3EA93" "xDACD4E" "xDC9DD7" "xE0E9FD" "xE282CD" "xEFDE6D" "xF892B1" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_YAZHINAVA = {
 	create_state = {
-		country = c:DUM
+		country = c:SNB
 		owned_provinces = { "x5DD8CE" "x7CF5FE" "x918ED6" "xA9B6B7" "xBB81C2" "xCC9DB8" "xEC77FB" "xEDC5C3" "xEEB5C5" "xF0CAA2" "xF398AF" "xF7AA69" "xF9E67A" }
 }
 add_homeland = dumonian
@@ -588,7 +589,7 @@ add_homeland = dumonian
 
 s:STATE_KEEDZAI = {
 	create_state = {
-		country = c:DUM
+		country = c:SNB
 		owned_provinces = { "x2DFBE1" "x6BABDF" "x8AFAB0" "xA39DD2" "xA886E6" "xB85DF9" "xB9F169" "xBA70F6" "xBBEECD" "xC64AF0" "xCFCA9A" "xD1DAD6" "xD9A6B5" "xD9EAF1" "xE3F44B" "xF89CAE" "xF9E423" }
 }
 add_homeland = dumonian
@@ -596,122 +597,125 @@ add_homeland = dumonian
 
 s:STATE_NAKOTHAI = {
 	create_state = {
-		country = c:DUM
+		country = c:TSH
 		owned_provinces = { "x30CAFE" "xA67EE9" "xA8C1F1" "xB1DE9E" "xC097B8" "xD0A0D1" "xD378E0" "xDBC46C" "xDE8FD0" "xDEBF84" "xE4ED55" "xE858E2" "xE9C9EF" "xEC46E7" "xECA075" "xECE6B7" "xEF39EF" "xF1DCB1" "xFEAFE5" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_SHIBADUAI = {
 	create_state = {
-		country = c:DUM
+		country = c:TSH
 		owned_provinces = { "x3CE2F8" "x3EDDE5" "x6CD1D9" "x7EC7BB" "x95CFD2" "xA3EF7D" "xA4BD97" "xA6B8FA" "xB6B9D8" "xC6A88E" "xCF72F2" "xD1AED3" "xD754D9" "xD7CC73" "xD8E4F3" "xD9E85D" "xE49187" "xE584D3" "xE6DAD0" "xEAD7E7" "xEFBD69" "xF181D5" "xF852CD" "xF87AB5" "xFCA6F3" "xFCD8A7" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_KAINAVA = {
 	create_state = {
-		country = c:DUM
+		country = c:TSH
 		owned_provinces = { "x4FF1D9" "x70DDF6" "xAA7EE7" "xBCCEEB" "xC094A6" "xCBEBB6" "xCDA0B3" "xD2A7A5" "xD3FA67" "xD5C4C6" "xDFBBD2" "xE2F760" "xE5E732" "xFDA6E6" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_DIYINAKHAD = {
 	create_state = {
-		country = c:DUM
+		country = c:TSH
 		owned_provinces = { "x5BFCB0" "x64FEDB" "x6CF5D1" "x6EE8AC" "x70E8AC" "x8EC8D2" "xB1CFFB" "xDCF58E" "xDF68BE" "xE6C3B7" "xE73CF1" "xF17A93" "xF9BA9A" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_NASHAYAZH = {
 	create_state = {
-		country = c:DUM
+		country = c:TSH
 		owned_provinces = { "x54F4EE" "x898AEB" "xA784D0" "xB7D1C1" "xC070CC" "xC6F289" "xC9FED3" "xD2E99E" "xD4F371" "xE8E9F1" "xF2897A" "xF3CA4D" "xF3FC47" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_KEENAVOK = {
 	create_state = {
-		country = c:DUM
+		country = c:KHD
 		owned_provinces = { "x74DDB3" "x7FF6A9" "x9D8EE0" "xABF07E" "xBBACB9" "xBBE462" "xC5ECEC" "xDDFE75" "xEB7BDC" "xEED39D" "xF27DF5" "xF65CA3" "xF8B173" }
 }
-add_homeland = dumonian
+add_homeland = duneshar
+add_homeland = kaalkid
 }
 
 s:STATE_SHIMAKAI = {
 	create_state = {
-		country = c:DUM
+		country = c:KHD
 		owned_provinces = { "x3BD1F1" "x60EAC4" "x95F3A3" "xA4F2BC" "xB49FDE" "xB5AAB2" "xB969EF" "xBDD682" "xC5FC55" "xD4ADAF" "xD76BC7" "xDAE440" "xE5F1D8" "xF26DB0" "xF484A3" }
 }
-add_homeland = dumonian
+add_homeland = duneshar
+add_homeland = kaalkid
 }
 
 s:STATE_YAZHIDZI = {
 	create_state = {
-		country = c:DUM
+		country = c:HOZ
 		owned_provinces = { "x20F7FC" "x87B2FC" "x97A1D5" "x9BCAF4" "x9DF09B" "xA5EAB9" "xB7BDB1" "xBF82B6" "xD4E74D" "xD99AB3" "xD9EDB4" "xDACAF1" "xDCDBC2" "xE167B1" "xE8DD9C" "xEAEB36" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_SHINOGOZH = {
 	create_state = {
-		country = c:DUM
+		country = c:TSH
 		owned_provinces = { "x5AFBB3" "x5FE9B5" "x7CE7F0" "x84E3B3" "x8AD69F" "x99E1A5" "x9CFD64" "xD382D9" "xE4F380" "xEBE855" "xED88E9" "xEE50C0" "xF0B67C" "xF2CCED" "xF3BAF0" "xFEBFA7" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_NAKOKAIN = {
 	create_state = {
-		country = c:DUM
+		country = c:HOZ
 		owned_provinces = { "x5FE8E7" "x6FDBF3" "x86EDA0" "x91E49B" "xA2F2EC" "xB1B3CD" "xB2EBD0" "xC3F0AA" "xCA65F1" "xDA88D8" "xDDD4A4" "xE8D8B5" "xF86FBF" "xFABAA9" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_DINASHIN = {
 	create_state = {
-		country = c:DUM
+		country = c:KHD
 		owned_provinces = { "x49CFF2" "x71E1F0" "x7FF3BB" "x84C0B7" "x86C1D2" "x9978ED" "xACF882" "xAF94FB" "xAFDB81" "xB19BB2" "xDDEFB1" "xE06CAB" "xE17C9E" }
 }
-add_homeland = dumonian
+add_homeland = duneshar
+add_homeland = kaalkid
 }
 
 s:STATE_KEENAVAZH = {
 	create_state = {
-		country = c:DUM
+		country = c:HOZ
 		owned_provinces = { "x84D6F2" "x84E7C0" "x8ABFEF" "xA5C697" "xA7C68D" "xA8DAE1" "xAECADE" "xCB81BB" "xDBF1E7" "xEC46D0" "xF1FD63" "xF5A464" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_NAVOYAZH = {
 	create_state = {
-		country = c:DUM
+		country = c:HOZ
 		owned_provinces = { "x70E2CA" "x7691F9" "x96F1D8" "x9CD4E9" "xC4A6CF" "xCCAD8D" "xD42BFE" "xE1FD4E" "xE7CEE3" "xEDD664" "xFCE3A4" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_SHINAKHAD = {
 	create_state = {
-		country = c:DUM
+		country = c:HOZ
 		owned_provinces = { "x8BD4C5" "x97D1BC" "x9CBCC8" "xB4CF81" "xC763E4" "xCE96C2" "xD2C978" "xE4CF96" "xEEE46C" "xF98AA3" "xFB95C7" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_THAGHIZHI = {
 	create_state = {
-		country = c:DUM
+		country = c:HOZ
 		owned_provinces = { "x1BF2F0" "x4BBCF1" "x8CC6BA" "x8E8BDD" "xB083F9" "xBEF3AA" "xCEC1DA" "xD38FBE" "xDA64E1" "xDAEF92" "xF192FA" "xF691C9" "xFA8BC7" }
 }
-add_homeland = dumonian
+add_homeland = kaalkid
 }
 
 s:STATE_KLINGELMEER = {
@@ -1076,10 +1080,10 @@ add_homeland = dumonian
 
 s:STATE_SILVERBROOK = {
 	create_state = {
-		country = c:DUM
+		country = c:DKO
 		owned_provinces = { "x2FF4DA" "x48FBE9" "x8FD794" "xA8CFDB" "xCD3EFC" "xF6ED26" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_HIGHMOOR = {
@@ -1092,10 +1096,10 @@ add_homeland = dumonian
 
 s:STATE_IRONWOOD = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "x56E5E4" "x75DAFE" "x9DE6F0" "xA1D599" "xD1C992" "xDDF94D" "xE382B7" "xEAF536" "xF289A3" "xF2B2EE" "xF9B695" "xFDD97A" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_STORMHOLM = {
@@ -1108,10 +1112,10 @@ add_homeland = lake_thalorian
 
 s:STATE_RAVENHOLME = {
 	create_state = {
-		country = c:DUM
+		country = c:SBH
 		owned_provinces = { "x7CFAC8" "xA5CC8B" "xAB9FFC" "xB6F1EA" "xBAC4B3" "xCAD7EF" "xDFCA76" "xE7A1E3" "xF38FAB" "xF89CBF" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_THORNFIELD = {
@@ -1140,18 +1144,18 @@ add_homeland = dumonian
 
 s:STATE_STORMWATCH = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "x46D7D8" "x6FE0A8" "x70CCDE" "x9A85FD" "xA8E96A" "xABCE95" "xBBE090" "xE27CA2" "xE3ECC7" "xE9AFC4" "xF185E8" "xF1EB91" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_EMBERFALL = {
 	create_state = {
-		country = c:DUM
+		country = c:DKO
 		owned_provinces = { "x82CBBD" "x82CCF6" "xA8B5E2" "xB3CBA6" "xC8F96A" "xE1939F" "xEE59F8" "xEF8091" }
 }
-add_homeland = dumonian
+add_homeland = west_thalorian
 }
 
 s:STATE_DRAGONCREST = {
@@ -1164,7 +1168,7 @@ add_homeland = west_thalorian
 
 s:STATE_GLENWOOD = {
 	create_state = {
-		country = c:LAZ
+		country = c:VOR
 		owned_provinces = { "x6EFEF1" "x8698E1" "x9AE387" "xA4FAD2" "xA574F7" "xBCFAE7" "xCCA1E0" "xDCD5DD" "xFBF88B" }
 }
 add_homeland = rethrashar
@@ -1181,7 +1185,7 @@ add_homeland = lake_thalorian
 
 s:STATE_DAWNRIDGE = {
 	create_state = {
-		country = c:LAZ
+		country = c:VOR
 		owned_provinces = { "x7FD3FD" "xAFADB9" "xB8FEE4" "xC0A7D3" "xE1AD82" "xEBD454" "xF7EFBB" }
 }
 add_homeland = rethrashar
@@ -1270,10 +1274,10 @@ add_homeland = lake_thalorian
 
 s:STATE_GOLDENGROVE = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "x5EE1C5" "x6EE5E6" "x77FAC3" "x87FAA9" "xB2F17C" "xBDA0F1" "xD476C0" "xF5AEC0" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_WINDSONG = {
@@ -1302,10 +1306,10 @@ add_homeland = lake_thalorian
 
 s:STATE_SILVERCREST = {
 	create_state = {
-		country = c:DUM
+		country = c:DNV
 		owned_provinces = { "x39E5DE" "x45F5C5" "x88A0F1" "x8DFBF7" "x9A7AF9" "xBF5DEC" "xD0D76F" "xED8AF8" }
 }
-add_homeland = dumonian
+add_homeland = lake_thalorian
 }
 
 s:STATE_GRINWALD = {
@@ -1587,4 +1591,13 @@ s:STATE_BLOODAXE_TERRITORY = {
 }
 add_homeland = dumonian
 }
+
+s:STATE_MLIMASHWARI = {
+	create_state = {
+		country = c:THK
+		owned_provinces = { "x6CA4E7" "x8AE7D0" "x92D1F2" "xA4EB84" "xC678D9" "xDADDDA" "xE0F135" "xE27DC0" "xE5E07F" "xE835DC" "xF1E298" "xF2FA88" "xFA36EC" "xFAF4FA" }
+}
+add_homeland = kaalkid
+}
+
 }

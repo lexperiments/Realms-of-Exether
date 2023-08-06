@@ -72,8 +72,8 @@
   BFU_ADJ: "Beofuarian"
   ZKW: "Drysgolmark"
   ZKW_ADJ: "Drysgolian"
-  DRK: "Zakoniw"
-  DRK_ADJ: "Zakonian"
+  DRK: "Drysgolmark"
+  DRK_ADJ: "Drysgolmark"
   JUR: "Jurian's Inquisition"
   JUR_ADJ: "Jurian's Inquisition"
   WIT: "Witchwood"
@@ -269,3 +269,8 @@
   #Aritzakarri
   CRG: "Orrazki"
   CRG_ADJ: "Orrazkian"
+ #Bay of New Fortune
+  GPK: "Goldpass Keepers"
+  GPK_ADJ: "Goldpass Keeper"
+  WAR: "Warminpacha"
+  WAR_ADJ: "Warminpachan"

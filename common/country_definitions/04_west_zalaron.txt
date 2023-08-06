@@ -230,8 +230,8 @@ KVG = {
 	capital = STATE_KERCOVA
 }
 
-#Lazituluk
-LAZ = {
+#Vorglota
+VOR = {
 	color = rgb{ 60 90 195 } 
 
 	country_type = unrecognized 
@@ -252,4 +252,64 @@ DHR = {
 
 	cultures = { west_thalorian } 
 	capital = STATE_WINDMERE
+}
+
+#Drakoria
+DKO = {
+	color = rgb{ 100 70 245 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { west_thalorian } 
+	capital = STATE_WINDMERE
+}
+
+#Hozhoogo
+HOZ = {
+	color = rgb{ 250 100 80 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { kaalkid } 
+	capital = STATE_THAGHIZHI
+}
+
+#Aheheeltsoh
+TSH = {
+	color = rgb{ 100 100 100 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { kaalkid } 
+	capital = STATE_DIYINAKHAD
+}
+
+#Khaduras
+KHD = {
+	color = rgb{ 100 100 180 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { duneshar } 
+	capital = STATE_DINASHIN
+}
+
+#Tsidiiyah
+THK = {
+	color = rgb{ 100 180 180 } 
+
+	country_type = recognized 
+
+	tier = principality
+
+	cultures = { kaalkid } 
+	capital = STATE_MLIMASHWARI
 }

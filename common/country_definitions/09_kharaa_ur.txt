@@ -10,3 +10,15 @@ YUL = {
 	capital = STATE_GURBA
 }
 
+#Qongqotan
+QON = {
+	color = rgb{ 80 125 72 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { shkemger } 
+	capital = STATE_KYRTHOR
+}
+

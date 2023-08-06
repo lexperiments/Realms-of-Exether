@@ -1,6 +1,6 @@
 ﻿plaguedweller = {
 	color= hsv{ 0.14 0.35 0.99 }
-	religion = animist
+	religion = orc_father
 	traits = { orc_heritage north_american_group }
 	male_common_first_names={
 		Hehaka
@@ -43,6 +43,55 @@
 		Sapa
 		Thankja
 		Witko
+	}
+	ethnicities = {
+		1 = native_american
+	}
+	graphics = generic
+}
+
+kaalkid={
+	color= hsv{ 0.62 0.26 0.74 }
+	traits = { orc_heritage north_american_group }
+	religion = orc_father
+	male_common_first_names={
+		Barboncito
+		Digul_Chee
+		Ganado
+		Henry_Chee
+		Herrero
+		Jeremiah
+		Manuelito
+		Mariano
+		Narbona
+		Zarcillos
+	}
+	female_common_first_names = {
+		Amanda
+		Claudeen
+		Geraldine
+		Jacqueline
+		Maria
+		Pablita
+		Theresa
+	}	
+	noble_last_names = {
+		Begay
+		Dodge
+		Hastiin_Dagha
+		K-aayelii
+	}
+	common_last_names={
+		Ch_ilhanjini
+		Da_ghaaii
+		Delagado
+		Grande
+		Largos
+		Martinez
+		Naat_aa
+		Redcloud
+		To_tso_nii
+		Zah
 	}
 	ethnicities = {
 		1 = native_american
