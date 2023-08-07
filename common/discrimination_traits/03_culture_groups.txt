@@ -31,3 +31,6 @@ dragonborn_culture_group = {
 
 kobold_culture_group = {
 }
+
+qiin_culture_group = {
+}

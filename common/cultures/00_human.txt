@@ -1507,7 +1507,7 @@ meriwyn={
 kusichaki={
 	color= hsv{ 0.10 0.22 0.69 }
 	religion = house_of_fate
-	traits = { indigenous_american_heritage human_group }
+	traits = { human_heritage qiin_culture_group }
 	male_common_first_names={
 		Agustin
 		Alejandro

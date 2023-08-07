@@ -146,3 +146,49 @@ tqalt={ # Tlingit and Haida merged together, forgive me
 	}
 	graphics = generic
 }
+
+rahoru={
+	color= hsv{ 0.25 0.43 0.55 }
+	religion = orc_mother
+	traits = { ethiopian east_african_culture_group orc_heritage }
+	male_common_first_names={
+		Amare
+		Amha
+		Bekele
+		Berhanu
+		Berihun
+		Demissie
+		Desta
+		Geteye
+		Girma
+		Hailzar
+		Kelile
+		Saleh
+	}
+	female_common_first_names = {
+		Menen_Asfaw
+		Belaynesh
+		Sehin_Mikael
+		Tsehai
+		Zenebework
+	}	
+	noble_last_names = {
+		Ali_Aba_Deyas
+		Cherecha
+		Makonnen
+		Shalash
+		Sorguk
+	}
+	common_last_names={
+		Mariog
+		Melekot
+		Migrak
+		Petrok
+		Seged
+		Wossar
+	}
+	ethnicities = {
+		1 = african
+	}
+	graphics = african
+}

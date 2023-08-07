@@ -36,7 +36,7 @@ TAY = {
 
 #Warminpacha
 WAR = {
-	color = rgb{ 100 80 0 } 
+	color = rgb{ 100 130 0 } 
 
 	country_type = decentralized
 
@@ -139,6 +139,54 @@ YKU = {
 
 	tier = principality
 
-	cultures = { tqalt } 
-	capital = STATE_SALTSHORE
+	cultures = { yachaymanchi } 
+	capital = STATE_ANTAQAQA
+}
+
+#Pachallawi
+PAC = {
+	color = rgb{ 180 250 30 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { yachaymanchi } 
+	capital = STATE_KUCHUYPATA
+}
+
+#Titikunka
+TIT = {
+	color = rgb{ 20 50 230 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { yachaymanchi } 
+	capital = STATE_WAYLLAPAMPA
+}
+
+#Kunturmana
+KUN = {
+	color = rgb{ 250 20 30 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { yachaymanchi kusichaki } 
+	capital = STATE_ANTAQAQA
+}
+
+#Horkaa
+HOR = {
+	color = rgb{ 250 20 30 } 
+
+	country_type = unrecognized
+
+	tier = kingdom
+
+	cultures = { rahoru } 
+	capital = STATE_TAYTAQOCHA
 }

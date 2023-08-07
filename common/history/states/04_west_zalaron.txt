@@ -1578,10 +1578,11 @@ add_homeland = tqalt
 
 s:STATE_SALTSHORE = {
 	create_state = {
-		country = c:DUM
+		country = c:YKU
 		owned_provinces = { "x2FDFE7" "x5DDFBD" "x77DDF0" "x7984F9" "x83C2F0" "x88B6E7" "x8CD898" "x92E48D" "x98F3DB" "x9C7EFC" "x9DDCAC" "xA593BD" "xA5B5B1" "xB3E3A3" "xB7FAE6" "xBD55E9" "xC2C286" "xC4E0AA" "xCCF8F7" "xD1A09A" "xD2E8F9" "xD3CFE1" "xDDC589" "xE0BCC8" "xE5E6A2" "xE996F1" "xEBA0D9" "xECB886" "xEED17A" "xEF88B2" "xF09EBA" "xF11FEB" "xF139ED" "xF1E4E1" "xF237F6" "xF3D688" "xF4F9C7" "xF58F98" "xF638D7" "xF85AE3" "xFACD9A" "xFBBA89" "xFDB5E5" "xFE5CC8" "xFED42C" }
 }
-add_homeland = dumonian
+add_homeland = yachaymanchi
+add_homeland = tqalt
 }
 
 s:STATE_BLOODAXE_TERRITORY = {

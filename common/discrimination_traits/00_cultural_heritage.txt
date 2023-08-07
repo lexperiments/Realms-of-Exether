@@ -49,3 +49,8 @@ monstrous_heritage = {
 goblin_heritage = {
 	heritage = yes
 }
+
+djinn_heritage = {
+	heritage = yes
+}
+
