@@ -81,3 +81,64 @@ GPK = {
 	cultures = { mgzavri } 
 	capital = STATE_SUYANAKU
 }
+
+#Bloodthorn
+BLD = {
+	color = rgb{ 50 150 0 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { tqalt } 
+	capital = STATE_BLOODTHORN_WASTES
+}
+
+#Roughstone
+RSE = {
+	color = rgb{ 250 150 100 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { tqalt } 
+	capital = STATE_ROUGHSTONE_TERRITORY
+}
+
+#Rustaxe
+RUX = {
+	color = rgb{ 180 180 30 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { tqalt } 
+	capital = STATE_BLOODAXE_TERRITORY
+}
+
+#Snailbane
+SNL = {
+	color = rgb{ 180 180 30 } 
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { tqalt } 
+	capital = STATE_SNAILBANE
+	is_named_from_capital = yes
+}
+
+#Yakuway
+YKU = {
+	color = rgb{ 180 180 30 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { tqalt } 
+	capital = STATE_SALTSHORE
+}
