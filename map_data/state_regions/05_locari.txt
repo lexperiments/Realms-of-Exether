@@ -1,416 +1,1036 @@
 ﻿STATE_DHARMARAJYA = {
-    id = 834
+    id = 4834
     provinces = { "x63CCCB" "x79E4BD" "x89AEC9" "xA9E38B" "xB271DB" "xB391F7" "xC3BE97" "xC7C3D1" "xCBFBFC" "xCDF1CA" "xD674D7" "xE4B4BA" "xF69C7D" "xFAD692" "xFDEA60" }
+    city = x63CCCB
+    wood = x79E4BD
+    farm = x89AEC9
+    mine = xA9E38B
+    port = xB271DB
+
 }
 STATE_PANNYA = {
-    id = 835
+    id = 4835
     provinces = { "x67E3D4" "x79E7D1" "x9A99CC" "xA3EF98" "xAF59F1" "xB882CD" "xC8B08B" "xE158C7" "xEA9C9A" "xF5CE83" }
+    city = x67E3D4
+    wood = x79E7D1
+    farm = x9A99CC
+    mine = xA3EF98
+    port = xAF59F1
+
 }
 STATE_SHANTINAGAR = {
-    id = 836
+    id = 4836
     provinces = { "xA2ADFD" "xC490EC" "xD2F338" "xDEF450" "xE2BDA4" "xE63ED6" "xE8E131" "xEA71D0" "xF13BE0" }
+    city = xA2ADFD
+    wood = xC490EC
+    farm = xD2F338
+    mine = xDEF450
+    port = xE2BDA4
+
 }
 STATE_SURYANAGARI = {
-    id = 837
+    id = 4837
     provinces = { "x78D8E0" "x9DB6EA" "xAA90D9" "xC1B399" "xD5FCCD" "xE2B37B" "xE5ABF3" "xE8DEB8" "xFDFC2D" }
+    city = x78D8E0
+    wood = x9DB6EA
+    farm = xAA90D9
+    mine = xC1B399
+    port = xD5FCCD
+
 }
 STATE_BHAVANASARA = {
-    id = 838
+    id = 4838
     provinces = { "x79A8F1" "x81C5B6" "xA2C6C5" "xA3C1E3" "xA683E5" "xB097AE" "xB8FEBD" "xBCB981" "xCEF3FD" "xD6F7BF" "xF04FD2" }
+    city = x79A8F1
+    wood = x81C5B6
+    farm = xA2C6C5
+    mine = xA3C1E3
+    port = xA683E5
+
 }
 STATE_SUKHODAYA = {
-    id = 839
+    id = 4839
     provinces = { "x47EBCE" "xA6C5AD" "xAAAC9F" "xAAD2F3" "xC0BF9A" "xD8CFA1" "xF95EEF" "xF9BEC2" "xFDA671" }
+    city = x47EBCE
+    wood = xA6C5AD
+    farm = xAAAC9F
+    mine = xAAD2F3
+    port = xC0BF9A
+
 }
 STATE_BODHISATTVA = {
-    id = 840
+    id = 4840
     provinces = { "x7AB4D8" "x93E984" "x94D4DD" "xB7E4AA" "xBCA8F1" "xC6EE65" "xD9ABB4" "xE742EB" "xEED498" }
+    city = x7AB4D8
+    wood = x93E984
+    farm = x94D4DD
+    mine = xB7E4AA
+    port = xBCA8F1
+
 }
 STATE_VIJAYAPURA = {
-    id = 841
+    id = 4841
     provinces = { "x85F9CB" "xA0E1EB" "xA7EAD8" "xC9F262" "xEA7BBC" "xF6A0A5" }
+    city = x85F9CB
+    wood = xA0E1EB
+    farm = xA7EAD8
+    mine = xC9F262
+    port = xEA7BBC
+
 }
 STATE_ANANTAPURI = {
-    id = 842
+    id = 4842
     provinces = { "x3AFDD7" "x5DA9FD" "xB0ACDA" "xB6B0F3" "xB6B3E0" "xB7ABFD" "xB976C8" "xE6D0D3" }
+    city = x3AFDD7
+    wood = x5DA9FD
+    farm = xB0ACDA
+    mine = xB6B0F3
+    port = xB6B3E0
+
 }
 STATE_SAUBHAGYAVATI = {
-    id = 843
+    id = 4843
     provinces = { "x58C3DD" "x7FDBC0" "x8982EB" "xAF9CF3" "xB0F68B" "xC2D6DB" "xE330F5" "xE5F6C6" "xE6F5CF" }
+    city = x58C3DD
+    wood = x7FDBC0
+    farm = x8982EB
+    mine = xAF9CF3
+    port = xB0F68B
+
 }
 STATE_JIVANASUTA = {
-    id = 844
+    id = 4844
     provinces = { "x60EBC6" "x69EACD" "x97B8D2" "x9E95C6" "xBDCF77" "xC4D06D" "xCEEC9E" "xEF9FD2" "xF514F6" "xF6E3E1" }
+    city = x60EBC6
+    wood = x69EACD
+    farm = x97B8D2
+    mine = x9E95C6
+    port = xBDCF77
+
 }
 STATE_SADHANA_MANDAL = {
-    id = 845
+    id = 4845
     provinces = { "x7EEEA1" "x84E8EA" "x9DC7D2" "xA3FB7A" "xD175B7" "xE354E4" "xF6F91D" }
+    city = x7EEEA1
+    wood = x84E8EA
+    farm = x9DC7D2
+    mine = xA3FB7A
+    port = xD175B7
+
 }
 STATE_VISHUDDHIKARA = {
-    id = 846
+    id = 4846
     provinces = { "x56FCE7" "x59CBF0" "x91D2D9" "xBDA6F3" "xBFBEFB" "xC58BF1" "xE8EB87" "xEA4CD4" "xEECC64" "xF2EADE" }
+    city = x56FCE7
+    wood = x59CBF0
+    farm = x91D2D9
+    mine = xBDA6F3
+    port = xBFBEFB
+
 }
 STATE_SUKHIBHAVA = {
-    id = 847
+    id = 4847
     provinces = { "x3CF7F1" "x9EDDF8" "xBEDADE" "xC089B2" "xD778E0" "xEDFE92" "xFAB8CB" }
+    city = x3CF7F1
+    wood = x9EDDF8
+    farm = xBEDADE
+    mine = xC089B2
+    port = xD778E0
+
 }
 STATE_ANANDAVATI = {
-    id = 848
+    id = 4848
     provinces = { "x46FEC5" "x8185F7" "x93B4C3" "xC1B8EF" "xD3DE71" }
+    city = x46FEC5
+    wood = x8185F7
+    farm = x93B4C3
+    mine = xC1B8EF
+    port = xD3DE71
+
 }
 STATE_CHINTANAGIRI = {
-    id = 849
+    id = 4849
     provinces = { "xA5DD7E" "xCBF57B" "xD7D3EC" "xDF7FB4" "xE3E9FA" "xE78988" }
+    city = xA5DD7E
+    wood = xCBF57B
+    farm = xD7D3EC
+    mine = xDF7FB4
+    port = xE3E9FA
+
 }
 STATE_PRABUDHYAMANA = {
-    id = 850
+    id = 4850
     provinces = { "x80DAED" "x83C2B1" "xA8BBE4" "xBAE1D5" "xEE7B8D" "xF0FC34" }
+    city = x80DAED
+    wood = x83C2B1
+    farm = xA8BBE4
+    mine = xBAE1D5
+    port = xEE7B8D
+
 }
 STATE_ANUTTARAPUR = {
-    id = 851
+    id = 4851
     provinces = { "x34E9F0" "x9892DA" "xAAF4F0" "xAC9CE5" "xD092A9" "xD7A7E4" "xE1F6A6" "xFBA982" "xFCCE4F" "xFD9D66" }
+    city = x34E9F0
+    wood = x9892DA
+    farm = xAAF4F0
+    mine = xAC9CE5
+    port = xD092A9
+
 }
 STATE_SAMYAKVARTA = {
-    id = 852
+    id = 4852
     provinces = { "x52DBE1" "x6EEAA8" "x83CBD3" "xB0D7CD" "xE37BF2" "xFAA96C" }
+    city = x52DBE1
+    wood = x6EEAA8
+    farm = x83CBD3
+    mine = xB0D7CD
+    port = xE37BF2
+
 }
 STATE_NIRVANANANDA = {
-    id = 853
+    id = 4853
     provinces = { "x5DFDD1" "x7DDAED" "xE4EA4C" "xE883E8" "xF79182" "xFC72E6" }
+    city = x5DFDD1
+    wood = x7DDAED
+    farm = xE4EA4C
+    mine = xE883E8
+    port = xF79182
+
 }
 STATE_BUDAKURRI = {
-    id = 854
+    id = 4854
     provinces = { "x67F7C4" "x9AB7BF" "xCA72FD" "xCD4DF2" "xE7FD87" "xF7BE46" }
+    city = x67F7C4
+    wood = x9AB7BF
+    farm = xCA72FD
+    mine = xCD4DF2
+    port = xE7FD87
+
 }
 STATE_YARLUWANDU = {
-    id = 855
+    id = 4855
     provinces = { "xADF4D2" "xAEFC94" "xB7C7E5" "xCE80CF" "xF6B0C7" "xF6BCB5" "xFA68C5" }
+    city = xADF4D2
+    wood = xAEFC94
+    farm = xB7C7E5
+    mine = xCE80CF
+    port = xF6B0C7
+
 }
 STATE_MOGORRTI = {
-    id = 856
+    id = 4856
     provinces = { "xB0FA88" "xDAB4C4" "xE9C892" "xEB44E0" "xF5C2F7" }
+    city = xB0FA88
+    wood = xDAB4C4
+    farm = xE9C892
+    mine = xEB44E0
+    port = xF5C2F7
+
 }
 STATE_WANGADARRI = {
-    id = 857
+    id = 4857
     provinces = { "x99C2B0" "xBA79F9" "xCEDAD1" "xD2E6D2" "xE0E663" "xEFB7C2" "xF2B984" }
+    city = x99C2B0
+    wood = xBA79F9
+    farm = xCEDAD1
+    mine = xD2E6D2
+    port = xE0E663
+
 }
 STATE_KURUBBA = {
-    id = 858
+    id = 4858
     provinces = { "x93D2D9" "xA7F269" "xB8F4CB" "xCAD5E8" "xD8918E" "xDCF56B" "xE8F372" "xEBB778" "xEDA864" "xFDABA8" }
+    city = x93D2D9
+    wood = xA7F269
+    farm = xB8F4CB
+    mine = xCAD5E8
+    port = xD8918E
+
 }
 STATE_BOODJARRA = {
-    id = 859
+    id = 4859
     provinces = { "x86FE7A" "x8DF3EE" "xA09AD1" "xDBC3D5" "xEFAAD3" }
+    city = x86FE7A
+    wood = x8DF3EE
+    farm = xA09AD1
+    mine = xDBC3D5
+    port = xEFAAD3
+
 }
 STATE_GASHAWARRA = {
-    id = 860
+    id = 4860
     provinces = { "x74A0E3" "x8BB2E4" "x9FECD7" "xD3D49A" "xEAB3BD" }
+    city = x74A0E3
+    wood = x8BB2E4
+    farm = x9FECD7
+    mine = xD3D49A
+    port = xEAB3BD
+
 }
 STATE_YARRAGANBALA = {
-    id = 861
+    id = 4861
     provinces = { "xB6DD76" "xCBADE3" "xE1AAAB" "xE76CB4" }
+    city = xB6DD76
+    wood = xCBADE3
+    farm = xE1AAAB
+    mine = xE76CB4
+
 }
 STATE_WADAWURRUM = {
-    id = 862
+    id = 4862
     provinces = { "x5ADAD2" "x8DE6C6" "xAE67F7" "xAF9BBB" "xC49EA8" "xC7FCFE" "xE1C5F1" "xEEE075" }
+    city = x5ADAD2
+    wood = x8DE6C6
+    farm = xAE67F7
+    mine = xAF9BBB
+    port = xC49EA8
+
 }
 STATE_JALAGAMKATTA = {
-    id = 863
+    id = 4863
     provinces = { "x90DB8A" "xAE8CE1" "xCDBBEF" "xDBE287" "xE6CC95" "xF79FE9" }
+    city = x90DB8A
+    wood = xAE8CE1
+    farm = xCDBBEF
+    mine = xDBE287
+    port = xE6CC95
+
 }
 STATE_KARINGARRI = {
-    id = 864
+    id = 4864
     provinces = { "x16EDF5" "x8DC6D4" "xA98BD7" "xAD92C4" "xBE9F9A" "xE0E7D8" "xE2EF4F" "xF166B0" }
+    city = x16EDF5
+    wood = x8DC6D4
+    farm = xA98BD7
+    mine = xAD92C4
+    port = xBE9F9A
+
 }
 STATE_KULUWANDU = {
-    id = 865
+    id = 4865
     provinces = { "x8DC0B3" "xBDC6BA" "xBFEBC5" "xC18CFC" "xC4CBF8" "xCD70B9" "xDEADC1" }
+    city = x8DC0B3
+    wood = xBDC6BA
+    farm = xBFEBC5
+    mine = xC18CFC
+    port = xC4CBF8
+
 }
 STATE_BUDAMURAYIRI = {
-    id = 866
+    id = 4866
     provinces = { "x72B3F8" "x7FF88F" "x84A8D0" "xACEBBB" "xD5E8D7" "xE6F195" "xF7B6C0" }
+    city = x72B3F8
+    wood = x7FF88F
+    farm = x84A8D0
+    mine = xACEBBB
+    port = xD5E8D7
+
 }
 STATE_MARLIYAGIRRA = {
-    id = 867
+    id = 4867
     provinces = { "x91E6B1" "xCB92AC" "xE3ACB9" "xEBAF9C" }
+    city = x91E6B1
+    wood = xCB92AC
+    farm = xE3ACB9
+    mine = xEBAF9C
+
 }
 STATE_DAMARLARA = {
-    id = 868
+    id = 4868
     provinces = { "x7B88F8" "xA8B5CB" "xA9F599" "xB6F8E9" "xBD99D2" "xE935FD" }
+    city = x7B88F8
+    wood = xA8B5CB
+    farm = xA9F599
+    mine = xB6F8E9
+    port = xBD99D2
+
 }
 STATE_KURRADUYARRA = {
-    id = 869
+    id = 4869
     provinces = { "x8FDAAC" "xB5EDD4" "xC8A79E" "xE571DE" "xF2C2CB" }
+    city = x8FDAAC
+    wood = xB5EDD4
+    farm = xC8A79E
+    mine = xE571DE
+    port = xF2C2CB
+
 }
 STATE_WARRANGBANU = {
-    id = 870
+    id = 4870
     provinces = { "x78C0E8" "xB0B1A4" "xB593CE" "xB8E97B" "xDEE692" "xE3B0AB" "xE9D7A5" }
+    city = x78C0E8
+    wood = xB0B1A4
+    farm = xB593CE
+    mine = xB8E97B
+    port = xDEE692
+
 }
 STATE_BANUBABU = {
-    id = 871
+    id = 4871
     provinces = { "xBBEE67" "xCF6CFE" "xEAEA6E" "xF93DCC" "xFB7394" }
+    city = xBBEE67
+    wood = xCF6CFE
+    farm = xEAEA6E
+    mine = xF93DCC
+    port = xFB7394
+
 }
 STATE_BULARRANG = {
-    id = 872
+    id = 4872
     provinces = { "xA1F265" "xD9D9F9" "xEB9482" "xFEE069" }
+    city = xA1F265
+    wood = xD9D9F9
+    farm = xEB9482
+    mine = xFEE069
+
 }
 STATE_DANKASEMBE = {
-    id = 873
+    id = 4873
     provinces = { "x62FEA1" "xA1A5D3" "xD147F0" "xF571AD" "xFDF0AC" }
+    city = x62FEA1
+    wood = xA1A5D3
+    farm = xD147F0
+    mine = xF571AD
+    port = xFDF0AC
+
 }
 STATE_CRESI = {
-    id = 874
+    id = 4874
     provinces = { "x5FC6F8" "x8AC3D6" "x8EE8D6" "xC7E993" "xCEA4D4" "xF0A069" "xF751C9" }
+    city = x5FC6F8
+    wood = x8AC3D6
+    farm = x8EE8D6
+    mine = xC7E993
+    port = xCEA4D4
+
 }
 STATE_TSEGYALNIPIY = {
-    id = 875
+    id = 4875
     provinces = { "x9BF678" "xA7EDD1" "xB4F1A0" "xBE6EE2" "xD5C6F2" "xEFB0E9" "xF3679B" }
+    city = x9BF678
+    wood = xA7EDD1
+    farm = xB4F1A0
+    mine = xBE6EE2
+    port = xD5C6F2
+
 }
 STATE_LHAMOOSKIWAN = {
-    id = 876
+    id = 4876
     provinces = { "x64D2FD" "x6AE4C3" "xA5E6B9" "xA6D59F" "xABF5A5" "xEE9CD2" "xF2BCAB" }
+    city = x64D2FD
+    wood = x6AE4C3
+    farm = xA5E6B9
+    mine = xA6D59F
+    port = xABF5A5
+
 }
 STATE_TSEPO = {
-    id = 877
+    id = 4877
     provinces = { "xB8C7D8" "xC141FA" "xCA8FA2" "xD57FCF" "xEB69C4" "xF482FB" "xF842D7" }
+    city = xB8C7D8
+    wood = xC141FA
+    farm = xCA8FA2
+    mine = xD57FCF
+    port = xEB69C4
+
 }
 STATE_DHARMASHALAPIMIY = {
-    id = 878
+    id = 4878
     provinces = { "x54CFE9" "xD0CFD9" "xD297E0" "xEE8CDD" "xFBE6F0" "xFD4DC7" }
+    city = x54CFE9
+    wood = xD0CFD9
+    farm = xD297E0
+    mine = xEE8CDD
+    port = xFBE6F0
+
 }
 STATE_SAKYAASKIY = {
-    id = 879
+    id = 4879
     provinces = { "x88E5D6" "x9992CC" "xBDC1C3" "xC776E4" "xDAED53" "xE4D9E6" "xF93FDD" }
+    city = x88E5D6
+    wood = x9992CC
+    farm = xBDC1C3
+    mine = xC776E4
+    port = xDAED53
+
 }
 STATE_NYINGMAWASKAHIKAN = {
-    id = 880
+    id = 4880
     provinces = { "x39FDE1" "x5DF3FB" "xA3F5A9" "xC1F9F8" "xCD60D5" "xCEE4DB" "xD1BCCC" "xE0F2E0" "xF9ED22" }
+    city = x39FDE1
+    wood = x5DF3FB
+    farm = xA3F5A9
+    mine = xC1F9F8
+    port = xCD60D5
+
 }
 STATE_POTALANIPIY = {
-    id = 881
+    id = 4881
     provinces = { "xA6B2FA" "xA7A1C2" "xC295BF" "xD155ED" "xD3E36F" "xE5A2C8" "xF4CA5A" "xF5BD68" "xFBA694" }
+    city = xA6B2FA
+    wood = xA7A1C2
+    farm = xC295BF
+    mine = xD155ED
+    port = xD3E36F
+
 }
 STATE_GANDNI = {
-    id = 882
+    id = 4882
     provinces = { "x71F4D2" "x7DEBAE" "x9BC7A0" "xE1A7F1" "xE66ABB" "xFBB14A" }
+    city = x71F4D2
+    wood = x7DEBAE
+    farm = x9BC7A0
+    mine = xE1A7F1
+    port = xE66ABB
+
 }
 STATE_KHANGYO = {
-    id = 883
+    id = 4883
     provinces = { "xC4C390" "xCBC2FA" "xCEECC0" "xD8E4C3" "xECA475" "xEE3CFD" }
+    city = xC4C390
+    wood = xCBC2FA
+    farm = xCEECC0
+    mine = xD8E4C3
+    port = xECA475
+
 }
 STATE_TSURWA = {
-    id = 884
+    id = 4884
     provinces = { "xD4BBFA" "xEB30F5" "xEF9EA3" "xF0AB87" "xF7EC8F" "xF940F7" "xFCDABE" }
+    city = xD4BBFA
+    wood = xEB30F5
+    farm = xEF9EA3
+    mine = xF0AB87
+    port = xF7EC8F
+
 }
 STATE_YAMYAM = {
-    id = 885
+    id = 4885
     provinces = { "xBFDEB9" "xC88CB4" "xD04EFE" "xDBAAE9" "xE076D4" }
+    city = xBFDEB9
+    wood = xC88CB4
+    farm = xD04EFE
+    mine = xDBAAE9
+    port = xE076D4
+
 }
 STATE_NAMTSOOSKIWAN = {
-    id = 886
+    id = 4886
     provinces = { "x6AF6D6" "x9AF9B8" "xD0F6BA" "xDDF138" "xDE87E2" "xF345CC" "xFB78D1" "xFEF864" }
+    city = x6AF6D6
+    wood = x9AF9B8
+    farm = xD0F6BA
+    mine = xDDF138
+    port = xDE87E2
+
 }
 STATE_SHIGATSENIPIY = {
-    id = 887
+    id = 4887
     provinces = { "x6ED7B5" "xB586D3" "xD5F5B3" "xE4E863" "xECEE46" "xF4D537" "xF98B8A" }
+    city = x6ED7B5
+    wood = xB586D3
+    farm = xD5F5B3
+    mine = xE4E863
+    port = xECEE46
+
 }
 STATE_DHACREE = {
-    id = 888
+    id = 4888
     provinces = { "x44CFF2" "x9EF0CD" "xB3C096" "xC596F4" "xD6FA4C" }
+    city = x44CFF2
+    wood = x9EF0CD
+    farm = xB3C096
+    mine = xC596F4
+    port = xD6FA4C
+
 }
 STATE_GANDENASKIY = {
-    id = 889
+    id = 4889
     provinces = { "x6BF399" "x7ED1D1" "xB5CFC5" "xB9F57C" "xBBF3BF" "xDED653" "xE183B5" "xEA987B" "xFBA1D7" }
+    city = x6BF399
+    wood = x7ED1D1
+    farm = xB5CFC5
+    mine = xB9F57C
+    port = xBBF3BF
+
 }
 STATE_THOLINGNIPIY = {
-    id = 890
+    id = 4890
     provinces = { "x43EDE3" "x56F5FB" "x64D1F8" "xB0ECC1" "xCC8DBD" "xD9F1B8" }
+    city = x43EDE3
+    wood = x56F5FB
+    farm = x64D1F8
+    mine = xB0ECC1
+    port = xCC8DBD
+
 }
 STATE_KHAMOSKIWAN = {
-    id = 891
+    id = 4891
     provinces = { "x68D5D6" "xB28CD8" "xBAE861" "xD5C299" "xD682A8" "xF347E1" "xF406FB" "xF9AA90" }
+    city = x68D5D6
+    wood = xB28CD8
+    farm = xBAE861
+    mine = xD5C299
+    port = xD682A8
+
 }
 STATE_CREEGYAL = {
-    id = 892
+    id = 4892
     provinces = { "x1EE0FE" "xB8FEFB" "xD4DA8A" "xD8E5FC" }
+    city = x1EE0FE
+    wood = xB8FEFB
+    farm = xD4DA8A
+    mine = xD8E5FC
+
 }
 STATE_LHASHI = {
-    id = 893
+    id = 4893
     provinces = { "x6BFCF7" "xA1B5C9" "xB1DDB5" "xC5D8ED" "xD5A7CF" "xE9D835" "xFAE050" }
+    city = x6BFCF7
+    wood = xA1B5C9
+    farm = xB1DDB5
+    mine = xC5D8ED
+    port = xD5A7CF
+
 }
 STATE_ARIMOS = {
-    id = 894
+    id = 4894
     provinces = { "x53FEB6" "x54CDF7" "x93B6AE" "x94D1DD" "x9ACDB8" "xB49EBC" "xC4F3F2" "xD2EDCE" }
+    city = x53FEB6
+    wood = x54CDF7
+    farm = x93B6AE
+    mine = x94D1DD
+    port = x9ACDB8
+
 }
 STATE_GREGAN = {
-    id = 895
+    id = 4895
     provinces = { "x8CBAC2" "xB1D8FE" "xB6ADCE" "xBBEDF9" "xD5CF5C" "xE567D9" "xF29EC9" }
+    city = x8CBAC2
+    wood = xB1D8FE
+    farm = xB6ADCE
+    mine = xBBEDF9
+    port = xD5CF5C
+
 }
 STATE_HERMENIA = {
-    id = 896
+    id = 4896
     provinces = { "x4CF9FD" "x8DD7F5" "x99F8EE" "xAFB2D4" "xBFCF88" "xC1BEE9" "xEBBFB1" "xEC88BA" "xEFE3F2" "xFE65A1" }
+    city = x4CF9FD
+    wood = x8DD7F5
+    farm = x99F8EE
+    mine = xAFB2D4
+    port = xBFCF88
+
 }
 STATE_HALLEOS = {
-    id = 897
+    id = 4897
     provinces = { "x8AC9EE" "xA5FC80" "xBAAFE3" "xE4B7EE" "xF9CD49" "xFACA93" }
+    city = x8AC9EE
+    wood = xA5FC80
+    farm = xBAAFE3
+    mine = xE4B7EE
+    port = xF9CD49
+
 }
 STATE_DILMELIA = {
-    id = 898
+    id = 4898
     provinces = { "x6EC7F9" "x72FBB1" "x8BE8F9" "x92DBBA" "xC3A6F2" "xCB89CB" "xD7EB42" "xE533F1" "xF9DE43" }
+    city = x6EC7F9
+    wood = x72FBB1
+    farm = x8BE8F9
+    mine = x92DBBA
+    port = xC3A6F2
+
 }
 STATE_GREOS = {
-    id = 899
+    id = 4899
     provinces = { "x78E0EC" "xB3C78E" "xB6EDEC" "xBAFC76" "xBF81F5" "xE38DD0" "xEFD6AD" "xF081BB" "xF6C155" }
+    city = x78E0EC
+    wood = xB3C78E
+    farm = xB6EDEC
+    mine = xBAFC76
+    port = xBF81F5
+
 }
 STATE_HELLENOVA = {
-    id = 900
+    id = 4900
     provinces = { "x4BF6F9" "x59F5E6" "x7DD9E3" "x84CAC3" "x92ABF7" "xD1C9A4" "xD7F872" "xF1E4EA" "xF5F7A1" }
+    city = x4BF6F9
+    wood = x59F5E6
+    farm = x7DD9E3
+    mine = x84CAC3
+    port = x92ABF7
+
 }
 STATE_KOTAYNOS = {
-    id = 901
+    id = 4901
     provinces = { "x64C8EF" "xA479FB" "xB0CD88" "xB8E5E6" "xBBC777" "xCD88FD" "xE030EF" "xFC37D1" }
+    city = x64C8EF
+    wood = xA479FB
+    farm = xB0CD88
+    mine = xB8E5E6
+    port = xBBC777
+
 }
 STATE_YERNAGRIA = {
-    id = 902
+    id = 4902
     provinces = { "x52F7FC" "x5CF8D1" "x6FE2FB" "x8495F6" "x86A0DB" "x92F6C6" "xA4F7D2" "xBCB0CE" "xD5E33E" "xF914F2" }
+    city = x52F7FC
+    wood = x5CF8D1
+    farm = x6FE2FB
+    mine = x8495F6
+    port = x86A0DB
+
 }
 STATE_ARTAXIAHAN = {
-    id = 903
+    id = 4903
     provinces = { "x8DA5DD" "x92E4A5" "xA5E785" "xB488BC" "xD357D0" "xEE39ED" "xF3CAA2" "xFD52E3" }
+    city = x8DA5DD
+    wood = x92E4A5
+    farm = xA5E785
+    mine = xB488BC
+    port = xD357D0
+
 }
 STATE_ZANPIQ = {
-    id = 904
+    id = 4904
     provinces = { "xA0B4AB" "xA7D2E3" "xC259F2" "xD3AAFB" "xD9FE4F" "xE526FC" "xF3B0D0" "xF47BD2" }
+    city = xA0B4AB
+    wood = xA7D2E3
+    farm = xC259F2
+    mine = xD3AAFB
+    port = xD9FE4F
+
 }
 STATE_ELENIKAR = {
-    id = 905
+    id = 4905
     provinces = { "x72BAEC" "x8DFC71" "x94DA87" "x9FC9F1" "xD6C77F" "xDDC1DB" "xE3A185" "xF09573" }
+    city = x72BAEC
+    wood = x8DFC71
+    farm = x94DA87
+    mine = x9FC9F1
+    port = xD6C77F
+
 }
 STATE_ARGYSTSIK = {
-    id = 906
+    id = 4906
     provinces = { "x75F9E9" "xABCCCB" "xDA27F5" "xE0D343" "xE2F61D" "xE382DA" "xE5CF60" "xEAFBAC" "xF19382" "xF4C349" "xFE28F4" }
+    city = x75F9E9
+    wood = xABCCCB
+    farm = xDA27F5
+    mine = xE0D343
+    port = xE2F61D
+
 }
 STATE_GRAEA = {
-    id = 907
+    id = 4907
     provinces = { "x70DDCE" "xA47AE2" "xC8F95C" "xC9B7AA" "xCEB082" "xD0A4DD" "xD1B4F1" "xEC90CC" "xF55DA5" "xF97AB4" "xFAFA5B" "xFEBD81" }
+    city = x70DDCE
+    wood = xA47AE2
+    farm = xC8F95C
+    mine = xC9B7AA
+    port = xCEB082
+
 }
 STATE_JERMENION = {
-    id = 908
+    id = 4908
     provinces = { "x14E5FD" "x4CD3E9" "x5AB8EA" "xB4A69D" "xBACED2" "xC43EFE" "xCD43F7" "xCF82B6" "xD488A7" "xD883C6" "xDAFCC4" "xF27EB4" "xF565AD" "xF5FE31" "xF78F80" }
+    city = x14E5FD
+    wood = x4CD3E9
+    farm = x5AB8EA
+    mine = xB4A69D
+    port = xBACED2
+
 }
 STATE_ARTHERA = {
-    id = 909
+    id = 4909
     provinces = { "x88A9EB" "xA499E2" "xB4D8E0" "xBDF0EF" "xC085C6" "xC1E9BC" "xCA97D4" "xD762E4" "xD9CF9B" "xE5CBE9" "xFAB6E0" }
+    city = x88A9EB
+    wood = xA499E2
+    farm = xB4D8E0
+    mine = xBDF0EF
+    port = xC085C6
+
 }
 STATE_COCOHAYAT = {
-    id = 910
+    id = 4910
     provinces = { "x1BF0FC" "x54E3D8" "x73ACFB" "x78E0F1" "x85DDC3" "x88BCB5" "xA3FBAB" "xBDF152" "xCBF5CB" "xD0BDE2" "xD340F2" "xD8C3FD" "xDBA678" "xF880A5" "xF9EA62" }
+    city = x1BF0FC
+    wood = x54E3D8
+    farm = x73ACFB
+    mine = x78E0F1
+    port = x85DDC3
+
 }
 STATE_NIKA = {
-    id = 911
+    id = 4911
     provinces = { "x7988FC" "x7AFE8E" "x8CE6C8" "xB7D0AA" "xC56FD5" "xE0EF45" "xEEC77F" }
+    city = x7988FC
+    wood = x7AFE8E
+    farm = x8CE6C8
+    mine = xB7D0AA
+    port = xC56FD5
+
 }
 STATE_HELARM = {
-    id = 912
+    id = 4912
     provinces = { "x28DAF7" "x2EE8EE" "x58BBE2" "x62F5EC" "x65FBDC" "x93FBFD" "x95F7A4" "x99DDB5" "xD754CA" "xF465B8" "xFDEDFA" }
+    city = x28DAF7
+    wood = x2EE8EE
+    farm = x58BBE2
+    mine = x62F5EC
+    port = x65FBDC
+
 }
 STATE_MYTHOS = {
-    id = 913
+    id = 4913
     provinces = { "x7095F9" "x72B4DA" "x7CD0C9" "xAAC99E" "xBAE166" "xC2CBE4" "xE232FE" "xEA9193" "xEDF033" "xF1E3B2" "xFC50B5" }
+    city = x7095F9
+    wood = x72B4DA
+    farm = x7CD0C9
+    mine = xAAC99E
+    port = xBAE166
+
 }
 STATE_KABUSKAYA = {
-    id = 914
+    id = 4914
     provinces = { "x22FBF7" "x36F0DD" "x3FE4FC" "xCAE5CE" "xE2A29F" }
+    city = x22FBF7
+    wood = x36F0DD
+    farm = x3FE4FC
+    mine = xCAE5CE
+    port = xE2A29F
+
 }
 STATE_MOSKHAN = {
-    id = 915
+    id = 4915
     provinces = { "x4EF5C3" "x5CB0EF" "x9FD2EF" "xAFDFDA" "xC7A3C0" "xF3C160" "xFBE55D" }
+    city = x4EF5C3
+    wood = x5CB0EF
+    farm = x9FD2EF
+    mine = xAFDFDA
+    port = xC7A3C0
+
 }
 STATE_HERASLAV = {
-    id = 916
+    id = 4916
     provinces = { "xB3F779" "xB5BDA7" "xBEDF86" "xD874FC" "xE8959C" "xEAABCB" }
+    city = xB3F779
+    wood = xB5BDA7
+    farm = xBEDF86
+    mine = xD874FC
+    port = xE8959C
+
 }
 STATE_TASHKAVSK = {
-    id = 917
+    id = 4917
     provinces = { "xB98AD8" "xC6ADDE" "xCDFC82" "xE5FBD1" "xF1DB57" }
+    city = xB98AD8
+    wood = xC6ADDE
+    farm = xCDFC82
+    mine = xE5FBD1
+    port = xF1DB57
+
 }
 STATE_NEFUDISTAN = {
-    id = 918
+    id = 4918
     provinces = { "x65D1E5" "x68DEF5" "x74F49F" "xB783DF" "xCFE276" "xD17AEF" "xD1D790" "xDAB4AB" "xE8B99D" "xEDEF92" }
+    city = x65D1E5
+    wood = x68DEF5
+    farm = x74F49F
+    mine = xB783DF
+    port = xCFE276
+
 }
 STATE_SAMARKH = {
-    id = 919
+    id = 4919
     provinces = { "xA5ACF7" "xADDAD6" "xAFE19E" "xB599AB" "xDA90A4" "xE45ECD" "xFD4AF5" "xFE5DC1" }
+    city = xA5ACF7
+    wood = xADDAD6
+    farm = xAFE19E
+    mine = xB599AB
+    port = xDA90A4
+
 }
 STATE_DUSHANBARYA = {
-    id = 920
+    id = 4920
     provinces = { "x5ECFF8" "x67C7E1" "x67D2C9" "x8BFE8A" "xC8C0D5" }
+    city = x5ECFF8
+    wood = x67C7E1
+    farm = x67D2C9
+    mine = x8BFE8A
+    port = xC8C0D5
+
 }
 STATE_MAZAROV = {
-    id = 921
+    id = 4921
     provinces = { "x7BE9F5" "x8EEEB9" "xCABB9B" "xCF38F2" "xE1E7F0" "xEE9F95" "xF845DF" "xFBB77A" }
+    city = x7BE9F5
+    wood = x8EEEB9
+    farm = xCABB9B
+    mine = xCF38F2
+    port = xE1E7F0
+
 }
 STATE_KHOSTOV = {
-    id = 922
+    id = 4922
     provinces = { "x77B9E3" "x82E3FA" "xBE7DF3" "xE6B09E" "xF440EC" "xFBC4D9" }
+    city = x77B9E3
+    wood = x82E3FA
+    farm = xBE7DF3
+    mine = xE6B09E
+    port = xF440EC
+
 }
 STATE_BALKHSK = {
-    id = 923
+    id = 4923
     provinces = { "xADFB7B" "xBD96CE" "xE21CFC" "xEA97DB" "xFB7AD7" }
+    city = xADFB7B
+    wood = xBD96CE
+    farm = xE21CFC
+    mine = xEA97DB
+    port = xFB7AD7
+
 }
 STATE_KUNDUZOV = {
-    id = 924
+    id = 4924
     provinces = { "x43FDD3" "x4DD7E6" "x57D7F2" "x93B5C8" "x9BE08C" "xA8C9D0" "xAFDCB4" "xE061D3" "xE3B0D1" "xEF42ED" "xF29BAD" }
+    city = x43FDD3
+    wood = x4DD7E6
+    farm = x57D7F2
+    mine = x93B5C8
+    port = x9BE08C
+
 }
 STATE_PULIKOTSK = {
-    id = 926
+    id = 4926
     provinces = { "x5AD0EA" "x7889FB" "xE6D2D6" "xEB8CD9" "xECF559" "xEEC3D0" }
+    city = x5AD0EA
+    wood = x7889FB
+    farm = xE6D2D6
+    mine = xEB8CD9
+    port = xECF559
+
 }
 STATE_TERMEZSK = {
-    id = 927
+    id = 4927
     provinces = { "x8BFC73" "xA2FBF5" "xCE96A6" "xEDADDE" "xF5BDF4" }
+    city = x8BFC73
+    wood = xA2FBF5
+    farm = xCE96A6
+    mine = xEDADDE
+    port = xF5BDF4
+
 }
 STATE_JALALABAKOV = {
-    id = 928
+    id = 4928
     provinces = { "x52F0FE" "x5EF5DB" "x9FDB8B" "xD09BCA" "xDA5FC5" "xDC43EC" "xE0AC69" "xE1FEB1" "xE3F09B" "xE7C6E5" "xF7C6A3" "xFBA9E0" }
+    city = x52F0FE
+    wood = x5EF5DB
+    farm = x9FDB8B
+    mine = xD09BCA
+    port = xDA5FC5
+
 }
 STATE_FARGHANOV = {
-    id = 929
+    id = 4929
     provinces = { "x93E1FB" "xC963D3" "xE2EF62" "xE4D5C8" "xEC35E6" "xF4C0C2" "xF6A6C7" }
+    city = x93E1FB
+    wood = xC963D3
+    farm = xE2EF62
+    mine = xE4D5C8
+    port = xEC35E6
+
 }
 STATE_GHAZNINSKIY = {
-    id = 930
+    id = 4930
     provinces = { "x32E7E0" "x85F6E9" "x8DDC8C" "xA5EF6C" "xA9A1AB" "xC8ED7E" "xE25FDB" "xED59C0" "xEEAED2" }
+    city = x32E7E0
+    wood = x85F6E9
+    farm = x8DDC8C
+    mine = xA5EF6C
+    port = xA9A1AB
+
 }
 STATE_ANDIZHANSK = {
-    id = 931
+    id = 4931
     provinces = { "x4BF0BA" "x80D6EF" "xA770FC" "xC193C7" "xDF997E" "xFABCD8" }
+    city = x4BF0BA
+    wood = x80D6EF
+    farm = xA770FC
+    mine = xC193C7
+    port = xDF997E
+
 }
 STATE_BAMIANOV = {
-    id = 932
+    id = 4932
     provinces = { "x40FEC7" "x9DDDEC" "xA1A6D6" "xCE8AB4" "xCEEE9A" "xDBC9B1" }
+    city = x40FEC7
+    wood = x9DDDEC
+    farm = xA1A6D6
+    mine = xCE8AB4
+    port = xCEEE9A
+
 }
 STATE_RUKHAM = {
-    id = 933
+    id = 4933
     provinces = { "x15EFFE" "x29E7EC" "x3EF8FE" "x84D8D2" "x84D8E8" "x869BE3" "x87E699" "x89CCF7" "x8BC5EB" "x8EDCEA" "x9EF8DF" "x9FF7FE" "xA1BEDA" "xA2C2B7" "xA5D6EF" "xA6EFA0" "xA7E26E" "xABA5D8" "xBAFB50" "xBD84DB" "xBFAEFB" "xBFE1B5" "xC1BBC1" "xC27DBE" "xC4AE93" "xD584A2" "xD8C798" "xD8E8B3" "xDBB7AE" "xDBC7DF" "xDCF14C" "xDD9FDF" "xDE5DC5" "xE5D4C3" "xE5E8F0" "xE79FB9" "xE7EE34" "xE997ED" "xEC6DA6" "xECF583" "xEFF47D" "xF0DCF7" "xF3DBE8" "xF67C9F" "xF980E8" "xFACEFA" "xFE44BE" }
+    city = x15EFFE
+    wood = x29E7EC
+    farm = x3EF8FE
+    mine = x84D8D2
+    port = x84D8E8
+
 }
 STATE_KARAKAR = {
-    id = 934
+    id = 4934
     provinces = { "x46D2EB" "x60EBD5" "x61F3FB" "x69CDC3" "x76DEE4" "x7AEDFB" "x7CE3D6" "x7EB4F6" "x84E29C" "x918CF0" "x969CD7" "x9FADEA" "x9FD7FD" "xA26BF2" "xA566ED" "xAAA1CC" "xB284D8" "xB4D9E2" "xB5ADD8" "xBCB2F1" "xBDBEA6" "xD4A0CB" "xD89AFB" "xDA82CD" "xDCFB8E" "xDF6BE1" "xE8CEB1" "xEC76B3" "xEDE431" "xEF99A1" "xF36AF3" "xF85BAB" "xF9D696" }
+    city = x46D2EB
+    wood = x60EBD5
+    farm = x61F3FB
+    mine = x69CDC3
+    port = x76DEE4
+
 }
 STATE_HARQOM = {
-    id = 935
+    id = 4935
     provinces = { "x2AF1E2" "x56D7E6" "x79D7A8" "x85C9B0" "x93C6AC" "x93E58A" "xAEE197" "xB0B2F0" "xB277F4" "xB47BCD" "xBF54EC" "xC16EF2" "xC2D0C7" "xC3FCA5" "xC5E589" "xCCA5EA" "xD061F9" "xD8A4AF" "xDABDCA" "xDB9AEB" "xDE99A0" "xDF9BB0" "xECE52E" "xEE64DD" "xFAF5BD" }
+    city = x2AF1E2
+    wood = x56D7E6
+    farm = x79D7A8
+    mine = x85C9B0
+    port = x93C6AC
+
 }
 STATE_KHUBEK = {
-    id = 936
+    id = 4936
     provinces = { "x5DB7E4" "x6CDDAD" "x78FB8A" "x7C9EE7" "x85E0AB" "x92BCAA" "x95CDAC" "xABF861" "xB37BE8" "xB596E4" "xBAC18B" "xC069D1" "xC3A3EE" "xC99DB9" "xCA51E2" "xCC57D9" "xD5BD8A" "xD8C8CC" "xDAB39D" "xE1A3C0" "xE4A277" "xE698AF" "xE9B7C0" "xEF61AF" "xEFD55D" "xFCF19C" "xFDA06C" }
+    city = x5DB7E4
+    wood = x6CDDAD
+    farm = x78FB8A
+    mine = x7C9EE7
+    port = x85E0AB
+
 }
 STATE_TABLAG = {
-    id = 937
+    id = 4937
     provinces = { "x4AF4C4" "x52FEE5" "x62CCEB" "x76D4BF" "x7DD1F2" "x8BB6E4" "x8F7BF9" "x97F965" "x9A60FB" "x9CFDBA" "x9F80FB" "xA0A3EB" "xA1D9B7" "xAB9DBF" "xAFA1BF" "xBEAAD1" "xC7E080" "xCBE2B7" "xCDF8BA" "xD082FB" "xD2E885" "xD4E863" "xD8D990" "xD8D9C2" "xD8EBB5" "xDF35F3" "xE456D3" "xE55FDD" "xE6958B" "xEB99DB" "xF1D7B9" "xF3B776" "xFA66A6" "xFA8AD9" "xFC7EA7" }
+    city = x4AF4C4
+    wood = x52FEE5
+    farm = x62CCEB
+    mine = x76D4BF
+    port = x7DD1F2
+
 }
 STATE_WUTAK = {
-    id = 938
+    id = 4938
     provinces = { "x36F9E4" "x40CAFA" "x6ABFDF" "x6EF199" "x75F0DF" "x7ADAC4" "x7BC8BD" "x93A3DA" "xA3FB8F" "xA9B4EB" "xAF98DE" "xB7D5E5" "xBB84E7" "xBDA4D3" "xC1C3C2" "xC2EFFD" "xC3F86E" "xC4F6A3" "xC6D59D" "xC772D3" "xD065D2" "xDDA492" "xDF61F1" "xDF88F5" "xE0F439" "xE16ACE" "xE3D88B" "xE556D4" "xE5F2B7" "xE66BED" "xE8F67A" "xEB82A8" "xF1D87B" "xF2BBF0" "xF38093" "xF4EDD6" "xF5ECC9" "xF8709A" }
+    city = x36F9E4
+    wood = x40CAFA
+    farm = x6ABFDF
+    mine = x6EF199
+    port = x75F0DF
+
 }
