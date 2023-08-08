@@ -1,5 +1,5 @@
 ﻿STATE_CARTHI = {
-    id = 4691
+    id = 3691
     provinces = { "x95D2CB" "x99DCF0" "xABB0CC" "xABC1B5" "xAFB3EA" "xBBF553" "xC3F188" "xDFEEB8" "xE989BD" "xF2EAB7" "xF416F7" }
     city = x95D2CB
     wood = x99DCF0
@@ -9,7 +9,7 @@
 
 }
 STATE_ZYRAS = {
-    id = 4692
+    id = 3692
     provinces = { "x64C8F2" "x7BC0CB" "xA0DCB9" "xBB70F3" "xC866E7" "xCAE893" "xCDBAF8" "xCE9CCA" "xD964E1" "xEB67F1" "xF9B68D" "xFA6E9C" }
     city = x64C8F2
     wood = x7BC0CB
@@ -19,7 +19,7 @@ STATE_ZYRAS = {
 
 }
 STATE_HADRA = {
-    id = 4693
+    id = 3693
     provinces = { "x4AD7DB" "x74C9C7" "x7983FC" "x81EEAC" "x88FBDE" "xCC83E3" "xCD65F8" "xD59CA5" "xDCF6C7" "xE5E93C" "xE9AEA3" "xF166CA" "xF5CA42" }
     city = x4AD7DB
     wood = x74C9C7
@@ -29,7 +29,7 @@ STATE_HADRA = {
 
 }
 STATE_BYRTHAS = {
-    id = 4694
+    id = 3694
     provinces = { "x84A7FC" "x8DD2E4" "x92F4BD" "xB0F8B4" "xCC75FB" "xCEA3A1" "xD15CE3" "xD88CAE" "xDAA3C9" "xDFEC52" "xF3A8CA" "xF469A4" "xF7F7CD" }
     city = x84A7FC
     wood = x8DD2E4
@@ -39,7 +39,7 @@ STATE_BYRTHAS = {
 
 }
 STATE_LEPTHAR = {
-    id = 4695
+    id = 3695
     provinces = { "x26E7EB" "x59EDD3" "x6EF1CF" "x7CBCC4" "x93CB9F" "xA7C9E4" "xB2E1EC" "xCEBB93" "xE8AA78" "xFA98E8" }
     city = x26E7EB
     wood = x59EDD3
@@ -49,7 +49,7 @@ STATE_LEPTHAR = {
 
 }
 STATE_THASPYR = {
-    id = 4696
+    id = 3696
     provinces = { "x6AF1B9" "x98F082" "xA6D0A1" "xA7AFC7" }
     city = x6AF1B9
     wood = x98F082
@@ -58,7 +58,7 @@ STATE_THASPYR = {
 
 }
 STATE_SABRYA = {
-    id = 4697
+    id = 3697
     provinces = { "x22F8EC" "x75F3BD" "xBA97D6" "xBDA0B8" "xE7739D" "xF9EE5B" "xFDE6C6" }
     city = x22F8EC
     wood = x75F3BD
@@ -68,7 +68,7 @@ STATE_SABRYA = {
 
 }
 STATE_LEPTISCA = {
-    id = 4698
+    id = 3698
     provinces = { "x5BCBD2" "x6DBAFE" "x8AB7C4" "xA9BE9F" "xB1A1BA" "xD9BD70" "xDCD350" "xDCE770" "xE09995" "xE783AD" "xEBDCED" "xF5B37F" }
     city = x5BCBD2
     wood = x6DBAFE
@@ -78,7 +78,7 @@ STATE_LEPTISCA = {
 
 }
 STATE_OYRSA = {
-    id = 4699
+    id = 3699
     provinces = { "x83CAEC" "xB786E8" "xCDB5BE" "xCED3E3" "xD09CFC" "xD486A6" "xEAD5A4" "xEDDDD1" "xF9E664" "xFC51AE" }
     city = x83CAEC
     wood = xB786E8
@@ -88,7 +88,7 @@ STATE_OYRSA = {
 
 }
 STATE_THAPSARIS = {
-    id = 4700
+    id = 3700
     provinces = { "x61D7E3" "x6EEFC0" "x7AF2A5" "x88EFE3" "x99C0AA" "xD9F94F" "xDDB79B" "xE1AE66" "xEFEC26" "xF7C3CA" "xF7D6D3" }
     city = x61D7E3
     wood = x6EEFC0
@@ -98,7 +98,7 @@ STATE_THAPSARIS = {
 
 }
 STATE_HADRUMEA = {
-    id = 4701
+    id = 3701
     provinces = { "x7CEDDF" "x90B8E6" "xB0C2DF" "xD5C8E4" "xDC8AD7" "xEBAFC7" "xED3CD2" "xEFC2F4" "xF86FCE" }
     city = x7CEDDF
     wood = x90B8E6
@@ -108,7 +108,7 @@ STATE_HADRUMEA = {
 
 }
 STATE_CARTHALIA = {
-    id = 4702
+    id = 3702
     provinces = { "x83F2B6" "x8ADFD2" "x91ECB1" "x97BBAF" "xD9A3C2" "xDCC8ED" "xE4F72A" "xF062E2" "xFB48D8" "xFE72E1" }
     city = x83F2B6
     wood = x8ADFD2
@@ -118,7 +118,7 @@ STATE_CARTHALIA = {
 
 }
 STATE_SABRATHOS = {
-    id = 4703
+    id = 3703
     provinces = { "x4CE6D3" "x72B6F5" "x8ADEB4" "x8EC8C8" "x96EBD2" "xA1EBEB" "xA3E776" "xE127FC" "xE4DBFE" "xE6858B" "xEA9088" "xEAE270" "xEEF360" }
     city = x4CE6D3
     wood = x72B6F5
@@ -128,7 +128,7 @@ STATE_SABRATHOS = {
 
 }
 STATE_MALYBA = {
-    id = 4704
+    id = 3704
     provinces = { "x44BDF9" "x5AFABA" "x7E99F9" "xA4BDBA" "xADFEDD" "xB2CCED" "xBDF184" "xC7CAEA" "xDAA092" "xDCC7DD" "xE3F882" "xF218EB" }
     city = x44BDF9
     wood = x5AFABA
@@ -138,7 +138,7 @@ STATE_MALYBA = {
 
 }
 STATE_ZAMARA = {
-    id = 4705
+    id = 3705
     provinces = { "x71A7E9" "x79D5B1" "x80FDB4" "xDB7AB2" "xDEBD5B" "xEDFBBF" "xF0F8A3" "xFC6BAC" }
     city = x71A7E9
     wood = x79D5B1
@@ -148,7 +148,7 @@ STATE_ZAMARA = {
 
 }
 STATE_LEPTORIA = {
-    id = 4706
+    id = 3706
     provinces = { "x36F1F0" "xABC5EF" "xB3E793" "xD6F886" "xD8D2A0" "xDBA2B9" "xE2C0EC" "xE59D9A" "xEC9CA4" "xF967CF" "xFC6EEE" }
     city = x36F1F0
     wood = xABC5EF
@@ -158,7 +158,7 @@ STATE_LEPTORIA = {
 
 }
 STATE_GADYRUS = {
-    id = 4707
+    id = 3707
     provinces = { "x8AC9DC" "x9ACEC1" "xC3E6A4" "xD39D96" "xD6B385" "xDDE4B1" "xEBA1FB" "xF9926E" "xFAED1B" "xFBB5B5" }
     city = x8AC9DC
     wood = x9ACEC1
@@ -168,7 +168,7 @@ STATE_GADYRUS = {
 
 }
 STATE_EBYSS = {
-    id = 4708
+    id = 3708
     provinces = { "xAAC8F3" "xBA9DA3" "xCAE28A" "xCEE5E5" "xCFD18F" "xEB98CB" "xEE86BD" "xF9CE97" }
     city = xAAC8F3
     wood = xBA9DA3
@@ -178,7 +178,7 @@ STATE_EBYSS = {
 
 }
 STATE_SIGARA = {
-    id = 4709
+    id = 3709
     provinces = { "x2BE7E9" "x64F3D1" "x69CAD1" "x73BAF4" "x949AF1" "xABF06B" "xB2DBEA" "xC1A4D3" "xC6A4A2" "xDFEC71" "xEACCF3" "xEBB0DA" "xEC97C9" }
     city = x2BE7E9
     wood = x64F3D1
@@ -188,7 +188,7 @@ STATE_SIGARA = {
 
 }
 STATE_MOTHYA = {
-    id = 4710
+    id = 3710
     provinces = { "x65FBBD" "xAACE90" "xBF89D3" "xDBB1FE" "xE19BB9" "xE9BFD5" "xEED85D" "xEFBC61" }
     city = x65FBBD
     wood = xAACE90
@@ -198,7 +198,7 @@ STATE_MOTHYA = {
 
 }
 STATE_LILYBAEUM = {
-    id = 4711
+    id = 3711
     provinces = { "x8BB1C6" "xA4D3D2" "xA8C9CB" "xB3E193" "xC376FC" "xCEA1A5" }
     city = x8BB1C6
     wood = xA4D3D2
@@ -208,7 +208,7 @@ STATE_LILYBAEUM = {
 
 }
 STATE_CLYPYA = {
-    id = 4712
+    id = 3712
     provinces = { "xA6B8F8" "xC365DE" "xCD89B9" "xCFAB8B" "xD0FA73" "xDF72F9" "xF1F5F7" "xF5FC7A" }
     city = xA6B8F8
     wood = xC365DE
@@ -218,7 +218,7 @@ STATE_CLYPYA = {
 
 }
 STATE_RUSARYA = {
-    id = 4713
+    id = 3713
     provinces = { "x27F5F5" "x66EFA5" "x71DEE9" "x88EF9D" "x8EDDF8" "x9FEB86" "xB7DAAF" "xB99EB2" "xC5BEE4" "xD26BBC" "xD8ACC5" "xF29F7B" "xF77EDC" "xF8B9C9" "xFEEFDC" }
     city = x27F5F5
     wood = x66EFA5
@@ -228,7 +228,7 @@ STATE_RUSARYA = {
 
 }
 STATE_EBRUS = {
-    id = 4714
+    id = 3714
     provinces = { "x7EC0E9" "xD344EF" "xDA5DEC" "xE1F662" "xE8F4B9" "xEEC6C9" "xEFC69B" "xF79DC9" "xF7ABF7" "xF7ECF7" }
     city = x7EC0E9
     wood = xD344EF
@@ -238,7 +238,7 @@ STATE_EBRUS = {
 
 }
 STATE_ACRAS = {
-    id = 4715
+    id = 3715
     provinces = { "x3DE6F8" "x51FAE2" "x56E0D5" "xB096B6" "xCAD1B7" "xE4CCFE" }
     city = x3DE6F8
     wood = x51FAE2
@@ -248,7 +248,7 @@ STATE_ACRAS = {
 
 }
 STATE_BYSSYRA = {
-    id = 4716
+    id = 3716
     provinces = { "xA0DBAC" "xA8DD95" "xAFC3BB" "xB5A7C7" "xC7BBC0" "xC8CCE7" "xCFBAA3" "xD0B5BB" "xF0DD67" "xF5F0C4" "xF6FEBB" "xFA936B" }
     city = xA0DBAC
     wood = xA8DD95
@@ -258,7 +258,7 @@ STATE_BYSSYRA = {
 
 }
 STATE_CARTHAROS = {
-    id = 4717
+    id = 3717
     provinces = { "x3BDEFE" "x5DB4FB" "x63F89E" "x8ABED4" "xA391F0" "xBDC2EA" "xC1D5A2" "xC5F67E" "xC9DB90" "xD157E2" "xDEA1E6" "xECC7FD" "xF2FC97" "xFB6EB1" "xFD35E5" }
     city = x3BDEFE
     wood = x5DB4FB
@@ -268,7 +268,7 @@ STATE_CARTHAROS = {
 
 }
 STATE_THASPIA = {
-    id = 4718
+    id = 3718
     provinces = { "x53D9F0" "x7DD7DC" "x818FE5" "x93F49C" "xB05BF8" "xB9BFCE" "xD0A5B7" "xF2C5DF" "xF4D438" }
     city = x53D9F0
     wood = x7DD7DC
@@ -278,7 +278,7 @@ STATE_THASPIA = {
 
 }
 STATE_GADIRIS = {
-    id = 4719
+    id = 3719
     provinces = { "x72D8F1" "x80F6C2" "x8F7EEB" "xABB5B3" "xB8A0AF" "xB8FC8A" "xCABEC8" "xCBEA6C" "xD164E3" "xD29DEC" "xDA51D8" "xE5D4C5" "xF7FEB6" }
     city = x72D8F1
     wood = x80F6C2
@@ -288,7 +288,7 @@ STATE_GADIRIS = {
 
 }
 STATE_LEPTARIA = {
-    id = 4720
+    id = 3720
     provinces = { "x8E8EF7" "x8FB6FE" "x95E1DF" "xA9D4BB" "xAEC4BB" "xE4E249" "xF0B29B" }
     city = x8E8EF7
     wood = x8FB6FE
@@ -298,7 +298,7 @@ STATE_LEPTARIA = {
 
 }
 STATE_OYSSARA = {
-    id = 4721
+    id = 3721
     provinces = { "x47DDE3" "x7ADADD" "x9390F6" "x9AB8D4" "xABFDE3" "xC78CDB" "xDBDECA" "xE5DFB9" }
     city = x47DDE3
     wood = x7ADADD
@@ -308,7 +308,7 @@ STATE_OYSSARA = {
 
 }
 STATE_ZUCARA = {
-    id = 4722
+    id = 3722
     provinces = { "x46FCBC" "x7ADCD8" "xADECA9" "xCCD983" "xD4FD45" "xDD8DC7" "xDDDE50" "xF977F5" }
     city = x46FCBC
     wood = x7ADCD8
@@ -318,7 +318,7 @@ STATE_ZUCARA = {
 
 }
 STATE_SABRATHUSA = {
-    id = 4723
+    id = 3723
     provinces = { "x52FBCC" "x75EBC7" "x7BFDE4" "xAD94BF" "xE2F1BE" }
     city = x52FBCC
     wood = x75EBC7
@@ -328,7 +328,7 @@ STATE_SABRATHUSA = {
 
 }
 STATE_CERNIA = {
-    id = 4724
+    id = 3724
     provinces = { "x5FEDDB" "xA78EC7" "xD6D5D6" "xD8B29B" "xD9C2DA" "xF064B1" "xF0C687" "xF7AFC6" }
     city = x5FEDDB
     wood = xA78EC7
@@ -338,7 +338,7 @@ STATE_CERNIA = {
 
 }
 STATE_NEOSCARPIA = {
-    id = 4725
+    id = 3725
     provinces = { "x62EAD2" "xA365ED" "xC25DF4" "xC37FB7" "xE289C5" "xEA58B4" }
     city = x62EAD2
     wood = xA365ED
@@ -348,7 +348,7 @@ STATE_NEOSCARPIA = {
 
 }
 STATE_KURTHARA = {
-    id = 4726
+    id = 3726
     provinces = { "x90F077" "x94CFB4" "xAFB8B9" "xD39EC8" "xD4E35E" "xDD9A81" "xDDCDB0" "xE7DC7D" "xE99195" "xECB25A" "xF7BADA" "xFB86BB" }
     city = x90F077
     wood = x94CFB4
@@ -358,7 +358,7 @@ STATE_KURTHARA = {
 
 }
 STATE_EBYSUS = {
-    id = 4727
+    id = 3727
     provinces = { "x29FBFB" "x55FAE5" "x66B5F1" "x7A94FD" "x7AE2F8" "x9AC5D0" "xA86FF5" "xD0E154" "xDEF5E8" "xE0CBBE" "xF8B3E7" }
     city = x29FBFB
     wood = x55FAE5
@@ -368,7 +368,7 @@ STATE_EBYSUS = {
 
 }
 STATE_KLYPYRA = {
-    id = 4728
+    id = 3728
     provinces = { "x8DDF89" "x95ACEB" "xA2D9B2" "xB9B8A1" "xBDDFA0" "xC4F349" "xCCEA5F" "xD280B3" "xE5D1DD" "xE9D1DF" "xF2DA4B" }
     city = x8DDF89
     wood = x95ACEB
@@ -378,7 +378,7 @@ STATE_KLYPYRA = {
 
 }
 STATE_ZAMARIS = {
-    id = 4729
+    id = 3729
     provinces = { "x5DC3EE" "x8AC0BB" "xA1B4E7" "xBFCCFE" "xC769CF" "xC9A89F" "xE69BF8" "xF947CB" }
     city = x5DC3EE
     wood = x8AC0BB
@@ -388,7 +388,7 @@ STATE_ZAMARIS = {
 
 }
 STATE_LEPIDRA = {
-    id = 4730
+    id = 3730
     provinces = { "x58C1F0" "x81EDC4" "xA67BD5" "xB5DCC3" "xC6E69C" "xC8F388" "xD958CE" "xDF8BDA" "xE39A8F" }
     city = x58C1F0
     wood = x81EDC4
@@ -408,7 +408,7 @@ STATE_HADRIA = {
 
 }
 STATE_ZARTHOS = {
-    id = 4731
+    id = 3731
     provinces = { "x4DDFF6" "x54C0F3" "x91D2E3" "xACE1CE" "xBEAD9C" "xBECEF1" "xDD91E0" "xE2D4FD" "xE68CCA" "xE6EABD" "xE72FF7" }
     city = x4DDFF6
     wood = x54C0F3
@@ -418,7 +418,7 @@ STATE_ZARTHOS = {
 
 }
 STATE_MYSARA = {
-    id = 4732
+    id = 3732
     provinces = { "x81E4D2" "x97B5B9" "x9B80F1" "xCADE81" "xD0BEE9" "xD348E3" "xD9F13B" "xDBEE6D" "xE0D9EB" }
     city = x81E4D2
     wood = x97B5B9
@@ -428,7 +428,7 @@ STATE_MYSARA = {
 
 }
 STATE_CYRRA = {
-    id = 4733
+    id = 3733
     provinces = { "x56F9CA" "x5FC4D2" "xA0AECC" "xA892F0" "xA981FD" "xB3C5F6" "xBDC7DD" "xC9D5CD" "xCCEF4C" "xD953E3" "xE560FB" "xF8F2BE" "xFEA38A" }
     city = x56F9CA
     wood = x5FC4D2
@@ -438,7 +438,7 @@ STATE_CYRRA = {
 
 }
 STATE_BYSARIS = {
-    id = 4734
+    id = 3734
     provinces = { "xBFCAAC" "xE662BE" "xF3DEE2" }
     city = xBFCAAC
     wood = xE662BE
@@ -446,7 +446,7 @@ STATE_BYSARIS = {
 
 }
 STATE_CALTHA = {
-    id = 4735
+    id = 3735
     provinces = { "x26E1F6" "x57E7FA" "x92A6F2" "xA5CAE9" "xB594DA" "xBCE9A5" "xBDB09B" "xDABE85" "xE3AEB7" "xE540F8" "xFAE47E" }
     city = x26E1F6
     wood = x57E7FA
@@ -456,7 +456,7 @@ STATE_CALTHA = {
 
 }
 STATE_THYRIS = {
-    id = 4736
+    id = 3736
     provinces = { "x7EB0F9" "xA3F0E2" "xA8A0B7" "xAA86C7" "xAC90EC" "xB4A0E5" "xB75DE1" "xC2CFE5" "xDA91E4" "xE233E3" "xF3F5FA" "xF8D18D" "xFC94EB" }
     city = x7EB0F9
     wood = xA3F0E2
@@ -466,7 +466,7 @@ STATE_THYRIS = {
 
 }
 STATE_ZABARA = {
-    id = 4737
+    id = 3737
     provinces = { "x35F8E9" "x3DC8F8" "x72DEC9" "xB2B6B7" "xB8A9B7" "xB9F666" "xD577BD" "xDADAAB" "xEF77CA" "xF1B1C3" "xF57591" }
     city = x35F8E9
     wood = x3DC8F8
@@ -476,7 +476,7 @@ STATE_ZABARA = {
 
 }
 STATE_AIRU = {
-    id = 4738
+    id = 3738
     provinces = { "x35EFE0" "x46F3DA" "x6DCAD7" "x97E095" "xB2A1F9" "xD963D4" "xFA82C7" "xFCF53C" "xFEF304" }
     city = x35EFE0
     wood = x46F3DA
@@ -486,7 +486,7 @@ STATE_AIRU = {
 
 }
 STATE_ELVERA = {
-    id = 4739
+    id = 3739
     provinces = { "x6BE6A9" "x6DFAB1" "x84DEE1" "xBBE5C5" "xBCE6EC" "xD788DB" "xE85ADD" "xEFF6BD" }
     city = x6BE6A9
     wood = x6DFAB1
@@ -496,7 +496,7 @@ STATE_ELVERA = {
 
 }
 STATE_RAVGA = {
-    id = 4740
+    id = 3740
     provinces = { "x65D9BD" "x81AEDC" "x91E2E6" "x94B3EC" "x95E5E1" "xA6BF90" "xC162F0" "xCA81F3" "xD6C6C9" "xD9FCE6" "xDCCFF0" "xE79EE2" "xE7EB34" "xEBBF70" "xF1DAA2" "xF7F528" "xFB70A8" "xFBF30C" "xFC45DF" "xFDF4E8" }
     city = x65D9BD
     wood = x81AEDC
@@ -506,7 +506,7 @@ STATE_RAVGA = {
 
 }
 STATE_ELDORIA = {
-    id = 4741
+    id = 3741
     provinces = { "x4AF1F4" "x4DFBF3" "x9ED1D2" "xA0C2A0" "xACB0BA" "xBA7EFC" "xBBE48E" "xC7CBFC" "xD1B4AD" "xD7A9C3" "xD9AF8C" "xDEFA6F" "xEEF3F3" "xF175CE" "xF1AD6B" "xFB9681" "xFBF3D6" }
     city = x4AF1F4
     wood = x4DFBF3
@@ -516,7 +516,7 @@ STATE_ELDORIA = {
 
 }
 STATE_AJA = {
-    id = 4742
+    id = 3742
     provinces = { "x53C6F6" "x7589FA" "x83EEBA" "x84B8DD" "xAFCDA7" "xC672E5" "xC689E3" "xCCFDA3" "xD5DF43" "xF8CDF8" }
     city = x53C6F6
     wood = x7589FA
@@ -526,7 +526,7 @@ STATE_AJA = {
 
 }
 STATE_SYLVARIN = {
-    id = 4743
+    id = 3743
     provinces = { "x57BDE5" "x63F2FE" "x69F9D9" "x6DDEB2" "x87A6EA" "x87D5B0" "x96D2B7" "xA0CEA2" "xB8D4E8" "xC884B3" "xD2D851" "xD5D083" "xDFC9DF" "xE67D9B" "xE78BE1" "xEBCED3" "xEDB477" "xF7ADF4" }
     city = x57BDE5
     wood = x63F2FE
@@ -536,7 +536,7 @@ STATE_SYLVARIN = {
 
 }
 STATE_NUORAID = {
-    id = 4744
+    id = 3744
     provinces = { "x51F7F9" "x82B6FD" "x9CCFE6" "xA8F08C" "xB1B1F9" "xB8A5BE" "xBE84C0" "xC9B9E9" "xCAEDA1" "xCC4EFE" "xCD98F4" "xDAC463" "xDB86B1" "xE0F18E" "xE878A5" "xEAEE81" "xEFBDAB" "xFD56F7" }
     city = x51F7F9
     wood = x82B6FD
@@ -546,7 +546,7 @@ STATE_NUORAID = {
 
 }
 STATE_FROSTWYN = {
-    id = 4745
+    id = 3745
     provinces = { "x2BFBEF" "xA16DFC" "xA5F675" "xA8CB83" "xB6DD91" "xC2BBB3" "xC991DA" "xCE93DE" "xD2EC43" "xE2AAFA" "xE4B2B2" "xE7A2EF" "xE7CD98" }
     city = x2BFBEF
     wood = xA16DFC
@@ -556,7 +556,7 @@ STATE_FROSTWYN = {
 
 }
 STATE_DUODJI = {
-    id = 4746
+    id = 3746
     provinces = { "x0BFEF7" "x2CE7EC" "x39DCFC" "x58FEFC" "x69E5C9" "xAC9EF7" "xADF7A0" "xCDA1A8" "xCDF7AB" "xCFDFCD" "xE27ECF" "xE494F7" "xF6D99D" "xF8AAF0" "xFB53E9" }
     city = x0BFEF7
     wood = x2CE7EC
@@ -566,7 +566,7 @@ STATE_DUODJI = {
 
 }
 STATE_ARVEDELL = {
-    id = 4747
+    id = 3747
     provinces = { "x60C2E9" "x71D3DE" "x75E6B1" "x81E4CD" "x9EC3EA" "xB3D8EB" "xBCC79F" "xCDFCDB" "xD3C6CD" "xD5DB59" "xDB79B9" "xDD5FE0" "xDD7FB9" "xE269F9" "xE8B184" "xF0E0CE" "xF2CD3E" "xF2F9D6" }
     city = x60C2E9
     wood = x71D3DE
@@ -576,7 +576,7 @@ STATE_ARVEDELL = {
 
 }
 STATE_AHKKU = {
-    id = 4748
+    id = 3748
     provinces = { "x63F8FD" "x68E9E1" "x90EC7E" "xA1DEF3" "xA48FFC" "xC3E97D" "xCA97D9" "xE16EF9" "xEBB2DB" "xEBC6D0" "xF0C185" }
     city = x63F8FD
     wood = x68E9E1
@@ -586,7 +586,7 @@ STATE_AHKKU = {
 
 }
 STATE_ELVERWISP = {
-    id = 4749
+    id = 3749
     provinces = { "x8EE3FE" "x8FEC96" "x94C0DC" "x95DBB7" "x98A5DE" "xA3A4D7" "xA468F0" "xAF9DDF" "xB1D595" "xB677EB" "xC13CFE" "xC7C89B" "xCD6FC8" "xCFED81" "xD7C7F2" "xFB9B5F" "xFBE3B9" "xFDFA61" }
     city = x8EE3FE
     wood = x8FEC96
@@ -596,7 +596,7 @@ STATE_ELVERWISP = {
 
 }
 STATE_AURORIL = {
-    id = 4750
+    id = 3750
     provinces = { "x56E2CB" "x8AF1EF" "x9B98EC" "xAAE87B" "xCAC7CE" "xEEF3D3" "xF317F3" "xF39A80" "xF7F525" "xFAEFCB" }
     city = x56E2CB
     wood = x8AF1EF
@@ -606,7 +606,7 @@ STATE_AURORIL = {
 
 }
 STATE_GIELAS = {
-    id = 4751
+    id = 3751
     provinces = { "x42EFFC" "x6BF6F6" "x70C9FC" "x82C3D7" "xA0E88B" "xA4BCC0" "xACB993" "xBFFCAB" "xC494FD" "xCFF258" "xD8A8AD" "xDBD07B" "xEDD385" "xF251DB" "xF2BEF8" "xF869DA" "xFB8C81" "xFD42EA" }
     city = x42EFFC
     wood = x6BF6F6
@@ -616,7 +616,7 @@ STATE_GIELAS = {
 
 }
 STATE_AKNU = {
-    id = 4752
+    id = 3752
     provinces = { "x4FCDED" "x5EEEDF" "x83F2A2" "x8AFCE9" "x997BFC" "xAFB0F2" "xB283D4" "xBAC5D0" "xBD8BED" "xC76DD8" "xE1BFE1" "xE279FA" "xE5BFDA" "xF22FD4" "xF5CB4A" }
     city = x4FCDED
     wood = x5EEEDF
@@ -626,7 +626,7 @@ STATE_AKNU = {
 
 }
 STATE_SYLVASKA = {
-    id = 4753
+    id = 3753
     provinces = { "x52FBAC" "x76DBED" "x85FA86" "xAEED8A" "xB0A1E6" "xB1ED64" "xC1E752" "xD7E23E" "xDD2CF6" "xDE6EAD" "xE485AB" "xEE85C2" "xF26BFD" "xF84EEE" "xFADB61" }
     city = x52FBAC
     wood = x76DBED
@@ -636,7 +636,7 @@ STATE_SYLVASKA = {
 
 }
 STATE_GAVCCI = {
-    id = 4754
+    id = 3754
     provinces = { "x62FCD9" "x81A2E3" "xB08AE9" "xC141F7" "xE27CFA" "xE3EA6F" "xE6C2B4" "xE6D999" "xF372B5" }
     city = x62FCD9
     wood = x81A2E3
@@ -646,7 +646,7 @@ STATE_GAVCCI = {
 
 }
 STATE_MARKAN = {
-    id = 4755
+    id = 3755
     provinces = { "x52DFCA" "x65DCE1" "x7CA1E0" "x88A4FB" "xA2D7F8" "xAACBF6" "xBA65E6" "xBBAEB6" "xBCF4A9" "xBEC775" "xBECBD3" "xC798F8" "xCCDED4" "xCDFD62" "xDEB77B" "xE79895" "xE7EE70" "xF5AD5B" "xF86AB8" "xFE9664" }
     city = x52DFCA
     wood = x65DCE1
@@ -656,7 +656,7 @@ STATE_MARKAN = {
 
 }
 STATE_ELVENSHROUD = {
-    id = 4756
+    id = 3756
     provinces = { "x72E9DE" "x88E4F0" "x9DE8EC" "xA3B0BE" "xA3C59A" "xC3EAD0" "xD455F7" "xDC60D0" "xE3D4CC" "xE5D0D6" "xEF6DF3" "xF23AFA" }
     city = x72E9DE
     wood = x88E4F0
@@ -666,7 +666,7 @@ STATE_ELVENSHROUD = {
 
 }
 STATE_GAISI = {
-    id = 4757
+    id = 3757
     provinces = { "x49F4EA" "x67C1E5" "x7AB4DB" "x90EF92" "x93B2C8" "xA8C4FE" "xBF7EF2" "xC6FC7E" "xC838F9" "xCBB7EC" "xD0C19B" "xD0F442" "xD67BEB" "xD985E0" "xDC71E1" "xDCBBF9" "xDCBE5E" "xDCCF4A" "xE152CD" "xF0FC37" "xF2DA5F" "xF3F50E" "xF4EA5C" "xF6FAC1" "xF98DEA" }
     city = x49F4EA
     wood = x67C1E5
@@ -676,7 +676,7 @@ STATE_GAISI = {
 
 }
 STATE_LUMINEVRA = {
-    id = 4758
+    id = 3758
     provinces = { "x6EDEC8" "x92B8F2" "x9CCAAC" "xA8EA91" "xB366DD" "xB3D9FE" "xB986E2" "xC1E080" "xD0C382" "xD4EC43" "xE394B4" "xECD370" "xF7E5B8" "xFB27DF" }
     city = x6EDEC8
     wood = x92B8F2
@@ -686,7 +686,7 @@ STATE_LUMINEVRA = {
 
 }
 STATE_ELVERLEAF = {
-    id = 4759
+    id = 3759
     provinces = { "x4ED3DC" "x8F81EE" "x90E6CB" "xB661E9" "xBB61E6" "xC99EAC" "xD3D198" "xD8E7A7" "xD9E279" "xE9F1DA" "xF9E1D5" }
     city = x4ED3DC
     wood = x8F81EE
@@ -696,7 +696,7 @@ STATE_ELVERLEAF = {
 
 }
 STATE_AIGAI = {
-    id = 4760
+    id = 3760
     provinces = { "x36EFFA" "x75F2D8" "x7BC4B9" "xA2E7A4" "xB4BDB3" "xCDCAF9" "xD2E8AC" "xD38CBC" "xD8ECBA" "xDBABD7" "xDBFADA" "xECB7DF" "xF0EBD7" "xF48F7D" }
     city = x36EFFA
     wood = x75F2D8
@@ -706,7 +706,7 @@ STATE_AIGAI = {
 
 }
 STATE_SAMIEL = {
-    id = 4761
+    id = 3761
     provinces = { "x40F2DC" "x70FD92" "x92C4CD" "xA9DFE8" "xAEFEE3" "xB1DEA3" "xDAB185" "xE2BA98" "xE452EB" "xE6EF8C" }
     city = x40F2DC
     wood = x70FD92
@@ -716,7 +716,7 @@ STATE_SAMIEL = {
 
 }
 STATE_GUHKESLUOKTA = {
-    id = 4762
+    id = 3762
     provinces = { "x2AEEF6" "x4AFDBC" "x5BE1D2" "x73D4D1" "x84BEFB" "x85C5DF" "xC1AFEA" "xC5ED71" "xD2EB77" "xE3CBB5" "xF3B0C0" "xFEEB32" }
     city = x2AEEF6
     wood = x4AFDBC
@@ -726,7 +726,7 @@ STATE_GUHKESLUOKTA = {
 
 }
 STATE_SILVERSONG = {
-    id = 4763
+    id = 3763
     provinces = { "x45F0D3" "x6BEBF6" "x94A7CC" "x9CCF99" "xA2CB8F" "xA4DD80" "xD0B380" "xD7F992" "xE2A5C3" "xE5C0FC" "xEBEFD0" "xF4D289" "xF65FB6" "xFEAF4F" }
     city = x45F0D3
     wood = x6BEBF6
@@ -736,7 +736,7 @@ STATE_SILVERSONG = {
 
 }
 STATE_SILENTWISP = {
-    id = 4764
+    id = 3764
     provinces = { "x4CFECB" "x61B2F1" "x9187FD" "xBCC6BB" "xBDA79B" "xC4F6E6" "xDE44F4" "xDFF441" "xEB70B7" "xF76BD0" }
     city = x4CFECB
     wood = x61B2F1
@@ -746,7 +746,7 @@ STATE_SILENTWISP = {
 
 }
 STATE_RAHKIS = {
-    id = 4765
+    id = 3765
     provinces = { "x49DDF1" "x69D5C3" "x75EDA5" "xA7CDB3" "xCAC283" "xEDC2A4" "xEFE06D" }
     city = x49DDF1
     wood = x69D5C3
@@ -756,7 +756,7 @@ STATE_RAHKIS = {
 
 }
 STATE_WHIRINAKI = {
-    id = 4381
+    id = 3381
     provinces = { "x53B0F6" "x62BADF" "x83FCE8" "x86E2EA" "xB7DE78" "xBEC67E" "xCD9ECC" "xCE54EA" "xCFE758" "xD4B58D" "xDCE897" "xEBEFCC" "xEEFE4A" "xEFC6B0" "xF8A276" "xFB719F" }
     city = x53B0F6
     wood = x62BADF
@@ -766,7 +766,7 @@ STATE_WHIRINAKI = {
 
 }
 STATE_RUMATARI = {
-    id = 4382
+    id = 3382
     provinces = { "x39F5D9" "x5FF1E3" "x76E7C4" "x83EDE2" "xA4EEAD" "xACF45A" "xB49BAB" "xCFB8F2" "xF2D0EF" "xF78AC9" }
     city = x39F5D9
     wood = x5FF1E3
@@ -776,7 +776,7 @@ STATE_RUMATARI = {
 
 }
 STATE_TARAMOA = {
-    id = 4383
+    id = 3383
     provinces = { "x3CF3F7" "x6BF7DC" "x75C5F0" "x7CA4DF" "x8FA9CA" "x9AB6CB" "xADED62" "xBFA8F2" "xC366E2" "xC3A0ED" "xCAEBDE" "xCBA492" "xD1CFE7" "xDAB3B4" "xE2DAC1" "xE4E72F" "xF9ACE6" "xFCAA99" }
     city = x3CF3F7
     wood = x6BF7DC
@@ -786,7 +786,7 @@ STATE_TARAMOA = {
 
 }
 STATE_POUNAMOA = {
-    id = 4384
+    id = 3384
     provinces = { "x32CBF9" "x77EDEA" "xB6C1B7" "xDA8BBC" "xDBD753" "xDFABAE" }
     city = x32CBF9
     wood = x77EDEA
@@ -796,7 +796,7 @@ STATE_POUNAMOA = {
 
 }
 STATE_RONGOMARA = {
-    id = 4385
+    id = 3385
     provinces = { "x7BD5F7" "x85E690" "x8F95E6" "xA2F87F" "xA5A1DE" "xB7C89A" "xC2E769" "xC3E0CB" "xC893C1" "xE1B7A7" "xF08E97" }
     city = x7BD5F7
     wood = x85E690
@@ -806,7 +806,7 @@ STATE_RONGOMARA = {
 
 }
 STATE_GARPATIA = {
-    id = 4386
+    id = 3386
     provinces = { "x5DE7DB" "x72E7C7" "x8DE2E3" "x92C6A0" "x99B7B0" "x9AC4FD" "x9AF76B" "xACBEC6" "xAD9EDB" "xC1CDA1" "xC2BADB" "xCAA4DE" "xCFCC7B" "xD26DFE" "xE18CEC" "xE1A8E8" "xE3FD6C" "xE8BCBD" "xEAE777" "xEE808C" "xF08A99" "xF4919D" "xF64CCD" "xF6C365" "xFC48EE" "xFC5AB0" "xFC9AB4" }
     city = x5DE7DB
     wood = x72E7C7
@@ -816,7 +816,7 @@ STATE_GARPATIA = {
 
 }
 STATE_WHAKARAROA = {
-    id = 4387
+    id = 3387
     provinces = { "x7C9FF3" "x9ECAD3" "xA278FE" "xADEFE2" "xB287CF" "xC7E896" "xE461BB" "xEFE05C" }
     city = x7C9FF3
     wood = x9ECAD3
@@ -826,7 +826,7 @@ STATE_WHAKARAROA = {
 
 }
 STATE_MARAMAROA = {
-    id = 4388
+    id = 3388
     provinces = { "x4CD6EA" "x93BCD0" "x9E99F1" "x9FCCA9" "xA9DAA7" "xACDF98" "xBCE766" "xBEFC7F" "xC0A8F7" "xCE88D8" "xE4B6FE" "xF869FB" "xFB5DCA" }
     city = x4CD6EA
     wood = x93BCD0
@@ -836,7 +836,7 @@ STATE_MARAMAROA = {
 
 }
 STATE_PUCOVATU = {
-    id = 4389
+    id = 3389
     provinces = { "x68A2ED" "x82D2DB" "x8CF6EE" "xADC3CE" "xC87BD3" "xCDE598" "xE9C397" "xE9E44C" "xEAD09F" "xEBDF56" "xF5E4BC" "xF6AA82" }
     city = x68A2ED
     wood = x82D2DB
@@ -846,7 +846,7 @@ STATE_PUCOVATU = {
 
 }
 STATE_TURAKINA = {
-    id = 4390
+    id = 3390
     provinces = { "x7B95FE" "x85D4E8" "x8AE5FB" "x8FE9A6" "x90E1FD" "xAFAFF4" "xC282C7" "xC863EE" "xD3AE93" "xE7A4D0" "xF1A07E" "xFC9AF0" "xFEE3F0" }
     city = x7B95FE
     wood = x85D4E8
@@ -856,7 +856,7 @@ STATE_TURAKINA = {
 
 }
 STATE_RAROMARA = {
-    id = 4391
+    id = 3391
     provinces = { "x94ED9A" "xB7CCF9" "xC1D388" "xC6F3BA" "xCCCBF8" "xD4D686" "xD5AD81" "xDBCABA" "xDFD553" "xE3C6D4" "xE3D267" "xE6AEE9" "xE7C55E" "xE8F584" "xE9E2A4" "xF3996E" }
     city = x94ED9A
     wood = xB7CCF9
@@ -866,7 +866,7 @@ STATE_RAROMARA = {
 
 }
 STATE_LUNARATA = {
-    id = 4392
+    id = 3392
     provinces = { "x29FCED" "x3DD3F8" "xBCE9B4" "xD4BB91" "xD674B4" "xE38DF8" "xE6C5DA" "xE7E574" "xF8B07E" "xFD89F1" "xFDC9F8" }
     city = x29FCED
     wood = x3DD3F8
@@ -876,7 +876,7 @@ STATE_LUNARATA = {
 
 }
 STATE_TAUMAROI = {
-    id = 4393
+    id = 3393
     provinces = { "x4EECC1" "x59B3F0" "x60D9F1" "x63FDE9" "x83E29C" "xD2DF7A" "xD59696" "xDDEDEC" "xEEF580" "xF3ADAC" "xF843DE" }
     city = x4EECC1
     wood = x59B3F0
@@ -886,7 +886,7 @@ STATE_TAUMAROI = {
 
 }
 STATE_PATARENI = {
-    id = 4394
+    id = 3394
     provinces = { "x9885E2" "xC8A5A2" "xC969EC" "xD5A7B1" "xD643E7" "xDC87D0" "xE14FDF" "xE570ED" "xEB62FD" "xF164DB" "xF4EE58" "xFCFC7F" "xFEBC56" }
     city = x9885E2
     wood = xC8A5A2
@@ -896,7 +896,7 @@ STATE_PATARENI = {
 
 }
 STATE_WHANAKOA = {
-    id = 4395
+    id = 3395
     provinces = { "x6CD9F0" "x73D8E6" "x82F285" "x9EE6E3" "xA164F7" "xBFD965" "xC7C4D6" "xE2B18D" "xEBA999" "xF2D167" }
     city = x6CD9F0
     wood = x73D8E6

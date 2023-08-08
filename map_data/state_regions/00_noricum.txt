@@ -19,7 +19,7 @@ STATE_CALDAMUS = {
 
 }
 STATE_SERONTAIN = {
-    id = 4003
+    id = 2003
     provinces = { "x40E4F2" "x8EEFE2" "xAF99FB" "xB7B7E1" "xB7F1E1" "xBDD9A4" "xC4EFCC" "xC7F7CC" "xD98B95" "xDDDCCA" "xDFBC7F" "xE0B5DC" "xE9DC6E" "xEB52E1" "xECF754" "xF8E37F" "xFC4AB7" }
     city = x40E4F2
     wood = x8EEFE2
