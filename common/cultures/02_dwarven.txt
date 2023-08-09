@@ -47,45 +47,180 @@
 
 #Dûneshar
 duneshar={
-	color={ 255 178 102 }
-	religion = dwarven_dark_magic
-	traits = { dwarf_heritage vault_cursed }
-	male_common_first_names = {
-		Wayan
-		Made
-		Nyoman
-		Ketut
-		Putu
-		Kadek
-		Komang
-		Nengah
-		Gede
-		Wayan_Balik
+	color= hsv{ 0.29 0.22 0.51 }
+	religion = dwarf_pantheon
+	traits = { southeast_asian_heritage malay_culture }
+	male_common_first_names={
+		Denny
+		Dominggus
+		Edinho
+		Ellyas
+		Ignacio
+		Jordao
+		Jos
+		Levi
+		Michael
+		Sonny
 	}
 	female_common_first_names = {
-		Wayan
-		Made
-		Nyoman
-		Ketut
-		Putu
-		Kadek
-		Koming
-		Nengah
-		Wayan_Balik
+		Bellaetrix 
+		Fatimah
 	}	
 	noble_last_names = {
-		I_Gusti
-		Anak_Agung
-		Tjokorda
-		I_Dewa
-		Ida
-		Jero
+		Kolano
+		Sjah
 	}
-	common_last_names = {
-		Ngakan
-		Kompyang
-		Sang
-		Si
+	common_last_names={
+		Bouma
+		Hafiedz
+		Leiwakabessy
+		Lilipaly
+		Mainaky
+		Palyama
+		Pattinama
+		Pelmelay
+		Weisapy
+	}
+	ethnicities = {
+		1 = asian
+	}
+	graphics = asian
+}
+
+starwoken={
+	color= hsv{ 0.04 0.54 0.86 }
+	religion = dwarven_dark_magic
+	traits = { khmer_language dwarf_heritage }
+	male_common_first_names={
+		Ang
+		Norodom
+		Pok
+		Satha
+		Sisowath
+		Thommo
+	}
+	female_common_first_names = {
+		Aut
+		Bunlei
+		Di
+		Mey
+		Ros
+		Vanthy
+		Vara
+	}	
+	noble_last_names = {
+		Ang
+		Varman
+	}
+	common_last_names={
+		Chan
+		Em
+		Eng
+		Mey
+		Non
+		Reachea
+		Sieng
+		Sinn
+		Snguon
+		Tong
+	}
+	ethnicities = {
+		1 = south_east_asian
+	}
+	graphics = asian
+}
+
+vozi={
+	color= hsv{ 0.33 0.10 0.74 }
+	religion = dwarf_pantheon
+	traits = { dwarf_heritage malay_culture }
+	male_common_first_names={
+		Kiras
+		Nerus
+		Tifatul
+	}
+	female_common_first_names = {
+		Atiqah
+		Fatin
+		Sari
+		Sharena
+	}	
+	noble_last_names = {
+		Manisia
+		Marga_Sinambela
+		Odapodap
+		Panglima
+	}
+	common_last_names={
+		Angkat
+		Bako
+		Bangun
+		Berasa
+		Berutu
+		Bintang
+		Capah
+		Cibro
+		Gajah
+		Kesogihen
+		Kaloko
+		Longga
+		Meka
+		Padang
+		Pasi
+		Saraan
+		Sinamo
+		Suka
+		Tendang
+		Tinendung
+		Turutan
+	}
+	ethnicities = {
+		1 = asian
+	}
+	graphics = asian
+}
+
+koshiri={
+	color= hsv{ 0 0 0.5 }
+	religion = dwarf_pantheon
+	traits = { ainu_language dwarf_heritage }
+	male_common_first_names={
+		Akihi
+		Apniainu
+		Menkakush
+		Munkeke
+		Pasekur
+		Petennouk
+		Resaak
+		Seimei
+		Shinriki
+		Shiratekka
+		Shiromainu
+		Shitekka
+		Unayanke
+	}
+	female_common_first_names = {
+		Haru
+		Imekanu
+		Shizue
+		Tahkonanna
+		Umeko
+		Yaeko
+	}	
+	noble_last_names = {
+		Nakamura
+		Peramonkoro
+		Sunazawa
+	}
+	common_last_names={
+		Ando
+		Aterui
+		Harukor
+		Isonash
+		Keutoranke
+		Koshamine
+		Shakushine
+		Turushno
 	}
 	ethnicities = {
 		1 = asian

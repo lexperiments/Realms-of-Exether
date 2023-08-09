@@ -929,7 +929,6 @@ qinnaat={
 		Dulatuli
 		Konanbai_uli
 		Kutebar_uli
-		Muhammad_uli
 		Qasim_uli
 		Shoshak-ula
 	}
@@ -985,7 +984,6 @@ nightwalker = {
 		Dulatuli
 		Konanbai_uli
 		Kutebar_uli
-		Muhammad_uli
 		Qasim_uli
 		Shoshak-ula
 	}
@@ -1041,7 +1039,6 @@ wastecrawler = {
 		Dulatuli
 		Konanbai_uli
 		Kutebar_uli
-		Muhammad_uli
 		Qasim_uli
 		Shoshak-ula
 	}
@@ -1154,7 +1151,6 @@ anwarthi = {
 		Qarabatir
 		Ibrahim
 		Hasan
-		Muhammad
 		Inarmas
 		Aksak
 		Kudenet

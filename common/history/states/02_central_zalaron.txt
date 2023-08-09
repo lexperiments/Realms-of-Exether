@@ -47,12 +47,12 @@ s:STATE_SC10 = {
 add_homeland = dumonian
 }
 
-s:STATE_SC11 = {
+s:STATE_KORO = {
     create_state = {
-        country = c:DUM
+        country = c:KAM
         owned_provinces = { "x5ED1C9" "x6BFAD3" "x71B2DF" "x74D2E8" "x74EDE0" "x8394E5" "x8AE9D3" "x8EF2D5" "x9A80DE" "xA4E5F8" "xBC6CF6" "xC366E9" "xCF64C7" "xD4DE9C" "xEEA9AC" "xF199A3" "xF53EFB" "xF6E899" "xF6EE4F" "xF7FE85" "xFCAD58" }
 }
-add_homeland = dumonian
+add_homeland = koshiri
 }
 
 s:STATE_SC12 = {
@@ -1323,10 +1323,10 @@ add_homeland = nightwalker
 
 s:STATE_ALQADIM = {
     create_state = {
-        country = c:HKL
+        country = c:BSK
         owned_provinces = { "x4EFDD0" "x5DBCDD" "x78C7C7" "x7A8AF8" "x7AC1C8" "x80ED99" "x83E0C3" "xA4C78F" "xA6FCAA" "xA8D588" "xA9CBE6" "xB791EE" "xBEC4F1" "xC8FBCD" "xD0C768" "xD2B79B" "xD6AA92" "xD857D3" "xDBE4BE" "xDF88AA" "xF1E0CB" "xF9A7ED" "xF9AF67" "xFDB347" }
 }
-add_homeland = wastecrawler
+add_homeland = starwoken
 }
 
 s:STATE_ZAHRIFAR = {

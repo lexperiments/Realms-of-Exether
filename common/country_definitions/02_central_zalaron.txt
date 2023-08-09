@@ -194,7 +194,7 @@ GOO = {
 
 #Nashrabad
 NSR = {
-	color = rgb{ 40  40  10 } 
+	color = rgb{ 40  80  10 } 
 
 	country_type = decentralized
 
@@ -206,7 +206,7 @@ NSR = {
 
 #Jahanrood
 JRD = {
-	color = rgb{ 40  40  10 } 
+	color = rgb{ 30  40  10 } 
 
 	country_type = decentralized
 
@@ -226,6 +226,18 @@ HKL = {
 
 	cultures = { wastecrawler } 
 	capital = STATE_QAMARUD
+}
+
+#Borasak
+BSK = {
+	color = rgb{ 100  60  20 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { starwoken } 
+	capital = STATE_ALQADIM
 }
 
 #Kahkashan
@@ -430,4 +442,16 @@ FEY = {
 
 	cultures = { erdei } 
 	capital = STATE_FAERONDALE
+}
+
+#Kamuy
+KAM = {
+	color = hsv360 { 55 72 54 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { koshiri } 
+	capital = STATE_KORO
 }

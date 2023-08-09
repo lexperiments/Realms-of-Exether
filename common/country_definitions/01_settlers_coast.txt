@@ -78,7 +78,7 @@ VOZ = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { vozi } 
 	capital = STATE_SKYPIERCER_PEAK
 }
 
