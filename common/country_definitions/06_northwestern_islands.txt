@@ -96,7 +96,7 @@ TKR = {
 
 #Rkoniqari
 RKO = {
-	color = rgb{ 230 56 140 } 
+	color = rgb{ 130 56 140 } 
 
 	country_type = unrecognized 
 

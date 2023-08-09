@@ -395,7 +395,7 @@ kotskarvi={
 
 mgzavri={
 	color= hsv{ 0.17 0.26 0.99 }
-	religion = sunni
+	religion = dragonbone_worship
 	traits = { kobold_culture_group dragon_heritage }
 	male_common_first_names={
 		Aslan

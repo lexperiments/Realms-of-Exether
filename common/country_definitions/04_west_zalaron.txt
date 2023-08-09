@@ -165,18 +165,6 @@ OLT = {
 
 	tier = principality
 
-	cultures = { lake_thalorian } 
-	capital = STATE_STONEHAVEN
-}
-
-#Oltora
-OLT = {
-	color = rgb{ 100 50 175 } 
-
-	country_type = recognized 
-
-	tier = principality
-
 	cultures = { west_thalorian } 
 	capital = STATE_STONEHAVEN
 }

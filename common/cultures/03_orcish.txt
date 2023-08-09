@@ -192,3 +192,55 @@ rahoru={
 	}
 	graphics = african
 }
+
+nuzaptan={
+	color= hsv{ 0.63 0.30 0.52 }
+	religion = animist
+	traits = { orc_heritage north_american_group }
+	male_common_first_names={
+		Hehaka
+		Inkpaduta
+		Istahba
+		Mahpiya
+		Monkaushka
+		Sinte
+		Tamaha
+		Thahca
+		Thasunke
+		Thathanka
+		Thaoyate_Duta
+		Wanbdisapa
+		Wanata
+	}
+	female_common_first_names = {
+		Azayamankawin
+		Topahhdewin
+		Wakanmaniwin
+		Wakantakawin
+		Wakhan_Inazin_Win
+	}	
+	noble_last_names = {
+		Hakadah
+		Ohiya_S-a
+		Tamaha
+		Wakinyanduta
+		Wowinape
+	}
+	common_last_names={
+		Duta
+		Gleska
+		Huste
+		Iyotake
+		Kohkophapi
+		Kramarae
+		Luta
+		Pecan_Wakpa
+		Sapa
+		Thankja
+		Witko
+	}
+	ethnicities = {
+		1 = native_american
+	}
+	graphics = generic
+}

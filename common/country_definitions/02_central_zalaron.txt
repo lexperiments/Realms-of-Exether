@@ -383,3 +383,51 @@ IRA = {
 	cultures = { lumvareth } 
 	capital = STATE_ZÄLULIK
 }
+
+#Sternenwacht
+IRA = {
+	color = rgb{ 30  30  150 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { lumvareth } 
+	capital = STATE_ZÄLULIK
+}
+
+#Penurious Band
+PND = {
+	color = hsv360 { 345 72 54 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { morastlinge } 
+	capital = STATE_THE_CRIMSON_MORASS
+}
+
+#Ican
+ICA = {
+	color = hsv360 { 205 72 54 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { nuzaptan } 
+	capital = STATE_BEARTZUNGUL
+}
+
+#Feylight Reservation
+FEY = {
+	color = hsv360 { 105 72 54 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { erdei } 
+	capital = STATE_FAERONDALE
+}
