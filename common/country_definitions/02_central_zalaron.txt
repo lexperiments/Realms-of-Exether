@@ -7,7 +7,7 @@ CLL = {
 
 	tier = kingdom
 
-	cultures = { dumonian } 
+	cultures = { callairdian } 
 	capital = STATE_CAM_CALLAIRD
 }
 
@@ -33,6 +33,18 @@ TEF = {
 
 	cultures = { tefereti } 
 	capital = STATE_BRIGHTWATER
+}
+
+#Seleneth
+SET = {
+	color = hsv360{ 18  107  83 }
+
+	country_type = recognized 
+
+	tier = kingdom
+
+	cultures = { tefereti } 
+	capital = STATE_FARASHIL
 }
 
 
@@ -397,15 +409,15 @@ IRA = {
 }
 
 #Sternenwacht
-IRA = {
+STR = {
 	color = rgb{ 30  30  150 } 
 
 	country_type = recognized
 
 	tier = principality
 
-	cultures = { lumvareth } 
-	capital = STATE_ZÄLULIK
+	cultures = { morastlinge } 
+	capital = STATE_ROTENSCHLAMM
 }
 
 #Penurious Band
@@ -446,7 +458,7 @@ FEY = {
 
 #Kamuy
 KAM = {
-	color = hsv360 { 55 72 54 }
+	color = hsv360 { 305 22 54 }
 
 	country_type = recognized
 
@@ -454,4 +466,186 @@ KAM = {
 
 	cultures = { koshiri } 
 	capital = STATE_KORO
+}
+
+#Chronicle
+CHR = {
+	color = hsv360 { 150 42 54 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { vandori } 
+	capital = STATE_INAMGI
+	is_named_from_capital = yes
+}
+
+#Western Path
+WTH = {
+	color = hsv360 { 105 72 54 }
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { vandori } 
+	capital = STATE_HANALLA
+}
+
+#Eastern Path
+EAH = {
+	color = hsv360 { 35 72 54 }
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { vandori } 
+	capital = STATE_SUKONCO
+}
+
+#Seaward Path
+STH = {
+	color = hsv360 { 75 72 54 }
+
+	country_type = monstrous
+
+	tier = principality
+
+	cultures = { vandori } 
+	capital = STATE_SANGARI
+}
+
+#Muschelhavn
+SHE = {
+	color = hsv360 { 225 25 100 }
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { beithaven } 
+	capital = STATE_PINCER_PENINSULA
+	is_named_from_capital = yes
+}
+
+#Flussholm
+FLU = {
+	color = hsv360 { 95 32 74 }
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { beithaven } 
+	capital = STATE_JOURNEYEND
+}
+
+#Houtblom
+HOU = {
+	color = hsv360 { 165 72 74 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { stranfolk } 
+	capital = STATE_STJERROPTOCHT
+}
+
+#Seeskat
+SEE = {
+	color = hsv360 { 200 12 74 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { stranfolk } 
+	capital = STATE_STILTEBRUZJE
+}
+
+#Fiskeroer
+FIS = {
+	color = hsv360 { 250 60 74 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { stranfolk } 
+	capital = STATE_BLOEIJENDREAM
+}
+
+#Bûtenbosk
+BUT = {
+	color = hsv360 { 15 22 74 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { waldgnomklaai } 
+	capital = STATE_FLINTERWIIDTE
+}
+
+#Groenleed
+GRO = {
+	color = hsv360 { 65 62 74 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { waldgnomklaai } 
+	capital = STATE_STJERRENFAL
+}
+
+#Tûntûnarij
+TTN = {
+	color = hsv360 { 155 62 74 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { waldgnomklaai } 
+	capital = STATE_STJERRENFAL
+}
+
+#Ekebyld
+EKE = {
+	color = hsv360 { 25 62 74 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { waldgnomklaai } 
+	capital = STATE_STJERRENFAL
+}
+
+#Driftwyn
+DRI = {
+	color = hsv360 { 225 62 74 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { stranfolk } 
+	capital = STATE_FLUSTERBEEK
+}
+
+#Thracovya
+THA = {
+	color = hsv360 { 186 32 80 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { lake_thalorian } 
+	capital = STATE_HAVENSHIRE
 }

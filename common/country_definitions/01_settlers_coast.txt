@@ -90,7 +90,7 @@ DRO = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { aridrun } 
 	capital = STATE_ELF2
 }
 

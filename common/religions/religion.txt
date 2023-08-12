@@ -73,7 +73,6 @@ astral_path = {
 	color = { 0.4 0.7 0.3 }
 	
 	taboos = {
-		liquor wine
 	}
 }
 

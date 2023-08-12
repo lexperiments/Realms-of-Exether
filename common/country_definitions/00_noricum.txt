@@ -522,7 +522,7 @@ JUR = {
 
 #Witchwood
 WIT = {
-	color = rgb{ 180  200  35 } 
+	color = rgb{ 130  175  40 } 
 
 	country_type = monstrous
 

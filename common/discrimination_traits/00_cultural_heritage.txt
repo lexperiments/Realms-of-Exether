@@ -54,3 +54,11 @@ djinn_heritage = {
 	heritage = yes
 }
 
+vandori_heritage = {
+	heritage = yes
+}
+
+lizardfolk_heritage={
+	heritage = yes
+}
+

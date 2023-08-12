@@ -1829,3 +1829,90 @@ morastlinge={
 		1 = caucasian
 	}
 }
+
+beithaven={
+	color= hsv{ 0.13 0.80 0.99 }
+	religion = church_of_man
+	traits = { human_heritage } 
+	male_common_first_names={
+		Abraham
+		Albert
+		Benjamin
+		Daniel
+		David
+		Franz
+		Gerson
+		Gustav
+		Heinrich
+		Hermann
+		Ignatz
+		Isaak
+		Jakob
+		Jeremias
+		Josef
+		Julius
+		Leonhard
+		Michael
+		Mose
+		Salomon
+		Saul
+		Shmuel
+		Sigmund
+		Simon
+		Theodor
+	}
+	female_common_first_names = {
+		Angela Alice Amalie
+		Berta
+		Emma Elsa
+		Johanna
+		Klara Karoline
+		Minna Margarete
+		Regine
+		Zoe
+	}	
+	noble_last_names = {
+		Auerbach Austerlitz
+		von_Bleichroeder
+		Ephrussi
+		Guenzburg
+		von_Hofmannsthal
+		von_Neumann
+		Oppenheim
+		Zuckerkandl
+	}
+	common_last_names={
+		Abramovitch
+		Ashkenazi
+		Bernstein
+		Birnbaum
+		Bloch
+		Cantor
+		Cohen
+		Frank
+		Friedlander
+		Ginsberg
+		Goldstein
+		Horowitz
+		Israel
+		Jacobsohn
+		Kagan
+		Kaplan
+		Klein
+		Levin
+		Luria
+		Morgenstern
+		Nathan
+		Oren
+		Rosenthal
+		Sachs
+		Schapiro
+		Schwartz
+		Weinstein
+		Weiss
+	}
+	ethnicities = {
+		1 = caucasian
+	}
+	graphics = european
+}
