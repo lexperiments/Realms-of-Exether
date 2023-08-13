@@ -301,3 +301,39 @@ THK = {
 	cultures = { kaalkid } 
 	capital = STATE_MLIMASHWARI
 }
+
+#Thracovya
+THA = {
+	color = hsv360 { 186 32 80 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { lake_thalorian } 
+	capital = STATE_HAVENSHIRE
+}
+
+#Ekebyld
+EKE = {
+	color = hsv360 { 25 62 74 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { waldgnomklaai } 
+	capital = STATE_STJERRENFAL
+}
+
+#Driftwyn
+DRI = {
+	color = hsv360 { 225 62 74 }
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { stranfolk } 
+	capital = STATE_FLUSTERBEEK
+}

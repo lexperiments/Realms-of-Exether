@@ -169,7 +169,7 @@ TIT = {
 
 #Kunturmana
 KUN = {
-	color = rgb{ 250 20 30 } 
+	color = rgb{ 130 20 30 } 
 
 	country_type = unrecognized
 

@@ -9,3 +9,147 @@ PAY = {
 	cultures = { lusakaran } 
 	capital = STATE_HERMENIA
 }
+
+#Sarparth
+SAP = {
+	color = rgb{ 0 30 100 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { gulf_naga } 
+	capital = STATE_ANANDAVATI
+}
+
+#Viprajan
+VIP = {
+	color = rgb{ 100 60 200 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { gulf_naga } 
+	capital = STATE_BUDAMURAYIRI
+}
+
+#Manisara
+MAI = {
+	color = rgb{ 200 60 120 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { gulf_naga } 
+	capital = STATE_KULUWANDU
+}
+
+#Bhramarika
+BHR = {
+	color = rgb{ 80 10 60 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { gulf_naga } 
+	capital = STATE_GASHAWARRA
+}
+
+#Jivranth
+JIV = {
+	color = rgb{ 50 100 100 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { gulf_naga } 
+	capital = STATE_DAMARLARA
+}
+
+#Amritvalli
+AMR = {
+	color = rgb{ 100 200 100 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { gulf_naga } 
+	capital = STATE_YARRAGANBALA
+}
+
+#Yulbashar
+YUB = {
+	color = rgb{ 100 150 150 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { qadimra } 
+	capital = STATE_RUKHAM
+}
+
+#Quraysh
+QUR = {
+	color = rgb{ 100 100 100 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { qadimra } 
+	capital = STATE_KARAKAR
+}
+
+#Orzamin
+ORZ = {
+	color = rgb{ 100 200 100 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { qadimra } 
+	capital = STATE_HARQOM
+}
+
+#Ziyovar
+ZIY = {
+	color = rgb{ 200 100 30 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { qadimra } 
+	capital = STATE_KHUBEK
+}
+
+#Khazrakor
+KHA = {
+	color = rgb{ 130 30 50 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { qadimra } 
+	capital = STATE_WUTAK
+}
+
+#Feruqand
+FEQ = {
+	color = rgb{ 200 0 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { qadimra } 
+	capital = STATE_TABLAG
+}
