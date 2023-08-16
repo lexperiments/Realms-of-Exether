@@ -1,1 +1,28 @@
-﻿
+﻿#Horkaa
+HOR = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_roe_orc_triangle.dds"
+		color1 = "black"
+		instance = { scale = { 1 1 } position = { 0.5 0.67 } }
+		instance = { scale = { 1 1 } rotation=135deg position = { 0.33 0.33 } }
+		instance = { scale = { 1 1 } rotation=-135deg position = { 0.67 0.33 } }	
+	}	
+	
+}
+
+#Rustaxe
+RUX = {
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+
+	colored_emblem = {
+		texture = "ce_roe_axes.dds"
+		color1 = "white"
+		color2 = "orange"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+}

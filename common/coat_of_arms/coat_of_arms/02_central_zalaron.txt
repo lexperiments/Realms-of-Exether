@@ -1,1 +1,164 @@
-﻿
+﻿#Anwarth
+ANW = {
+	pattern = "pattern_solid.tga"
+	color1 = "sapphire"
+
+    colored_emblem = {
+		texture = "ce_roe_anwarth.dds"
+		color1 = "yellow"
+		color2 = "white"
+		
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }			
+	}		
+
+	
+}
+
+#Teferet
+TEF = {
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+
+	colored_emblem = {
+		texture = "ce_roe_teferet_flower.dds"
+		color1 = "orange_nice"
+		color2 = "white"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+}
+
+#Seleneth
+SET = {
+	pattern = "pattern_solid.tga"
+	color1 = "purple"
+
+	colored_emblem = {
+		texture = "ce_roe_seleneth.dds"
+		color1 = "green"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+}
+
+#Vairia
+VAI = {
+	pattern = "pattern_solid.tga"
+	color1 = "sapphire"
+
+	colored_emblem = {
+		texture = "ce_roe_vairia.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+}
+
+#Oazojaro
+OAZ = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_roe_sun.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+}
+
+
+#Tisenaria
+TIS = {
+	pattern = "pattern_solid.tga"
+	color1 = "sapphire"
+
+	colored_emblem = {
+		texture = "ce_roe_greek_sea.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_trident.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 0.5 0.5 } position = { 0.52 0.28 } }	
+	}	
+	
+}
+
+#Zubayra
+ZUB = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_roe_greek_circle.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_crossed_scimitars.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 0.5 0.5 } position = { 0.5 0.5 } }	
+	}	
+	
+}
+
+#Plenovia
+PVA = {
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+	colored_emblem = {
+		texture = "ce_roe_arrow.dds"
+		color1 = "white"
+		color2 = "green"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+}
+
+#Renalpia
+RLP = {
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	
+	colored_emblem = {
+		texture = "ce_roe_elf_tree.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+}
+
+#Renalpia
+ZIL = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+	
+	colored_emblem = {
+		texture = "ce_roe_knots.dds"
+		color1 = "brown"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+}
+

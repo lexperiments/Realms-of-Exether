@@ -13,18 +13,191 @@
 
 #####################
 
-#Dumonia
-DUM = {
-	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
-	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
-	textured_emblem = { #Adds a textured emblem.
-		texture = "te_coa_bahamas.dds" #From gfx\coat_of_arms\textured_emblems
-		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
-	}
+
+#Order of the Sun
+AUM = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+
+
+	colored_emblem = {
+		texture = "ce_quarterly_per_fess_wavy.dds"
+		color1 = "blue"
+		color2 = "red"
+		color3 = "red"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
 	colored_emblem = { #Adds a colored emblem.
-		texture = "ce_coa_frame_costa_rica.dds" #From gfx\coat_of_arms\textured_emblems
-		color1 = "red"
+		texture = "ce_roe_dumonian_dragon.dds" #From gfx\coat_of_arms\textured_emblems
+		color1 = "yellow"
+		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
+		instance = { scale = { 0.25 0.25 } position = { 0.75 0.75 } }	
+		instance = { scale = { 0.25 0.25 } position = { 0.25 0.25 } }	
+	}
+
+	colored_emblem = {
+		texture = "ce_roe_spiky_sun.dds"
+		color1 = "yellow"
+		color2 = "orange"
+		instance = { scale = { 0.5 0.5 } position = { 0.25 0.75 } }	
+		instance = { scale = { 0.5 0.5 } position = { 0.75 0.25 } }	
+	}	
+	
+	
+}
+
+#Blackstone Covenant
+BCT = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "black" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = { #Adds a colored emblem.
+		texture = "ce_roe_rings.dds" #From gfx\coat_of_arms\textured_emblems
+		color1 = "sapphire"
 		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
 		instance = { position = { 0.5 0.5 } scale = { 1 1 } }
 	}
+
+
+}
+
+
+#Dumonia
+DUM = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "red" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = { #Adds a colored emblem.
+		texture = "ce_roe_dumonian_dragon.dds" #From gfx\coat_of_arms\textured_emblems
+		color1 = "yellow"
+		color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = { #Adds a colored emblem.
+	texture = "ce_flag_border_rectangle.dds" #From gfx\coat_of_arms\textured_emblems
+	color1 = "yellow"
+	color2 = color1 #You can tell it to just use the same base color1 (in this case "white").
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+}
+}
+
+
+#Jurian's Inquisition
+JUR = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "blue" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_roe_spiky_sun.dds"
+		color1 = "yellow"
+		color2 = "orange"
+		instance = { scale = { 0.75 0.75 } position = { 0.75 0.5 } }	
+	
+	}	
+
+	colored_emblem = { #Adds a colored emblem.
+	texture = "ce_bicolor_left.dds" #From gfx\coat_of_arms\textured_emblems
+	color1 = "yellow"
+	color2 = "yellow" #You can tell it to just use the same base color1 (in this case "white").
+	instance = { position = { 0.5 0.5 } scale = { 1 1 } }
+}
+}
+
+
+#Obsidian Exiles
+ROF = {
+	pattern = "pattern_solid.tga"
+	color1 = "red_light"
+
+
+	colored_emblem = {
+		texture = "ce_bend_alberta.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_coa_rounded_valley_3c.dds"
+		color1 = "white"
+		color2 = "white"
+		color3 = "red_light"
+		instance = { scale = { 0.25 0.25 } position = { 0.15 0.2 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_pattern_flower.dds"
+		color1 = "red"
+		color2 = "white"
+		color3 = "red_light"
+		instance = { scale = { 0.22 0.22 } position = { 0.15 0.2 } }	
+	}	
+
+
+	
+
+}
+
+#Obsidian Exiles
+OEX = {
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+
+	colored_emblem = {
+		texture = "ce_roe_arrows.dds"
+		color1 = "orange"
+		color2 = "orange"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+	
+}
+
+#Yanger Horde
+YAN = {
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_roe_horse.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { scale = { 1 1 } position = { 0.52 0.34 } }	
+	}	
+
+	
+	colored_emblem = {
+		texture = "ce_stripes_02_bottom_lithuania.dds"
+		color1 = "red"
+		color2 = "black"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+	
+
+	
+}
+
+#Zakoniw
+ZKW = {
+	pattern = "pattern_solid.tga"
+	color1 = "green_light"
+
+	colored_emblem = {
+		texture = "ce_fusang.dds"
+		color1 = "white"
+		color2 = "orange"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_roe_swords.dds"
+		color1 = "orange"
+		color2 = "orange"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+	
 }

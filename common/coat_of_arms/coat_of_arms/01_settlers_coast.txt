@@ -1,1 +1,241 @@
-﻿
+﻿AHO = {
+	pattern = "pattern_solid.tga"
+	color1 = "purple"
+
+	colored_emblem = {
+		texture = "ce_bicolor_top.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 1 } position = { 0.75 0.5 } }	
+	}	
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 1 } position = { 0.25 0.5 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_lauburu.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 0.5 } position = { 0.25 0.25 } }	
+		instance = { scale = { 0.5 0.5 } position = { 0.75 0.75 } }	
+	}	
+
+	colored_emblem = {
+		texture = "ce_torch.dds"
+		color1 = "brown"
+		color2 = "yellow"
+		instance = { scale = { 0.4 0.4 } position = { 0.75 0.25 } }	
+		instance = { scale = { 0.4 0.4 } position = { 0.25 0.75 } }	
+	}	
+
+
+
+}
+
+ARR = {
+	pattern = "pattern_solid.tga"
+	color1 = "sapphire"
+
+	colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "green"
+		instance = { scale = { 0.25 1 } position = { 0.13 0.5 } }	
+		instance = { scale = { 0.25 1 } position = { 0.87 0.5 } }			
+	}	
+    colored_emblem = {
+		texture = "ce_solid.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.1 1 } position = { 0.22 0.5 } }	
+		instance = { scale = { 0.1 1 } position = { 0.78 0.5 } }			
+	}		
+
+
+    colored_emblem = {
+		texture = "ce_laurel_circled.dds"
+		color1 = "white"
+		color2 = "green_light"
+		instance = { scale = { 0.6 0.6 } position = { 0.5 0.5 } }
+	}	
+
+	colored_emblem = {
+		texture = "ce_castle_cajun.dds"
+		color1 = "white"
+		color2 = "black"
+		color3 = "white"
+		instance = { scale = { 0.25 0.25 } position = { 0.5 0.475 } }
+	}	
+}
+
+#Vozmead Peaks
+VOZ = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "orange" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_bend_sinister_fimbriated.dds"
+		color1 = "white"
+		color2 = "blue_light"
+		instance = { scale = { 1.5 1.5 } position = { 0.5 0.5 } }
+	}
+
+	colored_emblem = { #Adds a colored emblem.
+		texture = "ce_clouds_china_02.dds" #From gfx\coat_of_arms\textured_emblems
+		color1 = "white"
+		color2 = "white"
+		color3 = "white"
+		instance = { position = { 0.25 0.75 } rotation=-50deg scale = { 0.45 0.45 } }
+		instance = { position = { 0.5 0.5 } rotation=-50deg scale = { 0.45 0.45 } }
+		instance = { position = { 0.75 0.25 } rotation=-50deg scale = { 0.45 0.45 } }
+	}
+}
+
+#Secretkeepers
+VHT = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "black" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_roe_book.dds"
+		color1 = "white"
+		color2 = "grey"
+		color3 = "brown_light"
+		instance = { scale = { 1 1 } position = { 0.45 0.5 } }
+	}
+
+	
+	colored_emblem = {
+		texture = "ce_border_of_3_sikkim.dds"
+		color1 = "purple"
+		color2 = "white"
+		color3 = "grey"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
+	}
+
+}
+
+
+#Whisker Fields
+WHI = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "brown" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
+	}
+
+	colored_emblem = { #Adds a colored emblem.
+		texture = "ce_emblem_wheat_garb_2c.dds" #From gfx\coat_of_arms\textured_emblems
+		color1 = "yellow"
+		color2 = "brown_light" #You can tell it to just use the same base color1 (in this case "white").
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 } }
+	}
+}
+
+#Thiral
+THI = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_bicolor_left.dds"
+		color1 = "red"
+		instance = { scale = { 0.25 1 } position = { 0.13 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_bicolor_left.dds"
+		color1 = "green"
+		instance = { scale = { 0.25 1 } position = { 0.25 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "ce_bicolor_right.dds"
+		color1 = "white"
+		instance = { scale = { 1.75 1 } position = { 0.25 0.5 } }
+	}
+
+	
+	colored_emblem = {
+		texture = "ce_roe_roses.dds"
+		color1 = "green"
+		color2 = "red"
+		instance = { scale = { 1 1 } position = { 0.585 0.5 } }
+	}
+
+}
+
+#Feylight
+FEY = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "green" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_roe_acorns.dds"
+		color1 = "white"
+		color2 = "black"
+		instance = { scale = { 0.8 0.8 } position = { 0.5 0.5 } }
+	}
+}
+
+#Dushambay
+DSB = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_roe_flower_bicolor.dds"
+		color1 = "sapphire"
+		color2 = "black"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+#Ceraun
+CER = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "orange" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_roe_curved_sword_details.dds"
+		color1 = "white"
+		color2 = "black"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "ce_roe_curved_sword_colors.dds"
+		color1 = "yellow"
+		color2 = "blue"
+		color3 = "green"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+
+
+#Yavira
+DRO = {
+	pattern = "pattern_solid.tga" #Choose a base from gfx\coat_of_arms\patterns
+	color1 = "white" #Use a predefined colour or you can do 'color1 = rgb{ x x x }'.
+
+	colored_emblem = {
+		texture = "ce_crescent_pale.dds"
+		color1 = "grey"
+		color2 = "black"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }
+	}
+
+	
+	colored_emblem = {
+		texture = "ce_mining_hammers.dds"
+		color1 = "grey"
+		color2 = "black"
+		instance = { scale = { 0.5 0.5 } position = { 0.5 0.4 } }
+	}
+
+
+}
+

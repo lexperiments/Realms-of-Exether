@@ -1,1 +1,54 @@
-﻿
+﻿#Ravik
+RAV = {
+	pattern = "pattern_solid.tga"
+	color1 = "grey"
+	
+	colored_emblem = {
+		texture = "ce_roe_gnome.dds"
+		color1 = "yellow"
+		color2 = "purple"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+
+}
+
+#Sanbahar
+SBH = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem = {
+		texture = "ce_roe_castle.dds"
+		color1 = "blue"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+}
+
+#KLhaduras
+KHD = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	
+	colored_emblem = {
+		texture = "ce_roe_mountain.dds"
+		color1 = "sapphire"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+}
+
+
+#Zinxhiron
+ZIX = {
+	pattern = "pattern_solid.tga"
+	color1 = "grey"
+	
+	colored_emblem = {
+		texture = "ce_roe_goblin.dds"
+		color1 = "red"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+}
+
