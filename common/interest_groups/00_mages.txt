@@ -5,10 +5,7 @@
 	index = 8
 
 	ideologies = {
-		ideology_proletarian
-		ideology_egalitarian
-		ideology_populist
-		ideology_anti_slavery
+		ideology_arcane_scholars
 	}
 
 	enable = {
@@ -34,53 +31,119 @@
 	on_character_ig_membership = {}
 
 	pop_potential = {
-		NOR = {
-			is_pop_type = aristocrats
-			is_pop_type = capitalists
-			is_pop_type = shopkeepers
-			is_pop_type = officers
-		}
-		NOR = {
-			pop_employment_building_group = bg_agriculture
-			pop_employment_building_group = bg_ranching
-			pop_employment_building_group = bg_plantations
-		}
+		literacy_rate > 0.25
+		NOT = { is_pop_type = peasants }
 	}
 
 	pop_weight = {
 		value = 0
 
 		add = {
-			desc = "URBAN_POP"
+			desc = "POP_WIZARDS"
 			if = {
 				limit = {
-					NOR = {
-						pop_employment_building_group = bg_agriculture
-						pop_employment_building_group = bg_ranching
-						pop_employment_building_group = bg_plantations
-					}
+					is_pop_type = wizards
 				}
-				value = 50
+				value = 200
 			}
 		}
 
 		add = {
-			desc = "POP_MACHINISTS"
+			desc = "POP_CLERKS"
 			if = {
 				limit = {
-					is_pop_type = machinists
+					is_pop_type = clerks
 				}
 				value = 100
 			}
 		}
 
 		add = {
-			desc = "POP_LABORERS"
+			desc = "POP_BUREAUCRATS"
 			if = {
 				limit = {
-					is_pop_type = laborers
+					is_pop_type = bureaucrats
+				}
+				value = 100
+			}
+		}
+
+		add = {
+			desc = "POP_CAPITALISTS"
+			if = {
+				limit = {
+					is_pop_type = capitalists
 				}
 				value = 50
+			}
+		}
+
+		add = {
+			desc = "POP_ARISTOCRATS"
+			if = {
+				limit = {
+					is_pop_type = aristocrats
+				}
+				value = 50
+			}
+		}
+
+		add = {
+			desc = "LITERACY_50_60"
+
+			if = {
+				limit = {
+					literacy_rate >= 0.50
+					literacy_rate < 0.60
+				}
+				add = 10
+			}
+		}
+
+		add = {
+			desc = "LITERACY_60_70"
+
+			if = {
+				limit = {
+					literacy_rate >= 0.60
+					literacy_rate < 0.70
+				}
+				add = 12
+			}
+		}
+
+		add = {
+			desc = "LITERACY_70_80"
+
+			if = {
+				limit = {
+					literacy_rate >= 0.70
+					literacy_rate < 0.80
+				}
+				add = 14
+			}
+		}
+
+		add = {
+			desc = "LITERACY_80_90"
+
+			if = {
+				limit = {
+					literacy_rate >= 0.80
+					literacy_rate < 0.90
+				}
+				add = 16
+			}
+		}
+
+		add = {
+			desc = "LITERACY_90_100"
+
+			if = {
+				limit = {
+					literacy_rate >= 0.90
+				}
+				add = 18
 			}
 		}
 
@@ -94,34 +157,6 @@
 					max = 1.25
 					min = 0.75
 				}
-			}
-		}
-
-		multiply = {
-			desc = "NO_LABOR_MOVEMENT"
-			value = 1.0
-
-			if = {
-				limit = {
-					owner = {
-						NOT = { has_technology_researched = labor_movement }
-					}
-				}
-				value = 0.5
-			}
-		}
-
-		multiply = {
-			desc = "NO_EGALITARIANISM"
-			value = 1.0
-
-			if = {
-				limit = {
-					owner = {
-						NOT = { has_technology_researched = egalitarianism }
-					}
-				}
-				value = 0.5
 			}
 		}
 
@@ -154,7 +189,7 @@
 	}
 
 	monarch_weight = {
-		value = 0.1 # this is just inherently unlikely
+		value = 1
 		# Monarch is not likely to adopt a marginal IG
 		if = {
 			limit = {
@@ -173,22 +208,33 @@
 				value = 2
 			}
 		}
-		# More likely with Worker's Protections
+		# Much more likely with Technocracy
 		if = {
 			limit = {
 				owner = {
-					has_law = law_type:law_worker_protections
+					has_law = law_type:law_technocracy
 				}
 			}
 			multiply = {
-				value = 2
+				value = 3
 			}
 		}
-		# Impossible with No Workers Rights
+		# More likely with Appointed Bureaucrats
 		if = {
 			limit = {
 				owner = {
-					has_law = law_type:law_no_workers_rights
+					has_law = law_type:law_appointed_bureaucrats
+				}
+			}
+			multiply = {
+				value = 1.5
+			}
+		}
+		# Impossible without Empiricism
+		if = {
+			limit = {
+				owner = {
+					NOT = { has_technology_researched = empiricism }
 				}
 			}
 			multiply = {
@@ -199,11 +245,11 @@
 
 	agitator_weight = {
 		# Agitators more likely to come from populist IG's rather than elitist
-		value = 1.0
+		value = 0.75
 		# Agitators will never be part of a marginalized IG
 		if = {
 			limit = {
-				owner.ig:ig_mages = {
+				owner.ig:ig_intelligentsia = {
 					is_marginal = yes
 				}
 			}
@@ -214,11 +260,11 @@
 	}
 
 	commander_weight = {
-		value = 0.5
+		value = 1.0
 	}
 
 	noble_chance = {
-		value = 0.1
+		value = 0.5
 	}
 
 	female_commander_chance = {
@@ -236,13 +282,13 @@
 
 			}
 			add = {
-				value = 0.05
+				value = 0.035
 			}
 		}
 	}
 
 	female_agitator_chance = {
-		value = 0.05
+		value = 0.035
 		
 		if = {
 			limit = {
@@ -252,7 +298,7 @@
 
 			}
 			add = {
-				value = 0.05
+				value = 0.035
 			}
 		}	
 		
@@ -264,7 +310,7 @@
 
 			}
 			add = {
-				value = 0.05
+				value = 0.035
 			}
 		}
 
@@ -276,7 +322,7 @@
 
 			}
 			add = {
-				value = 0.05
+				value = 0.035
 			}
 		}		
 	}

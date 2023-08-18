@@ -1,0 +1,4 @@
+﻿l_english:
+ ig_variant_mages: "[GetInterestGroupVariant('ig_mages',GetPlayer).GetNameWithCountryVariant]"
+  modifier_interest_group_ig_mages_pol_str_mult: "$ig_variant_mages$ [concept_political_strength]"
+  modifier_interest_group_ig_mages_pol_str_mult_desc: "A bonus or penalty to the total [concept_political_strength] of the $ig_variant_mages$ [concept_interest_group]"

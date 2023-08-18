@@ -1,3 +1,11 @@
 ﻿l_english:
   law_denominational_exclusion: "Denominational Exclusion"
   law_denominational_exclusion_desc: "The state has an official state religion but the people may choose to identify with adjacent denominations. Distant sects and exotic religions are discriminated against."
+  lawgroup_magic: "Magical Focus"
+  law_no_magic: "No Magical Focus"
+  law_divine_miracles: "Divine Miracles"
+  law_druidic_circles: "Druidic Circles"
+  law_artificer_guilds: "Artificer Guilds"
+  law_astrological_studies: "Astrological Studies"
+  law_dark_arts: "Dark Arts"
+  law_mage_hunters: "Mage Hunters"

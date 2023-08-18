@@ -106,7 +106,7 @@ add_homeland = cliffpercher
 
 s:STATE_KIYOMU = {
 	create_state = {
-		country = c:IHE
+		country = c:GAI
 		owned_provinces = { "x71F7A1" "x99F8FD" "x9DC0BF" "xA3B6B8" "xA4D5C9" "xADDCAA" "xB484EA" "xCBCE86" "xD0D08F" "xD9EA53" "xE2B991" "xE7D5AC" "xECC5BF" "xF1EAD7" }
 }
 add_homeland = cliffpercher

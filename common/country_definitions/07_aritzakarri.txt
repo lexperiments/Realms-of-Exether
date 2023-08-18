@@ -24,7 +24,7 @@ AIZ = {
 
 #Kolvatch
 KCH = {
-	color = rgb{ 175 175 75 } 
+	color = rgb{ 155 155 15 } 
 
 	country_type = unrecognized 
 
@@ -97,7 +97,7 @@ ULI = {
 
 #Piumavia
 PIU = {
-	color = rgb{ 150 150 20 } 
+	color = rgb{ 150 150 150 } 
 
 	country_type = unrecognized
 
@@ -109,7 +109,7 @@ PIU = {
 
 #Orakhtia
 OKH = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 60 156 120 } 
 
 	country_type = unrecognized 
 
@@ -122,7 +122,7 @@ OKH = {
 
 #Lurzoru
 LUR = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 80 56 120 } 
 
 	country_type = unrecognized 
 
@@ -134,7 +134,7 @@ LUR = {
 
 #Hizkiabar
 HIZ = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 100 0 20 } 
 
 	country_type = unrecognized 
 
@@ -146,7 +146,7 @@ HIZ = {
 
 #Gailurr
 GAI = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 200 80 80} 
 
 	country_type = unrecognized 
 
@@ -159,7 +159,7 @@ GAI = {
 
 #Ihesara
 IHE = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 60 186 80 } 
 
 	country_type = unrecognized 
 
@@ -171,7 +171,7 @@ IHE = {
 
 #Borjokob
 BRJ = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 100 126 80 } 
 
 	country_type = unrecognized 
 
@@ -183,7 +183,7 @@ BRJ = {
 
 #Civettia
 CIV = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 160 56 140 } 
 
 	country_type = unrecognized 
 
@@ -195,7 +195,7 @@ CIV = {
 
 #Hegazkiak
 HEG = {
-	color = rgb{ 160 156 140 } 
+	color = rgb{ 120 30 120 } 
 
 	country_type = unrecognized 
 

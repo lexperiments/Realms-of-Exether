@@ -114,6 +114,7 @@ ideology_individualist = {
 		law_private_schools = approve
 		law_public_schools = neutral
 		law_religious_schools = neutral
+		law_magical_schools = neutral
 		law_no_schools = disapprove
 	}
 	
@@ -172,8 +173,19 @@ ideology_pious = {
 		law_religious_schools = approve
 		law_no_schools = neutral
 		law_public_schools = disapprove
-		law_private_schools = disapprove		
+		law_private_schools = disapprove	
+		law_magical_schools = disapprove		
 	}	
+
+	lawgroup_magic = {
+		law_no_magic = neutral
+		law_divine_miracles = approve
+		law_druidic_circles = neutral
+		law_artificer_guilds = neutral
+		law_astrological_studies = neutral
+		law_dark_arts = neutral
+		law_mage_hunters = neutral
+	}
 }
 
 ideology_agrarian = {
@@ -203,6 +215,16 @@ ideology_agrarian = {
 		law_proportional_taxation = neutral
 		law_graduated_taxation = neutral
 		law_land_based_taxation = disapprove
+	}
+
+	lawgroup_magic = {
+		law_no_magic = neutral
+		law_divine_miracles = neutral
+		law_druidic_circles = approve
+		law_artificer_guilds = neutral
+		law_astrological_studies = neutral
+		law_dark_arts = neutral
+		law_mage_hunters = neutral
 	}
 }
 
@@ -409,13 +431,24 @@ ideology_anti_clerical = {
 		law_public_schools = approve
 		law_private_schools = approve
 		law_no_schools = disapprove
-		law_religious_schools = disapprove		
+		law_religious_schools = disapprove	
+		law_magical_schools = disapprove		
 	}
 
 	lawgroup_bureaucracy = {
 		law_appointed_bureaucrats = approve
 		law_elected_bureaucrats = neutral	
 		law_hereditary_bureaucrats = disapprove
+	}
+
+	lawgroup_magic = {
+		law_no_magic = approve
+		law_divine_miracles = strongly_disapprove
+		law_druidic_circles = disapprove
+		law_artificer_guilds = disapprove
+		law_astrological_studies = disapprove
+		law_dark_arts = disapprove
+		law_mage_hunters = strongly_approve
 	}
 }
 
@@ -480,7 +513,8 @@ ideology_proletarian = {
 	lawgroup_education_system = {
 		law_public_schools = approve
 		law_private_schools = neutral
-		law_religious_schools = neutral	
+		law_religious_schools = neutral
+		law_magical_schools = neutral	
 		law_no_schools = disapprove	
 	}
 }

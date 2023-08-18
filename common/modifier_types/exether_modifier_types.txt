@@ -1,0 +1,5 @@
+﻿interest_group_ig_mages_pol_str_mult = {
+	neutral = yes
+	percent = yes
+	num_decimals = 0
+}
