@@ -2,3 +2,7 @@
  ig_variant_mages: "[GetInterestGroupVariant('ig_mages',GetPlayer).GetNameWithCountryVariant]"
   modifier_interest_group_ig_mages_pol_str_mult: "$ig_variant_mages$ [concept_political_strength]"
   modifier_interest_group_ig_mages_pol_str_mult_desc: "A bonus or penalty to the total [concept_political_strength] of the $ig_variant_mages$ [concept_interest_group]"
+
+  modifier_country_wizards_pol_str_mult: "[concept_political_strength] of $wizards$"
+  modifier_country_wizards_pol_str_mult_desc: "An increase or decrease in the [concept_political_strength] of $wizards$"
+  modifier_country_wizards_voting_power_add: "[concept_political_strength] from the [concept_votes] of $wizards$"

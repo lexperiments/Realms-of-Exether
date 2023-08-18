@@ -1110,6 +1110,24 @@ texticon = {
 }
 
 texticon = {
+  icon = wizards
+  iconsize = {
+    offset = { 0 50 }
+    texture = "gfx/interface/icons/pops_icons/wizards.dds"
+    fontsize = 250
+  }
+}
+
+texticon = {
+  icon = wizards
+  iconsize = {
+    offset = { 0 5 }
+    texture = "gfx/interface/icons/pops_icons/wizards_15.dds"
+    fontsize = 30
+  }
+}
+
+texticon = {
   icon = bureaucrats
   iconsize = {
     offset = { 0 50 }

@@ -3,7 +3,8 @@
 	
 	lawgroup_governance_principles = {
 		law_monarchy = strongly_approve
-		law_theocracy = approve			
+		law_theocracy = approve
+		law_magocracy = approve			
 		law_presidential_republic = neutral
 		law_parliamentary_republic = neutral
 		law_council_republic = strongly_disapprove
@@ -459,6 +460,7 @@ ideology_republican = {
 		law_presidential_republic = strongly_approve
 		law_parliamentary_republic = approve
 		law_monarchy = neutral	
+		law_magocracy = neutral
 		law_theocracy = neutral
 		law_council_republic = disapprove
 	}
@@ -587,6 +589,7 @@ ideology_socialist = {
 		law_presidential_republic = neutral
 		law_theocracy = strongly_disapprove
 		law_monarchy = strongly_disapprove
+		law_magocracy = strongly_disapprove
 	}
 
 	lawgroup_economic_system = {	
@@ -620,7 +623,8 @@ ideology_reactionary = {
 	
 	lawgroup_governance_principles = {
 		law_monarchy = approve
-		law_theocracy = approve		
+		law_theocracy = approve
+		law_magocracy = approve		
 		law_presidential_republic = neutral
 		law_parliamentary_republic = neutral
 		law_council_republic = disapprove
@@ -660,6 +664,7 @@ ideology_plutocratic = {
 		law_monarchy = neutral			
 		law_presidential_republic = neutral
 		law_parliamentary_republic = neutral
+		law_magocracy = disapprove
 		law_theocracy = disapprove
 		law_council_republic = strongly_disapprove
 	}
