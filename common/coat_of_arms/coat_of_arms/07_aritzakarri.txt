@@ -12,3 +12,16 @@ CRG = {
 		instance = { position = { 0.5 0.6 } }
     }
 }
+
+#Ulivona
+ULI = {
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	
+	colored_emblem = {
+		texture = "ce_roe_owl.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = { scale = { 1 1 } position = { 0.5 0.5 } }	
+	}	
+}

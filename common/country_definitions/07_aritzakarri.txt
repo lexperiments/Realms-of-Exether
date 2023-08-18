@@ -70,3 +70,137 @@ LAZ = {
 	capital = STATE_SUTAN
 }
 
+#Brynurin
+BRY = {
+	color = rgb{ 150 150 20 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { lithorin } 
+	capital = STATE_BAZKA
+}
+
+
+#Ulivona
+ULI = {
+	color = rgb{ 250 30 0 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { saglithan } 
+	capital = STATE_BIZI
+}
+
+#Piumavia
+PIU = {
+	color = rgb{ 150 150 20 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { saglithan } 
+	capital = STATE_KASKOHARI
+}
+
+#Orakhtia
+OKH = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_ARROLA
+}
+
+
+#Lurzoru
+LUR = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { cliffpercher } 
+	capital = STATE_ERDIGARA
+}
+
+#Hizkiabar
+HIZ = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { sandcircler } 
+	capital = STATE_GORRIMU
+}
+
+#Gailurr
+GAI = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { cliffpercher } 
+	capital = STATE_URRAZPI
+}
+
+
+#Ihesara
+IHE = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { whitefeather } 
+	capital = STATE_GORRIMU
+}
+
+#Borjokob
+BRJ = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_GORRIMU
+}
+
+#Civettia
+CIV = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { saglithan } 
+	capital = STATE_UHINAK
+}
+
+#Hegazkiak
+HEG = {
+	color = rgb{ 160 156 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { cliffpercher } 
+	capital = STATE_ARGI
+}

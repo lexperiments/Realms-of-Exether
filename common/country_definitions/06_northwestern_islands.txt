@@ -129,3 +129,75 @@ MGR = {
 	cultures = { mgzavri } 
 	capital = STATE_BREZHKE
 }
+
+#Váralftis
+VAR = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { umbradorn } 
+	capital = STATE_ELVENSHROUD
+}
+
+#Gravskugard
+GRD = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { toftir_giant } 
+	capital = STATE_ARVEDELL
+}
+
+#Haugvegr
+HVR = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { toftir_giant } 
+	capital = STATE_GAISI
+}
+
+#Dökkálfhold
+DOK = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { toftir_giant } 
+	capital = STATE_FROSTWYN
+}
+
+#Valrúnir
+VAL = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { toftir_giant } 
+	capital = STATE_SILVERSONG
+}
+
+#Heljarriket
+HEL = {
+	color = rgb{ 10 80 0 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { toftir_giant } 
+	capital = STATE_ELDORIA
+}

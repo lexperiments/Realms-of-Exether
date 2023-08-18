@@ -563,26 +563,26 @@ add_homeland = illvasaari
 
 s:STATE_RAVGA = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x65D9BD" "x81AEDC" "x91E2E6" "x94B3EC" "x95E5E1" "xA6BF90" "xC162F0" "xCA81F3" "xD6C6C9" "xD9FCE6" "xDCCFF0" "xE79EE2" "xE7EB34" "xEBBF70" "xF1DAA2" "xF7F528" "xFB70A8" "xFBF30C" "xFC45DF" "xFDF4E8" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_ELDORIA = {
 	create_state = {
-		country = c:DUM
+		country = c:HEL
 		owned_provinces = { "x4AF1F4" "x4DFBF3" "x9ED1D2" "xA0C2A0" "xACB0BA" "xBA7EFC" "xBBE48E" "xC7CBFC" "xD1B4AD" "xD7A9C3" "xD9AF8C" "xDEFA6F" "xEEF3F3" "xF175CE" "xF1AD6B" "xFB9681" "xFBF3D6" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_AJA = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x53C6F6" "x7589FA" "x83EEBA" "x84B8DD" "xAFCDA7" "xC672E5" "xC689E3" "xCCFDA3" "xD5DF43" "xF8CDF8" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_SYLVARIN = {
@@ -595,15 +595,15 @@ add_homeland = blacktalon
 
 s:STATE_NUORAID = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x51F7F9" "x82B6FD" "x9CCFE6" "xA8F08C" "xB1B1F9" "xB8A5BE" "xBE84C0" "xC9B9E9" "xCAEDA1" "xCC4EFE" "xCD98F4" "xDAC463" "xDB86B1" "xE0F18E" "xE878A5" "xEAEE81" "xEFBDAB" "xFD56F7" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_FROSTWYN = {
 	create_state = {
-		country = c:DUM
+		country = c:DOK
 		owned_provinces = { "x2BFBEF" "xA16DFC" "xA5F675" "xA8CB83" "xB6DD91" "xC2BBB3" "xC991DA" "xCE93DE" "xD2EC43" "xE2AAFA" "xE4B2B2" "xE7A2EF" "xE7CD98" }
 }
 add_homeland = illvasaari
@@ -611,50 +611,50 @@ add_homeland = illvasaari
 
 s:STATE_DUODJI = {
 	create_state = {
-		country = c:DUM
+		country = c:HVR
 		owned_provinces = { "x0BFEF7" "x2CE7EC" "x39DCFC" "x58FEFC" "x69E5C9" "xAC9EF7" "xADF7A0" "xCDA1A8" "xCDF7AB" "xCFDFCD" "xE27ECF" "xE494F7" "xF6D99D" "xF8AAF0" "xFB53E9" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_ARVEDELL = {
 	create_state = {
-		country = c:DUM
+		country = c:GRD
 		owned_provinces = { "x60C2E9" "x71D3DE" "x75E6B1" "x81E4CD" "x9EC3EA" "xB3D8EB" "xBCC79F" "xCDFCDB" "xD3C6CD" "xD5DB59" "xDB79B9" "xDD5FE0" "xDD7FB9" "xE269F9" "xE8B184" "xF0E0CE" "xF2CD3E" "xF2F9D6" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_AHKKU = {
 	create_state = {
-		country = c:DUM
+		country = c:VAL
 		owned_provinces = { "x63F8FD" "x68E9E1" "x90EC7E" "xA1DEF3" "xA48FFC" "xC3E97D" "xCA97D9" "xE16EF9" "xEBB2DB" "xEBC6D0" "xF0C185" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_ELVERWISP = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x8EE3FE" "x8FEC96" "x94C0DC" "x95DBB7" "x98A5DE" "xA3A4D7" "xA468F0" "xAF9DDF" "xB1D595" "xB677EB" "xC13CFE" "xC7C89B" "xCD6FC8" "xCFED81" "xD7C7F2" "xFB9B5F" "xFBE3B9" "xFDFA61" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_AURORIL = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x56E2CB" "x8AF1EF" "x9B98EC" "xAAE87B" "xCAC7CE" "xEEF3D3" "xF317F3" "xF39A80" "xF7F525" "xFAEFCB" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_GIELAS = {
 	create_state = {
-		country = c:DUM
+		country = c:GRD
 		owned_provinces = { "x42EFFC" "x6BF6F6" "x70C9FC" "x82C3D7" "xA0E88B" "xA4BCC0" "xACB993" "xBFFCAB" "xC494FD" "xCFF258" "xD8A8AD" "xDBD07B" "xEDD385" "xF251DB" "xF2BEF8" "xF869DA" "xFB8C81" "xFD42EA" }
 }
-add_homeland = illvasaari
+add_homeland = itoftir_giant
 }
 
 s:STATE_AKNU = {
@@ -667,42 +667,42 @@ add_homeland = illvasaari
 
 s:STATE_SYLVASKA = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x52FBAC" "x76DBED" "x85FA86" "xAEED8A" "xB0A1E6" "xB1ED64" "xC1E752" "xD7E23E" "xDD2CF6" "xDE6EAD" "xE485AB" "xEE85C2" "xF26BFD" "xF84EEE" "xFADB61" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_GAVCCI = {
 	create_state = {
-		country = c:DUM
+		country = c:HEL
 		owned_provinces = { "x62FCD9" "x81A2E3" "xB08AE9" "xC141F7" "xE27CFA" "xE3EA6F" "xE6C2B4" "xE6D999" "xF372B5" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_MARKAN = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x52DFCA" "x65DCE1" "x7CA1E0" "x88A4FB" "xA2D7F8" "xAACBF6" "xBA65E6" "xBBAEB6" "xBCF4A9" "xBEC775" "xBECBD3" "xC798F8" "xCCDED4" "xCDFD62" "xDEB77B" "xE79895" "xE7EE70" "xF5AD5B" "xF86AB8" "xFE9664" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_ELVENSHROUD = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x72E9DE" "x88E4F0" "x9DE8EC" "xA3B0BE" "xA3C59A" "xC3EAD0" "xD455F7" "xDC60D0" "xE3D4CC" "xE5D0D6" "xEF6DF3" "xF23AFA" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_GAISI = {
 	create_state = {
-		country = c:DUM
+		country = c:HVR
 		owned_provinces = { "x49F4EA" "x67C1E5" "x7AB4DB" "x90EF92" "x93B2C8" "xA8C4FE" "xBF7EF2" "xC6FC7E" "xC838F9" "xCBB7EC" "xD0C19B" "xD0F442" "xD67BEB" "xD985E0" "xDC71E1" "xDCBBF9" "xDCBE5E" "xDCCF4A" "xE152CD" "xF0FC37" "xF2DA5F" "xF3F50E" "xF4EA5C" "xF6FAC1" "xF98DEA" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_LUMINEVRA = {
@@ -715,10 +715,10 @@ add_homeland = blacktalon
 
 s:STATE_ELVERLEAF = {
 	create_state = {
-		country = c:DUM
+		country = c:VAR
 		owned_provinces = { "x4ED3DC" "x8F81EE" "x90E6CB" "xB661E9" "xBB61E6" "xC99EAC" "xD3D198" "xD8E7A7" "xD9E279" "xE9F1DA" "xF9E1D5" }
 }
-add_homeland = illvasaari
+add_homeland = umbradorn
 }
 
 s:STATE_AIGAI = {
@@ -747,10 +747,10 @@ add_homeland = illvasaari
 
 s:STATE_SILVERSONG = {
 	create_state = {
-		country = c:DUM
+		country = c:VAL
 		owned_provinces = { "x45F0D3" "x6BEBF6" "x94A7CC" "x9CCF99" "xA2CB8F" "xA4DD80" "xD0B380" "xD7F992" "xE2A5C3" "xE5C0FC" "xEBEFD0" "xF4D289" "xF65FB6" "xFEAF4F" }
 }
-add_homeland = illvasaari
+add_homeland = toftir_giant
 }
 
 s:STATE_SILENTWISP = {
