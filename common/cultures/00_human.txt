@@ -942,7 +942,7 @@ qinnaat={
 
 thiralian={
 	color= hsv{ 0.62 0.54 0.72 }
-	religion = catholic
+	religion = church_of_man
 	traits = {  human_heritage }
 	male_common_first_names={
 		Amos Anatole Aaron Augustin Achille

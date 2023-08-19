@@ -333,12 +333,12 @@
         }
     }
 
-    rahoru_agitator_clothes = {
+    korean_agitator_clothes = {
         dna_modifiers = {
             accessory = {
                 mode = add
                 gene = outfits
-                template = rahoru_common_outfits
+                template = korean_common_outfits
                 range = { 0 1 }
             }
         }
@@ -348,7 +348,7 @@
                 add = 100
                 scope:character ?= {
                     culture = {
-                        this = cu:kusichaki
+                        this = cu:rahoru
                     }
                 }
                 agitator_character_trigger = yes 
@@ -2936,12 +2936,12 @@
     }
 
 
-    rahoru_pop_clothes = {
+    korean_pop_clothes = {
         dna_modifiers = {
             accessory = {
                 mode = add
                 gene = outfits
-                template = rahoru_low_outfits
+                template = korean_low_outfits
                 range = { 0 1 } # For the randomness to work correctly
             }
         } 
@@ -2964,12 +2964,12 @@
         }
     }
 
-    rahoru_clothes = {
+    korean_clothes = {
         dna_modifiers = {
             accessory = {
                 mode = add
                 gene = outfits
-                template = rahoru_common_outfits
+                template = korean_common_outfits
                 range = { 0 1 } # For the randomness to work correctly
             }
         }
@@ -2998,12 +2998,12 @@
         }
     }
 
-    rahoru_imperial_clothes = {
+    korean_imperial_clothes = {
         dna_modifiers = {
             accessory = {
                 mode = add
                 gene = outfits
-                template = rahoru_imperial_outfits
+                template = korean_imperial_outfits
                 range = { 0 1 } # For the randomness to work correctly
             }
         }
@@ -3391,7 +3391,7 @@ indian_royal_clothes = {
         }
     }
 
-    umbradorn_clothes = {
+    circumpolar_clothes = {
         dna_modifiers = {
             accessory = {
                 mode = add
@@ -3411,7 +3411,7 @@ indian_royal_clothes = {
             modifier = {
                 add = 500
                 AND = {
-                    umbradorn_clothes_pop_trigger = yes
+                    circumpolar_clothes_pop_trigger = yes
                     OR = {
                         poor_clothes_pop_trigger = yes
                         middle_clothes_pop_trigger = yes

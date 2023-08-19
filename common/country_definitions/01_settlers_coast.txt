@@ -36,7 +36,7 @@ ANW = {
 
 #Emerald League
 EME = {
-	color = { 56 143 53 }} 
+	color = { 56 143 53 } 
 
 	country_type = recognized 
 
