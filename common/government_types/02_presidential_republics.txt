@@ -18,41 +18,6 @@
 	}
 }
 
-gov_bhutanese_dual_system_temporal = {
-	transfer_of_power = dictatorial
-
-	male_ruler = "RULER_TITLE_DRAGON_REGENT"
-	female_ruler = "RULER_TITLE_DRAGON_REGENT"
-	
-	possible = {
-		exists = c:BHU 
-		c:BHU = ROOT
-		has_law = law_type:law_presidential_republic
-		has_law = law_type:law_state_religion
-		country_has_voting_franchise = no
-	}
-}
-
-#gov_warlord_state = {
-#	transfer_of_power = dictatorial
-#
-#	male_ruler = "RULER_TITLE_GENERAL"
-#	female_ruler = "RULER_TITLE_GENERAL"
-#	
-#	possible = {
-#		has_law = law_type:law_presidential_republic
-#		has_law = law_type:law_autocracy 
-#		has_law = law_type:law_peasant_levies
-#
-#		OR = { #Maybe theres a better trigger?
-#			root.capital.region = sr:region_north_china
-#			root.capital.region = sr:region_south_china
-#			root.capital.region = sr:region_manchuria
-#			root.capital.region = sr:region_central_asia
-#		}
-#	}
-#}
-
 gov_fascist_state = {
 	transfer_of_power = dictatorial
 
@@ -80,8 +45,7 @@ gov_chartered_company = {
 		has_law = law_type:law_presidential_republic
 		#AND = { exists = c:GBR is_subject_of = c:GBR }
 		OR = {
-			AND = { exists = c:PYT c:PYT = ROOT }
-			AND = { exists = c:PRO c:PRO = ROOT }
+			AND = { exists = c:SSC c:SSC = ROOT }
 		}
 		is_subject_type = subject_type_dominion
 	}
