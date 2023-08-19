@@ -59,33 +59,33 @@ anti_state_religion.1 = { # Advance
 				is_ruler = yes
 				OR = { 
 					AND = {
-						NOT = { has_ideology = ideology_atheist }
+						NOT = { has_ideology = ideology:ideology_atheist }
 					}
-					has_ideology = ideology_theocrat
-					has_ideology = ideology_traditionalist
+					has_ideology = ideology:ideology_theocrat
+					has_ideology = ideology:ideology_traditionalist
 				} 
 			}
 		}
 
 		if = {
 			limit = {
-				ruler = { has_ideology = ideology_theocrat }
+				ruler = { has_ideology = ideology:ideology_theocrat }
 			}
-			ruler = { set_ideology = ideology_moderate }
+			ruler = { set_ideology = ideology:ideology_moderate }
 		}
 		else_if = {
 			limit = {
-				ruler = { has_ideology = ideology_traditionalist }
+				ruler = { has_ideology = ideology:ideology_traditionalist }
 			}
-			ruler = { set_ideology = ideology_moderate }
+			ruler = { set_ideology = ideology:ideology_moderate }
 		}
 		else_if = {
 			limit = {
 				ruler = {
-					NOT = { has_ideology = ideology_atheist }
+					NOT = { has_ideology = ideology:ideology_atheist }
 				}
 			}
-			ruler = { set_ideology = ideology_atheist }
+			ruler = { set_ideology = ideology:ideology_atheist }
 		}
 	}
 }

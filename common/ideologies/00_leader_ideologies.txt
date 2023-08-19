@@ -73,10 +73,6 @@ ideology_traditionalist = {
 				has_law = law_type:law_state_religion
 			}
 		}
-		NOT = {
-			exists = c:FRA
-			c:FRA = this
-		}
 		scope:interest_group = {
 			OR = {
 				is_interest_group_type = ig_rural_folk
@@ -1131,10 +1127,6 @@ ideology_royalist = {
 		# no generic monarchists in France
 		owner = {
 			NOR = {
-				AND = {
-					exists = c:FRA
-					c:FRA = this
-				}
 				any_interest_group = {
 					has_ideology = ideology:ideology_republican_paternalistic
 				}

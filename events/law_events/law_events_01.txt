@@ -459,9 +459,9 @@ generic_laws.6 = {
 		any_interest_group = {
 			is_marginal = no
 			OR = {
-				has_ideology = ideology_republican
+				has_ideology = ideology:ideology_republican
 				leader = {
-					has_ideology = ideology_republican_leader
+					has_ideology = ideology:ideology_republican_leader
 				}
 				law_stance = {
 					law = owner.currently_enacting_law.type
@@ -490,9 +490,9 @@ generic_laws.6 = {
 			limit = {
 				is_marginal = no
 				OR = {
-					has_ideology = ideology_republican
+					has_ideology = ideology:ideology_republican
 					leader = {
-						has_ideology = ideology_republican_leader
+						has_ideology = ideology:ideology_republican_leader
 					}
 					law_stance = {
 						law = owner.currently_enacting_law.type

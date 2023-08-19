@@ -27,8 +27,8 @@ anarchy.1 = {
 		is_enacting_law = law_type:law_anarchy
 		any_interest_group = {
 			OR = {
-				has_ideology = ideology_reactionary
-				has_ideology = ideology_paternalistic
+				has_ideology = ideology:ideology_reactionary
+				has_ideology = ideology:ideology_paternalistic
 			}
 			is_marginal = no
 		}
@@ -41,8 +41,8 @@ anarchy.1 = {
 		random_interest_group = {
 			limit = {
 				OR = {
-					has_ideology = ideology_reactionary
-					has_ideology = ideology_paternalistic
+					has_ideology = ideology:ideology_reactionary
+					has_ideology = ideology:ideology_paternalistic
 				}
 				is_marginal = no
 			}
@@ -123,7 +123,7 @@ anarchy.2 = {
 		is_enacting_law = law_type:law_anarchy
 		any_interest_group = {
 			leader = {
-    			has_ideology = ideology_anarchist
+    			has_ideology = ideology:ideology_anarchist
     		}
 		}
 		OR = {
@@ -149,7 +149,7 @@ anarchy.2 = {
     	random_interest_group = {
     		limit = {
     			leader = {
-    				has_ideology = ideology_anarchist
+    				has_ideology = ideology:ideology_anarchist
     			}
     		}
     		save_scope_as = anarchists_scope
@@ -333,7 +333,7 @@ anarchy.3 = {
 			ig_leader = yes
 			interest_group = ig_rural_folk
 			female = no
-			ideology = ideology_anarchist
+			ideology = ideology:ideology_anarchist
 		}
 		ig:ig_rural_folk = {
 			save_scope_as = farmer_ig

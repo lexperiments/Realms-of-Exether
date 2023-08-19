@@ -2120,7 +2120,7 @@
                             exists = scope:character
                             scope:character = {
                                 OR = {
-                                    culture = cu:qinaat
+                                    culture = cu:qinnaat
                                     culture = cu:azmaraan
                                 }
                             }
