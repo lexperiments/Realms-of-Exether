@@ -297,7 +297,7 @@ ZIL = {
 	tier = principality
 
 	cultures = { glabrekthorn } 
-	capital = STATE_VÄVULAN
+	capital = STATE_VAVULAN
 }
 
 #Krovador
@@ -309,7 +309,7 @@ KRO = {
 	tier = principality
 
 	cultures = { glabrekthorn } 
-	capital = STATE_FIKÖLIK
+	capital = STATE_FIKOLIK
 }
 
 #Renalpia
@@ -345,7 +345,7 @@ PVA = {
 	tier = principality
 
 	cultures = { lumvareth } 
-	capital = STATE_KANOBÄN
+	capital = STATE_KANOBAN
 }
 
 #Wolkara
@@ -357,7 +357,7 @@ WRA = {
 	tier = principality
 
 	cultures = { glabrekthorn } 
-	capital = STATE_LIPOLÄN
+	capital = STATE_LIPOLAN
 }
 
 #Xalutia
@@ -369,7 +369,7 @@ XAL = {
 	tier = principality
 
 	cultures = { glabrekthorn } 
-	capital = STATE_ZEDALÄN
+	capital = STATE_ZEDALAN
 }
 
 #Lumanta
@@ -381,7 +381,7 @@ LTA = {
 	tier = principality
 
 	cultures = { lumvareth } 
-	capital = STATE_BIFÄN
+	capital = STATE_BIFAN
 }
 
 #Mornalia
@@ -405,7 +405,7 @@ IRA = {
 	tier = principality
 
 	cultures = { lumvareth } 
-	capital = STATE_ZÄLULIK
+	capital = STATE_ZALULIK
 }
 
 #Sternenwacht

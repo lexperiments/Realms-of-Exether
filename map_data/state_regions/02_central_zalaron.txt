@@ -911,7 +911,7 @@ STATE_STELINSULO = {
     port = xF8B55C
 
 }
-STATE_NOVAĴLANDIO = {
+STATE_NOVAJLANDIO = {
     id = 4302
     subsistence_building = "building_subsistence_fishing_villages"
     provinces = { "x33F5E1" "xC071C8" "xE88CBD" "xEAEA54" "xFE5ADA" }
@@ -977,7 +977,7 @@ STATE_HERBEJO = {
     port = xFA51DD
 
 }
-STATE_TEROĈARO = {
+STATE_TEROCARO = {
     id = 4308
     subsistence_building = "building_subsistence_farms"
     provinces = { "x5DDCFE" "x6FF2C6" "xABFBBE" "xAE9CB2" "xBDD697" "xBFB9C8" "xD97DC3" "xDABEE6" "xE1BEF1" "xE3DD9C" "xF4C0E6" "xF6E7E9" }
@@ -999,7 +999,7 @@ STATE_KASKADVIVO = {
     port = xE5DB44
 
 }
-STATE_RUĜAKAMPO = {
+STATE_RUGAKAMPO = {
     id = 4310
     subsistence_building = "building_subsistence_farms"
     provinces = { "x37D5F6" "x5BF0F9" "x73E3C5" "x9C7AF0" "xD695D7" "xE8D0B0" "xF0E5F6" }
@@ -1043,7 +1043,7 @@ STATE_BLUMETO = {
     port = xA5A5C9
 
 }
-STATE_STELALTAĴO = {
+STATE_STELALTAJO = {
     id = 4314
     subsistence_building = "building_subsistence_fishing_villages"
     provinces = { "x9DB5E9" "xAADED4" "xB8D9DD" "xCCC8C2" "xEF5CAE" "xF470BC" "xFAAEC5" }
@@ -1087,7 +1087,7 @@ STATE_VESPERVIDO = {
     port = xEAACDE
 
 }
-STATE_SANKTARAĜO = {
+STATE_SANKTARAGO = {
     id = 4318
     subsistence_building = "building_subsistence_farms"
     provinces = { "x8AF2AF" "xB2CCFA" "xB7DB84" "xD0FDF7" "xEBD9E9" "xEFD15E" "xF6E351" }
@@ -1109,7 +1109,7 @@ STATE_TRANKVILEJO = {
     port = xC977DD
 
 }
-STATE_SONĜBIENO = {
+STATE_SONGBIENO = {
     id = 4320
     subsistence_building = "building_subsistence_farms"
     provinces = { "x6AFBEE" "x92EECC" "xD3B1F6" "xE84DD4" "xEBFA6B" "xF091FD" "xFE47B6" }
@@ -1131,7 +1131,7 @@ STATE_LAGOEKRANO = {
     port = xB08FFA
 
 }
-STATE_FELIĈGRUNDO = {
+STATE_FELICGRUNDO = {
     id = 4322
     subsistence_building = "building_subsistence_farms"
     provinces = { "x87C4B5" "xB3C191" "xC39ACF" "xC951F2" "xD052E0" "xE1CD71" "xE3938F" "xEB54C3" }
@@ -1142,7 +1142,7 @@ STATE_FELIĈGRUNDO = {
     port = xD052E0
 
 }
-STATE_RADIANTAĴO = {
+STATE_RADIANTAJO = {
     id = 4323
     subsistence_building = "building_subsistence_farms"
     provinces = { "x2CF9E3" "x38F3F8" "x77F8EE" "xA4DDEE" "xB1F6D0" "xD0E18D" "xE0FD44" "xE9F567" "xECC4F2" "xF6D5B9" }
@@ -1153,7 +1153,7 @@ STATE_RADIANTAĴO = {
     port = xB1F6D0
 
 }
-STATE_NOVAĴEGO = {
+STATE_NOVAJEGO = {
     id = 4324
     subsistence_building = "building_subsistence_farms"
     provinces = { "x58EBD3" "x87F0C3" "x91A7BD" "x9DF5DC" "x9EE18A" "xAED19B" "xAFE6D2" "xCEE460" "xE5B2CA" "xEBF77C" }
@@ -1186,7 +1186,7 @@ STATE_KOTIK = {
     port = xA665F0
 
 }
-STATE_BIFÄN = {
+STATE_BIFAN = {
     id = 4327
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x4EE6E7" "x6FCDEB" "xA3C29F" "xA3EE8B" "xAFAAF8" "xBFE6D2" "xC15EE1" "xC73DF9" "xDCEE5C" "xDE63B5" "xDFF450" "xE1AF6C" "xE1BBDA" "xE36CDD" "xEDED78" "xF55CAF" "xF8EA40" }
@@ -1197,7 +1197,7 @@ STATE_BIFÄN = {
     port = xAFAAF8
 
 }
-STATE_FOBÄN = {
+STATE_FOBAN = {
     id = 4328
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x33FCFB" "x37DBF1" "x70D9FB" "x8DC7ED" "x92DB9E" "x95B6D8" "xA4D9A0" "xC8FC97" "xCA47FB" "xCBFC4E" "xCEC1A9" "xD573DA" "xDCCF7F" "xDDF39C" "xE76EE3" "xE7DCAF" "xE88BAF" "xECDEE5" "xED58D8" "xF363BF" "xF5C9BA" "xF79E95" }
@@ -1208,7 +1208,7 @@ STATE_FOBÄN = {
     port = x92DB9E
 
 }
-STATE_LIPOLÄN = {
+STATE_LIPOLAN = {
     id = 4329
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x68BDD9" "x88B3F6" "xABEFD9" "xAE75E1" "xB685FE" "xB9CC8A" "xCEE04F" "xD67CF7" "xDABCB5" "xEB68C3" "xF492B0" "xF946B7" "xF9FD58" }
@@ -1219,7 +1219,7 @@ STATE_LIPOLÄN = {
     port = xB685FE
 
 }
-STATE_ZIKÄN = {
+STATE_ZIKAN = {
     id = 4330
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x5CFBE4" "x6EF4F7" "x81E7FC" "x82BDCE" "x9DD1A4" "xAFC5A4" "xB77AD1" "xC368DB" "xCBEBF6" "xD36FDA" "xDADDE6" "xDBC5F0" "xDC9DC0" "xFB92FA" }
@@ -1230,7 +1230,7 @@ STATE_ZIKÄN = {
     port = x9DD1A4
 
 }
-STATE_XODÄN = {
+STATE_XODAN = {
     id = 4331
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x78CBD5" "x9DE5D0" "xBC65F7" "xC0D46B" "xCEC1EC" "xD2D797" "xD8BCC5" "xE1F1B5" "xE479B1" "xF2F6E2" }
@@ -1241,7 +1241,7 @@ STATE_XODÄN = {
     port = xCEC1EC
 
 }
-STATE_ZÄLULIK = {
+STATE_ZALULIK = {
     id = 4332
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x76B3D9" "x94C7CF" "xBACDEB" "xCBF140" "xD16DED" "xDEB1F5" "xDEF654" "xE02EFD" "xE394AC" "xF29FB2" "xF833FE" }
@@ -1263,7 +1263,7 @@ STATE_DIFOBIK = {
     port = xE5E86C
 
 }
-STATE_NÄN = {
+STATE_NAN = {
     id = 4334
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x24E6F5" "x59DDBF" "x97D5C1" "xB195D1" "xBAD5DB" "xBAEB61" "xC4CC9F" "xC5E3D4" "xCAD4F2" "xDAD0EA" "xE537DF" "xF5CB55" "xF61BF1" "xF7FEEF" "xFCC277" }
@@ -1274,7 +1274,7 @@ STATE_NÄN = {
     port = xBAD5DB
 
 }
-STATE_FIKÖLIK = {
+STATE_FIKOLIK = {
     id = 4335
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x4EC0F0" "x5AEBEA" "x64F49E" "x75C8B9" "x88E9D2" "xA0EBC4" "xC7DBF8" "xCF7FF6" "xDCF8AE" "xE4B8AA" "xED3EF4" "xFB63B6" "xFC74B7" }
@@ -1285,7 +1285,7 @@ STATE_FIKÖLIK = {
     port = x88E9D2
 
 }
-STATE_VOTILÄN = {
+STATE_VOTILAN = {
     id = 4336
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x2AF7FD" "x82D2C4" "x8597DF" "x85C3E1" "xC8E8DC" "xDDB798" "xE64AED" "xF3FDBD" "xF4F795" "xF6E26D" "xFA27FD" "xFD986A" }
@@ -1296,7 +1296,7 @@ STATE_VOTILÄN = {
     port = xC8E8DC
 
 }
-STATE_ZALÄNIX = {
+STATE_ZALANIX = {
     id = 4337
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x86E0CD" "x8EFB6E" "xBD85D0" "xD4D6A9" "xE4C870" "xE522FC" "xE89399" "xF1CABC" "xF3EF7E" "xFBB7DB" "xFDB7BC" }
@@ -1307,7 +1307,7 @@ STATE_ZALÄNIX = {
     port = xE4C870
 
 }
-STATE_BÄNOKIK = {
+STATE_BANOKIK = {
     id = 4338
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x789EF4" "x7CF4DD" "x9EEFF4" "xA486D1" "xAED2EC" "xB18CB9" "xB8C2D2" "xC973EF" "xCB7EB1" "xCD6BC7" "xCEAAA6" "xD248F4" "xE55EFD" "xEA4CDD" "xECDC92" "xFE86FC" }
@@ -1318,7 +1318,7 @@ STATE_BÄNOKIK = {
     port = xAED2EC
 
 }
-STATE_KULIKÄN = {
+STATE_KULIKAN = {
     id = 4339
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x34F5EA" "x7B9BE7" "x89AEBE" "x91B1E2" "x9CDCF3" "xA3CEC1" "xA787CE" "xB8E8D2" "xCD93A9" "xDFDE58" "xEFB788" }
@@ -1329,7 +1329,7 @@ STATE_KULIKÄN = {
     port = x9CDCF3
 
 }
-STATE_PÖFIKÄN = {
+STATE_POFIKAN = {
     id = 4340
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x28FCFC" "x8ADABF" "x9B7EE9" "xA1FEAF" "xA5A4BE" "xA6A5AC" "xB3AED8" "xC2FAB0" "xCF59DC" "xD9E6DF" "xDBEB91" "xEECDB6" "xF1AEC6" "xFC67D3" }
@@ -1351,7 +1351,7 @@ STATE_NOLIPIK = {
     port = x81CDD8
 
 }
-STATE_VÄVULÄN = {
+STATE_VAVULAN = {
     id = 4342
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x4CD1DB" "x65EAB8" "x83D2EB" "x848DE7" "x8CE9B9" "xA5B8DB" "xBEDA7E" "xC9EB90" "xCA54EB" "xCEE26B" "xE6E390" "xE992AB" "xEBC34A" "xF6CB6B" }
@@ -1362,7 +1362,7 @@ STATE_VÄVULÄN = {
     port = x8CE9B9
 
 }
-STATE_KANOBÄN = {
+STATE_KANOBAN = {
     id = 4343
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x37DBF4" "x4FDDCF" "x72F8AD" "x9C9BFA" "xA1F0E7" "xAAE0E7" "xAB96F1" "xACFDE4" "xDAFBD4" "xE2F975" "xF0A3DD" "xF7F0D0" "xFAEBF3" "xFD4EF8" }
@@ -1373,7 +1373,7 @@ STATE_KANOBÄN = {
     port = xA1F0E7
 
 }
-STATE_ZEDALÄN = {
+STATE_ZEDALAN = {
     id = 4344
     subsistence_building = "building_subsistence_orchards"
     provinces = { "x1CE3F8" "x26FEDC" "x43DBE8" "x8ABFD9" "x98FBF4" "x9BEE86" "xB4BE92" "xBAE4B7" "xD9D853" "xE6F81A" "xEBB583" "xEBBF6D" "xF185ED" "xF1D888" "xF5D4C4" "xF5DA78" "xF869D6" "xFDE8B9" }
