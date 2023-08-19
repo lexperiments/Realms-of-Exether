@@ -1,5 +1,7 @@
-﻿l_english: ammunition:0 "Ammunition"
-  small_arms:0 "Wands"
+﻿l_english:
+  #
+  ammunition:0 "Ammunition"
+  small_arms:0 "Small Arms"
   radios:0 "Radios"
   tanks:0 "Tanks"
   artillery:0 "Artillery"

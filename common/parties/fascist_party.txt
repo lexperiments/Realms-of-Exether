@@ -32,8 +32,8 @@
 			limit = {
 				leader = {
 					OR = {
-						has_ideology = ideology_fascist
-						has_ideology = ideology_ethno_nationalist
+						has_ideology = ideology:ideology_fascist
+						has_ideology = ideology:ideology_ethno_nationalist
 					}
 				}
 			}
@@ -46,7 +46,7 @@
 			limit = {
 				is_powerful = yes
 				leader = {
-					has_ideology = ideology_fascist
+					has_ideology = ideology:ideology_fascist
 				}
 			}
 			add = {
@@ -56,7 +56,7 @@
 		}
 		if = { # fascism is a reactionary ideology
 			limit = {
-				has_ideology = ideology_reactionary
+				has_ideology = ideology:ideology_reactionary
 			}
 			add = {
 				value = 5
@@ -77,7 +77,7 @@
 					any_interest_group = {
 						is_powerful = yes
 						leader = {
-							has_ideology = ideology_fascist
+							has_ideology = ideology:ideology_fascist
 						}
 					}
 				}
@@ -91,11 +91,11 @@
 			limit = {
 				leader = {
 					OR = {
-						has_ideology = ideology_atheist
-						has_ideology = ideology_feminist
-						has_ideology = ideology_reformer
-						has_ideology = ideology_abolitionist
-						has_ideology = ideology_pacifist
+						has_ideology = ideology:ideology_atheist
+						has_ideology = ideology:ideology_feminist
+						has_ideology = ideology:ideology_reformer
+						has_ideology = ideology:ideology_abolitionist
+						has_ideology = ideology:ideology_pacifist
 					}	
 				}
 			}
@@ -116,7 +116,7 @@
 		if = { # free trade advocates don't love protectionism
 			limit = {
 				leader = {
-					has_ideology = ideology_market_liberal
+					has_ideology = ideology:ideology_market_liberal
 				}
 			}
 			add = {
@@ -127,7 +127,7 @@
 		if = { # moderates are scared of radical politics
 			limit = {
 				leader = {
-					has_ideology = ideology_moderate
+					has_ideology = ideology:ideology_moderate
 				}
 			}
 			add = {
@@ -137,7 +137,7 @@
 		}
 		if = { # patriots are inclined towards fascism
 			limit = {
-				has_ideology = ideology_patriotic
+				has_ideology = ideology:ideology_patriotic
 			}
 			add = {
 				value = 4
@@ -146,7 +146,7 @@
 		}
 		if = { # rural folk will ally with anti-migration faction
 			limit = {
-				has_ideology = ideology_isolationist
+				has_ideology = ideology:ideology_isolationist
 				owner = {
 					has_law = law_type:law_no_migration_controls
 				}
@@ -160,7 +160,7 @@
 			limit = {
 				OR = {
 					has_paternalist_ideology = yes
-					has_ideology = ideology_patriotic
+					has_ideology = ideology:ideology_patriotic
 				}
 				owner = {
 					has_technology_researched = law_enforcement
@@ -175,13 +175,13 @@
 		if = { # opposition to peasant levies
 			limit = {
 				OR = {
-					has_ideology = ideology_jingoist
-					has_ideology = ideology_particularist
-					has_ideology = ideology_sikh_moralist
+					has_ideology = ideology:ideology_jingoist
+					has_ideology = ideology:ideology_particularist
+					has_ideology = ideology:ideology_sikh_moralist
 					leader = {
 						OR = {
-							has_ideology = ideology_fascist
-							has_ideology = ideology_jingoist_leader
+							has_ideology = ideology:ideology_fascist
+							has_ideology = ideology:ideology_jingoist_leader
 						}
 					}
 				}
@@ -197,9 +197,9 @@
 		if = { # loyalist-meritocratic alliance for tax reform
 			limit = {
 				OR = {
-					has_ideology = ideology_meritocratic
+					has_ideology = ideology:ideology_meritocratic
 					AND = {
-						has_ideology = ideology_loyalist
+						has_ideology = ideology:ideology_loyalist
 						owner = {
 							NOT = { has_law = law_type:law_graduated_taxation }
 						}

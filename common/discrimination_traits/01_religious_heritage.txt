@@ -8,3 +8,6 @@ human = {
 
 uriks_pantheon={
 }
+
+orc_religion={
+}

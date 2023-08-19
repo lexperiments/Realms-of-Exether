@@ -62,3 +62,7 @@ lizardfolk_heritage={
 	heritage = yes
 }
 
+namkhazen_heritage={
+	heritage = yes
+}
+

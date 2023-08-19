@@ -130,7 +130,7 @@
 dumonian={
 	color={ 72 79 127 }
 	religion = church_of_man
-	traits = { anglophone human_heritage }
+	traits = {  human_heritage }
 	
 	male_common_first_names = {
 		Alexander Alasdair Archibald Andrew Angus Asher Auckland Arthur Aeneas Adam Alan
@@ -341,7 +341,7 @@ avalorean={
 vairian = {
 	color= hsv{ 0.52 0.51 0.75 }
 	religion = cult_of_the_sea
-	traits = { iberian_culture_group lusophone european_heritage }
+	traits = { iberian_culture_group lusophone human_heritage }
 	male_common_first_names={
 		Abel
 		Adriano
@@ -763,7 +763,7 @@ lake_thalorian = {
 ocelian = {
 	color= rgb{ 164 193 223 }
 	religion = church_of_man
-	traits = { francophone european_heritage }
+	traits = {  human_heritage }
 
 	# the best wine is from Occitania, of course.
 	obsessions = {
@@ -938,120 +938,12 @@ qinnaat={
 	graphics = asian
 }
 
-nightwalker = {
-	color={ 30 30 40 }
-	religion = marktarian
-	traits = { khussite_culture_group monstrous_heritage }
-	male_common_first_names={
-		Ablai
-		Abu_al-Khayr
-		Aryn
-		Baitursyn
-		Bukei
-		Chokan
-		Dulat
-		Ibirai
-		Isatai
-		Ishim
-		Jangir
-		Kenisary
-		Mashur
-		Murat
-		Nur_Ali
-		Qayip
-		Sadyk
-		Sarzhan
-		Sirim
-		Tenek
-		Tolshan
-		Vali
-	}
-	female_common_first_names = {
-		Aisha
-		Balzhan
-		Bayan
-		Demesh
-		Gulshat
-		Samal
-	}	
-	noble_last_names = {
-		Bukeikhanov
-		Beg
-		Khan
-	}
-	common_last_names={
-		Baitursynov
-		Dulatuli
-		Konanbai_uli
-		Kutebar_uli
-		Qasim_uli
-		Shoshak-ula
-	}
-	ethnicities = {
-		1 = central_asian
-	}
-	graphics = asian
-}
 
-wastecrawler = {
-	color={ 80 70 40 }
-	religion = marktarian
-	traits = { khussite_culture_group monstrous_heritage }
-	male_common_first_names={
-		Ablai
-		Abu_al-Khayr
-		Aryn
-		Baitursyn
-		Bukei
-		Chokan
-		Dulat
-		Ibirai
-		Isatai
-		Ishim
-		Jangir
-		Kenisary
-		Mashur
-		Murat
-		Nur_Ali
-		Qayip
-		Sadyk
-		Sarzhan
-		Sirim
-		Tenek
-		Tolshan
-		Vali
-	}
-	female_common_first_names = {
-		Aisha
-		Balzhan
-		Bayan
-		Demesh
-		Gulshat
-		Samal
-	}	
-	noble_last_names = {
-		Bukeikhanov
-		Beg
-		Khan
-	}
-	common_last_names={
-		Baitursynov
-		Dulatuli
-		Konanbai_uli
-		Kutebar_uli
-		Qasim_uli
-		Shoshak-ula
-	}
-	ethnicities = {
-		1 = central_asian
-	}
-	graphics = asian
-}
 
 thiralian={
 	color= hsv{ 0.62 0.54 0.72 }
 	religion = catholic
-	traits = { francophone human_heritage }
+	traits = {  human_heritage }
 	male_common_first_names={
 		Amos Anatole Aaron Augustin Achille
         Baptiste Bernard Bolivar Blaise Baudouin Branford Barnabe Benjamin
@@ -1136,7 +1028,7 @@ thiralian={
 anwarthi = {
 	color= rgb{ 62 86 55 }
 	religion = mortals_burden
-	traits = { caucasus_group human_heritage }
+	traits = {  human_heritage }
 
 	male_common_first_names = {
 		Aidamir
@@ -1250,7 +1142,7 @@ anwarthi = {
 zakonish={
 	color= hsv{ 0.63 0.17 0.5 }
 	religion = cult_of_war
-	traits = { west_slavic european_heritage }
+	traits = {  human_heritage }
 	male_common_first_names={
 		Arnost
 		Alojs
@@ -1378,7 +1270,7 @@ glethach={
 meriwyn={
 	color= hsv{ 0.61 0.50 0.68 }
 	religion = protestant
-	traits = { anglophone human_heritage }
+	traits = {  human_heritage }
 	male_common_first_names={
 		Adrian
 		Alf
@@ -1596,7 +1488,7 @@ kusichaki={
 morastlinge={
 	color= rgb{ 102 178 255 }
 	religion = church_of_man
-	traits = { german_speaking human_heritage }
+	traits = {  human_heritage }
 	male_common_first_names={
 		Adelbert
 		Adolf

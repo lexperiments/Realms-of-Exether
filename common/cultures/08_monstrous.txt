@@ -154,3 +154,113 @@ jungle_naga={
 	}
 	graphics = asian
 }
+
+nightwalker = {
+	color={ 30 30 40 }
+	religion = marktarian
+	traits = { khussite_culture_group monstrous_heritage }
+	male_common_first_names={
+		Ablai
+		Abu_al-Khayr
+		Aryn
+		Baitursyn
+		Bukei
+		Chokan
+		Dulat
+		Ibirai
+		Isatai
+		Ishim
+		Jangir
+		Kenisary
+		Mashur
+		Murat
+		Nur_Ali
+		Qayip
+		Sadyk
+		Sarzhan
+		Sirim
+		Tenek
+		Tolshan
+		Vali
+	}
+	female_common_first_names = {
+		Aisha
+		Balzhan
+		Bayan
+		Demesh
+		Gulshat
+		Samal
+	}	
+	noble_last_names = {
+		Bukeikhanov
+		Beg
+		Khan
+	}
+	common_last_names={
+		Baitursynov
+		Dulatuli
+		Konanbai_uli
+		Kutebar_uli
+		Qasim_uli
+		Shoshak-ula
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
+}
+
+wastecrawler = {
+	color={ 80 70 40 }
+	religion = marktarian
+	traits = { khussite_culture_group monstrous_heritage }
+	male_common_first_names={
+		Ablai
+		Abu_al-Khayr
+		Aryn
+		Baitursyn
+		Bukei
+		Chokan
+		Dulat
+		Ibirai
+		Isatai
+		Ishim
+		Jangir
+		Kenisary
+		Mashur
+		Murat
+		Nur_Ali
+		Qayip
+		Sadyk
+		Sarzhan
+		Sirim
+		Tenek
+		Tolshan
+		Vali
+	}
+	female_common_first_names = {
+		Aisha
+		Balzhan
+		Bayan
+		Demesh
+		Gulshat
+		Samal
+	}	
+	noble_last_names = {
+		Bukeikhanov
+		Beg
+		Khan
+	}
+	common_last_names={
+		Baitursynov
+		Dulatuli
+		Konanbai_uli
+		Kutebar_uli
+		Qasim_uli
+		Shoshak-ula
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
+}

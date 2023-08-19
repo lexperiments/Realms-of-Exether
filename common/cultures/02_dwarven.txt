@@ -49,7 +49,7 @@
 duneshar={
 	color= hsv{ 0.29 0.22 0.51 }
 	religion = dwarf_pantheon
-	traits = { southeast_asian_heritage malay_culture }
+	traits = { dwarf_heritage }
 	male_common_first_names={
 		Denny
 		Dominggus
@@ -86,6 +86,50 @@ duneshar={
 	}
 	graphics = asian
 }
+
+#Lithorin
+lithorin={
+	color= hsv{ 0.29 0.22 0.51 }
+	religion = dwarf_pantheon
+	traits = { dwarf_heritage }
+	male_common_first_names={
+		Denny
+		Dominggus
+		Edinho
+		Ellyas
+		Ignacio
+		Jordao
+		Jos
+		Levi
+		Michael
+		Sonny
+	}
+	female_common_first_names = {
+		Bellaetrix 
+		Fatimah
+	}	
+	noble_last_names = {
+		Kolano
+		Sjah
+	}
+	common_last_names={
+		Bouma
+		Hafiedz
+		Leiwakabessy
+		Lilipaly
+		Mainaky
+		Palyama
+		Pattinama
+		Pelmelay
+		Weisapy
+	}
+	ethnicities = {
+		1 = asian
+	}
+	graphics = asian
+}
+
+
 
 starwoken={
 	color= hsv{ 0.04 0.54 0.86 }

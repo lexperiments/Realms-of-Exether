@@ -1,0 +1,109 @@
+color_lists = {
+	normal_colors = {
+		100 = "red"
+		100 = "blue"
+		20 = "black"
+		1 = "green"
+		1 = "blue_light"
+		1 = "orange"
+		1 = "purple"
+
+	}
+
+	metal_colors = {
+		5 = "white"
+		1 = "yellow"
+		
+
+	}
+
+	country_color_list = {
+		special_selection = {
+			trigger = {
+				exists = scope:target
+				scope:target = {
+					OR = {
+						ig:ig_trade_unions = {
+							is_in_government = yes
+						}
+						any_interest_group = {
+							is_in_government = yes
+							has_ideology = ideology:ideology_proletarian
+						}
+					}
+				}
+			}
+
+			1000 = "red"
+		}
+
+		special_selection = {
+			trigger = {
+				exists = scope:target
+				scope:target = {
+					OR = {
+						ig:ig_armed_forces = {
+							is_in_government = yes
+						}
+						ig:ig_landowners = {
+							is_in_government = yes
+						}
+						any_interest_group = {
+							is_in_government = yes
+							OR = {
+								has_ideology = ideology:ideology_paternalistic
+								has_ideology = ideology:ideology_jingoist
+								has_ideology = ideology:ideology_reactionary
+							}
+						}
+					}
+				}
+			}
+
+			1000 = "black"
+			300 = "blue"
+		}
+
+		1 = "green"
+		1 = "blue_light"
+		1 = "orange"
+		1 = "purple"
+	}
+
+	com_normal_colors = {
+	# Normal colours excluding Red for communist templates
+		100 = "blue"
+		20 = "black"
+		20 = "green"
+		20 = "blue_light"
+	}
+	com_red_opposites = {
+	# Colours opposites of Red for communist templates
+		10 = "white"
+		10 = "yellow"
+		20 = "green"
+		20 = "blue_light"
+				
+	}	
+	fascist_normal_bg_colors = {
+	# Normal bg colours for fascist flags
+		100 = "red"	
+		50 = "blue"
+		25 = "green"
+		25 = "blue_light"
+		5 = "orange"
+		5 = "brown_light"
+	}	
+	fascist_normal_charge_colors = {
+	# Fascist charge, black is the most common pick
+		250 = "black"	
+		50 = "red"	
+		50 = "blue"
+		25 = "green"
+	}	
+	fascist_metal_colors = {
+	# Allows some diversity by picking gold sometimes
+		90 = "white"
+		10 = "yellow"
+	}	
+}

@@ -5,5 +5,11 @@
 
 #####################
 
-tunnel_cursed= {
+tunnel_cursed={
+}
+
+southern_elf={
+}
+
+naga={
 }
