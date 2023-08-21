@@ -46,7 +46,7 @@
 }
 
 #Githyanki
-chumake = {
+qadimra = {
 	color= rgb{ 132 121 86 }
 	religion = gelugpa
 	
@@ -54,7 +54,7 @@ chumake = {
 		tea
 	}
 	
-	traits = { tibetan_language himalayan east_asian_heritage }
+	traits = { namkhazen_heritage }
 	male_common_first_names={
 		Andruk
 		Chamba
@@ -95,71 +95,10 @@ chumake = {
 	graphics = asian
 }
 
-qadimra={
-	color= hsv{ 0.01 0.46 0.59 }
-	religion = sunni
-	traits = { iranian_turanian_culture_group central_asian_heritage }
-	male_common_first_names={
-		Abd_al-Ahad
-		Abd_al-Karim
-		Abu_al-Ghazi
-		Abulfayz
-		Alimqul
-		Allah_Quli
-		Aqim
-		Haydar
-		Husayn
-		Iltazar
-		Isfandiyar
-		Jahangir
-		Khudayar
-		Madali
-		Mahmud
-		Muhammad
-		Murad
-		Nasir_al-Din
-		Nasrallah
-		Nurali
-		Pulad
-		Qilich
-		Qutlugh
-		Rahim
-		Shir
-		Umar
-		Yadigar
-		Yaqub
-	}
-	female_common_first_names = {
-		Halima
-		Irina
-		Mohlaroyim
-		Nargiz
-		Nazokat
-		Nilufar
-		Tursunoy
-		Yulduz
-		Zilola
-	}	
-	noble_last_names = {
-		Kokand
-		Bahadur
-		Khan
-	}
-	common_last_names={
-		Bahadur
-		Bukhari
-		Gulkhani
-	}
-	ethnicities = {
-		1 = central_asian
-	}
-	graphics = asian
-}
-
-aborigine={ #Gitzerai
+navrozdok = { #Gitzerai
 	color= hsv{ 0.08 0.28 0.61 }
 	religion = animist
-	traits = { indigenous_oceanic_heritage aboriginal_australian }
+	traits = { namkhazen_heritage }
 	male_common_first_names={
 		Bennelong
 		Billibellary

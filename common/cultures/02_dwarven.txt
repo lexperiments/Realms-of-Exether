@@ -1,7 +1,7 @@
 ﻿arcthar={
 	color={ 255 178 102 }
 	religion = dwarven_dark_magic
-	traits = { dwarf_heritage vault_cursed }
+	traits = { dwarf_heritage tunnel_cursed }
 	male_common_first_names = {
 		Wayan
 		Made
@@ -129,12 +129,10 @@ lithorin={
 	graphics = asian
 }
 
-
-
 starwoken={
 	color= hsv{ 0.04 0.54 0.86 }
 	religion = dwarven_dark_magic
-	traits = { khmer_language dwarf_heritage }
+	traits = { dwarf_heritage tunnel_cursed}
 	male_common_first_names={
 		Ang
 		Norodom
@@ -227,7 +225,7 @@ vozi={
 koshiri={
 	color= hsv{ 0 0 0.5 }
 	religion = dwarf_pantheon
-	traits = { ainu_language dwarf_heritage }
+	traits = { dwarf_heritage }
 	male_common_first_names={
 		Akihi
 		Apniainu

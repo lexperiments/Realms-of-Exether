@@ -1,7 +1,7 @@
 ﻿hag = { # Ute and Shoshone
 	color= hsv{ 0.06 0.39 0.80 }
 	religion = animist
-	traits = { monstrous_heritage north_american_group }
+	traits = { monstrous_heritage }
 	male_common_first_names={
 		Antonga
 		Arapeen

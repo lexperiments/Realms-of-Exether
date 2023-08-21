@@ -3,7 +3,7 @@
 khanaruk = {
 	color= rgb{ 74 125 155 }
 	religion = hobgoblin_pantheon
-	traits = { goblin_heritage mongol_language }
+	traits = { goblin_heritage }
 	male_common_first_names={
 		Badamdorj
 		Balingiin
@@ -348,7 +348,7 @@ xhurlob = {
 shkemger = {
 	color= hsv{ 0.40 0.30 0.14 }
 	religion = goblin_pantheon
-	traits = { albanian_language goblin_heritage }
+	traits = { goblin_heritage }
 	male_common_first_names={
 		Ahmet
 		Ali
@@ -492,7 +492,7 @@ shkemger = {
 rethrashar = {
 	color= hsv{ 0.10 0.30 0.44 }
 	religion = goblin_pantheon
-	traits = { albanian_language goblin_heritage }
+	traits = { goblin_heritage }
 	male_common_first_names={
 		Ahmet
 		Ali
