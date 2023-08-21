@@ -459,7 +459,7 @@ s:STATE_GIPUZK = {
 add_homeland = kotskarvi
 }
 
-s:STATE_BIHAR = {
+s:STATE_TIHAR = {
 	create_state = {
 		country = c:KHE
 		owned_provinces = { "x95ABB8" "x9CEF88" "x9DBDEA" "xA7BDB0" "xB6CBBC" "xCDF75E" "xCE90C8" "xCF94F6" "xD1EE7E" "xD9F457" "xFAC94F" }

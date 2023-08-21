@@ -636,7 +636,7 @@ STATE_GIPUZK = {
     port = xAB73EA
 
 }
-STATE_BIHAR = {
+STATE_TIHAR = {
     id = 4680
     subsistence_building = "building_subsistence_farms"
     provinces = { "x95ABB8" "x9CEF88" "x9DBDEA" "xA7BDB0" "xB6CBBC" "xCDF75E" "xCE90C8" "xCF94F6" "xD1EE7E" "xD9F457" "xFAC94F" }

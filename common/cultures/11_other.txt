@@ -1,7 +1,7 @@
 ﻿jazamandroso = {
 	color= hsv{ 0.35 0.26 0.64 }
 	religion = animist
-	traits = { malagasy_language hellborn_heritage }
+	traits = { hellborn_heritage }
 	male_common_first_names={
 		Andriamanely
 		Andriantsirotso
@@ -47,7 +47,7 @@
 
 qadimra = {
 	color= rgb{ 132 121 86 }
-	religion = gelugpa
+	religion = opened_eye
 	
 	obsessions = {
 		tea
@@ -96,7 +96,7 @@ qadimra = {
 
 navrozdok = {
 	color= hsv{ 0.08 0.28 0.61 }
-	religion = animist
+	religion = opened_eye
 	traits = { namkhazen_heritage }
 	male_common_first_names={
 		Bennelong
@@ -252,7 +252,7 @@ yachaymanchi = {
 vandori={
 	color= hsv{ 0.17 0.41 0.34 }
 	religion = astral_path
-	traits = { korean_language vandori_heritage }
+	traits = { vandori_heritage }
 	male_common_first_names={
 		Bak Bong-haek
 		Chwa-chin
@@ -336,7 +336,7 @@ vandori={
 lacertian={
 	color= hsv{ 0.50 0.36 0.80 }
 	religion = animist
-	traits = { east_african_culture_group lizardfolk_heritage }
+	traits = { lizardfolk_heritage }
 	male_common_first_names={
 		Chol
 		Dei
@@ -381,8 +381,8 @@ lacertian={
 
 onikoku={
 	color= hsv{ 289 50 68 }
-	religion = confucian
-	traits = { ryukyan_language east_asian_heritage }
+	religion = animist
+	traits = { ogre_heritage }
 	male_common_first_names={
 		Aritomo
 		Gentaro

@@ -254,3 +254,25 @@ dragonbone_worship = {
 	}
 	color = { 0.9 0.2 0.2 }
 }
+
+opened_eye = {
+	texture = "gfx/interface/icons/religion_icons/shiite.dds"
+	traits = {
+		human
+	}
+	color = { 0.4 0.7 0.3 }
+	
+	taboos = {
+	}
+}
+
+halfling_pantheon = {
+	texture = "gfx/interface/icons/religion_icons/shiite.dds"
+	traits = {
+		human
+	}
+	color = { 0.4 0.7 0.3 }
+	
+	taboos = {
+	}
+}

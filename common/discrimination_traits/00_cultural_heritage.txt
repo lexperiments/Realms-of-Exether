@@ -66,3 +66,7 @@ namkhazen_heritage={
 	heritage = yes
 }
 
+ogre_heritage={
+	heritage = yes
+}
+

@@ -175,7 +175,7 @@ starwoken={
 vozi={
 	color= hsv{ 0.33 0.10 0.74 }
 	religion = dwarf_pantheon
-	traits = { dwarf_heritage malay_culture }
+	traits = { dwarf_heritage }
 	male_common_first_names={
 		Kiras
 		Nerus

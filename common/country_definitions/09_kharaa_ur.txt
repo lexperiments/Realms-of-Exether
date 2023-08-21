@@ -22,3 +22,27 @@ QON = {
 	capital = STATE_KYRTHOR
 }
 
+#Yokudai
+YOK = {
+	color = rgb{ 80 125 72 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { onikoku } 
+	capital = STATE_HIRAKHANJO
+}
+
+#Temarash
+TEM = {
+	color = rgb{ 80 125 72 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { batukai } 
+	capital = STATE_NISHIGUCHI
+}
+

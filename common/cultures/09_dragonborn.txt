@@ -114,7 +114,7 @@
 
 lusakaran={
 	color= hsv{ 0.15 0.55 0.52 }
-	religion = oriental_orthodox
+	religion = draconic_oath
 	traits = { dragonborn_culture_group dragon_heritage }
 	male_common_first_names={
 		Alexander

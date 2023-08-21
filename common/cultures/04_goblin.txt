@@ -55,6 +55,61 @@ khanaruk = {
 	graphics = asian
 }
 
+batukai = {
+	color= rgb{ 74 125 155 }
+	religion = hobgoblin_pantheon
+	traits = { goblin_heritage }
+	male_common_first_names={
+		Badamdorj
+		Balingiin
+		Batbayar
+		Baterdene
+		Chingis
+		Dambyan
+		Damdin
+		Dogsomyn
+		Gonchigjalzangiin
+		Gonchigtseren
+		Injinash
+		Khorloogiin
+		Kubilai
+		Otgonbayar
+		Peljidiin
+		Sodnomyn
+	}
+	female_common_first_names = {
+		Bayartsetseg
+		Dondogdulam
+		Ider
+		Khajidsuren
+		Oyuungerel
+		Sonomyn
+		Tuyaa
+	}	
+	noble_last_names = {
+		Gonchigjalzangiin
+		Togs-Ochiryn
+	}
+	common_last_names={
+		Amar
+		Bodoo
+		Chagdarjav
+		Choibalsan
+		Damdinbazar
+		Genden
+		Jamyan
+		Murdorj 
+		Sukhbaatar
+		Tomorbaatar
+		Tserendorj
+		Vanchinbalyn
+	}
+	ethnicities = {
+		1 = central_asian
+	}
+	graphics = asian
+}
+
 #Goblin
 
 varbat = {

@@ -339,7 +339,7 @@ grendleth = {
 cloud_giant={
 	color= hsv{ 0.24 0.49 0.50 }
 	religion = giant_hierarchy
-	traits = { giant_heritage siberian_culture_group }
+	traits = { giant_heritage }
 	male_common_first_names={
 		Aysen
 		Aytal
