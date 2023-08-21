@@ -402,7 +402,6 @@ mgzavri={
 		Hamza
 		Jamal_al-Din
 		Mansur
-		Mohammad
 		Murad
 		Ruslan
 		Shamil

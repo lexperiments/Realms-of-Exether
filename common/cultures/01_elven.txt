@@ -10,7 +10,7 @@
 		Hamzeh Hasan Hossein
 		Kamran Karim
 		Lotf_Ali
-		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		 Massoud  Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
 		Naser_ed-Din Nosret
 		Reza
 		Sadegh
@@ -50,7 +50,7 @@
 	male_regal_first_names = {
 		Ahmad
 		Fath_Ali Fereydoun
-		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		  _Ali _Hassan Mozzafer_ed-Din
 		Naser_ed-Din
 		Sultan_Hamid
 	}
@@ -73,7 +73,7 @@ glabrekthorn = {
 		Hamzeh Hasan Hossein
 		Kamran Karim
 		Lotf_Ali
-		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		 Massoud  Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
 		Naser_ed-Din Nosret
 		Reza
 		Sadegh
@@ -113,7 +113,7 @@ glabrekthorn = {
 	male_regal_first_names = {
 		Ahmad
 		Fath_Ali Fereydoun
-		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		  _Ali _Hassan Mozzafer_ed-Din
 		Naser_ed-Din
 		Sultan_Hamid
 	}
@@ -135,7 +135,7 @@ lumvareth = {
 		Hamzeh Hasan Hossein
 		Kamran Karim
 		Lotf_Ali
-		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		 Massoud  Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
 		Naser_ed-Din Nosret
 		Reza
 		Sadegh
@@ -175,7 +175,7 @@ lumvareth = {
 	male_regal_first_names = {
 		Ahmad
 		Fath_Ali Fereydoun
-		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		  _Ali _Hassan Mozzafer_ed-Din
 		Naser_ed-Din
 		Sultan_Hamid
 	}
@@ -340,7 +340,7 @@ aridrun = {
 		Hamzeh Hasan Hossein
 		Kamran Karim
 		Lotf_Ali
-		Mahmoud Massoud Mohammad Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
+		 Massoud  Moin_ed-Din Mozzafer_ed-Din Muhsin Murad
 		Naser_ed-Din Nosret
 		Reza
 		Sadegh
@@ -380,7 +380,7 @@ aridrun = {
 	male_regal_first_names = {
 		Ahmad
 		Fath_Ali Fereydoun
-		Mahmoud Mohammad Mohammad_Ali Mohammad_Hassan Mozzafer_ed-Din
+		  _Ali _Hassan Mozzafer_ed-Din
 		Naser_ed-Din
 		Sultan_Hamid
 	}
