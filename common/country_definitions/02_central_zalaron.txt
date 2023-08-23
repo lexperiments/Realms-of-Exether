@@ -408,16 +408,28 @@ IRA = {
 	capital = STATE_ZALULIK
 }
 
+#Dark Morass
+DMS = {
+	color = rgb{ 275  72  54 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { nuzaptan } 
+	capital = STATE_EARTHCHURN
+}
+
 #Sternenwacht
 STR = {
 	color = rgb{ 30  30  150 } 
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 
-	cultures = { morastlinge } 
-	capital = STATE_ROTENSCHLAMM
+	cultures = { morastlinge nuzaptan } 
+	capital = STATE_EIREKS_WASH
 }
 
 #Penurious Band

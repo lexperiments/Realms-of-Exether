@@ -262,7 +262,7 @@ STATE_GIANTS_STRIDE = {
     port = x83A7DE
 
 }
-STATE_ROTENSCHLAMM = {
+STATE_ROZANGAR = {
     id = 4244
     subsistence_building = "building_subsistence_farms"
     provinces = { "x3BEAE4" "x52C4E2" "x53F4C4" "x74D4F8" "x8889F5" "x9EBB9C" "xAEF9C5" "xB5C0E8" "xB5E37E" "xBB94F5" "xCE64F4" "xD06ED8" "xD3C6BA" "xD8A4FC" "xDBC5BE" "xE6CCF2" "xE6EB27" "xEAD447" "xF98AA5" "xFD53C6" }
