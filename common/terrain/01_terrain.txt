@@ -18,6 +18,7 @@
 #				}
 #			}
 #			path = "gfx/state_pictures/asia_example.dds" # Path to additional texture
+#			effect = "effect_entity_name_1"				 # Effect entity for specific texture
 #		}
 #		{
 #			weight = {
@@ -25,9 +26,10 @@
 #				
 #			}
 #			path = "gfx/state_pictures/europe_example.dds"
+#			effect = "effect_entity_name_2"				
 #		}
 #	}
-#	combat_width = 0.8									# Combat width in a region
+#	combat_width = 0.8									# The maximum numeric advantage a side can make use of in battle, 0.8 = up to 80% more of an advantage
 #	risk = 0.1											# Risk of casualties in a terrain
 #	materials = { 										# Materials and weights used to determine if province belongs to terrain type
 #		Material_01 = 1									# Material with weight
@@ -45,51 +47,54 @@ plains = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							state_is_in_americas = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							state_is_in_southern_hemisphere = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/plains_northamerica.dds"
+			effect = "vfx_entity_ui_state_plains_northamerica"
 		}
 		{
 			weight = {
 				value = 0
-				#if = {
-				#	limit = {
-				#		scope:region = {
-				#			is_arid_region = yes
-				#		}
-				#	}
-				#	add = 1
-				#}
+				if = {
+					limit = {
+						scope:region = {
+							is_arid_region = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/plains_arid.dds"
+			effect = "vfx_entity_ui_state_plains_arid"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								state_is_in_americas = no
-#								#is_arid_region = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								state_is_in_southern_hemisphere = no
+								is_arid_region = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/plains.dds"
+			effect = "vfx_entity_ui_state_plains"
 		}
 	}
 
-	combat_width = 1
+	combat_width = 1.5
 
 	risk = 0.1
 	materials = { 
@@ -116,10 +121,11 @@ ocean = {
 				value = 1
 			}
 			path = "gfx/state_pictures/ocean.dds"
+			effect = "vfx_entity_ui_state_ocean"
 		}
 	}
 	
-	combat_width = 1	
+	combat_width = 1.5
 
 	materials = {
 		Beach_01 = 0.1
@@ -140,6 +146,7 @@ lakes = {
 				value = 1
 			}
 			path = "gfx/state_pictures/ocean.dds"
+			effect = "vfx_entity_ui_state_ocean"
 		}
 	}
 	
@@ -158,6 +165,7 @@ river = {
 				value = 1
 			}
 			path = "gfx/state_pictures/ocean.dds"
+			effect = "vfx_entity_ui_state_ocean"
 		}
 	}
 	
@@ -175,10 +183,11 @@ forest = {
 		{
 			weight = 1
 			path = "gfx/state_pictures/forest.dds"
+			effect = "vfx_entity_ui_state_forest"
 		}
 	}
 	
-	combat_width = 0.5
+	combat_width = 0.6
 	risk = 0.5
 	materials = { 
 		Woodlands_01 = 0.75
@@ -197,51 +206,54 @@ hills = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_asian_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_asian_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/hills_jungle.dds"
+			effect = "vfx_entity_ui_state_hills_jungle"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/hills_subtropic.dds"
+			effect = "vfx_entity_ui_state_hills_subtropic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								is_asian_farmland = no
-#								is_subtropic_farmland = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								is_asian_farmland = no
+								is_subtropic_farmland = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/hills.dds"
+			effect = "vfx_entity_ui_state_hills"
 		}
 	}
 	
-	combat_width = 0.4
+	combat_width = 0.6
 	risk = 0.2
 	materials = { 
 		Cliff_Granite_01 = 2.5
@@ -262,51 +274,54 @@ mountain = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							state_is_in_americas = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							state_is_in_southern_hemisphere = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/mountains_northamerica.dds"
+			effect = "vfx_entity_ui_state_mountains_northamerica"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_arid_region = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_arid_region = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/mountains_arid.dds"
+			effect = "vfx_entity_ui_state_mountains_arid"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								state_is_in_americas = no
-#								is_arid_region = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								state_is_in_southern_hemisphere = no
+								is_arid_region = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/mountains.dds"
+			effect = "vfx_entity_ui_state_mountains"
 		}
 	}
 
-	combat_width = 0.3
+	combat_width = 0.4
 	risk = 0.2
 	materials = { 
 		Mountains_NonDirectional_01 = 5
@@ -337,9 +352,10 @@ jungle = {
 				value = 1
 			}
 			path = "gfx/state_pictures/jungle.dds"
+			effect = "vfx_entity_ui_state_jungle"
 		}
 	}
-	combat_width = 0.4
+	combat_width = 0.5
 	risk = 0.6
 	materials = { 
 		Woodlands_03 = 1
@@ -359,10 +375,11 @@ wetland = {
 				value = 1
 			}
 			path = "gfx/state_pictures/wetland.dds"
+			effect = "vfx_entity_ui_state_wetland"
 		}
 	}
 	
-	combat_width = 0.4
+	combat_width = 0.5
 	risk = 0.3
 	materials = { 
 		Marchlands_01 = 2
@@ -384,34 +401,36 @@ desert = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							state_is_in_americas = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							state_is_in_southern_hemisphere = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/desert_northamerica.dds"
+			effect = "vfx_entity_ui_state_desert_northamerica"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							state_is_in_americas = no
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							state_is_in_southern_hemisphere = no
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/desert.dds"
+			effect = "vfx_entity_ui_state_desert"
 		}
 	}
 	
-	combat_width = 0.7
+	combat_width = 1
 	risk = 0.2
 	materials = { 
 		Desert_01 = 0.5
@@ -436,6 +455,7 @@ tundra = {
 				value = 1
 			}
 			path = "gfx/state_pictures/tundra.dds"
+			effect = "vfx_entity_ui_state_tundra"
 		}
 	}
 	
@@ -460,9 +480,10 @@ savanna = {
 				value = 1
 			}
 			path = "gfx/state_pictures/plains_arid.dds"
+			effect = "vfx_entity_ui_state_plains"
 		}
 	}
-	combat_width = 0.5
+	combat_width = 1
 	risk = 0.2
 	materials = { 
 		Savanna_01 = 10
@@ -483,9 +504,10 @@ snow = {
 				value = 1
 			}
 			path = "gfx/state_pictures/arctic.dds"
+			effect = "vfx_entity_ui_state_arctic"
 		}
 	}
-	combat_width = 0.8
+	combat_width = 0.7
 	risk = 0.2
 	
 	materials = { 
@@ -505,66 +527,70 @@ farmland_rye = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_arabic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_arabic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_arabic.dds"
+			effect = "vfx_entity_ui_state_farmland_arabic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_asian_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_asian_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_asian.dds"
+			effect = "vfx_entity_ui_state_farmland_asian"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_subtropic.dds"
+			effect = "vfx_entity_ui_state_farmland_subtropic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								is_arabic_farmland = no
-#								is_asian_farmland = no
-#								is_subtropic_farmland = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								is_arabic_farmland = no
+								is_asian_farmland = no
+								is_subtropic_farmland = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_generic.dds"
+			effect = "vfx_entity_ui_state_farmland_generic"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_01
 	debug_color = hsv { 0 1 1 }
@@ -584,10 +610,11 @@ pasture = {
 				
 			}
 			path = "gfx/state_pictures/pasture.dds"
+			effect = "vfx_entity_ui_state_pasture"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_01
 	debug_color = hsv { 0.7 0.8 0.6 }
@@ -604,66 +631,70 @@ farmland_rice = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_arabic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_arabic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_arabic.dds"
+			effect = "vfx_entity_ui_state_farmland_arabic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_asian_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_asian_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_asian.dds"
+			effect = "vfx_entity_ui_state_farmland_asian"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_subtropic.dds"
+			effect = "vfx_entity_ui_state_farmland_subtropic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								is_arabic_farmland = no
-#								is_asian_farmland = no
-#								is_subtropic_farmland = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								is_arabic_farmland = no
+								is_asian_farmland = no
+								is_subtropic_farmland = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_generic.dds"
+			effect = "vfx_entity_ui_state_farmland_generic"
 		}
 	}
 
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_02
 	debug_color = hsv { 0.7 0.8 0.6 }
@@ -680,66 +711,70 @@ farmland_millet = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_arabic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_arabic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_arabic.dds"
+			effect = "vfx_entity_ui_state_farmland_arabic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_asian_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_asian_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_asian.dds"
+			effect = "vfx_entity_ui_state_farmland_asian"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_subtropic.dds"
+			effect = "vfx_entity_ui_state_farmland_subtropic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								is_arabic_farmland = no
-#								is_asian_farmland = no
-#								is_subtropic_farmland = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								is_arabic_farmland = no
+								is_asian_farmland = no
+								is_subtropic_farmland = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_generic.dds"
+			effect = "vfx_entity_ui_state_farmland_generic"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_03
 	debug_color = hsv { 0.7 0.8 0.6 }
@@ -758,10 +793,11 @@ plantation = {
 				value = 1
 			}
 			path = "gfx/state_pictures/plantation.dds"
+			effect = "vfx_entity_ui_state_plantation"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_01
 	debug_color = hsv { 0.4 0.7 0.6 }
@@ -778,66 +814,70 @@ farmland_wheat = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_arabic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_arabic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_arabic.dds"
+			effect = "vfx_entity_ui_state_farmland_arabic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_asian_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_asian_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_asian.dds"
+			effect = "vfx_entity_ui_state_farmland_asian"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_subtropic.dds"
+			effect = "vfx_entity_ui_state_farmland_subtropic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								is_arabic_farmland = no
-#								is_asian_farmland = no
-#								is_subtropic_farmland = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								is_arabic_farmland = no
+								is_asian_farmland = no
+								is_subtropic_farmland = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_generic.dds"
+			effect = "vfx_entity_ui_state_farmland_generic"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_05
 	debug_color = hsv { 0.7 0.8 0.6 }
@@ -854,66 +894,70 @@ farmland_maize = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_arabic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_arabic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_arabic.dds"
+			effect = "vfx_entity_ui_state_farmland_arabic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_asian_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_asian_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_asian.dds"
+			effect = "vfx_entity_ui_state_farmland_asian"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_subtropic.dds"
+			effect = "vfx_entity_ui_state_farmland_subtropic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								is_arabic_farmland = no
-#								is_asian_farmland = no
-#								is_subtropic_farmland = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								is_arabic_farmland = no
+								is_asian_farmland = no
+								is_subtropic_farmland = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/farmland_generic.dds"
+			effect = "vfx_entity_ui_state_farmland_generic"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = DYNAMIC-Farmlands_06
 	debug_color = hsv { 0.7 0.8 0.6 }
@@ -932,10 +976,11 @@ cleared_land = {
 				value = 1
 			}
 			path = "gfx/state_pictures/cleared_land.dds"
+			effect = "vfx_entity_ui_state_cleared_land"
 		}
 	}
 	
-	combat_width = 0.8
+	combat_width = 1.5
 	risk = 0.1
 	created_material = Grasslands_02
 	debug_color = hsv { 0.3 0.3 0.3 }
@@ -990,6 +1035,7 @@ mining = {
 				value = 1
 			}
 			path = "gfx/state_pictures/mining.dds"
+			effect = "vfx_entity_ui_state_mining"
 		}
 	}
 	
@@ -1023,10 +1069,11 @@ forestry = {
 		{
 			weight = 1
 			path = "gfx/state_pictures/forestry.dds"
+			effect = "vfx_entity_ui_state_forestry"
 		}
 	}
 	
-	combat_width = 0.6
+	combat_width = 0.8
 	risk = 0.5
 	created_material = DYNAMIC-Forestry_01
 	debug_color = hsv { 0.7 0.3 0.8 }
@@ -1055,107 +1102,113 @@ urban = {
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							state_is_in_africa = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							state_in_africa = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/urban_african.dds"
+			effect = "vfx_entity_ui_state_urban_african"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							or = {
-#								state_is_in_middle_east = yes
-#								state_is_in_central_asia = yes
-#								state_is_in_india = yes
-#							}
-#						}
-#					}
-#					add = 1
-#				}			
+				if = {
+					limit = {
+						scope:region = {
+							or = {
+								state_is_in_teferet = yes
+								state_is_in_central_asia = yes
+								state_is_in_india = yes
+							}
+						}
+					}
+					add = 1
+				}			
 			}
 			path = "gfx/state_pictures/urban_arabic.dds"
+			effect = "vfx_entity_ui_state_urban_arabic"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							or = {
-#								state_is_in_east_asia = yes
-#								state_is_in_southeast_asia = yes
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							or = {
+								state_is_in_east_asia = yes
+								state_is_in_southeast_asia = yes
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/urban_asian.dds"
+			effect = "vfx_entity_ui_state_urban_asian"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							is_subtropic_farmland = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							is_subtropic_farmland = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/urban_latin_american.dds"
+			effect = "vfx_entity_ui_state_urban_latin_american"
 		}
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							state_is_in_europe = yes
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							state_is_in_europe = yes
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/urban_european.dds"
+			effect = "vfx_entity_ui_state_urban_european"
 		}
 		# fallback
 		{
 			weight = {
 				value = 0
-#				if = {
-#					limit = {
-#						scope:region = {
-#							AND = {
-#								state_is_in_europe = no
-#								is_subtropic_farmland = no
-#								state_is_in_east_asia = no
-#								state_is_in_southeast_asia = no
-#								state_is_in_middle_east = no
-#								state_is_in_central_asia = no
-#								state_is_in_india = no
-#								state_is_in_africa = no
-#							}
-#						}
-#					}
-#					add = 1
-#				}
+				if = {
+					limit = {
+						scope:region = {
+							AND = {
+								state_is_in_europe = no
+								is_subtropic_farmland = no
+								state_is_in_east_asia = no
+								state_is_in_southeast_asia = no
+								state_is_in_teferet = no
+								state_is_in_central_asia = no
+								state_is_in_india = no
+								state_in_africa = no
+							}
+						}
+					}
+					add = 1
+				}
 			}
 			path = "gfx/state_pictures/urban_european.dds"
+			effect = "vfx_entity_ui_state_urban_european"
 		}
 	}
 
-	combat_width = 0.3
+	combat_width = 0.8
 	risk = 0.5
 	created_material = DYNAMIC-Urban_01
 	debug_color = hsv { 0.7 0.3 0.8 }
@@ -1197,6 +1250,7 @@ docks = {
 				}
 			}
 			path = "gfx/state_pictures/docks.dds"
+			effect = "vfx_entity_ui_state_docks"
 		}
 		{
 			weight = {
@@ -1209,10 +1263,11 @@ docks = {
 				# }
 			}
 			path = "gfx/state_pictures/plains_arid.dds"
+			effect = "vfx_entity_ui_state_plains_arid"
 		}
 	}
     
-    combat_width = 0.4
+    combat_width = 0.8
     risk = 0.5
     debug_color = hsv { 0.7 0.3 0.8 }
 	
