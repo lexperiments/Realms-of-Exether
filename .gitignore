@@ -3,3 +3,4 @@ tools/mapeditor/mix_brush.txt
 *.psd
 tools/mapeditor/map_editor_status.txt
 *.log
+gfx/editor_terrain/reference_overlay_example.png
