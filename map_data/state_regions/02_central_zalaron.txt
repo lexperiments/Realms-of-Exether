@@ -272,6 +272,7 @@ STATE_ROZANGAR = {
     farm = x53F4C4
     mine = x74D4F8
     port = x8889F5
+    arable_land = 16
 
 }
 STATE_COBALT_KEEP = {
@@ -295,6 +296,7 @@ STATE_EIREKS_WASH = {
     farm = x6FD7D4
     mine = x7BB6E9
     port = x99C5ED
+    arable_land = 30
 
 }
 STATE_ELDAMARA = {
@@ -318,6 +320,7 @@ STATE_CANDLEMIRE = {
     farm = x76E1B0
     mine = x7ADEAE
     port = xA1FAA9
+    arable_land = 16
 
 }
 STATE_DROWNED_LANDS = {
@@ -330,6 +333,7 @@ STATE_DROWNED_LANDS = {
     farm = x9299E6
     mine = xA4FC9C
     port = xB05BF6
+    arable_land = 10
 
 }
 STATE_CARGOMIRE = {
@@ -342,6 +346,7 @@ STATE_CARGOMIRE = {
     farm = x71A3E9
     mine = x74C2CA
     port = x88D5EF
+    arable_land = 10
 
 }
 STATE_ZALDUA = {
@@ -354,6 +359,7 @@ STATE_ZALDUA = {
     farm = x89FBF7
     mine = xACCCCD
     port = xB8F3B1
+    arable_land = 12
 
 }
 STATE_EARTHCHURN = {
@@ -366,6 +372,7 @@ STATE_EARTHCHURN = {
     farm = x7DE1B8
     mine = x84AFCA
     port = x8FD7C8
+    arable_land = 15
 
 }
 STATE_BEARTZUNGUL = {
@@ -378,6 +385,7 @@ STATE_BEARTZUNGUL = {
     farm = x62D6D7
     mine = x68EAD6
     port = x6AE7E7
+    arable_land = 31
 
 }
 STATE_GLADEMIRE = {
@@ -390,6 +398,7 @@ STATE_GLADEMIRE = {
     farm = x79F7D5
     mine = x81BFCA
     port = x8C98FB
+    arable_land = 16
 
 }
 STATE_THE_CRIMSON_MORASS = {
@@ -402,6 +411,7 @@ STATE_THE_CRIMSON_MORASS = {
     farm = xB056FA
     mine = xD888DD
     port = xDDE553
+    arable_land = 26
 
 }
 STATE_SOUTHERN_DRAIN = {
@@ -414,6 +424,7 @@ STATE_SOUTHERN_DRAIN = {
     farm = x89C7DD
     mine = x8AD3CE
     port = x94C7DD
+    arable_land = 10
 
 }
 STATE_ANWARTH = {
@@ -437,6 +448,7 @@ STATE_AHORNAU = {
     farm = x71E7B5
     mine = x77F99F
     port = x7CE79E
+    arable_land = 18
 
 }
 STATE_THE_WHITE = {
@@ -449,6 +461,7 @@ STATE_THE_WHITE = {
     farm = x79EAE1
     mine = xAAEFD1
     port = xB2B9F2
+    arable_land = 10
 
 }
 STATE_NORTHERN_DRAIN = {
@@ -461,6 +474,7 @@ STATE_NORTHERN_DRAIN = {
     farm = x8FF4D7
     mine = xB1CEA9
     port = xB5A5DC
+    arable_land = 12
 
 }
 STATE_STEINZULO = {
@@ -473,6 +487,7 @@ STATE_STEINZULO = {
     farm = x82DCBD
     mine = x8B7EF9
     port = xAD96B3
+    arable_land = 9
 
 }
 STATE_FRONTALIERAS = {

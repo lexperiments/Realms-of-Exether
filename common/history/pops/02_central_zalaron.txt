@@ -1,0 +1,159 @@
+POPS = {
+  s:STATE_DROWNED_LANDS = {
+    region_state:DMS = {
+      create_pop = {
+        culture = nuzaptan
+        size = 132000
+      }
+    }
+  }
+  s:STATE_CARGOMIRE = {
+    region_state:DMS = {
+      create_pop = {
+        culture = nuzaptan
+        size = 164000
+      }
+    }
+  }
+  s:STATE_EARTHCHURN = {
+    region_state:DMS = {
+      create_pop = {
+        culture = nuzaptan
+        size = 246000
+      }
+    }
+  }
+  s:STATE_AHORNAU = {
+    region_state:DMS = {
+      create_pop = {
+        culture = nuzaptan
+        size = 252000
+      }
+    }
+  }
+  s:STATE_THE_WHITE = {
+    region_state:DMS = {
+      create_pop = {
+        culture = nuzaptan
+        size = 43200
+      }
+    }
+  }
+  s:STATE_NORTHERN_DRAIN = {
+    region_state:DMS = {
+      create_pop = {
+        culture = nuzaptan
+        size = 108000
+      }
+    }
+  }
+  s:STATE_ROZANGAR = {
+    region_state:ICA = {
+      create_pop = {
+        culture = nuzaptan
+        size = 239000
+      }
+      create_pop = {
+        culture = morastlinge
+        size = 3000
+      }
+    }
+  }
+  s:STATE_ZALDUA = {
+    region_state:ICA = {
+      create_pop = {
+        culture = nuzaptan
+        size = 168000
+      }
+    }
+  }
+  s:STATE_BEARTZUNGUL = {
+    region_state:ICA = {
+      create_pop = {
+        culture = nuzaptan
+        size = 501000
+      }
+      create_pop = {
+        culture = morastlinge
+        size = 10000
+      }
+    }
+  }
+  s:STATE_STEINZULO = {
+    region_state:ICA = {
+      create_pop = {
+        culture = nuzaptan
+        size = 123000
+      }
+    }
+  }
+  s:STATE_CANDLEMIRE = {
+    region_state:PND = {
+      create_pop = {
+        culture = morastlinge
+        size = 260500
+      }
+      create_pop = {
+        culture = dumonian
+        size = 10900
+      }
+      create_pop = {
+        culture = nuzaptan
+        size = 8500
+      }
+    }
+  }
+  s:STATE_GLADEMIRE = {
+    region_state:PND = {
+      create_pop = {
+        culture = morastlinge
+        size = 230000
+      }
+      create_pop = {
+        culture = dumonian
+        size = 4000
+      }
+      create_pop = {
+        culture = nuzaptan
+        size = 6000
+      }
+    }
+  }
+  s:STATE_THE_CRIMSON_MORASS = {
+    region_state:PND = {
+      create_pop = {
+        culture = morastlinge
+        size = 314000
+      }
+      create_pop = {
+        culture = dumonian
+        size = 13000
+      }
+      create_pop = {
+        culture = nuzaptan
+        size = 7000
+      }
+    }
+  }
+  s:STATE_SOUTHERN_DRAIN = {
+    region_state:PND = {
+      create_pop = {
+        culture = morastlinge
+        size = 64200
+      }
+    }
+  }
+  s:STATE_EIREKS_WASH = {
+    region_state:STR = {
+      create_pop = {
+        culture = morastlinge
+        religion = animist
+        size = 284000
+      }
+      create_pop = {
+        culture = nuzaptan
+        size = 184000
+      }
+    }
+  }
+}
