@@ -428,7 +428,8 @@ STR = {
 
 	tier = city_state
 
-	cultures = { morastlinge nuzaptan } 
+	cultures = { morastlinge } 
+	religion = animist 
 	capital = STATE_EIREKS_WASH
 }
 
