@@ -196,7 +196,7 @@ rahoru={
 nuzaptan={
 	color= hsv{ 0.63 0.30 0.52 }
 	religion = animist
-	traits = { orc_heritage }
+	traits = { swampwalker_culture_group orc_heritage }
 	male_common_first_names={
 		Hehaka
 		Inkpaduta
