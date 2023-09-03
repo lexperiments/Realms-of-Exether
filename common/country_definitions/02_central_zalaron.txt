@@ -56,7 +56,7 @@ THI = {
 
 	tier = kingdom
 
-	cultures = { dumonian } 
+	cultures = { thiralian } 
 	capital = STATE_MONSVERDE
 }
 
@@ -429,7 +429,7 @@ STR = {
 	tier = city_state
 
 	cultures = { morastlinge } 
-	religion = animist 
+	religion = druidic
 	capital = STATE_EIREKS_WASH
 }
 
