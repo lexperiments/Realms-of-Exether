@@ -1,0 +1,68 @@
+﻿DIPLOMACY = {
+	c:DUM = {
+		create_diplomatic_pact = {
+			country = c:ABR
+			type = personal_union
+		}
+		create_diplomatic_pact = {
+			country = c:SSC
+			type = dominion
+		}
+		create_diplomatic_pact = {
+			country = c:AUM
+			type =  protectorate
+		}
+	}
+	c:AUM = {
+		create_diplomatic_pact = {
+			country = c:JUR
+			type = dominion
+		}
+	}
+	c:RAV = {
+		create_diplomatic_pact = {
+			country = c:THY
+			type = dominion
+		}
+	}
+	c:ARR = {
+		create_diplomatic_pact = {
+			country = c:WHI
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:CLR
+			type = protectorate
+		}
+	}
+	c:SMA= {
+		create_diplomatic_pact = {
+			country = c:MID
+			type = personal_union
+		}
+	}
+	c:THI = {
+		create_diplomatic_pact = {
+			country = c:FEY
+			type = puppet
+		}
+	}
+	c:YUL = {
+		create_diplomatic_pact = {
+			country = c:TEM
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:SUN
+			type = tributary
+		}
+		create_diplomatic_pact = {
+			country = c:QON
+			type = tributary
+		}
+		create_diplomatic_pact = {
+			country = c:ZHU
+			type = tributary
+		}
+	}
+}

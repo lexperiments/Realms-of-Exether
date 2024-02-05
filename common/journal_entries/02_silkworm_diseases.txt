@@ -1,5 +1,8 @@
 ﻿je_silkworm_diseases = {
 	icon = "gfx/interface/icons/event_icons/event_map.dds"
+
+	group = je_group_crises
+
 	#Activated by event
 
 	complete = {
@@ -86,7 +89,7 @@
 							}
 							OR = {	
 								country_is_in_settler_coast = yes
-								#country_is_in_north_america = yes
+								country_is_in_northwestern_zalaron = yes
 							}
 							NOT = {
 								has_variable = pebrine_outbreak_event

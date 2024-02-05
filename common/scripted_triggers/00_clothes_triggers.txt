@@ -4,7 +4,11 @@
 			exists = scope:character
 			scope:character = {
 				culture = {
-					has_discrimination_trait = bird_heritage
+					OR = {
+						has_discrimination_trait = bird_heritage
+						has_discrimination_trait = beast
+						has_discrimination_trait = gnoll
+					}
 				}
 			}
 		}
@@ -12,7 +16,12 @@
 			exists = scope:pop
 			scope:pop = {
 				culture = {
-					has_discrimination_trait = bird_heritage
+					OR = {
+						has_discrimination_trait = bird_heritage
+						has_discrimination_trait = beast
+						has_discrimination_trait = gnoll
+					}
+					
 				}
 			}
 		}
@@ -102,6 +111,39 @@ french_empire_clothes_pop_trigger = {
 	}
 }
 
+russian_empire_clothes_trigger = {
+	exists = scope:character
+	scope:character = {
+		exists = c:RUS
+		exists = home_country
+		home_country = {
+			OR = {
+				AND = {
+					c:RUS = this
+					is_subject = no # preventing uniform conflicts if RUS becomes a subject of another country with puppet uniforms
+				}
+				is_subject_of = c:RUS
+			}		
+		}
+	}
+}
+
+russian_empire_clothes_pop_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		exists = c:RUS
+		home_country = {
+			OR = {
+				AND = {
+					c:RUS = this
+					is_subject = no # preventing uniform conflicts if RUS becomes a subject of another country with puppet uniforms
+				}
+				is_subject_of = c:RUS
+			}		
+		}
+	}
+}
+
 german_clothes_trigger = {
 	exists = scope:character
 	scope:character = {
@@ -164,6 +206,9 @@ jewish_clothes_pop_trigger = {
 hindu_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
+		NOT = {
+			culture = cu:castaway_dwarf
+		}
 		culture = {
 			has_discrimination_trait = dwarf_heritage
 		}
@@ -201,7 +246,7 @@ japanese_imperial_clothes_trigger = {
      		has_law = law_type:law_monarchy
      	}
 		culture = {
-			has_discrimination_trait = hellborn_heritage
+			has_discrimination_trait = planetouched_heritage
 		}
 	}
 }
@@ -215,9 +260,7 @@ chinese_imperial_clothes_trigger = {
      		has_law = law_type:law_monarchy
      	}
 		OR = {
-			culture = {
-				has_discrimination_trait = draconic_heritage
-			}
+			has_culture = cu:shkemger
 		}
 	}
 }
@@ -256,7 +299,11 @@ chinese_court_clothes_trigger = {
 	scope:character = {
 		culture = {
 			OR = {
-				has_discrimination_trait = draconic_heritage
+				AND = {
+					NOT = { this = cu:khanaruk }
+					has_discrimination_trait = goblin_heritage
+				}
+				
 			}
 		}
 	}	
@@ -267,7 +314,8 @@ chinese_court_clothes_pop_trigger = {
 	scope:pop = {
 		culture = {
 			OR = {
-				has_discrimination_trait = draconic_heritage
+				NOT = { this = cu:khanaruk }
+				has_discrimination_trait = goblin_heritage
 			}
 		}
 	}	
@@ -364,12 +412,16 @@ ethiopian_clothes_trigger = {
 european_clothes_trigger = {
 	exists = scope:character
 	scope:character = {
-		culture = {
-			OR = {
-				has_discrimination_trait = human_heritage
+		OR = {
+			culture = {
+				OR = {
+					has_discrimination_trait = human_heritage
+				}
 			}
-
+			culture = cu:vampire
+			culture = cu:sunkissed
 		}
+
 		NOT = {
 			OR = {
 				culture = {
@@ -392,6 +444,9 @@ european_clothes_trigger = {
 indian_clothes_trigger = {
 	exists = scope:character
 	scope:character = {
+		NOT = {
+			culture = cu:castaway_dwarf
+		}
 		OR = {
 			culture = {
 				has_discrimination_trait = dwarf_heritage
@@ -611,7 +666,7 @@ east_asian_clothes_pop_trigger = {
 	scope:pop = {
 		culture = {
 			OR = {
-				has_discrimination_trait = draconic_heritage
+				has_discrimination_trait = goblin_heritage
 			}
 		}   
 	}
@@ -641,13 +696,17 @@ central_asian_clothes_pop_trigger= {
 european_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
-		culture = {
-			OR = {
-				has_discrimination_trait = human_heritage
-				has_discrimination_trait = halfling_heritage
+		OR = {
+			culture = {
+				OR = {
+					has_discrimination_trait = human_heritage
+					has_discrimination_trait = halfling_heritage
+				}
 			}
-	
+			culture = cu:vampire
+			culture = cu:sunkissed
 		}
+
 	}
 }
 
@@ -667,17 +726,24 @@ indigenous_oceanic_clothes_trigger = {
 		AND = {
 			exists = scope:pop
 			scope:pop = {
-				culture = {
-					has_discrimination_trait = orc_heritage
-				}   
+				OR = {
+					culture = {
+						has_discrimination_trait = orc_heritage
+					}  
+					culture = cu:castaway_dwarf
+				}
+ 
 			}
 		}
 		AND = {
 			exists = scope:character
 			scope:character = {
-				culture = {
-					has_discrimination_trait = orc_heritage
-				}   
+				OR = {
+					culture = {
+						has_discrimination_trait = orc_heritage
+					}  
+					culture = cu:castaway_dwarf
+				}
 			}
 		}
 	}
@@ -798,7 +864,7 @@ japanese_clothes_pop_trigger = {
 	scope:pop = {
 		OR = {
 					culture = {
-			has_discrimination_trait = hellborn_heritage
+			has_discrimination_trait = planetouched_heritage
 		}
 		}
 	}
@@ -810,7 +876,7 @@ japanese_clothes_trigger = {
 	scope:character = {
           OR = {
 					culture = {
-			has_discrimination_trait = hellborn_heritage
+			has_discrimination_trait = planetouched_heritage
 		}
           }
 	}
@@ -819,6 +885,9 @@ japanese_clothes_trigger = {
 indian_clothes_pop_trigger = {
 	exists = scope:pop
 	scope:pop = {
+		NOT = {
+			culture = cu:castaway_dwarf
+		}
 		OR = {
 			culture = {
 				has_discrimination_trait = dwarf_heritage
@@ -896,7 +965,11 @@ upper_clothes_pop_trigger = {
 soldier_clothes_pop_trigger = {
      exists = scope:pop
      scope:pop = {
-		is_pop_type = soldiers
+		OR = {
+			is_pop_type = adventurers
+			is_pop_type = soldiers
+		}
+		
      }
 }
 
@@ -1254,6 +1327,8 @@ should_be_naked_trigger = {
 							has_discrimination_trait = monstrous_heritage
 						}
 					}
+					NOT = { culture = cu:vampire }
+					NOT = { culture = cu:sunkissed }
 				}
 		
 			}
@@ -1261,11 +1336,16 @@ should_be_naked_trigger = {
 		AND = {
 			exists = scope:character
 			scope:character = {
-				culture = {
-					OR = {
-						has_discrimination_trait = monstrous_heritage
+				AND = {
+					culture = {
+						OR = {
+							has_discrimination_trait = monstrous_heritage
+						}
 					}
+					NOT = { culture = cu:vampire }
+					NOT = { culture = cu:sunkissed }
 				}
+
 			}
 		}
 	}
@@ -1275,7 +1355,6 @@ should_be_naked_trigger = {
 ## Can only be checked in the interface since the setting isn't synced
 should_be_fully_naked_portrait_trigger = {
 	should_be_naked_trigger = yes
-	should_show_nudity = yes
 }
 #
 #should_be_topless_portrait_trigger = {

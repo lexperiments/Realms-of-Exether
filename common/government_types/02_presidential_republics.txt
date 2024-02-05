@@ -1,4 +1,47 @@
-﻿gov_provisional_government = {
+gov_captain_regency = {
+	transfer_of_power = dictatorial
+
+	male_ruler = "RULER_TITLE_CAPTAIN_REGENT"
+	female_ruler = "RULER_TITLE_CAPTAIN_REGENT"
+	
+	possible = {
+		has_law = law_type:law_presidential_republic
+		has_law = law_type:law_autocracy
+		AND = { exists = c:VAI c:VAI = ROOT }
+	}
+
+	on_government_type_change = {
+		change_to_dictatorial = yes
+	}
+	on_post_government_type_change = {
+		post_change_to_dictatorial = yes
+	}
+}
+
+gov_thalorian_remnant = {
+	transfer_of_power = presidential_elective
+	new_leader_on_reform_government = no
+
+	male_ruler = "RULER_TITLE_ARCH_SHERIFF"
+	female_ruler = "RULER_TITLE_ARCH_SHERIFF"
+	
+	possible = {
+		has_law = law_type:law_presidential_republic
+		OR = {
+			country_has_primary_culture = cu:west_thalorian
+			country_has_primary_culture = cu:lake_thalorian
+		}
+	}
+
+	on_government_type_change = {
+		change_to_presidential_elective = yes
+	}
+	on_post_government_type_change = {
+		post_change_to_presidential_elective = yes
+	}
+}
+
+gov_provisional_government = {
 	transfer_of_power = dictatorial
 
 	male_ruler = "RULER_TITLE_PRESIDENT"
@@ -253,6 +296,9 @@ gov_junta = {
 			has_law = law_type:law_mass_conscription
 			has_law = law_type:law_professional_army
 		}
+		ig:ig_armed_forces = {
+			is_in_government = yes
+		}
 	}
 
 	on_government_type_change = {
@@ -298,6 +344,15 @@ gov_presidential_democracy = {
 		NOR = { 
 			has_law = law_type:law_single_party_state
 			has_law = law_type:law_technocracy
+			AND = {
+				country_has_primary_culture = cu:brazilian
+				has_law = law_type:law_presidential_republic
+				has_law = law_type:law_landed_voting
+				OR = {
+					has_law = law_type:law_tenant_farmers
+					has_law = law_type:law_serfdom
+				}
+			}
 		}
 	}
 

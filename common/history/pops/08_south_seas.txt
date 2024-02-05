@@ -1,0 +1,625 @@
+﻿POPS = {
+
+	s:STATE_MALANDA = {
+		region_state:AZI = {
+			create_pop = {
+				culture = zemvelo
+				size = 92904
+			}
+			create_pop = {
+				culture = lacertian
+				size = 3350
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 650
+			}
+			create_pop = {
+				culture = east_lacertian
+				size = 292804
+			}
+			create_pop = {
+				culture = south_sea_ravager
+				size = 12000
+			}
+		}
+	}
+
+	s:STATE_GONJOLA = {
+		region_state:AZI = {
+			create_pop = {
+				culture = zemvelo
+				size = 248000
+			}
+			create_pop = {
+				culture = east_lacertian
+				size = 212000
+			}
+			create_pop = {
+				culture = lacertian
+				size = 21900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 6200
+			}
+			create_pop = {
+				culture = south_sea_ravager
+				size = 16000
+			}
+		}
+	}
+
+	s:STATE_BEXAMBA = {
+		region_state:AZI = {
+			create_pop = {
+				culture = zemvelo
+				size = 91804
+			}
+			create_pop = {
+				culture = lacertian
+				size = 12000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 4000
+			}
+			create_pop = {
+				culture = south_sea_ravager
+				size = 12000
+			}
+			create_pop = {
+				culture = east_lacertian
+				size = 186696
+			}
+		}
+	}
+
+	s:STATE_LEMBONA = {
+
+	}
+
+	s:STATE_XABELO = {
+		region_state:AZI = {
+			create_pop = {
+				culture = zemvelo
+				size = 48000
+			}
+			create_pop = {
+				culture = bakibi
+				size = 80400
+			}
+			create_pop = {
+				culture = east_lacertian
+				size = 146500
+			}
+			create_pop = {
+				culture = lacertian
+				size = 2000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 500
+			}
+		}
+	}
+
+	s:STATE_MAZALINO = {
+
+	}
+
+	s:STATE_GONDEVA = {
+
+	}
+
+	s:STATE_LUMBELO = {
+
+	}
+
+	s:STATE_MAXANGA = {
+
+	}
+
+	s:STATE_BEMVULA = {
+
+	}
+
+	s:STATE_BELOZA = {
+
+	}
+
+	s:STATE_JOVEXA = {
+
+	}
+
+	s:STATE_AMALUMA = {
+		region_state:AZI = {
+			create_pop = {
+				culture = zemvelo
+				size = 12000
+			}
+			create_pop = {
+				culture = bakibi
+				size = 38500
+			}
+			create_pop = {
+				culture = east_lacertian
+				size = 1200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = east_lacertian
+				size = 300
+			}
+		}
+	}
+
+	s:STATE_MABRAGA = {
+		region_state:AZI = {
+			create_pop = {
+				culture = bakibi
+				size = 16100
+			}
+			create_pop = {				
+				culture = zemvelo
+				size = 160
+			}
+			create_pop = {
+				culture = lacertian
+				size = 90
+			}
+		}
+	}
+
+	s:STATE_UMAGAMA = {
+		region_state:AZI = {
+			create_pop = {
+				culture = zemvelo
+				size = 139004
+			}
+			create_pop = {
+				culture = bakibi
+				size = 160
+			}
+			create_pop = {
+				culture = east_lacertian
+				size = 30400
+			}
+		}
+	}
+
+	s:STATE_ALMADOURO = {
+
+	}
+
+	s:STATE_CIDADOURO = {
+
+	}
+
+	s:STATE_MOZAGAL = {
+
+	}
+
+	s:STATE_ALENMAR = {
+
+	}
+
+	s:STATE_TERRABELA = {
+
+	}
+
+	s:STATE_MALANJAPORT = {
+
+	}
+
+	s:STATE_KASAMANCA = {
+
+	}
+
+	s:STATE_MAPACHECO = {
+
+	}
+
+	s:STATE_LESORICO = {
+
+	}
+
+	s:STATE_APAFONTE = {
+
+	}
+
+	s:STATE_PORTANGA = {
+
+	}
+
+	s:STATE_LISAZISA = {
+
+	}
+
+	s:STATE_XHOZITHOBE = {
+
+	}
+
+	s:STATE_BELENDLE = {
+
+	}
+
+	s:STATE_QONDWENI = {
+
+	}
+
+	s:STATE_ALAHAZOTRA = {
+		region_state:DEV = {
+			create_pop = {
+				culture = jazamandroso
+				size = 466396
+			}
+			create_pop = {
+				culture = lacertian
+				size = 17000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 3000
+			}
+		}
+	}
+
+	s:STATE_IVONDRO = {
+		region_state:DEV = {
+			create_pop = {
+				culture = jazamandroso
+				size = 87792
+			}
+			create_pop = {
+				culture = lacertian
+				size = 28300
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 4100
+			}
+		}
+	}
+
+	s:STATE_MAHALATSAKA = {
+		region_state:AYE = {
+			create_pop = {
+				culture = lacertian
+				size = 28200
+			}
+			create_pop = {
+				culture = cithrel
+				size = 2200
+			}
+		}
+
+	}
+
+	s:STATE_FIANARIVO = {
+		region_state:DEV = {
+			create_pop = {
+				culture = jazamandroso
+				size = 269804
+			}
+			create_pop = {
+				culture = cithrel
+				size = 12000
+			}
+			create_pop = {
+				culture = lacertian
+				size = 162004
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 62000
+			}
+		}
+	}
+
+	s:STATE_VAROTSOA = {
+		region_state:DEV = {
+			create_pop = {
+				culture =jazamandroso
+				size = 194400
+			}
+			create_pop = {
+				culture = cithrel
+				size = 3000
+			}
+			create_pop = {
+				culture = lacertian
+				size = 32000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacertian
+				size = 8000
+			}
+		}
+	}
+
+	s:STATE_TSIMIHAVANA = {
+		region_state:EOO = {
+			create_pop = {
+				culture = lacertian
+				size = 31100
+			}
+			create_pop = {
+				culture = jazamandroso
+				size = 978
+			}	
+			create_pop = {
+				culture = cithrel
+				size = 7000
+			}			
+		}
+	}
+
+	s:STATE_SAHONDRA = {
+		region_state:LIR = {
+			create_pop = {
+				culture = lacertian
+				size = 17000
+			}
+			create_pop = {
+				culture = cithrel
+				size = 13900
+			}
+		}
+	}
+
+	s:STATE_MAROMITA = {
+		region_state:AYE = {
+			create_pop = {
+				culture = lacertian
+				size = 64000
+			}
+		}
+	}
+
+	s:STATE_TOMBONT = {
+		region_state:LIR = {
+			create_pop = {
+				culture = cithrel
+				size = 204892
+			}
+			create_pop = {
+				culture = lacertian
+				size = 48000
+			}
+		}
+	}
+
+	s:STATE_ANKAZOBE = {
+		region_state:SPH = {
+			create_pop = {
+				culture = west_lacertian
+				size = 14540
+			}
+		}
+	}
+
+	s:STATE_IVOLOINA = {
+		region_state:LIR = {
+			create_pop = {
+				culture = cithrel
+				size = 655608
+			}
+			create_pop = {
+				culture = lacertian
+				size = 1200
+			}
+		}
+	}
+
+	s:STATE_MARITIMLIS = {
+
+	}
+
+	s:STATE_APLUKACAL = {
+
+	}
+
+	s:STATE_BALTIJOSCAT = {
+
+	}
+
+	s:STATE_JURUTILVA = {
+
+	}
+
+	s:STATE_LAIVINMAR = {
+		region_state:MYK = {
+			create_pop = {
+				culture = akmuociai
+				size = 266908
+			}
+			create_pop = {
+				culture = west_lacertian
+				size = 8004
+			}
+			create_pop = {
+				culture = hulutit
+				size = 60208
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = west_lacertian
+				size = 24004
+			}
+		}
+	}
+
+	s:STATE_VANDECATAL = {
+
+	}
+
+	s:STATE_ZVEJYCATIA = {
+
+	}
+
+	s:STATE_PLACIUKATAL = {
+
+	}
+
+	s:STATE_BANGALINIS = {
+		region_state:MYK = {
+			create_pop = {
+				culture = akmuociai
+				size = 88000
+			}
+			create_pop = {
+				culture = hulutit
+				size = 9996
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = west_lacertian
+				size = 2400
+			}
+			create_pop = {
+				culture = west_lacertian
+				size = 27996
+			}
+		}
+	}
+
+	s:STATE_LIUTUKATAL = {
+
+	}
+
+	s:STATE_UPESTARR = {
+
+	}
+
+	s:STATE_SALASLITVA = {
+
+	}
+
+	s:STATE_PAPLUDIMIS = {
+
+	}
+
+	s:STATE_KRIOKLYKATAL = {
+
+	}
+
+	s:STATE_BANGALITVA = {
+
+	}
+
+	s:STATE_SMILTYNECAT = {
+		region_state:DEL = {
+			create_pop = {
+				culture = akmuociai
+				size = 32000
+			}
+			create_pop = {
+				culture = dales_togrul
+				size = 1700
+			}
+			create_pop = {
+				culture = west_lacertian
+				size = 3200
+			}
+		}
+	}
+
+	s:STATE_UOSTOCATAL = {
+
+	}
+
+	s:STATE_AKVALITVA = {
+		region_state:DEL = {
+			create_pop = {
+				culture = akmuociai
+				size = 332100
+			}
+			create_pop = {
+				culture = hulutit
+				size = 72600
+			}
+			create_pop = {
+				culture = west_lacertian
+				size = 427596
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dales_togrul
+				size = 84429
+			}		
+		}
+	}
+
+	s:STATE_RAMUMARI = {
+		region_state:MYK = {
+			create_pop = {
+				culture = akmuociai
+				size = 325608
+			}
+			create_pop = {
+				culture = west_lacertian
+				size = 8004
+			}
+			create_pop = {
+				culture = hulutit
+				size = 72200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = west_lacertian
+				size = 25300
+			}
+			
+		}
+	}
+
+	s:STATE_RANJITA = {
+
+	}
+
+	s:STATE_VEDAMALA = {
+
+	}
+
+	s:STATE_BHALCHANDRA = {
+
+	}
+
+	s:STATE_MADHURIYA = {
+
+	}
+
+	s:STATE_SUSHOBHANA = {
+
+	}
+
+	s:STATE_DHARMILA = {
+
+	}
+
+	s:STATE_MILINDRA = {
+
+	}
+
+	s:STATE_MANASI = {
+
+	}
+
+	s:STATE_SAMARTHYA = {
+
+	}
+
+	s:STATE_JIVANTA = {
+
+	}
+
+}

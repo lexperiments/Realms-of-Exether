@@ -6,8 +6,8 @@ AHO = {
 
 	tier = kingdom
 
-	cultures = { dumonian } 
-	capital = STATE_RUNEPORT_GALESTRUM
+	cultures = { achonian } 
+	capital = STATE_LEYLINE_COAST
 }
 
 #Arrador
@@ -18,9 +18,22 @@ ARR = {
 
 	tier = empire
 
-	cultures = { dumonian } 
+	cultures = { dorite } 
 	capital = STATE_VICEROYS_PEARL
 }
+
+#Ebridor
+EBR = {
+	color = { 205  212  228 }
+
+	country_type = recognized 
+
+	tier = empire
+
+	cultures = { eberri } 
+	capital = STATE_RUNEPORT_GALESTRUM
+}
+
 
 #Anwarth
 ANW = {
@@ -31,7 +44,7 @@ ANW = {
 	tier = grand_principality
 
 	cultures = { anwarthi } 
-	capital = STATE_EXETHERS_CRADLE
+	capital = STATE_THINSILVER
 }
 
 #Emerald League
@@ -54,13 +67,25 @@ CER = {
 
 	tier = kingdom
 
-	cultures = { dumonian } 
+	cultures = { ceraunian } 
 	capital = STATE_LANDING_AT_SEA
+}
+
+#Middenfirth
+MID = {
+	color = rgb{ 100  160  60 } 
+
+	country_type = recognized 
+
+	tier = grand_principality
+
+	cultures = { coast_halfling } 
+	capital = STATE_RIVER_MEDDEN
 }
 
 #Clearbough Estates
 CLR = {
-	color = rgb{ 0  100  100 } 
+	color = rgb{ 100  150  100 } 
 
 	country_type = recognized 
 
@@ -76,7 +101,7 @@ VOZ = {
 
 	country_type = recognized 
 
-	tier = principality
+	tier = kingdom
 
 	cultures = { vozi } 
 	capital = STATE_SKYPIERCER_PEAK
@@ -88,10 +113,22 @@ DRO = {
 
 	country_type = recognized 
 
-	tier = principality
+	tier = kingdom
 
 	cultures = { aridrun } 
 	capital = STATE_ELF2
+}
+
+#Union of the Sands
+UTS = {
+	color = hsv360{ 20  60  80 }
+
+	country_type = recognized 
+
+	tier = empire
+
+	cultures = { vozi aridrun } 
+	capital = STATE_SKYPIERCER_PEAK
 }
 
 #Whisker Fields
@@ -102,8 +139,8 @@ WHI = {
 
 	tier = principality
 
-	cultures = { dumonian } 
-	capital = STATE_ELF2
+	cultures = { mousefolk } 
+	capital = STATE_WHISKER_FIELDS
 }
 
 #Alchemist's Refuse
@@ -126,20 +163,44 @@ MOO = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { coast_halfling } 
 	capital = STATE_INNER_MOORWEALD
 }
 
 #Braisebranch
 BRB = {
-	color = rgb{ 0  90  200 } 
+	color = rgb{ 0  90  120 } 
 
 	country_type = recognized
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { highland_halfling } 
 	capital = STATE_OVERBURROW
+}
+
+#Greenhand
+GRH = {
+	color = rgb{ 0  120  30 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { highland_halfling } 
+	capital = STATE_UPPER_GOLDENLEAF
+}
+
+#Fairhearth
+FTH = {
+	color = rgb{ 120  90  0 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { highland_halfling } 
+	capital = STATE_NEWBANKS
 }
 
 #Saltboot Borough
@@ -150,8 +211,20 @@ SLB = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { coast_halfling } 
 	capital = STATE_FIRST_BOROUGH
+}
+
+#Smallcoast
+SMA = {
+	color = rgb{ 180  60  0 } 
+
+	country_type = recognized
+
+	tier = principality
+
+	cultures = { coast_halfling } 
+	capital = STATE_OUTER_MOORWEALD
 }
 
 #Mimic Demesne
@@ -166,19 +239,7 @@ MMD = {
 	capital = STATE_SHIFTING_SCAR
 }
 
-#Saltboot Borough
-WHI = {
-	color = rgb{ 00  120  130 } 
-
-	country_type = unrecognized
-
-	tier = principality
-
-	cultures = { dumonian } 
-	capital = STATE_WHISKER_FIELDS
-}
-
-#Saltboot Borough
+#Vyndurvoht
 VHT  = {
 	color = rgb{ 100  20  120 } 
 
@@ -186,11 +247,11 @@ VHT  = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { vynduri } 
 	capital = STATE_VYNDERVOHT
 }
 
-#Saltboot Borough
+#Ashwall
 ASW  = {
 	color = rgb{ 120  120  120 } 
 
@@ -234,31 +295,32 @@ SEB = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { ocelian } 
 	capital = STATE_VOZMEAD_BORDERLANDS
 }
 
 #Rotdrinker
 RTD = {
-	color = rgb{ 10  10  180 } 
+	color = rgb{ 50  95  50 } 
+	
 
 	country_type = unrecognized 
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { plaguedweller } 
 	capital = STATE_EASTERN_PLAGUEWOOD
 }
 
 #Bloodbound
 BDB = {
-	color = rgb{ 10  10  160 } 
+	color = rgb{ 120  10  80 } 
 
 	country_type = unrecognized 
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { plaguedweller } 
 	capital = STATE_FORESTS_HEART
 }
 
@@ -270,7 +332,7 @@ BRC = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { plaguedweller } 
 	capital = STATE_PLAGUEWOOD_HINTERLANDS
 }
 
@@ -282,18 +344,18 @@ CLD = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { plaguedweller } 
 	capital = STATE_PLAGUES_END
 }
 
 #Rivercrosser
 RCR = {
-	color = rgb{ 10  10  140 } 
+	color = rgb{ 10  20  80 } 
 
-	country_type = unrecognized 
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { plaguedweller } 
 	capital = STATE_DILAFSHAN
 }

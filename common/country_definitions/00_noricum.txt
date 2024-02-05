@@ -42,10 +42,10 @@ AUM = {
 	color = rgb{ 200  100  0 } 
 
 	country_type = recognized 
-
+	religion = cult_of_the_sun
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { dumonian jalian } 
 	capital = STATE_TEMPLE_HILL 
 }
 
@@ -57,7 +57,7 @@ YAN = {
 
 	tier = principality
 
-	cultures = { dumonian } 
+	cultures = { yanger } 
 	capital = STATE_RIDERS_MOOT
 }
 
@@ -69,7 +69,7 @@ RVC = {
 
 	tier = principality
 
-	cultures = { meriwyn } 
+	cultures = { vampire } 
 	capital = STATE_RAVENCLIFF
 }
 
@@ -502,7 +502,7 @@ DRK = {
 
 	tier = principality
 
-	cultures = { meriwyn } 
+	cultures = { jalian } 
 	capital = STATE_CASTELL_DRYSGOLMARK
 }
 
@@ -516,7 +516,7 @@ JUR = {
 
 	religion = cult_of_the_sun
 
-	cultures = { dumonian } 
+	cultures = { sunkissed } 
 	capital = STATE_HUNTERS_HILL
 }
 
@@ -553,7 +553,7 @@ DOV = {
 	tier = principality
 
 	religion = church_of_man
-	cultures = { meriwyn } 
+	cultures = { jalian } 
 	capital = STATE_KIRDON
 }
 
@@ -577,7 +577,7 @@ FOX = {
 
 	tier = principality
 
-	cultures = { meriwyn } 
+	cultures = { jalian } 
 	capital = STATE_INCHMARA
 }
 
@@ -627,4 +627,41 @@ PTD = {
 
 	cultures = { wood_giant } 
 	capital = STATE_WHISPERPINE_WOODS
+}
+
+#Thalasavari 
+TSI = {
+	color = rgb{ 60  105  60 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { korafri } 
+	capital = STATE_WHISPERPINE_WOODS
+}
+
+#Dufaros
+DUF = {
+	color = rgb{ 10  25  150 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { korafri } 
+	capital = STATE_BARICORA
+}
+
+
+#Larimora
+LAR = {
+	color = rgb{ 150  75  30 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { korafri } 
+	capital = STATE_PANGO
 }

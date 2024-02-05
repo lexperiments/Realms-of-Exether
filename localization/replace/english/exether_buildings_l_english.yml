@@ -1,0 +1,43 @@
+﻿l_english:
+  building_opium_plantation: "Chimesilt Fields"
+  building_cloud_collectors: "Cloud Collectors"
+  building_cloud_collectors_lens_option: "Expand $building_cloud_collectors$"
+  building_airship_dock: "Airship Docks"
+  building_airship_dock_lens_option: "Expand $building_airship_dock$"
+  building_wishstone_fields: "Wishstone Fields"
+  building_wishstone_fields_lens_option: "Expand $building_wishstone_fields$"
+  building_wishstone_reefs: "Wishstone Reefs"
+  building_wishstone_reefs_lens_option: "Expand $building_wishstone_reefs$"
+  building_adventuring_guild: "Adventuring Guild"
+  building_adventuring_guild_lens_option: "Expand $building_adventuring_guild$"
+  # Building Groups
+  bg_opium_plantations: "Chimesilt Fields"
+  bg_adventuring: "Adventuring Guilds"
+  bg_cloud_collecting: "Cloud Collectors"
+  bg_wishstone_extraction: "Wishstone Excavation"
+  bg_wishstone_extraction_sea: "Wishstone Reefs"
+  bg_chimesilt_mounds: "Chimesilt Mounds"
+
+  #Factories
+
+  # Infrastructure
+  building_airshipyard: "Airshipyard"
+
+    #Academies
+
+    #Colonies
+
+    #Barracks
+
+    #National Buildings
+
+    # Unlock tooltips
+
+    # Monuments
+
+#Renamed
+  building_chemical_plants: "Alchemical Plants"
+  building_opium_plantation: "Chimesilt Fields"
+  building_tobacco_plantation: "Pipe-Weed Plantations"
+  bg_opium_plantations: "Chimesilt Fields"
+  bg_tobacco_plantations: "Pipe-Weed Plantations"

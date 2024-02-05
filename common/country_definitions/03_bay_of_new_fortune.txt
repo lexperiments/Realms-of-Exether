@@ -77,7 +77,7 @@ GPK = {
 	country_type = unrecognized
 
 	tier = principality
-
+	
 	cultures = { mgzavri } 
 	capital = STATE_SUYANAKU
 }
@@ -126,9 +126,32 @@ SNL = {
 
 	tier = principality
 
-	cultures = { tqalt } 
+	cultures = { waste_walker } 
 	capital = STATE_SNAILBANE
-	is_named_from_capital = yes
+}
+
+#Bonegnawer
+BGR = {
+	color = rgb{ 110 120 90 }
+	
+	country_type = monstrous
+	
+	tier = principality
+	
+	cultures = { waste_walker }
+	capital = STATE_SAVAGE_REACH
+}
+
+#Ghostmurder
+GMR = {
+	color = rgb{ 10 220 170 }
+	
+	country_type = monstrous
+	
+	tier = principality
+	
+	cultures = { waste_walker }
+	capital = STATE_FIERCEHOLD
 }
 
 #Yakuway
@@ -181,12 +204,84 @@ KUN = {
 
 #Horkaa
 HOR = {
-	color = rgb{ 250 20 30 } 
+	color = rgb{ 80 80 80 } 
 
 	country_type = unrecognized
 
 	tier = kingdom
 
 	cultures = { rahoru } 
+	capital = STATE_TAYTAQOCHA
+}
+
+#Skravend
+SKR = {
+	color = rgb{ 50 100 30 } 
+
+	country_type = unrecognized
+
+	tier = kingdom
+
+	cultures = { gnoll } 
+	capital = STATE_PWANIQWA
+}
+
+#Prowlhold
+PRO = {
+	color = rgb{ 180 150 156 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { gnoll } 
+	capital = STATE_MAWIMBIMAJI
+}
+
+#Yiparidge
+YIP = {
+	color = rgb{ 50 120 30 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { gnoll } 
+	capital = STATE_JITOKANYA
+}
+
+#Thriktar
+THT = {
+	color = rgb{ 120 120 120 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { gnoll } 
+	capital = STATE_JITOMREMBO
+}
+
+#Ghravor
+GHR = {
+	color = rgb{ 50 120 130 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { gnoll } 
+	capital = STATE_MAJIMBA
+}
+
+#Rikor
+RIK = {
+	color = rgb{ 50 20 30 } 
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { gnoll } 
 	capital = STATE_TAYTAQOCHA
 }

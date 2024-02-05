@@ -1,6 +1,0 @@
-﻿l_english:
-  wizards: "@wizards! $wizards_no_icon$"
-  wizards_only_icon: "@wizards!"
-  wizards_no_icon: "Wizards"
-  wizards_desc: "Lower-ranking office workers performing administrative tasks in government, infrastructure and shops. Commonly part of the Petite Bourgeoisie, although some join Trade Unions."
-  WIZARDS_QUALIFICATIONS_DESC: "Only pops with adequate [concept_literacy] can become #v $wizards$#!. Potential increases with greater [concept_literacy] and [concept_wealth]. Pops whose [concept_culture] faces [concept_discrimination] take a much longer time. #v $clerks$#! and #v $aristocrats$#! have a particularly easy time becoming #v $wizards$#!."

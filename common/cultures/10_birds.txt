@@ -2,6 +2,9 @@
 	color= hsv{ 0.12 0.56 0.86 }
 	religion = mountain_worship
 	traits = { bird_heritage }
+	obsessions = {
+		luxury_clothes
+	}
 	male_common_first_names={
 		Agustin
 		Aitor
@@ -109,9 +112,9 @@
 		de_Renteria
 		de_Ubisztongo
 	}
-	graphics = european
+	graphics = african
 	ethnicities = {
-		1 = minecrafter
+		1 = whitefeather
 	}
 }
 
@@ -446,7 +449,7 @@ cliffpercher = {
 		dos_Santos
 	}
 	ethnicities = {
-		1 = caucasian
+		1 = cliffpercher
 	}
 	graphics = european
 }
@@ -509,7 +512,7 @@ sandcircler = {
 	ethnicities = {
 		1 = native_american
 	}
-	graphics = generic
+	graphics = east_asian
 }
 
 
@@ -657,7 +660,7 @@ blacktalon = {
 		Opik
 	}
 	ethnicities = {
-		1 = slavic
+		1 = blacktalon
 	}
 	graphics = european
 }

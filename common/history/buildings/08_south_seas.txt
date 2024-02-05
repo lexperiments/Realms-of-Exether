@@ -1,0 +1,780 @@
+﻿BUILDINGS = {
+
+	s:STATE_MALANDA = {
+		region_state:AZI={
+			create_building={
+				building="building_government_administration"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}			
+			create_building={
+				building="building_dye_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_maize_farm"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" "pm_no_secondary" }
+			}			
+			create_building={
+				building="building_tobacco_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_logging_camp"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" "pm_merchant_guilds_building_logging_camp" }
+			}
+			create_building={
+				building="building_barracks"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_no_organization" }
+			}
+			create_building={
+				building= "building_machu_picchu"
+			}
+		}
+	}
+
+	s:STATE_GONJOLA = {
+		region_state:AZI={
+			create_building={
+				building="building_government_administration"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}		
+			create_building={
+				building="building_furniture_manufacturies"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_handcrafted_furniture" "pm_luxury_furniture" "pm_automation_disabled" "pm_merchant_guilds_building_furniture_manufacturies" }
+			}		
+			create_building={
+				building="building_construction_sector"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_wooden_buildings" }
+			}	
+			create_building={
+				building="building_gold_mine"
+				level=4
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_gold_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" "pm_merchant_guilds_building_gold_mine" }
+			}				
+			create_building={
+				building="building_maize_farm"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" }
+			}
+			create_building={
+				building="building_vineyard_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_vineyard_plantation" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_fishing_wharf"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" "pm_merchant_guilds_building_fishing_wharf" }
+			}
+			create_building={
+				building="building_dye_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_barracks"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_no_organization" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+		}
+	}
+
+	s:STATE_BEXAMBA = {
+		region_state:AZI={
+			create_building={
+				building="building_government_administration"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}		
+			create_building={
+				building="building_textile_mills"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_handsewn_clothes" "pm_no_luxury_clothes" "pm_traditional_looms" "pm_merchant_guilds_building_textile_mills" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_cotton_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_cotton_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_barracks"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_no_organization" }
+			}
+		}
+	}
+
+	s:STATE_LEMBONA = {
+
+	}
+
+	s:STATE_XABELO = {
+		region_state:AZI={
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_tobacco_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_dye_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_barracks"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_no_organization" }
+			}			
+		}
+	}
+
+	s:STATE_MAZALINO = {
+
+	}
+
+	s:STATE_GONDEVA = {
+
+	}
+
+	s:STATE_LUMBELO = {
+
+	}
+
+	s:STATE_MAXANGA = {
+
+	}
+
+	s:STATE_BEMVULA = {
+
+	}
+
+	s:STATE_BELOZA = {
+
+	}
+
+	s:STATE_JOVEXA = {
+
+	}
+
+	s:STATE_AMALUMA = {
+		region_state:AZI={
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+		}
+	}
+
+	s:STATE_MABRAGA = {
+
+	}
+
+	s:STATE_UMAGAMA = {
+		region_state:AZI={
+			create_building={
+				building="building_rice_farm"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_fishing_wharf"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" "pm_merchant_guilds_building_fishing_wharf" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+		}
+	}
+
+	s:STATE_ALMADOURO = {
+
+	}
+
+	s:STATE_CIDADOURO = {
+
+	}
+
+	s:STATE_MOZAGAL = {
+
+	}
+
+	s:STATE_ALENMAR = {
+
+	}
+
+	s:STATE_TERRABELA = {
+
+	}
+
+	s:STATE_MALANJAPORT = {
+
+	}
+
+	s:STATE_KASAMANCA = {
+
+	}
+
+	s:STATE_MAPACHECO = {
+
+	}
+
+	s:STATE_LESORICO = {
+
+	}
+
+	s:STATE_APAFONTE = {
+
+	}
+
+	s:STATE_PORTANGA = {
+
+	}
+
+	s:STATE_LISAZISA = {
+
+	}
+
+	s:STATE_XHOZITHOBE = {
+
+	}
+
+	s:STATE_BELENDLE = {
+
+	}
+
+	s:STATE_QONDWENI = {
+
+	}
+
+	s:STATE_ALAHAZOTRA = {
+		region_state:DEV={
+			create_building={
+				building="building_government_administration"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}		
+			create_building={
+				building="building_textile_mills"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_handsewn_clothes" "pm_no_luxury_clothes" "pm_traditional_looms" "pm_merchant_guilds_building_textile_mills" }
+			}
+			create_building={
+				building="building_sugar_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_sugar_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_cotton_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_cotton_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_rice_farm"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_furniture_manufacturies"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_handcrafted_furniture" "pm_merchant_guilds_building_furniture_manufacturies" "pm_automation_disabled" "pm_luxury_furniture" }
+			}
+			create_building={
+				building="building_logging_camp"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" "pm_merchant_guilds_building_logging_camp" }
+			}
+		}
+	}
+
+	s:STATE_IVONDRO = {
+		region_state:DEV={
+			create_building={
+				building="building_coffee_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_coffee_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_banana_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_banana_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+		}
+	}
+
+	s:STATE_MAHALATSAKA = {
+		region_state:AYE={
+		}
+	}
+
+	s:STATE_FIANARIVO = {
+		region_state:DEV={
+			create_building={
+				building="building_government_administration"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}		
+			create_building={
+				building="building_fishing_wharf"	
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" "pm_merchant_guilds_building_fishing_wharf" }
+			}
+			create_building={
+				building="building_tobacco_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}			
+			create_building={
+				building="building_sugar_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_sugar_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+		}
+	}
+
+	s:STATE_VAROTSOA = {
+		region_state:DEV={
+			create_building={
+				building="building_tobacco_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_coffee_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_coffee_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_maize_farm"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
+			}
+		}
+	}
+
+	s:STATE_TSIMIHAVANA = {
+
+	}
+
+	s:STATE_SAHONDRA = {
+		region_state:LIR={
+		}
+	}
+
+	s:STATE_MAROMITA = {
+
+	}
+
+	s:STATE_TOMBONT = {
+		region_state:LIR={
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_tobacco_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_vineyard_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_vineyard_plantation" "pm_privately_owned_plantation" }
+			}		
+			create_building={
+				building="building_logging_camp"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_saw_mills" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" "pm_privately_owned_building_logging_camp" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}	
+		}
+	}
+
+	s:STATE_ANKAZOBE = {
+		region_state:SPH = {
+		}
+	}
+
+	s:STATE_IVOLOINA = {
+		region_state:LIR={
+			create_building={
+				building="building_government_administration"
+				level=4
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}			
+			create_building={
+				building="building_tooling_workshops"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_pig_iron" "pm_automation_disabled" "pm_privately_owned_building_tooling_workshops" }
+			}	
+			create_building={
+				building="building_gold_mine"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_gold_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" "pm_merchant_guilds_building_gold_mine" }
+			}				
+			create_building={
+				building="building_iron_mine"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_iron_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" "pm_merchant_guilds_building_iron_mine" }
+			}
+			create_building={
+				building="building_wheat_farm"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}			
+			create_building={
+				building="building_vineyard_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_vineyard_plantation" "pm_privately_owned_plantation" }
+			}	
+		}
+	}
+
+	s:STATE_MARITIMLIS = {
+
+	}
+
+	s:STATE_APLUKACAL = {
+
+	}
+
+	s:STATE_BALTIJOSCAT = {
+
+	}
+
+	s:STATE_JURUTILVA = {
+
+	}
+
+	s:STATE_LAIVINMAR = {
+		region_state:MYK={
+			create_building={
+				building="building_fishing_wharf"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" "pm_merchant_guilds_building_fishing_wharf" }
+			}
+			create_building={
+				building="building_government_administration"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}	
+			create_building={
+				building="building_maize_farm"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_privately_owned" "pm_tools_disabled" "pm_no_secondary" }
+			}
+			create_building={
+				building="building_sugar_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_sugar_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+		}
+	}
+
+	s:STATE_VANDECATAL = {
+
+	}
+
+	s:STATE_ZVEJYCATIA = {
+
+	}
+
+	s:STATE_PLACIUKATAL = {
+
+	}
+
+	s:STATE_BANGALINIS = {
+		region_state:MYK={
+			create_building={
+				building="building_government_administration"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}			
+			create_building={
+				building="building_rice_farm"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_ranch" "pm_open_air_stockyards" "pm_standard_fences" "pm_unrefrigerated" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_logging_camp"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" "pm_merchant_guilds_building_logging_camp" }
+			}			
+		}
+	}
+
+	s:STATE_LIUTUKATAL = {
+
+	}
+
+	s:STATE_UPESTARR = {
+
+	}
+
+	s:STATE_SALASLITVA = {
+
+	}
+
+	s:STATE_PAPLUDIMIS = {
+
+	}
+
+	s:STATE_KRIOKLYKATAL = {
+
+	}
+
+	s:STATE_BANGALITVA = {
+
+	}
+
+	s:STATE_SMILTYNECAT = {
+		region_state:DEL={
+		}
+	}
+
+	s:STATE_UOSTOCATAL = {
+
+	}
+
+	s:STATE_AKVALITVA = {
+		region_state:DEL={
+			create_building={
+				building="building_government_administration"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}		
+			create_building={
+				building="building_fishing_wharf"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" "pm_merchant_guilds_building_fishing_wharf" }
+			}
+			create_building={
+				building="building_maize_farm"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" "pm_no_secondary" "pm_tools_disabled" "pm_privately_owned" }
+			}
+			create_building={
+				building="building_cotton_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_cotton_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_tobacco_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_tobacco_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+		}
+	}
+
+	s:STATE_RAMUMARI = {
+		region_state:MYK={
+			create_building={
+				building="building_government_administration"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_simple_organization" }
+			}			
+			create_building={
+				building="building_coffee_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_coffee_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_banana_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_banana_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+			create_building={
+				building="building_sugar_plantation"
+				level=2
+				reserves=1
+				activate_production_methods={ "default_building_sugar_plantation" "pm_road_carts" "pm_privately_owned_plantation" }
+			}
+		}
+	}
+
+	s:STATE_RANJITA = {
+
+	}
+
+	s:STATE_VEDAMALA = {
+
+	}
+
+	s:STATE_BHALCHANDRA = {
+
+	}
+
+	s:STATE_MADHURIYA = {
+
+	}
+
+	s:STATE_SUSHOBHANA = {
+
+	}
+
+	s:STATE_DHARMILA = {
+
+	}
+
+	s:STATE_MILINDRA = {
+
+	}
+
+	s:STATE_MANASI = {
+
+	}
+
+	s:STATE_SAMARTHYA = {
+
+	}
+
+	s:STATE_JIVANTA = {
+
+	}
+
+}

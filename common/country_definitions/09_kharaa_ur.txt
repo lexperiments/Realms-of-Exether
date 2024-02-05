@@ -24,7 +24,7 @@ QON = {
 
 #Yokudai
 YOK = {
-	color = rgb{ 80 125 72 } 
+	color = rgb{ 12 116 84 } 
 
 	country_type = unrecognized 
 
@@ -34,9 +34,20 @@ YOK = {
 	capital = STATE_HIRAKHANJO
 }
 
+#Onghor
+ONG = {
+	color = rgb{ 12 84 124 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { onikoku } 
+	capital = STATE_PLACEHOLDER_EMPTY_9
+}
 #Temarash
 TEM = {
-	color = rgb{ 80 125 72 } 
+	color = rgb{ 190 190 190 } 
 
 	country_type = unrecognized 
 
@@ -46,3 +57,122 @@ TEM = {
 	capital = STATE_NISHIGUCHI
 }
 
+#Shirhuajian
+SHJ = {
+	color = rgb{ 144 50 68 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { onisazae } 
+	capital = STATE_BALDBAN
+}
+
+#Zhurshang
+ZHU = {
+	color = rgb{ 80 30 5 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { atiukura } 
+	capital = STATE_KYRKAZ
+}
+
+#Zinj-Zuun
+ZIN = {
+	color = rgb{ 128 90 166 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { atiukura } 
+	capital = STATE_XHAMADANI
+}
+
+#Esker Asar
+EKA = {
+	color = rgb{ 188 90 66 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { dales_togrul } 
+	capital = STATE_STRUGOVA
+}
+
+#Drithmia
+DTH = {
+	color = rgb{ 108 150 136 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { xhurlob } 
+	capital = STATE_KAVAJANA
+}
+
+#Suguonar
+SUN = {
+	color = rgb{ 128 221 16 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { yakamimbo } 
+	capital = STATE_BATOKYOAN
+}
+
+#Apavasavalyne
+APY = {
+	color = rgb{ 155 125 74 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { kojiniu } 
+	capital = STATE_TSUKHANJUKU
+}
+
+#Guadnorz
+GDN = {
+	color = rgb{ 256 110 8 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { puarfejiin } 
+	capital = STATE_SUKHIA
+}
+
+#Tanbarho
+TAH = {
+	color = rgb{ 28 201 64 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { sarhbalb } 
+	capital = STATE_JARGALTSAI
+}
+
+#Kashcheikahn
+KCN = {
+	color = rgb{ 92 117 203 } 
+
+	country_type = unrecognized 
+
+	tier = kingdom
+
+	cultures = { morevnamarya } 
+	capital = STATE_BATSI
+}

@@ -10,7 +10,7 @@ DIS = {
 	capital = STATE_CARTHAROS
 }
 
-#Nyctoskyria
+#Ihizketari
 NRA = {
 	color = rgb{ 50 60 50 } 
 
@@ -102,7 +102,7 @@ RKO = {
 
 	tier = principality
 
-	cultures = { kotskarvi } 
+	cultures = { garagoz } 
 	capital = STATE_KURTHARA
 }
 
@@ -116,6 +116,18 @@ IMR = {
 
 	cultures = { kotskarvi } 
 	capital = STATE_ZAMARA
+}
+
+#Qarinor
+QAR = {
+	color = rgb{ 86 56 140 } 
+
+	country_type = unrecognized 
+
+	tier = principality
+
+	cultures = { kotskarvi } 
+	capital = STATE_RAROMARA
 }
 
 #Megrelfen
@@ -204,7 +216,7 @@ HEL = {
 
 #Hukapakaiheide
 HUK = {
-	color = rgb{ 130 85 100 } 
+	color = rgb{ 130 85 200 } 
 
 	country_type = decentralized
 
@@ -213,6 +225,19 @@ HUK = {
 	cultures = { kealohi } 
 	capital = STATE_TAUMAROI
 }
+
+#Treidapak
+TPK = {
+	color = rgb{ 160 175 155 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { kealohi } 
+	capital = STATE_GARPATIA
+}
+
 
 #Skiepke
 SKI = {
@@ -261,4 +286,16 @@ NAU = {
 
 	cultures = { kealohi } 
 	capital = STATE_RONGOMARA
+}
+
+#Orodraland
+ORO = {
+	color = rgb{ 20 165 130 } 
+
+	country_type = unrecognized
+
+	tier = principality
+
+	cultures = { garagoz } 
+	capital = STATE_SAMIEL
 }

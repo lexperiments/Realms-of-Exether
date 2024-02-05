@@ -22,8 +22,11 @@
 	}
 
 	on_enable = {
-
-		
+		ig:ig_devout = {
+		set_ig_trait = ig_trait:ig_trait_be_fruitful_and_multiply
+		set_ig_trait = ig_trait:ig_trait_divine_right
+		set_ig_trait = ig_trait:ig_trait_pious_fiction
+		}
 		
 		### Specific
 
@@ -32,11 +35,14 @@
 
 		if = {
 			limit = {
-				OR = {
-					country_has_state_religion = rel:druidic
-					country_has_state_religion = rel:elf_nature
+				religion = {
+					AND = {
+						has_discrimination_trait = nature_domain
+						NOT = {
+							has_discrimination_trait = chivalrous_heritage
+					}
+					
 				}
-				
 			}
 			ig:ig_devout = {
 				set_interest_group_name = ig_druids
@@ -45,6 +51,69 @@
 			}
 		}
 
+		if = {
+			limit = {
+				OR = {
+					religion = {
+						has_discrimination_trait = death_domain
+					}
+					religion = {
+						has_discrimination_trait = evil_heritage
+					}
+				}
+				
+			}
+			ig:ig_devout = {
+				remove_ideology = ideology_pious
+				add_ideology = ideology_pious_dark
+			}
+		}
+		if = {
+			limit = {
+				OR = {
+					religion = {
+						has_discrimination_trait = magoclast
+					}
+				}
+				
+			}
+			ig:ig_devout = {
+				remove_ideology = ideology_pious
+				add_ideology = ideology_pious_magoclast
+			}
+		}
+
+		if = {
+			limit = {
+				OR = {
+					owner = {
+						religion = rel:orc_mother
+						any_primary_culture = {
+							has_discrimination_trait = southern_elf
+						}
+						any_primary_culture = {
+							this = cu:hag
+						}
+					}
+				}
+				
+			}
+			ig:ig_devout = {
+				remove_ideology = ideology_patriarchal
+				add_ideology = ideology_matriarchal
+			}
+		}
+		
+		### Corporatism
+		if = {
+			limit = {
+				has_technology_researched = corporatism
+			}
+			ig:ig_devout = {
+				remove_ideology = ideology_pious
+				add_ideology = ideology_corporatist
+			}
+		}
 	}
 	on_disable = {}
 	on_character_ig_membership = {
@@ -81,6 +150,19 @@
 					is_pop_type = clergymen
 				}
 				value = 250
+			}
+		}
+
+		add = {
+			desc = "MIRACLES_LAW"
+			if = {
+				limit = {
+					is_pop_type = wizards
+					owner = {
+						has_law = law_type:law_divine_miracles
+					}
+				}
+				value = 25
 			}
 		}
 
@@ -144,6 +226,22 @@
 			}
 		}
 		
+		if = {
+			limit = {
+				owner = {
+					has_technology_researched = corporatism
+					NOT = {
+						has_law = law_type:law_total_separation
+						has_law = law_type:law_state_atheism
+					}
+				}
+			}
+			multiply = {
+				desc = "CORPORATISM_TECH"
+				value = 1.25
+			}
+		}
+
 		add = {
 			desc = "POP_LITERACY"
 			this = {
@@ -288,12 +386,35 @@
 
 	female_commander_chance = {
 		value = 0.0
+
+		if = {
+			limit = {
+				owner = {
+					has_law = law_type:law_matriarchy
+				}
+
+			}
+			add = {
+				value = 1.0
+			}
+		}
 	}
 
 	female_politician_chance = {
 		value = 0.0
 
 		if = {
+			limit = {
+				owner = {
+					has_law = law_type:law_matriarchy
+				}
+
+			}
+			add = {
+				value = 0.99
+			}
+		}
+		else_if = {
 			limit = {
 				owner = {
 					has_law = law_type:law_womens_suffrage
@@ -344,6 +465,18 @@
 				value = 0.01
 			}
 		}		
+
+		if = {
+			limit = {
+				owner = {
+					has_law = law_type:law_matriarchy
+				}
+
+			}
+			add = {
+				value = 0.98
+			}
+		}
 	}
 
 	# The chance that a commander belonging to this IG takes over leadership when it changes
